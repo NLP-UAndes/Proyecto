@@ -1,32 +1,41 @@
-# Proyecto
+# ¿Qué tan bien entienden los LLM los Modismos Colombianos?
+Repositorio del proyecto académico para construir y evaluar un corpus de modismos colombianos (DICOL + BDC) y medir el desempeño de LLM en tareas de definición, detección de uso figurado y sustitución por sinónimos.
 
-- Santiago Bobadilla
-- Juan Diego Osorio
-- María Alejandra Pinzón
-- Ignacio Chaparro
+# Integrantes:
 
-### Organización del Repositorio
+- Santiago Bobadilla - s.bobadilla@uniandes.edu.co
+- Juan Diego Osorio - jd.osorioc1@uniandes.edu.co
+- María Alejandra Pinzón - ma.pinzonr1@uniandes.edu.co
+- Ignacio Chaparro - i.chaparro@uniandes.edu.co
 
-```
+## Estructura del proyecto:
+
 Proyecto/
-├─ AnalisisDatos.ipynb               # Notebook para el análisis exploratorio del dataset final.
-├─ creacionDataset.ipynb             # Notebook para la creación y unificación de los datasets.
-├─ DatasetCaroCuervo.ipynb           # Notebook para procesar los datos del Diccionario Caro y Cuervo.
-├─ modismos_Dataset_Final.csv        # Dataset final consolidado con todas las fuentes.
-├─ modismos_Dataset_Final_Kaggle.csv # Versión del dataset final preparada para Kaggle.
-├─ README.md                         # Documentación principal del proyecto.
-├─ BDC/                              # Recursos del "Diccionario breve de Colombianismos".
-│  ├─ Convert.py                     # Script para convertir el PDF a texto.
-│  ├─ Diccionario_breve_de_Colombiaismos_slown.pdf # Documento PDF original.
-│  ├─ Diccionario_breve_de_Colombiaismos_slown_text.txt # Texto extraído del PDF.
-│  └─ read.txt                       # Notas sobre la fuente de datos.
-├─ DICOL/                            # Recursos del "Diccionario de Colombianismos" (DICOL).
-│  ├─ diccionario_colombianismos.json # Datos extraídos de la API en formato JSON.
-│  ├─ diccionario_colombianismos.txt  # Datos extraídos de la API en formato de texto.
-│  ├─ DictionaryRepository.js        # Lógica para interactuar con la API del diccionario.
-│  ├─ package.json                   # Dependencias del proyecto Node.js para el scraping.
-│  ├─ read.txt                       # URL de la fuente de datos.
-│  └─ Test.js                        # Script para ejecutar la extracción de datos de la API.
-└─ Papers/                           # Documentos y artículos de investigación relacionados.
-   └─ ...
-```
+├─ BDC/
+│  ├─ Convert.py                        # Convierte PDF a texto y metadata usando Marker
+│  ├─ creacionDatasetBDC.ipynb          # Limpieza y normalización del BDC → datasetBDC.csv
+│  ├─ datasetBDC.csv                     # Dataset preprocesado de BDC
+│  ├─ Diccionario_breve_de_Colombiaisms_slown_text.txt # Texto extraído del PDF
+│  ├─ Diccionario_breve_de_Colombiaismos_slown.pdf     # Fuente original
+│  └─ read.txt                           # URL de la fuente oficial BDC
+│
+├─ DICOL/
+│  ├─ diccionario_colombianismos_completo.json        # Export de DICOL 
+│  ├─ diccionario_colombianismos.txt                  # Versión en texto plano
+│  ├─ DictionaryRepository.js                         # Métodos para consumir la API LEXICC
+│  ├─ package.json                                    # Dependencias JS 
+│  ├─ read.txt                                        # URL a LEXICC - Fuente original
+│  └─ Test.js                                         # tests
+│
+├─ Papers/                                            # Revisión de literatura
+│  ├─ El Sesgo Lingüístico Digital (SLD)en la inteligencia artificial- ... en español.pdf
+│  ├─ Es_igual_pero_no_es_lo_mismo.pdf
+│  ├─ Investigating Idiomaticity in Word Representations.pdf
+│  ├─ It’s not Rocket Science – Interpreting Figurative Language in Narratives.pdf
+│  ├─ Sign of the Times – Evaluating the use of LLM for Idiomaticity Detection.pdf
+│  └─ The widespread adoption of large language model-assisted writing across society.pdf
+│
+├─ AnalisisDatos.ipynb                   # Graficación y análisis descriptivo del corpus
+├─ creacionDataset.ipynb                  # Une DICOL + BDC y genera el corpus final
+├─ modismos_Dataset_Final.csv             # Conjunto de datos final
+└─ README.md
