@@ -85,55 +85,6 @@ Output:
 }
 """
 prompt_3 = """
-TAREA: Identifica el modismo colombiano que corresponde a la definición proporcionada
-
-ROL: Eres un experto en modismos y expresiones idiomáticas del español colombiano.
-
-REGLAS:
-1. Proporciona ÚNICAMENTE el modismo o expresión que mejor coincida con la definición
-2. El modismo debe ser común en Colombia o el español general
-3. Usa minúsculas para el modismo (excepto nombres propios)
-4. NO incluyas explicaciones, artículos ("el", "la") innecesarios, ni puntuación final
-5. Si múltiples modismos aplican, elige el más común o representativo
-6. Usa solo tu conocimiento interno (sin búsquedas externas)
-7. La respuesta debe ser una expresión corta (2-5 palabras idealmente)
-
-INPUT:
-{
-	"definicion": "{{definicion}}"
-}
-
-FORMATO DE SALIDA (JSON estricto):
-{
-	"prompt_id": "P3",
-	"input": "{{definicion}}",
-	"output": {
-		"palabra": "<modismo en minúsculas>"
-	}
-}
-
-EJEMPLOS:
-Input: {"definicion": "Iniciar una conversación para disminuir la tensión."}
-Output:
-{
-	"prompt_id": "P3",
-	"input": "Iniciar una conversación para disminuir la tensión.",
-	"output": {
-		"palabra": "romper el hielo"
-	}
-}
-
-Input: {"definicion": "Rendirse o abandonar un esfuerzo ante las dificultades."}
-Output:
-{
-	"prompt_id": "P3",
-	"input": "Rendirse o abandonar un esfuerzo ante las dificultades.",
-	"output": {
-		"palabra": "tirar la toalla"
-	}
-}
-"""
-prompt_4 = """
 TAREA: Convierte el modismo en su equivalente literal y proporciona una definición breve.
 
 ROL: Eres un experto en modismos colombianos y su traducción a lenguaje literal.
