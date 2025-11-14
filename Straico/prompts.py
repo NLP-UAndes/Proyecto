@@ -1,149 +1,89 @@
 prompt_1 = """
-TAREA: Define el modismo colombiano proporcionado
+Eres un modelo experto en modismos y expresiones idiomáticas colombianas.
 
-ROL: Eres un modelo experto en modismos y expresiones idiomáticas colombianas.
+Instrucciones:
+1. Siempre responde ÚNICAMENTE con JSON válido y nada más.
+2. Define el modismo dado con una sola oración, breve, clara y objetiva, en español formal, máx. 20 palabras.
+3. No incluyas ejemplos, sinónimos ni explicaciones adicionales.
+4. No uses expresiones como: "significa que", "se refiere a", "es cuando", "es aquella situación en la que".
+5. Usa solo tu conocimiento interno (sin búsquedas externas).
+6. Si desconoces el término, infiere una definición plausible según el contexto.
 
-REGLAS:
-1. Proporciona ÚNICAMENTE una definición breve y precisa (máximo 20 palabras)
-2. La definición debe ser clara, objetiva y en español formal
-3. NO incluyas ejemplos, sinónimos, ni información adicional
-4. NO uses términos como "significa que", "se refiere a" - ve directo a la definición
-5. Usa solo tu conocimiento interno (sin búsquedas externas)
-6. Si desconoces el término, infiere una definición plausible basada en el contexto
-
-INPUT:
+INPUT (JSON):
 {
-	"modismo": "{{modismo}}"
+  "modismo": "{{modismo}}"
 }
 
 FORMATO DE SALIDA (JSON estricto):
 {
-	"prompt_id": "P1",
-	"input": "{{modismo}}",
-	"output": {
-		"definicion": "<definición breve en español formal>"
-	}
-}
-
-EJEMPLO:
-Input: {"modismo": "tirar la toalla"}
-Output:
-{
-	"prompt_id": "P1",
-	"input": "tirar la toalla",
-	"output": {
-		"definicion": "Rendirse o abandonar un esfuerzo ante las dificultades."
-	}
+  "prompt_id": "P1",
+  "input": "{{modismo}}",
+  "output": {
+    "definicion": "<definición breve en español formal>"
+  }
 }
 """
 prompt_2 = """
-TAREA: Determina si la expresión proporcionada es un modismo colombiano
+Eres un clasificador experto en modismos y expresiones idiomáticas de Colombia.
 
-ROL: Eres un clasificador experto en modismos y expresiones idiomáticas de Colombia.
+Instrucciones:
+1. Siempre responde ÚNICAMENTE con JSON válido y nada más.
+2. Clasifica si la expresión dada es un modismo colombiano.
+3. Considera modismos: expresiones figuradas o con uso cultural colombiano.
+4. No son modismos: palabras literales, nombres propios, tecnicismos sin connotación idiomática.
+5. Usa solo tu conocimiento interno (sin búsquedas externas).
+6. En caso de duda, elige libremente entre "Sí" o "No".
+7. El valor de salida debe ser exactamente "Sí" o "No" (mayúscula inicial, sin espacios extra).
 
-REGLAS:
-1. Responde ÚNICAMENTE "Sí" o "No" (con mayúscula inicial)
-2. NO incluyas explicaciones, justificaciones ni texto adicional
-3. Considera modismos: expresiones con significado figurado o cultural colombiano
-4. NO son modismos: palabras literales, nombres propios, tecnicismos sin connotación idiomática
-5. Usa solo tu conocimiento interno (sin búsquedas externas)
-6. En caso de duda, responde aleatoriamente "Sí" o "No".
-
-INPUT:
+INPUT (JSON):
 {
-	"modismo": "{{modismo}}"
+  "modismo": "{{modismo}}"
 }
 
 FORMATO DE SALIDA (JSON estricto):
 {
-	"prompt_id": "P2",
-	"input": "{{modismo}}",
-	"output": {
-		"es_modismo": "Sí" | "No"
-	}
-}
-
-EJEMPLOS:
-Input: {"modismo": "tirar la toalla"}
-Output:
-{
-	"prompt_id": "P2",
-	"input": "tirar la toalla",
-	"output": {
-		"es_modismo": "Sí"
-	}
-}
-
-Input: {"modismo": "computadora"}
-Output:
-{
-	"prompt_id": "P2",
-	"input": "computadora",
-	"output": {
-		"es_modismo": "No"
-	}
+  "prompt_id": "P2",
+  "input": "{{modismo}}",
+  "output": {
+    "es_modismo": "Sí"
+  }
 }
 """
 prompt_3 = """
-TAREA: Convierte el modismo en su equivalente literal y proporciona una definición breve.
+Eres un experto en modismos colombianos y en su traducción a lenguaje literal.
 
-ROL: Eres un experto en modismos colombianos y su traducción a lenguaje literal.
+Instrucciones:
+1. Responde SIEMPRE ÚNICAMENTE con JSON válido y nada más.
+2. Identifica el modismo en el ejemplo proporcionado.
+3. Genera un equivalente LITERAL (no figurado) que mantenga el sentido del modismo en el contexto dado.
+4. El valor "literal" debe:
+   - Ser una palabra o frase simple y directa.
+   - Tener máximo 5 palabras.
+   - Estar completamente en minúsculas.
+5. Genera una sola "definicion" que:
+   - Sea breve, objetiva y en español formal.
+   - Tenga máximo 20 palabras.
+   - Describa el equivalente literal, NO el modismo original.
+6. No uses expresiones como: "significa", "se refiere a", "es cuando", "es aquella situación en la que".
+7. Usa solo tu conocimiento interno (sin búsquedas externas).
+8. Si desconoces el modismo, infiere un equivalente literal plausible según el contexto del ejemplo.
 
-REGLAS:
-1. Identifica el modismo en el ejemplo proporcionado
-2. Proporciona un equivalente LITERAL (no figurado) que mantenga el significado en contexto
-3. El literal debe ser una palabra o frase simple y directa (máximo 5 palabras)
-4. La definición debe ser breve y objetiva (máximo 20 palabras)
-5. La definición debe explicar el literal, NO el modismo original
-6. Usa español formal y claro
-7. NO uses términos como "significa", "se refiere a" - ve directo a la definición
-8. Usa solo tu conocimiento interno (sin búsquedas externas)
-
-INPUT:
+INPUT (JSON):
 {
-	"modismo": "{{modismo}}",
-	"ejemplo": "{{ejemplo}}"
+  "modismo": "{{modismo}}",
+  "ejemplo": "{{ejemplo}}"
 }
 
 FORMATO DE SALIDA (JSON estricto):
 {
-	"prompt_id": "P4",
-	"input": {
-		"modismo": "{{modismo}}",
-		"ejemplo": "{{ejemplo}}"
-	},
-	"output": {
-		"literal": "<equivalente literal en minúsculas>",
-		"definicion": "<definición breve del literal>"
-	}
-}
-
-EJEMPLOS:
-Input: {"modismo": "tirar la toalla", "ejemplo": "Después de tantos intentos, decidió tirar la toalla."}
-Output:
-{
-	"prompt_id": "P4",
-	"input": {
-		"modismo": "tirar la toalla",
-		"ejemplo": "Después de tantos intentos, decidió tirar la toalla."
-	},
-	"output": {
-		"literal": "rendirse",
-		"definicion": "Abandonar un esfuerzo o actividad por dificultad o cansancio."
-	}
-}
-
-Input: {"modismo": "romper el hielo", "ejemplo": "Juan contó un chiste para romper el hielo en la reunión."}
-Output:
-{
-	"prompt_id": "P4",
-	"input": {
-		"modismo": "romper el hielo",
-		"ejemplo": "Juan contó un chiste para romper el hielo en la reunión."
-	},
-	"output": {
-		"literal": "iniciar conversación",
-		"definicion": "Comenzar una interacción para reducir la tensión o incomodidad."
-	}
+  "prompt_id": "P4",
+  "input": {
+    "modismo": "{{modismo}}",
+    "ejemplo": "{{ejemplo}}"
+  },
+  "output": {
+    "literal": "<equivalente literal en minúsculas>",
+    "definicion": "<definición breve del literal>"
+  }
 }
 """

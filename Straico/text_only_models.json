@@ -3,15 +3,6 @@
   "text_only_count": 69,
   "text_models": [
     {
-      "name": "Amazon: Nova Lite 1.0",
-      "model": "amazon/nova-lite-v1",
-      "pricing": {
-        "coins": 0.2,
-        "words": 100
-      },
-      "max_output": 5000
-    },
-    {
       "name": "Amazon: Nova Micro 1.0",
       "model": "amazon/nova-micro-v1",
       "pricing": {
@@ -21,31 +12,22 @@
       "max_output": 5000
     },
     {
-      "name": "Anthropic: Claude Opus 4.1",
-      "model": "anthropic/claude-opus-4",
+      "name": "Microsoft: Phi 4",
+      "model": "microsoft/phi-4",
       "pricing": {
-        "coins": 30,
+        "coins": 0.1,
         "words": 100
       },
-      "max_output": 200000
+      "max_output": 16000
     },
     {
-      "name": "Anthropic: Claude Sonnet 4",
-      "model": "anthropic/claude-sonnet-4",
+      "name": "Amazon: Nova Lite 1.0",
+      "model": "amazon/nova-lite-v1",
       "pricing": {
-        "coins": 6,
+        "coins": 0.2,
         "words": 100
       },
-      "max_output": 64000
-    },
-    {
-      "name": "Anthropic: Claude Sonnet 4.5",
-      "model": "anthropic/claude-sonnet-4.5",
-      "pricing": {
-        "coins": 10,
-        "words": 100
-      },
-      "max_output": 64000
+      "max_output": 5000
     },
     {
       "name": "Cohere: Command R (08-2024)",
@@ -57,85 +39,49 @@
       "max_output": 4000
     },
     {
-      "name": "Cohere: Command R+ (08-2024)",
-      "model": "cohere/command-r-plus-08-2024",
+      "name": "Google: Gemini Flash 2.08B",
+      "model": "google/gemini-2.0-flash-001",
       "pricing": {
-        "coins": 3.4,
+        "coins": 0.2,
         "words": 100
       },
-      "max_output": 4000
+      "max_output": 100000
     },
     {
-      "name": "DeepSeek V3",
-      "model": "deepseek/deepseek-chat",
+      "name": "Mistral: Codestral Mamba",
+      "model": "mistralai/codestral-mamba",
       "pricing": {
-        "coins": 1.1,
+        "coins": 0.2,
         "words": 100
       },
-      "max_output": 8000
+      "max_output": 256000
     },
     {
-      "name": "DeepSeek: DeepSeek R1 Reasoning",
-      "model": "deepseek/deepseek-r1",
+      "name": "Qwen2-VL 72B Instruct",
+      "model": "qwen/qwen-2-vl-72b-instruct",
       "pricing": {
-        "coins": 5.16,
+        "coins": 0.2,
         "words": 100
       },
-      "max_output": 8000
+      "max_output": 4096
     },
     {
-      "name": "DeepSeek: DeepSeek R1 Reasoning (nitro)",
-      "model": "deepseek/deepseek-r1:nitro",
+      "name": "Qwen2.5 72B Instruct",
+      "model": "qwen/qwen-2.5-72b-instruct",
       "pricing": {
-        "coins": 5.16,
-        "words": 100
-      },
-      "max_output": 8000
-    },
-    {
-      "name": "DeepSeek: DeepSeek V3 0324",
-      "model": "deepseek/deepseek-chat-v3-0324",
-      "pricing": {
-        "coins": 1,
-        "words": 100
-      },
-      "max_output": 8000
-    },
-    {
-      "name": "DeepSeek: DeepSeek V3.1",
-      "model": "deepseek/deepseek-chat-v3.1",
-      "pricing": {
-        "coins": 2,
-        "words": 100
-      },
-      "max_output": 131000
-    },
-    {
-      "name": "Dolphin 2.6 Mixtral 8x7B",
-      "model": "cognitivecomputations/dolphin-mixtral-8x7b",
-      "pricing": {
-        "coins": 1,
+        "coins": 0.2,
         "words": 100
       },
       "max_output": 32768
     },
     {
-      "name": "Goliath 120B",
-      "model": "alpindale/goliath-120b",
+      "name": "Google: Gemma 2 27B",
+      "model": "google/gemma-2-27b-it",
       "pricing": {
-        "coins": 5,
+        "coins": 0.4,
         "words": 100
       },
-      "max_output": 400
-    },
-    {
-      "name": "Google: Gemini 2.5 Flash",
-      "model": "google/gemini-2.5-flash",
-      "pricing": {
-        "coins": 1,
-        "words": 100
-      },
-      "max_output": 66000
+      "max_output": 8192
     },
     {
       "name": "Google: Gemini 2.5 Flash Lite",
@@ -147,40 +93,148 @@
       "max_output": 66000
     },
     {
-      "name": "Google: Gemini Flash 2.08B",
-      "model": "google/gemini-2.0-flash-001",
+      "name": "Meta: Llama 3.3 70B Instruct",
+      "model": "meta-llama/llama-3.3-70b-instruct",
       "pricing": {
-        "coins": 0.2,
+        "coins": 0.5,
         "words": 100
       },
-      "max_output": 100000
+      "max_output": 131000
     },
     {
-      "name": "Google: Gemini Pro 1.5",
-      "model": "google/gemini-pro-1.5",
+      "name": "MiniMax: MiniMax M2",
+      "model": "minimax/minimax-m2:free",
       "pricing": {
-        "coins": 3.7,
+        "coins": 0.5,
         "words": 100
       },
-      "max_output": 8192
+      "max_output": 131100
     },
     {
-      "name": "Google: Gemini Pro 2.5 Reasoning (Preview)",
-      "model": "google/gemini-2.5-pro-preview",
+      "name": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5 (Reasoning)",
+      "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
       "pricing": {
-        "coins": 16.6,
+        "coins": 0.5,
         "words": 100
       },
-      "max_output": 100000
+      "max_output": 131100
     },
     {
-      "name": "Google: Gemma 2 27B",
-      "model": "google/gemma-2-27b-it",
+      "name": "NVIDIA: Llama 3.3 Nemotron Super 49B v1",
+      "model": "nvidia/llama-3.3-nemotron-super-49b-v1",
       "pricing": {
-        "coins": 0.4,
+        "coins": 0.5,
         "words": 100
       },
-      "max_output": 8192
+      "max_output": 131072
+    },
+    {
+      "name": "OpenAI: GPT-4.1 Nano",
+      "model": "openai/gpt-4.1-nano",
+      "pricing": {
+        "coins": 0.5,
+        "words": 100
+      },
+      "max_output": 1047576
+    },
+    {
+      "name": "OpenAI: GPT-5 Nano",
+      "model": "openai/gpt-5-nano",
+      "pricing": {
+        "coins": 0.5,
+        "words": 100
+      },
+      "max_output": 128000
+    },
+    {
+      "name": "Qwen 2 72B Instruct",
+      "model": "qwen/qwen-2-72b-instruct",
+      "pricing": {
+        "coins": 0.5,
+        "words": 100
+      },
+      "max_output": 32768
+    },
+    {
+      "name": "Qwen: Qwen3 235B A22B Reasoning",
+      "model": "qwen/qwen3-235b-a22b",
+      "pricing": {
+        "coins": 0.6,
+        "words": 100
+      },
+      "max_output": 33000
+    },
+    {
+      "name": "WizardLM-2 8x22B",
+      "model": "microsoft/wizardlm-2-8x22b",
+      "pricing": {
+        "coins": 0.6,
+        "words": 100
+      },
+      "max_output": 66000
+    },
+    {
+      "name": "Meta: Llama 3.1 70B Instruct",
+      "model": "meta-llama/llama-3.1-70b-instruct",
+      "pricing": {
+        "coins": 0.7,
+        "words": 100
+      },
+      "max_output": 32768
+    },
+    {
+      "name": "Meta: Llama 4 Maverick",
+      "model": "meta-llama/llama-4-maverick",
+      "pricing": {
+        "coins": 0.7,
+        "words": 100
+      },
+      "max_output": 131000
+    },
+    {
+      "name": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1",
+      "model": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
+      "pricing": {
+        "coins": 0.7,
+        "words": 100
+      },
+      "max_output": 131072
+    },
+    {
+      "name": "Qwen: Qwen2.5 VL 32B Instruct",
+      "model": "qwen/qwen2.5-vl-32b-instruct:free",
+      "pricing": {
+        "coins": 0.7,
+        "words": 100
+      },
+      "max_output": 33000
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3 0324",
+      "model": "deepseek/deepseek-chat-v3-0324",
+      "pricing": {
+        "coins": 1,
+        "words": 100
+      },
+      "max_output": 8000
+    },
+    {
+      "name": "Dolphin 2.6 Mixtral 8x7B",
+      "model": "cognitivecomputations/dolphin-mixtral-8x7b",
+      "pricing": {
+        "coins": 1,
+        "words": 100
+      },
+      "max_output": 32768
+    },
+    {
+      "name": "Google: Gemini 2.5 Flash",
+      "model": "google/gemini-2.5-flash",
+      "pricing": {
+        "coins": 1,
+        "words": 100
+      },
+      "max_output": 66000
     },
     {
       "name": "Gryphe: MythoMax L2 13B 8k",
@@ -199,69 +253,6 @@
         "words": 100
       },
       "max_output": 8192
-    },
-    {
-      "name": "Meta: Llama 3.1 405B Instruct",
-      "model": "meta-llama/llama-3.1-405b-instruct",
-      "pricing": {
-        "coins": 1.6,
-        "words": 100
-      },
-      "max_output": 32768
-    },
-    {
-      "name": "Meta: Llama 3.1 70B Instruct",
-      "model": "meta-llama/llama-3.1-70b-instruct",
-      "pricing": {
-        "coins": 0.7,
-        "words": 100
-      },
-      "max_output": 32768
-    },
-    {
-      "name": "Meta: Llama 3.3 70B Instruct",
-      "model": "meta-llama/llama-3.3-70b-instruct",
-      "pricing": {
-        "coins": 0.5,
-        "words": 100
-      },
-      "max_output": 131000
-    },
-    {
-      "name": "Meta: Llama 4 Maverick",
-      "model": "meta-llama/llama-4-maverick",
-      "pricing": {
-        "coins": 0.7,
-        "words": 100
-      },
-      "max_output": 131000
-    },
-    {
-      "name": "Microsoft: Phi 4",
-      "model": "microsoft/phi-4",
-      "pricing": {
-        "coins": 0.1,
-        "words": 100
-      },
-      "max_output": 16000
-    },
-    {
-      "name": "MiniMax: MiniMax M2",
-      "model": "minimax/minimax-m2:free",
-      "pricing": {
-        "coins": 0.5,
-        "words": 100
-      },
-      "max_output": 131100
-    },
-    {
-      "name": "Mistral: Codestral Mamba",
-      "model": "mistralai/codestral-mamba",
-      "pricing": {
-        "coins": 0.2,
-        "words": 100
-      },
-      "max_output": 256000
     },
     {
       "name": "Mistral: Mistral Medium 3",
@@ -291,51 +282,6 @@
       "max_output": 4096
     },
     {
-      "name": "MoonshotAI: Kimi K2 0905",
-      "model": "moonshotai/kimi-k2-0905",
-      "pricing": {
-        "coins": 2,
-        "words": 100
-      },
-      "max_output": 262000
-    },
-    {
-      "name": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1",
-      "model": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
-      "pricing": {
-        "coins": 0.7,
-        "words": 100
-      },
-      "max_output": 131072
-    },
-    {
-      "name": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5 (Reasoning)",
-      "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
-      "pricing": {
-        "coins": 0.5,
-        "words": 100
-      },
-      "max_output": 131100
-    },
-    {
-      "name": "NVIDIA: Llama 3.3 Nemotron Super 49B v1",
-      "model": "nvidia/llama-3.3-nemotron-super-49b-v1",
-      "pricing": {
-        "coins": 0.5,
-        "words": 100
-      },
-      "max_output": 131072
-    },
-    {
-      "name": "OpenAI: GPT-4.1",
-      "model": "openai/gpt-4.1",
-      "pricing": {
-        "coins": 3,
-        "words": 100
-      },
-      "max_output": 1047576
-    },
-    {
       "name": "OpenAI: GPT-4.1 Mini",
       "model": "openai/gpt-4.1-mini",
       "pricing": {
@@ -343,33 +289,6 @@
         "words": 100
       },
       "max_output": 1047576
-    },
-    {
-      "name": "OpenAI: GPT-4.1 Nano",
-      "model": "openai/gpt-4.1-nano",
-      "pricing": {
-        "coins": 0.5,
-        "words": 100
-      },
-      "max_output": 1047576
-    },
-    {
-      "name": "OpenAI: GPT-5",
-      "model": "openai/gpt-5",
-      "pricing": {
-        "coins": 8,
-        "words": 100
-      },
-      "max_output": 128000
-    },
-    {
-      "name": "OpenAI: GPT-5 Chat",
-      "model": "openai/gpt-5-chat",
-      "pricing": {
-        "coins": 5,
-        "words": 100
-      },
-      "max_output": 128000
     },
     {
       "name": "OpenAI: GPT-5 Mini",
@@ -381,96 +300,6 @@
       "max_output": 128000
     },
     {
-      "name": "OpenAI: GPT-5 Nano",
-      "model": "openai/gpt-5-nano",
-      "pricing": {
-        "coins": 0.5,
-        "words": 100
-      },
-      "max_output": 128000
-    },
-    {
-      "name": "OpenAI: o1",
-      "model": "openai/o1",
-      "pricing": {
-        "coins": 20,
-        "words": 100
-      },
-      "max_output": 100000
-    },
-    {
-      "name": "OpenAI: o1 High Reasoning",
-      "model": "openai/o1-pro",
-      "pricing": {
-        "coins": 35,
-        "words": 100
-      },
-      "max_output": 100000
-    },
-    {
-      "name": "OpenAI: o1 mini",
-      "model": "openai/o1-mini",
-      "pricing": {
-        "coins": 4,
-        "words": 100
-      },
-      "max_output": 65536
-    },
-    {
-      "name": "OpenAI: o3",
-      "model": "o3-2025-04-16",
-      "pricing": {
-        "coins": 20,
-        "words": 100
-      },
-      "max_output": 100000
-    },
-    {
-      "name": "OpenAI: o3 Deep Research",
-      "model": "o3-deep-research-2025-06-26",
-      "pricing": {
-        "coins": 190,
-        "words": 100
-      },
-      "max_output": 128000
-    },
-    {
-      "name": "OpenAI: o3 Mini (High)",
-      "model": "openai/o3-mini-high",
-      "pricing": {
-        "coins": 3,
-        "words": 100
-      },
-      "max_output": 100000
-    },
-    {
-      "name": "OpenAI: o3 Mini (Medium)",
-      "model": "openai/o3-mini",
-      "pricing": {
-        "coins": 1.5,
-        "words": 100
-      },
-      "max_output": 100000
-    },
-    {
-      "name": "OpenAI: o4 Mini",
-      "model": "openai/o4-mini",
-      "pricing": {
-        "coins": 1.5,
-        "words": 100
-      },
-      "max_output": 100000
-    },
-    {
-      "name": "OpenAI: o4 Mini High",
-      "model": "openai/o4-mini-high",
-      "pricing": {
-        "coins": 2.4,
-        "words": 100
-      },
-      "max_output": 100000
-    },
-    {
       "name": "Perplexity: Sonar",
       "model": "perplexity/sonar",
       "pricing": {
@@ -478,87 +307,6 @@
         "words": 100
       },
       "max_output": 127072
-    },
-    {
-      "name": "Perplexity: Sonar Deep Research Reasoning",
-      "model": "perplexity/sonar-deep-research",
-      "pricing": {
-        "coins": 192,
-        "words": 100
-      },
-      "max_output": 127072
-    },
-    {
-      "name": "Perplexity: Sonar Reasoning",
-      "model": "perplexity/sonar-reasoning",
-      "pricing": {
-        "coins": 2.2,
-        "words": 100
-      },
-      "max_output": 127072
-    },
-    {
-      "name": "Qwen 2 72B Instruct",
-      "model": "qwen/qwen-2-72b-instruct",
-      "pricing": {
-        "coins": 0.5,
-        "words": 100
-      },
-      "max_output": 32768
-    },
-    {
-      "name": "Qwen2-VL 72B Instruct",
-      "model": "qwen/qwen-2-vl-72b-instruct",
-      "pricing": {
-        "coins": 0.2,
-        "words": 100
-      },
-      "max_output": 4096
-    },
-    {
-      "name": "Qwen2.5 72B Instruct",
-      "model": "qwen/qwen-2.5-72b-instruct",
-      "pricing": {
-        "coins": 0.2,
-        "words": 100
-      },
-      "max_output": 32768
-    },
-    {
-      "name": "Qwen: Qwen2.5 VL 32B Instruct",
-      "model": "qwen/qwen2.5-vl-32b-instruct:free",
-      "pricing": {
-        "coins": 0.7,
-        "words": 100
-      },
-      "max_output": 33000
-    },
-    {
-      "name": "Qwen: Qwen3 235B A22B Reasoning",
-      "model": "qwen/qwen3-235b-a22b",
-      "pricing": {
-        "coins": 0.6,
-        "words": 100
-      },
-      "max_output": 33000
-    },
-    {
-      "name": "Qwen: Qwen3 Coder",
-      "model": "qwen/qwen3-coder",
-      "pricing": {
-        "coins": 3,
-        "words": 100
-      },
-      "max_output": 66000
-    },
-    {
-      "name": "WizardLM-2 8x22B",
-      "model": "microsoft/wizardlm-2-8x22b",
-      "pricing": {
-        "coins": 0.6,
-        "words": 100
-      },
-      "max_output": 66000
     },
     {
       "name": "Z.AI: GLM 4.5V Reasoning",
@@ -579,22 +327,22 @@
       "max_output": 131100
     },
     {
-      "name": "xAI: Grok 2 1212",
-      "model": "x-ai/grok-2-1212",
+      "name": "xAI: Grok 4 Fast",
+      "model": "x-ai/grok-4-fast",
       "pricing": {
-        "coins": 3.2,
+        "coins": 1,
         "words": 100
       },
-      "max_output": 131000
+      "max_output": 1047576
     },
     {
-      "name": "xAI: Grok 3 Beta",
-      "model": "x-ai/grok-3-beta",
+      "name": "DeepSeek V3",
+      "model": "deepseek/deepseek-chat",
       "pricing": {
-        "coins": 8,
+        "coins": 1.1,
         "words": 100
       },
-      "max_output": 131000
+      "max_output": 8000
     },
     {
       "name": "xAI: Grok 3 Mini Beta Reasoning",
@@ -606,13 +354,202 @@
       "max_output": 131000
     },
     {
-      "name": "xAI: Grok 4 Fast",
-      "model": "x-ai/grok-4-fast",
+      "name": "OpenAI: o3 Mini (Medium)",
+      "model": "openai/o3-mini",
       "pricing": {
-        "coins": 1,
+        "coins": 1.5,
+        "words": 100
+      },
+      "max_output": 100000
+    },
+    {
+      "name": "OpenAI: o4 Mini",
+      "model": "openai/o4-mini",
+      "pricing": {
+        "coins": 1.5,
+        "words": 100
+      },
+      "max_output": 100000
+    },
+    {
+      "name": "Meta: Llama 3.1 405B Instruct",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "pricing": {
+        "coins": 1.6,
+        "words": 100
+      },
+      "max_output": 32768
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3.1",
+      "model": "deepseek/deepseek-chat-v3.1",
+      "pricing": {
+        "coins": 2,
+        "words": 100
+      },
+      "max_output": 131000
+    },
+    {
+      "name": "MoonshotAI: Kimi K2 0905",
+      "model": "moonshotai/kimi-k2-0905",
+      "pricing": {
+        "coins": 2,
+        "words": 100
+      },
+      "max_output": 262000
+    },
+    {
+      "name": "Perplexity: Sonar Reasoning",
+      "model": "perplexity/sonar-reasoning",
+      "pricing": {
+        "coins": 2.2,
+        "words": 100
+      },
+      "max_output": 127072
+    },
+    {
+      "name": "OpenAI: o4 Mini High",
+      "model": "openai/o4-mini-high",
+      "pricing": {
+        "coins": 2.4,
+        "words": 100
+      },
+      "max_output": 100000
+    },
+    {
+      "name": "OpenAI: GPT-4.1",
+      "model": "openai/gpt-4.1",
+      "pricing": {
+        "coins": 3,
         "words": 100
       },
       "max_output": 1047576
+    },
+    {
+      "name": "OpenAI: o3 Mini (High)",
+      "model": "openai/o3-mini-high",
+      "pricing": {
+        "coins": 3,
+        "words": 100
+      },
+      "max_output": 100000
+    },
+    {
+      "name": "Qwen: Qwen3 Coder",
+      "model": "qwen/qwen3-coder",
+      "pricing": {
+        "coins": 3,
+        "words": 100
+      },
+      "max_output": 66000
+    },
+    {
+      "name": "xAI: Grok 2 1212",
+      "model": "x-ai/grok-2-1212",
+      "pricing": {
+        "coins": 3.2,
+        "words": 100
+      },
+      "max_output": 131000
+    },
+    {
+      "name": "Cohere: Command R+ (08-2024)",
+      "model": "cohere/command-r-plus-08-2024",
+      "pricing": {
+        "coins": 3.4,
+        "words": 100
+      },
+      "max_output": 4000
+    },
+    {
+      "name": "Google: Gemini Pro 1.5",
+      "model": "google/gemini-pro-1.5",
+      "pricing": {
+        "coins": 3.7,
+        "words": 100
+      },
+      "max_output": 8192
+    },
+    {
+      "name": "OpenAI: o1 mini",
+      "model": "openai/o1-mini",
+      "pricing": {
+        "coins": 4,
+        "words": 100
+      },
+      "max_output": 65536
+    },
+    {
+      "name": "Goliath 120B",
+      "model": "alpindale/goliath-120b",
+      "pricing": {
+        "coins": 5,
+        "words": 100
+      },
+      "max_output": 400
+    },
+    {
+      "name": "OpenAI: GPT-5 Chat",
+      "model": "openai/gpt-5-chat",
+      "pricing": {
+        "coins": 5,
+        "words": 100
+      },
+      "max_output": 128000
+    },
+    {
+      "name": "DeepSeek: DeepSeek R1 Reasoning",
+      "model": "deepseek/deepseek-r1",
+      "pricing": {
+        "coins": 5.16,
+        "words": 100
+      },
+      "max_output": 8000
+    },
+    {
+      "name": "DeepSeek: DeepSeek R1 Reasoning (nitro)",
+      "model": "deepseek/deepseek-r1:nitro",
+      "pricing": {
+        "coins": 5.16,
+        "words": 100
+      },
+      "max_output": 8000
+    },
+    {
+      "name": "Anthropic: Claude Sonnet 4",
+      "model": "anthropic/claude-sonnet-4",
+      "pricing": {
+        "coins": 6,
+        "words": 100
+      },
+      "max_output": 64000
+    },
+    {
+      "name": "OpenAI: GPT-5",
+      "model": "openai/gpt-5",
+      "pricing": {
+        "coins": 8,
+        "words": 100
+      },
+      "max_output": 128000
+    },
+    {
+      "name": "xAI: Grok 3 Beta",
+      "model": "x-ai/grok-3-beta",
+      "pricing": {
+        "coins": 8,
+        "words": 100
+      },
+      "max_output": 131000
+    },
+    {
+      "name": "Anthropic: Claude Sonnet 4.5",
+      "model": "anthropic/claude-sonnet-4.5",
+      "pricing": {
+        "coins": 10,
+        "words": 100
+      },
+      "max_output": 64000
     },
     {
       "name": "xAI: Grok 4 Reasoning",
@@ -622,77 +559,120 @@
         "words": 100
       },
       "max_output": 256000
+    },
+    {
+      "name": "Google: Gemini Pro 2.5 Reasoning (Preview)",
+      "model": "google/gemini-2.5-pro-preview",
+      "pricing": {
+        "coins": 16.6,
+        "words": 100
+      },
+      "max_output": 100000
+    },
+    {
+      "name": "OpenAI: o1",
+      "model": "openai/o1",
+      "pricing": {
+        "coins": 20,
+        "words": 100
+      },
+      "max_output": 100000
+    },
+    {
+      "name": "OpenAI: o3",
+      "model": "o3-2025-04-16",
+      "pricing": {
+        "coins": 20,
+        "words": 100
+      },
+      "max_output": 100000
+    },
+    {
+      "name": "Anthropic: Claude Opus 4.1",
+      "model": "anthropic/claude-opus-4",
+      "pricing": {
+        "coins": 30,
+        "words": 100
+      },
+      "max_output": 200000
+    },
+    {
+      "name": "OpenAI: o1 High Reasoning",
+      "model": "openai/o1-pro",
+      "pricing": {
+        "coins": 35,
+        "words": 100
+      },
+      "max_output": 100000
     }
   ],
   "model_ids": [
-    "amazon/nova-lite-v1",
     "amazon/nova-micro-v1",
-    "anthropic/claude-opus-4",
-    "anthropic/claude-sonnet-4",
-    "anthropic/claude-sonnet-4.5",
+    "microsoft/phi-4",
+    "amazon/nova-lite-v1",
     "cohere/command-r-08-2024",
-    "cohere/command-r-plus-08-2024",
-    "deepseek/deepseek-chat",
-    "deepseek/deepseek-r1",
-    "deepseek/deepseek-r1:nitro",
-    "deepseek/deepseek-chat-v3-0324",
-    "deepseek/deepseek-chat-v3.1",
-    "cognitivecomputations/dolphin-mixtral-8x7b",
-    "alpindale/goliath-120b",
-    "google/gemini-2.5-flash",
-    "google/gemini-2.5-flash-lite",
     "google/gemini-2.0-flash-001",
-    "google/gemini-pro-1.5",
-    "google/gemini-2.5-pro-preview",
+    "mistralai/codestral-mamba",
+    "qwen/qwen-2-vl-72b-instruct",
+    "qwen/qwen-2.5-72b-instruct",
     "google/gemma-2-27b-it",
+    "google/gemini-2.5-flash-lite",
+    "meta-llama/llama-3.3-70b-instruct",
+    "minimax/minimax-m2:free",
+    "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "nvidia/llama-3.3-nemotron-super-49b-v1",
+    "openai/gpt-4.1-nano",
+    "openai/gpt-5-nano",
+    "qwen/qwen-2-72b-instruct",
+    "qwen/qwen3-235b-a22b",
+    "microsoft/wizardlm-2-8x22b",
+    "meta-llama/llama-3.1-70b-instruct",
+    "meta-llama/llama-4-maverick",
+    "nvidia/llama-3.1-nemotron-ultra-253b-v1",
+    "qwen/qwen2.5-vl-32b-instruct:free",
+    "deepseek/deepseek-chat-v3-0324",
+    "cognitivecomputations/dolphin-mixtral-8x7b",
+    "google/gemini-2.5-flash",
     "gryphe/mythomax-l2-13b",
     "meta-llama/llama-3-70b-instruct:nitro",
-    "meta-llama/llama-3.1-405b-instruct",
-    "meta-llama/llama-3.1-70b-instruct",
-    "meta-llama/llama-3.3-70b-instruct",
-    "meta-llama/llama-4-maverick",
-    "microsoft/phi-4",
-    "minimax/minimax-m2:free",
-    "mistralai/codestral-mamba",
     "mistralai/mistral-medium-3",
     "mistralai/mixtral-8x7b-instruct",
     "moonshotai/kimi-k2:free",
-    "moonshotai/kimi-k2-0905",
-    "nvidia/llama-3.1-nemotron-ultra-253b-v1",
-    "nvidia/llama-3.3-nemotron-super-49b-v1.5",
-    "nvidia/llama-3.3-nemotron-super-49b-v1",
-    "openai/gpt-4.1",
     "openai/gpt-4.1-mini",
-    "openai/gpt-4.1-nano",
-    "openai/gpt-5",
-    "openai/gpt-5-chat",
     "openai/gpt-5-mini",
-    "openai/gpt-5-nano",
-    "openai/o1",
-    "openai/o1-pro",
-    "openai/o1-mini",
-    "o3-2025-04-16",
-    "o3-deep-research-2025-06-26",
-    "openai/o3-mini-high",
-    "openai/o3-mini",
-    "openai/o4-mini",
-    "openai/o4-mini-high",
     "perplexity/sonar",
-    "perplexity/sonar-deep-research",
-    "perplexity/sonar-reasoning",
-    "qwen/qwen-2-72b-instruct",
-    "qwen/qwen-2-vl-72b-instruct",
-    "qwen/qwen-2.5-72b-instruct",
-    "qwen/qwen2.5-vl-32b-instruct:free",
-    "qwen/qwen3-235b-a22b",
-    "qwen/qwen3-coder",
-    "microsoft/wizardlm-2-8x22b",
     "z-ai/glm-4.5v",
     "z-ai/glm-4.6",
-    "x-ai/grok-2-1212",
-    "x-ai/grok-3-beta",
-    "x-ai/grok-3-mini-beta",
     "x-ai/grok-4-fast",
-    "x-ai/grok-4"
+    "deepseek/deepseek-chat",
+    "x-ai/grok-3-mini-beta",
+    "openai/o3-mini",
+    "openai/o4-mini",
+    "meta-llama/llama-3.1-405b-instruct",
+    "deepseek/deepseek-chat-v3.1",
+    "moonshotai/kimi-k2-0905",
+    "perplexity/sonar-reasoning",
+    "openai/o4-mini-high",
+    "openai/gpt-4.1",
+    "openai/o3-mini-high",
+    "qwen/qwen3-coder",
+    "x-ai/grok-2-1212",
+    "cohere/command-r-plus-08-2024",
+    "google/gemini-pro-1.5",
+    "openai/o1-mini",
+    "alpindale/goliath-120b",
+    "openai/gpt-5-chat",
+    "deepseek/deepseek-r1",
+    "deepseek/deepseek-r1:nitro",
+    "anthropic/claude-sonnet-4",
+    "openai/gpt-5",
+    "x-ai/grok-3-beta",
+    "anthropic/claude-sonnet-4.5",
+    "x-ai/grok-4",
+    "google/gemini-2.5-pro-preview",
+    "openai/o1",
+    "o3-2025-04-16",
+    "anthropic/claude-opus-4",
+    "openai/o1-pro"
   ]
 }

@@ -90,12 +90,29 @@ def print_text_models(save_to_file: bool = True):
     
     text_models = filter_text_only_models(models_data)
     
+    # Ordenar modelos por precio (de más barato a más caro)
+    def get_price_per_word(model):
+        """Calcula el precio por palabra para ordenar los modelos."""
+        pricing = model.get('pricing', {})
+        coins = pricing.get('coins', float('inf'))
+        words = pricing.get('words', 1)
+        
+        # Si coins o words no son numéricos, poner al final
+        try:
+            coins = float(coins) if coins != 'N/A' else float('inf')
+            words = float(words) if words != 'N/A' else 1
+            return coins / words if words > 0 else float('inf')
+        except (ValueError, TypeError):
+            return float('inf')
+    
+    text_models.sort(key=get_price_per_word)
+    
     print(f"\n{'='*80}")
     print(f"Total de modelos disponibles: {len(models_data.get('data', []))}")
     print(f"Modelos solo texto: {len(text_models)}")
     print(f"{'='*80}\n")
     
-    print("Lista de modelos solo texto:")
+    print("Lista de modelos solo texto (ordenados de más barato a más caro):")
     print("-" * 80)
     
     model_ids = []
