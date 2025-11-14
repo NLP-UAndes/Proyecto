@@ -1,0 +1,222 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abajeño",
+      "output": {
+        "definicion": "Persona originaria o residente de la zona geográfica situada en zonas bajas o planicies."
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abalear",
+      "output": {
+        "definicion": "Acción de golpear o atacar con fuerza y repetidamente."
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abaleo",
+      "output": {
+        "definicion": "Acción de golpear o atacar con fuerza y repetidamente."
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanicar",
+      "output": {
+        "definicion": "Mover rápidamente un abanico para producir aire fresco."
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanico",
+      "output": {
+        "definicion": "Instrumento portátil utilizado para producir aire fresco mediante su movimiento manual."
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarco",
+      "output": {
+        "definicion": "Relación íntima o unión no formal entre dos personas."
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarrotes",
+      "output": {
+        "definicion": "Tienda que ofrece diversos productos de consumo diario y alimentos envasados."
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abeja",
+      "output": {
+        "definicion": "Persona muy activa y trabajadora que siempre está ocupada en múltiples tareas."
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abejorrear",
+      "output": {
+        "definicion": "Molestar o fastidiar a alguien de manera insistente y repetitiva."
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abismante",
+      "output": {
+        "definicion": "Descripción de algo que produce o puede producir un sentimiento de temor o abrumación profunda."
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abombado",
+      "output": {
+        "definicion": "Persona o cosa que se encuentra hinchada o inflada de manera excesiva."
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aborrajado",
+      "output": {
+        "definicion": "Persona que actúa de manera exagerada o desmedida en una situación particular."
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abotar",
+      "output": {
+        "definicion": "Cerrar con fuerza una botella o recipiente, especialmente dejando restos dentro."
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abozao",
+      "output": {
+        "definicion": "Persona que sufre del mal de ojo, experienciando fatiga inexplicable."
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrebocas",
+      "output": {
+        "definicion": "Persona o cosa que incita a hablar o iniciar una conversación."
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrigar",
+      "output": {
+        "definicion": "Proporcionar calor o protección contra el frío utilizando prendas de vestir adecuadas."
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrirse",
+      "output": {
+        "definicion": "Desarrollar o expandir hacia nuevos horizontes o oportunidades de crecimiento y desarrollo personal."
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrochar",
+      "output": {
+        "definicion": "Acción de cerrar o ajustar algo con un broche o cierre."
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abuelita",
+      "output": {
+        "definicion": "Término cariñoso para referirse a una abuela, generalmente en contextos familiares o afectivos."
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "qwen/qwen-2-vl-72b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abullonado",
+      "output": {
+        "definicion": "Persona con actitud desafiante o agresiva, dispuesta a enfrentarse a otros."
+      }
+    }
+  }
+]

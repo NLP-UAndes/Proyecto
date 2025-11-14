@@ -1,0 +1,782 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "minimax/minimax-m2:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "minimax/minimax-m2:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 131100).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abajeño",
+      "output": {
+        "definicion": "Persona originaria de regiones bajas o de tierras cálidas en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abalear",
+      "output": {
+        "definicion": "Disparar repetidamente hacia alguien o algo con intención de herir o matar"
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abaleo",
+      "output": {
+        "definicion": "Acción de hablar mucho y de manera indisciplinada o sin sustancia"
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanicar",
+      "output": {
+        "definicion": "Halagar o adular a alguien para obtener algo de él"
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abanico\",\n  \"output\": {\n    \"definicion\": \"Variedad de opciones o posibilidades presentadas de manera amplia y diversa.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarco",
+      "output": {
+        "definicion": "Acción de abrazar o rodear algo o alguien con los brazos."
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarrotes",
+      "output": {
+        "definicion": "Conjunto de productos alimenticios y artículos de primera necesidad para el hogar."
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abeja",
+      "output": {
+        "definicion": "Persona muy trabajadora y activa en diversas actividades o tareas."
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abejorrear",
+      "output": {
+        "definicion": "Molestar o importunar insistentemente a alguien con palabras o acciones."
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abismante",
+      "output": {
+        "definicion": "Algo que causa gran asombro o sorpresa por su magnitud o características extraordinarias."
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abombado",
+      "output": {
+        "definicion": "Dicho de una persona, que ha perdido la claridad mental o está aturdida."
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aborrajado",
+      "output": {
+        "definicion": "Persona que se viste de manera descuidada o con ropa arrugada y desordenada."
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abotar",
+      "output": {
+        "definicion": "Llenar o hartar a alguien con algo, generalmente comida o bebida."
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abozao",
+      "output": {
+        "definicion": "Persona que está en una situación difícil o comprometida, generalmente por deudas o problemas financieros."
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrebocas",
+      "output": {
+        "definicion": "Persona o situación que genera gran expectación o curiosidad"
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrigar",
+      "output": {
+        "definicion": "Albergar o dar refugio a alguien o algo, generalmente con connotación de protección o resguardo."
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrirse",
+      "output": {
+        "definicion": "Marcharse o alejarse de un lugar o situación de manera voluntaria o intempestiva"
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrochar",
+      "output": {
+        "definicion": "Lograr algo o alguien de manera efectiva o contundente."
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abuelita",
+      "output": {
+        "definicion": "Persona que fuma marihuana de manera habitual y con frecuencia."
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abullonado",
+      "output": {
+        "definicion": "Persona o cosa que está hinchada o abultada de manera exagerada o ridícula."
+      }
+    }
+  }
+]

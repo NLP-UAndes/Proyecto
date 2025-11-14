@@ -1,0 +1,322 @@
+[
+  {
+    "modismo": "abajeño",
+    "ejemplo": "Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abajeño",
+        "ejemplo": "Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago."
+      },
+      "output": {
+        "literal": "gente de abajo",
+        "definicion": "grupo de personas de la zona baja de cartago."
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "ejemplo": "El funcionario resultó ileso a pesar de que el avión en que se dirigía a la capital del departamento fue abaleado.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abalear",
+        "ejemplo": "El funcionario resultó ileso a pesar de que el avión en que se dirigía a la capital del departamento fue abaleado."
+      },
+      "output": {
+        "literal": "dispararon al avión",
+        "definicion": "disparos dirigidos al avión"
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "ejemplo": "Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abaleo",
+        "ejemplo": "Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía."
+      },
+      "output": {
+        "literal": "ruido fuerte y desordenado",
+        "definicion": "ruido intenso y desorden generado por gente."
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "ejemplo": "El bateador se ponchó abanicando el tercer lanzamiento.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abanicar",
+        "ejemplo": "El bateador se ponchó abanicando el tercer lanzamiento."
+      },
+      "output": {
+        "literal": "balanceó el bate y falló",
+        "definicion": "descripción del acto de balancear el bate y fallar."
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "ejemplo": "No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abanico",
+        "ejemplo": "No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante."
+      },
+      "output": {
+        "literal": "ventilador encendido",
+        "definicion": "estado en que el ventilador está funcionando."
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "ejemplo": "Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abarco",
+        "ejemplo": "Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales."
+      },
+      "output": {
+        "literal": "madera de abarco",
+        "definicion": "madera obtenida del árbol abarco"
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "ejemplo": "El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abarrotes",
+        "ejemplo": "El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos."
+      },
+      "output": {
+        "literal": "productos de abarrotes",
+        "definicion": "artículos de consumo básico vendidos en tiendas de abarrotes."
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "ejemplo": "Llegaste sin problemas al sitio: no contaban con que eres una abeja y que siempre cargas un mapa del lugar a donde vas.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abeja",
+        "ejemplo": "Llegaste sin problemas al sitio: no contaban con que eres una abeja y que siempre cargas un mapa del lugar a donde vas."
+      },
+      "output": {
+        "literal": "persona muy organizada",
+        "definicion": "persona que planifica y maneja con precisión"
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "ejemplo": "Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abejorrear",
+        "ejemplo": "Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen."
+      },
+      "output": {
+        "literal": "acosar con insistencia",
+        "definicion": "acoso repetido para molestar a alguien."
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "ejemplo": "Después de todo, el poder adquisitivo de los latinos y los asiáticos está creciendo de manera abismante en ese país.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abismante",
+        "ejemplo": "Después de todo, el poder adquisitivo de los latinos y los asiáticos está creciendo de manera abismante en ese país."
+      },
+      "output": {
+        "literal": "crece enormemente",
+        "definicion": "expresa un crecimiento muy grande del poder adquisitivo."
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "ejemplo": "Juan no se comió la carne porque estaba abombada.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abombado",
+        "ejemplo": "Juan no se comió la carne porque estaba abombada."
+      },
+      "output": {
+        "literal": "carne inflada",
+        "definicion": "carne con aire en su interior."
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "ejemplo": "El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "aborrajado",
+        "ejemplo": "El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'."
+      },
+      "output": {
+        "literal": "plátano relleno de queso",
+        "definicion": "plátano relleno de queso, plato típico de la cocina vallecaucana."
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "ejemplo": "Niña, abótese que la puede atropellar el carro.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abotar",
+        "ejemplo": "Niña, abótese que la puede atropellar el carro."
+      },
+      "output": {
+        "literal": "agáchate para no ser atropellada",
+        "definicion": "mandato de agacharse para evitar ser atropellada."
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "ejemplo": "El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abozao",
+        "ejemplo": "El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano."
+      },
+      "output": {
+        "literal": "ritmo abozao",
+        "definicion": "denota un ritmo específico utilizado en esa danza folclórica."
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "ejemplo": "Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abrebocas",
+        "ejemplo": "Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños."
+      },
+      "output": {
+        "literal": "cortometrajes de apertura",
+        "definicion": "cortometrajes que funcionan como preludio del festival."
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "ejemplo": "Le voy a abrigar la arepita para que le sepa más rico.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abrigar",
+        "ejemplo": "Le voy a abrigar la arepita para que le sepa más rico."
+      },
+      "output": {
+        "literal": "calentar la arepita",
+        "definicion": "expresión que implica calentar la arepita para mejorar su sabor."
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "ejemplo": "No nos venga a engañar otra vez con sus cuentos, ábrase.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abrirse",
+        "ejemplo": "No nos venga a engañar otra vez con sus cuentos, ábrase."
+      },
+      "output": {
+        "literal": "revela la verdad",
+        "definicion": "indica que se diga la verdad."
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "ejemplo": "Ponte a hacer la tarea, antes de que alguien llegue y te abroche.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abrochar",
+        "ejemplo": "Ponte a hacer la tarea, antes de que alguien llegue y te abroche."
+      },
+      "output": {
+        "literal": "te esposen",
+        "definicion": "acción de ser esposado por otra persona."
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "ejemplo": "Trate de viajar en horarios que no haya congestión. Empaque un cargador de bebé, una abuelita cómoda o un coche portátil tipo paraguas.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abuelita",
+        "ejemplo": "Trate de viajar en horarios que no haya congestión. Empaque un cargador de bebé, una abuelita cómoda o un coche portátil tipo paraguas."
+      },
+      "output": {
+        "literal": "abuela",
+        "definicion": "madre de los padres; persona mayor de la familia."
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "ejemplo": "Mientras se acomoda en el abullonado sofá, sufre un remezón sentimental enorme.",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abullonado",
+        "ejemplo": "Mientras se acomoda en el abullonado sofá, sufre un remezón sentimental enorme."
+      },
+      "output": {
+        "literal": "sofá acolchonado",
+        "definicion": "mueble con relleno y cojines para mayor suavidad."
+      }
+    }
+  }
+]

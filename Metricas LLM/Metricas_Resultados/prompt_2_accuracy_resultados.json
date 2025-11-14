@@ -1,0 +1,2298 @@
+[
+  {
+    "modismo": "abajeño",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "amazon/nova-micro-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "microsoft/phi-4",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "amazon/nova-lite-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "cohere/command-r-08-2024",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "google/gemini-2.0-flash-001",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "google/gemma-2-27b-it",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "N/A",
+    "modelo": "minimax/minimax-m2:free",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "N/A",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "openai/gpt-4.1-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "openai/gpt-5-nano",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "N/A",
+    "modelo": "qwen/qwen-2-72b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "Sí",
+    "correcto": true
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "meta-llama/llama-4-maverick",
+    "respuesta_real": "Sí",
+    "respuesta_generada": "No",
+    "correcto": false
+  }
+]

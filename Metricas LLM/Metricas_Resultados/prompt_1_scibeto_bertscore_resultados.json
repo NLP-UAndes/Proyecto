@@ -1,0 +1,3272 @@
+[
+  {
+    "modismo": "abajeño",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.801628589630127,
+    "recall": 0.8162709474563599,
+    "f1_score": 0.8088834881782532,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria de la región del Bajo Magdalena en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.8036519885063171,
+    "recall": 0.7743556499481201,
+    "f1_score": 0.7887318730354309,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Insistir o presionar con insistencia en algo."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.737541913986206,
+    "recall": 0.7470729351043701,
+    "f1_score": 0.7422768473625183,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de moverse o bailar con ritmos animados y desenfadados."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7257106304168701,
+    "recall": 0.6776321530342102,
+    "f1_score": 0.7008478045463562,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Promover o impulsar algo con entusiasmo."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7877423167228699,
+    "recall": 0.7430224418640137,
+    "f1_score": 0.7647291421890259,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Modismo que representa una amplia variedad de opciones o posibilidades."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7432811260223389,
+    "recall": 0.6921155452728271,
+    "f1_score": 0.7167864441871643,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Incluir o abarcar todos los aspectos de un asunto."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7180804014205933,
+    "recall": 0.7706303596496582,
+    "f1_score": 0.7434278726577759,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Tiendecitas que venden productos básicos y comestibles a precios bajos."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.762712836265564,
+    "recall": 0.734134316444397,
+    "f1_score": 0.7481507658958435,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona que trabaja arduamente y es muy productiva."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7515101432800293,
+    "recall": 0.7232102155685425,
+    "f1_score": 0.737088680267334,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Ir de un lugar a otro con prisa."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7958332300186157,
+    "recall": 0.7915651202201843,
+    "f1_score": 0.7936934232711792,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Modismo que indica sorpresa o admiración ante algo impresionante."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.736278772354126,
+    "recall": 0.7495118975639343,
+    "f1_score": 0.7428364157676697,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona con gran autoestima y confianza en sí misma."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7033136487007141,
+    "recall": 0.6742692589759827,
+    "f1_score": 0.6884852647781372,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que está muy cansada o agotada"
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7596022486686707,
+    "recall": 0.768058717250824,
+    "f1_score": 0.7638071179389954,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Terminar en una situación inesperada o desfavorable"
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7782549858093262,
+    "recall": 0.7351900339126587,
+    "f1_score": 0.7561098337173462,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que tiene conocimientos básicos y superficiales sobre un tema."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7671635746955872,
+    "recall": 0.7512211799621582,
+    "f1_score": 0.7591086626052856,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Comida o plato que sirve como inicio o preludio a una comida."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7153672575950623,
+    "recall": 0.7654924392700195,
+    "f1_score": 0.7395815253257751,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "proteger o abrigar a alguien con ropa o abrigo"
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7138800621032715,
+    "recall": 0.7707587480545044,
+    "f1_score": 0.7412298917770386,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Indicar que alguien revela o muestra algo que antes ocultaba."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7707068920135498,
+    "recall": 0.7480825185775757,
+    "f1_score": 0.7592261433601379,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Abrochar significa tomar una decisión definitiva y comprometerse con ella."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7635452151298523,
+    "recall": 0.7498789429664612,
+    "f1_score": 0.7566503286361694,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona mayor, generalmente una mujer de edad avanzada."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7521600723266602,
+    "recall": 0.7038149237632751,
+    "f1_score": 0.7271848917007446,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona que está muy agitada o nerviosa."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7188961505889893,
+    "recall": 0.777141809463501,
+    "f1_score": 0.7468851208686829,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona resiliente y adaptable acostumbrada a industrializar y resolver problemáticas en entornos rurales."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7519742250442505,
+    "recall": 0.7566254138946533,
+    "f1_score": 0.7542926669120789,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Proceso de seleccionar bestias durante el rodeo para asignar sus cuartos con valor, típico en festivales de ganadería en Colombia."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7517112493515015,
+    "recall": 0.7024401426315308,
+    "f1_score": 0.7262409925460815,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Movimiento rápido dentro de un grupo para extraer beneficios o ventajas."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7576106190681458,
+    "recall": 0.743083119392395,
+    "f1_score": 0.750276505947113,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Cantar algo adaptado de otra canción, usualmente con modificaciones humorísticas o personales."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7367963194847107,
+    "recall": 0.6838160753250122,
+    "f1_score": 0.7093183398246765,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Conocimiento completo o entendimiento de una situación o asunto."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.6963973641395569,
+    "recall": 0.7493807673454285,
+    "f1_score": 0.7219182252883911,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "La palabra 'abarrotes' utilizado para describir situaciones comerciales complejas o desorganizadas."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7520660758018494,
+    "recall": 0.7375070452690125,
+    "f1_score": 0.7447153925895691,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Enjambre de personas o bastantes. Refiere a invadir o abrumar."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7589139938354492,
+    "recall": 0.7369836568832397,
+    "f1_score": 0.7477880716323853,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Pagar deudas desde que se pagaba con café en la bolsa."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.8022593259811401,
+    "recall": 0.8052825927734375,
+    "f1_score": 0.8037680983543396,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Dicho de una situación o hecho impactante, sorprendente o difícil de aceptar."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.799015998840332,
+    "recall": 0.8460355997085571,
+    "f1_score": 0.8218538761138916,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Se usa para describir algo que está hinchado o en mal estado, como un neumático."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7414669394493103,
+    "recall": 0.6835108995437622,
+    "f1_score": 0.7113103270530701,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Estación sin puntos significativos en la conversación, indicando falta de experiencia."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7436205744743347,
+    "recall": 0.7656574249267578,
+    "f1_score": 0.7544780373573303,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Romper en pedazos con golpes, generalmente entretejido o cualquier material crujiente."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7320366501808167,
+    "recall": 0.7235695123672485,
+    "f1_score": 0.727778434753418,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Muy mojado o manchado, generalmente por agua o algún líquido."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7730878591537476,
+    "recall": 0.7516146302223206,
+    "f1_score": 0.7622000575065613,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Comida o bebida que se ofrece antes de la comida principal para estimular el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7557334899902344,
+    "recall": 0.7942419648170471,
+    "f1_score": 0.7745093703269958,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Proveer protección, cobertura o apoyo a alguien o algo."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7203497886657715,
+    "recall": 0.7885491251945496,
+    "f1_score": 0.7529081702232361,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Referirse a una persona que habla abierta y libremente sobre temas personales u otros."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7522284984588623,
+    "recall": 0.7319027781486511,
+    "f1_score": 0.7419264316558838,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Asegurar, generalmente con un botón o hebillas, algo como ropa o cinturón."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7334208488464355,
+    "recall": 0.7393944263458252,
+    "f1_score": 0.736395537853241,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Se afirma ser más hábil o astuto que una persona de avanzada edad."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "SciBETO",
+    "precision": 0.7309457659721375,
+    "recall": 0.6950547695159912,
+    "f1_score": 0.712548553943634,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona que se presume intelectual pero habla con pretensiones sin fundamento."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.800371527671814,
+    "recall": 0.8144603371620178,
+    "f1_score": 0.8073544502258301,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria de la región del Bajo Cauca, Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.8285317420959473,
+    "recall": 0.7968153953552246,
+    "f1_score": 0.8123641014099121,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Atacar o criticar a alguien con dureza."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.769180417060852,
+    "recall": 0.734599232673645,
+    "f1_score": 0.7514922022819519,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Confusión o desorden en una situación."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7700830698013306,
+    "recall": 0.7132397294044495,
+    "f1_score": 0.7405721545219421,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Hacer circular el aire con movimientos rápidos."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7307630777359009,
+    "recall": 0.6907293796539307,
+    "f1_score": 0.7101825475692749,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Información adicional innecesaria o irrelevante."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7282184362411499,
+    "recall": 0.6734899282455444,
+    "f1_score": 0.6997857689857483,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Comprender o abarcar algo completamente."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.8584654331207275,
+    "recall": 0.860395073890686,
+    "f1_score": 0.8594291806221008,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Artículos de aprovisionamiento para el hogar."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7630687952041626,
+    "recall": 0.7468428015708923,
+    "f1_score": 0.7548686861991882,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona que trabaja incansablemente para obtener algo."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7564502954483032,
+    "recall": 0.7430807948112488,
+    "f1_score": 0.749705970287323,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Distraerse o perder el tiempo sin un propósito claro."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7817624807357788,
+    "recall": 0.759244978427887,
+    "f1_score": 0.7703391909599304,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Indican una gran cantidad o medida."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7506384253501892,
+    "recall": 0.7580168843269348,
+    "f1_score": 0.7543095946311951,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Hinchado o exagerado en forma o apariencia."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7451088428497314,
+    "recall": 0.6691656112670898,
+    "f1_score": 0.7050982713699341,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Muy cansado o agotado."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7964017987251282,
+    "recall": 0.7781893610954285,
+    "f1_score": 0.7871902585029602,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Acumular o guardar algo, especialmente alimentos."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7484384179115295,
+    "recall": 0.6988645195960999,
+    "f1_score": 0.722802460193634,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Muy cansado o agotado."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7194281816482544,
+    "recall": 0.685886561870575,
+    "f1_score": 0.7022570967674255,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Comida ligera antes de la principal"
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7727075815200806,
+    "recall": 0.7962588667869568,
+    "f1_score": 0.7843064665794373,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Proteger o mantener algo o a alguien."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7418990135192871,
+    "recall": 0.7971847057342529,
+    "f1_score": 0.7685489058494568,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Mostrar sinceridad o franqueza en las palabras o acciones."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7678112387657166,
+    "recall": 0.7233320474624634,
+    "f1_score": 0.744908332824707,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Completar o finalizar algo de manera efectiva."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.765671968460083,
+    "recall": 0.7481814026832581,
+    "f1_score": 0.7568256855010986,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona de edad avanzada, generalmente referida con afecto."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.7634749412536621,
+    "recall": 0.7012642025947571,
+    "f1_score": 0.7310484647750854,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Muy lleno o repleto de algo."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7844947576522827,
+    "recall": 0.8110474348068237,
+    "f1_score": 0.7975502014160156,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona oriunda del sur de Colombia, generalmente zonas rurales y montañosas."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.849507212638855,
+    "recall": 0.8559935092926025,
+    "f1_score": 0.8527380228042603,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar con una bala a alguien o algo con fines agresivos o destructivos."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7601189017295837,
+    "recall": 0.7480481266975403,
+    "f1_score": 0.754035234451294,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Accidente o caída que ocasiona daños o lesiones."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7731095552444458,
+    "recall": 0.7227287292480469,
+    "f1_score": 0.7470707297325134,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Mover el aire con un abanico para refrescarse."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7611839771270752,
+    "recall": 0.7006262540817261,
+    "f1_score": 0.7296507358551025,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Instrumento para refrescar."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7296837568283081,
+    "recall": 0.6911437511444092,
+    "f1_score": 0.7098910808563232,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Logro comprender o abarcar una amplia gama de temas o conocimientos."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.737464427947998,
+    "recall": 0.7837775349617004,
+    "f1_score": 0.7599160075187683,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Articulos varios o de primera necesidad como comestibles, bebidas, productos de limpieza."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7449037432670593,
+    "recall": 0.7201991081237793,
+    "f1_score": 0.7323430776596069,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona encantadora, sociável y agradable."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7310250997543335,
+    "recall": 0.7334092855453491,
+    "f1_score": 0.7322152853012085,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Abejorrear: mudarse o salir de forma repentina con mucha rapidez."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.8315491676330566,
+    "recall": 0.8146333694458008,
+    "f1_score": 0.8230043053627014,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Expresión para referirse a una persona o cosa fascinante o impactante."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7526669502258301,
+    "recall": 0.7681220769882202,
+    "f1_score": 0.7603159546852112,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Estado de emoción intensa o impacto causado por una sorpresa o emoción."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7489467859268188,
+    "recall": 0.6906128525733948,
+    "f1_score": 0.7185978889465332,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Describir algo que está repleto o inchado."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7676172852516174,
+    "recall": 0.7824622392654419,
+    "f1_score": 0.7749686241149902,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Acto de cerrar o apagar algo, como un botón o un objeto similar."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7495207190513611,
+    "recall": 0.726838231086731,
+    "f1_score": 0.7380052804946899,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que actúa con superioridad o soberbia, especialmente en política."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7751048803329468,
+    "recall": 0.7445014715194702,
+    "f1_score": 0.7594950199127197,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Secuencia que incita a continuar con algo, ofreciendo una introducción atractiva."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.8238794803619385,
+    "recall": 0.8596648573875427,
+    "f1_score": 0.8413918018341064,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Terminación temprana de una relación interpersonal."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7342802286148071,
+    "recall": 0.7415722012519836,
+    "f1_score": 0.7379081845283508,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Abrochar es consumir al máximo, dejar algo en estado inservible."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7332520484924316,
+    "recall": 0.7480581998825073,
+    "f1_score": 0.7405810952186584,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Anciana o mujer mayor con un parentesco cercano de abuelo o abuela."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "SciBETO",
+    "precision": 0.7809379696846008,
+    "recall": 0.740988552570343,
+    "f1_score": 0.7604389190673828,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Describir algo abullonado, significa recurrir a una cualidad de algo hinchado o abultado."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.8261505961418152,
+    "recall": 0.8700802326202393,
+    "f1_score": 0.8475465178489685,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona oriunda de las tierras bajas de un país o región."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.9314744472503662,
+    "recall": 0.9063753485679626,
+    "f1_score": 0.918753445148468,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar repetidamente contra alguien o algo con un arma de fuego."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7712289094924927,
+    "recall": 0.7928663492202759,
+    "f1_score": 0.7818979620933533,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "En Colombia, 'abaleo' se refiere a una balacera o un enfrentamiento con armas de fuego."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7080089449882507,
+    "recall": 0.6981223821640015,
+    "f1_score": 0.7030309438705444,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Descubrir o revelar información confidencial o secreta, usualmente de manera involuntaria."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7474338412284851,
+    "recall": 0.7302266955375671,
+    "f1_score": 0.7387300729751587,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "En Colombia, 'abanico' se refiere a un conjunto diverso de opciones o posibilidades disponibles."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7702944278717041,
+    "recall": 0.7487248778343201,
+    "f1_score": 0.7593564987182617,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Calzado rústico, usualmente de cuero, que cubre solo la planta del pie y se asegura con correas o cuerdas."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7504174709320068,
+    "recall": 0.7970114350318909,
+    "f1_score": 0.7730129957199097,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Conjunto de productos básicos de consumo, especialmente alimentos y artículos para el hogar."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7937558889389038,
+    "recall": 0.7250737547874451,
+    "f1_score": 0.7578619122505188,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy activa y trabajadora."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7303498983383179,
+    "recall": 0.7767913341522217,
+    "f1_score": 0.7528550624847412,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar o importunar a alguien de forma insistente, similar al zumbido constante de un abejorro."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7944126725196838,
+    "recall": 0.8138902187347412,
+    "f1_score": 0.8040335774421692,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Se usa para describir algo que causa gran asombro o sorpresa debido a su magnitud o intensidad."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7710365653038025,
+    "recall": 0.8112270832061768,
+    "f1_score": 0.7906213402748108,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Se dice de alguien aturdido, confundido o que tiene dificultad para comprender algo."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7565924525260925,
+    "recall": 0.7334376573562622,
+    "f1_score": 0.7448351979255676,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona o cosa cubierta o rebozada en una masa, usualmente de harina y huevo, para freír."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7717909216880798,
+    "recall": 0.7910016179084778,
+    "f1_score": 0.7812781929969788,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Hincharse o inflarse, usualmente refiriéndose a una parte del cuerpo o a un alimento descompuesto."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7556142210960388,
+    "recall": 0.7438052892684937,
+    "f1_score": 0.749663233757019,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que actúa de manera astuta y taimada para obtener un beneficio."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7848634719848633,
+    "recall": 0.7531087398529053,
+    "f1_score": 0.7686582803726196,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Alimento ligero que se sirve para estimular el apetito antes de la comida principal."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7351715564727783,
+    "recall": 0.7819317579269409,
+    "f1_score": 0.7578310966491699,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Tener o sentir una esperanza o un sentimiento hacia algo o alguien."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7849562764167786,
+    "recall": 0.8634260892868042,
+    "f1_score": 0.8223233819007874,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Retirarse o distanciarse de una situación, grupo o persona."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7724199295043945,
+    "recall": 0.7645038366317749,
+    "f1_score": 0.7684414982795715,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Conseguir algo por medio de favores, influencias o aprovechándose de una situación."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7381366491317749,
+    "recall": 0.7328435778617859,
+    "f1_score": 0.7354806065559387,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona que tiene nietos; mujer mayor, generalmente cariñosa y sabia."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "SciBETO",
+    "precision": 0.7544746398925781,
+    "recall": 0.7367143630981445,
+    "f1_score": 0.7454887628555298,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Se dice de algo o alguien inflado, pomposo o que aparenta más de lo que realmente es."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.8108482360839844,
+    "recall": 0.864763617515564,
+    "f1_score": 0.8369385600090027,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria o residente de la zona geográfica situada en zonas bajas o planicies."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7753403186798096,
+    "recall": 0.7539798021316528,
+    "f1_score": 0.7645108699798584,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Acción de golpear o atacar con fuerza y repetidamente."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7491350769996643,
+    "recall": 0.7413648962974548,
+    "f1_score": 0.7452297210693359,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de golpear o atacar con fuerza y repetidamente."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7568068504333496,
+    "recall": 0.7055214643478394,
+    "f1_score": 0.7302648425102234,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Mover rápidamente un abanico para producir aire fresco."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7969346046447754,
+    "recall": 0.7687209844589233,
+    "f1_score": 0.7825735807418823,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Instrumento portátil utilizado para producir aire fresco mediante su movimiento manual."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7365502119064331,
+    "recall": 0.6895042061805725,
+    "f1_score": 0.7122511267662048,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Relación íntima o unión no formal entre dos personas."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7601351141929626,
+    "recall": 0.8328970670700073,
+    "f1_score": 0.7948544025421143,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Tienda que ofrece diversos productos de consumo diario y alimentos envasados."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7760454416275024,
+    "recall": 0.769924521446228,
+    "f1_score": 0.772972822189331,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy activa y trabajadora que siempre está ocupada en múltiples tareas."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.756346583366394,
+    "recall": 0.7746344804763794,
+    "f1_score": 0.7653812766075134,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar o fastidiar a alguien de manera insistente y repetitiva."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7698797583580017,
+    "recall": 0.7951567769050598,
+    "f1_score": 0.782314121723175,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Descripción de algo que produce o puede producir un sentimiento de temor o abrumación profunda."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.766745924949646,
+    "recall": 0.7864730358123779,
+    "f1_score": 0.7764842510223389,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona o cosa que se encuentra hinchada o inflada de manera excesiva."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7246736288070679,
+    "recall": 0.6966360807418823,
+    "f1_score": 0.7103783488273621,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que actúa de manera exagerada o desmedida en una situación particular."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7580260634422302,
+    "recall": 0.7777822613716125,
+    "f1_score": 0.7677770853042603,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Cerrar con fuerza una botella o recipiente, especialmente dejando restos dentro."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7399667501449585,
+    "recall": 0.7465066313743591,
+    "f1_score": 0.7432223558425903,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que sufre del mal de ojo, experienciando fatiga inexplicable."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7632025480270386,
+    "recall": 0.745424747467041,
+    "f1_score": 0.7542089223861694,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Persona o cosa que incita a hablar o iniciar una conversación."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.766793966293335,
+    "recall": 0.8072566986083984,
+    "f1_score": 0.7865052223205566,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Proporcionar calor o protección contra el frío utilizando prendas de vestir adecuadas."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7231738567352295,
+    "recall": 0.7823376059532166,
+    "f1_score": 0.7515931725502014,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Desarrollar o expandir hacia nuevos horizontes o oportunidades de crecimiento y desarrollo personal."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7623170614242554,
+    "recall": 0.7291476130485535,
+    "f1_score": 0.7453635334968567,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Acción de cerrar o ajustar algo con un broche o cierre."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7458842992782593,
+    "recall": 0.7530030012130737,
+    "f1_score": 0.7494267821311951,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Término cariñoso para referirse a una abuela, generalmente en contextos familiares o afectivos."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7429746389389038,
+    "recall": 0.7178300619125366,
+    "f1_score": 0.7301859855651855,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona con actitud desafiante o agresiva, dispuesta a enfrentarse a otros."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.8168579339981079,
+    "recall": 0.8604493141174316,
+    "f1_score": 0.8380871415138245,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona nativa o residente de zonas bajas, generalmente en contraste con las zonas altas."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.8090150952339172,
+    "recall": 0.7945046424865723,
+    "f1_score": 0.8016942143440247,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Reducir el precio o valor de algo, generalmente mediante negociación."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.8138995170593262,
+    "recall": 0.8043272495269775,
+    "f1_score": 0.8090850710868835,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de balear, disparar repetidamente con un arma de fuego."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7270774841308594,
+    "recall": 0.6870815753936768,
+    "f1_score": 0.7065139412879944,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Rechazar o evadir suavemente una propuesta o insistencia."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7665899991989136,
+    "recall": 0.8076421618461609,
+    "f1_score": 0.7865808606147766,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Tienda que vende productos alimenticios y de primera necesidad."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7951214909553528,
+    "recall": 0.7526064515113831,
+    "f1_score": 0.7732800841331482,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona laboriosa y constante en su trabajo."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7555171847343445,
+    "recall": 0.7469950318336487,
+    "f1_score": 0.7512319684028625,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Realizar acciones de manera intensa y constante, generalmente con empeño y entusiasmo."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.783414363861084,
+    "recall": 0.7727898955345154,
+    "f1_score": 0.7780658006668091,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Que produce un sentimiento de asombro o admiración profunda."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7828869223594666,
+    "recall": 0.7892019748687744,
+    "f1_score": 0.7860317230224609,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona que se encuentra en un estado de enojo o irritación."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7099398374557495,
+    "recall": 0.6919481754302979,
+    "f1_score": 0.7008285522460938,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que se comporta de manera excesivamente sumisa o complaciente."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7614953517913818,
+    "recall": 0.7712633609771729,
+    "f1_score": 0.7663482427597046,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Aplanar o comprimir algo hasta hacerlo más delgado o liso."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7460715174674988,
+    "recall": 0.7416800260543823,
+    "f1_score": 0.7438693046569824,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que ha consumido en exceso alcohol o drogas, alterando su estado mental y físico."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7555036544799805,
+    "recall": 0.736574113368988,
+    "f1_score": 0.7459188103675842,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Pequeña porción de comida servida antes de una comida principal para estimular el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7888632416725159,
+    "recall": 0.8326187133789062,
+    "f1_score": 0.810150682926178,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Cubrirse con ropa u objetos para protegerse del frío."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7384505867958069,
+    "recall": 0.7939730286598206,
+    "f1_score": 0.765205979347229,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Tomar una actitud más receptiva o flexible ante una situación o persona."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7815645337104797,
+    "recall": 0.7389042377471924,
+    "f1_score": 0.7596359848976135,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Terminar, finalizar o concluir una acción o negociación."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.76698237657547,
+    "recall": 0.7386753559112549,
+    "f1_score": 0.7525627613067627,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Término cariñoso para referirse a la abuela."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7683806419372559,
+    "recall": 0.7416211366653442,
+    "f1_score": 0.7547637820243835,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Dicho de una tela o prenda: Arrugada o plisada intencionalmente para dar volumen."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7483679056167603,
+    "recall": 0.7716403603553772,
+    "f1_score": 0.7598259449005127,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Indica una persona orgullosa de su origen humilde."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.8793781399726868,
+    "recall": 0.8079819679260254,
+    "f1_score": 0.8421696424484253,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar repetidamente contra alguien o algo."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7509257197380066,
+    "recall": 0.747054398059845,
+    "f1_score": 0.7489850521087646,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Encontrar una solución inesperada o remedio a un problema."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.6992931365966797,
+    "recall": 0.6856117248535156,
+    "f1_score": 0.6923848390579224,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Molesta, incomoda o ahuyenta a alguien con insistencia."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7713600397109985,
+    "recall": 0.7374759912490845,
+    "f1_score": 0.7540375590324402,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Se usa para indicar que algo está descompuesto, sin funcionar."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7358641624450684,
+    "recall": 0.7013818621635437,
+    "f1_score": 0.7182093858718872,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Estar muy atento a las acciones o palabras de alguien."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.6970205307006836,
+    "recall": 0.7509318590164185,
+    "f1_score": 0.7229725122451782,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Se refiere a una persona supersticiosa o temerosa."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7853541374206543,
+    "recall": 0.7541419267654419,
+    "f1_score": 0.7694315910339355,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy activa, curiosa o inquieta."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.741510272026062,
+    "recall": 0.721784234046936,
+    "f1_score": 0.7315142750740051,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Estar en un estado de insolencia o arrogancia."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.8334301710128784,
+    "recall": 0.7778199911117554,
+    "f1_score": 0.8046653866767883,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Que es muy profundo o extenso."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7764214277267456,
+    "recall": 0.7905335426330566,
+    "f1_score": 0.7834139466285706,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Se dice de una persona impresionada o sorprendida por algo."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7523816227912903,
+    "recall": 0.6797038912773132,
+    "f1_score": 0.7141985893249512,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Conocedor, entendido en alguna materia."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.8378486037254333,
+    "recall": 0.786963939666748,
+    "f1_score": 0.8116095066070557,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Ignorar deliberadamente a alguien o algo."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7424250841140747,
+    "recall": 0.7128302454948425,
+    "f1_score": 0.7273268103599548,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Agotado, exhausto, sin energía."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7740229964256287,
+    "recall": 0.7201625108718872,
+    "f1_score": 0.7461220026016235,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Aperitivo para estimular el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7550470232963562,
+    "recall": 0.8154813051223755,
+    "f1_score": 0.7841014266014099,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Ahorrar y guardar dinero o recursos con cautiousas prevision."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7835904955863953,
+    "recall": 0.8272366523742676,
+    "f1_score": 0.8048222064971924,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Referirse a una conversación o situación íntima."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.8036530017852783,
+    "recall": 0.7401777505874634,
+    "f1_score": 0.7706104516983032,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Desmontar un objeto o aparato."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7606083154678345,
+    "recall": 0.7208017110824585,
+    "f1_score": 0.7401701807975769,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Dilema o situación complicada."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "SciBETO",
+    "precision": 0.7160931825637817,
+    "recall": 0.7013429403305054,
+    "f1_score": 0.7086412906646729,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Enfadado, irritable o propenso a enojarse."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7781586647033691,
+    "recall": 0.8078251481056213,
+    "f1_score": 0.7927144765853882,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona proveniente de la región a orillas del río Magdalena, en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7994429469108582,
+    "recall": 0.8260233402252197,
+    "f1_score": 0.8125157952308655,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Atacar o maltratar a alguien de forma verbal, criticándolo duramente."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7420775890350342,
+    "recall": 0.7540307641029358,
+    "f1_score": 0.7480064630508423,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acto de hostigar o molestar de forma insistente a alguien o algo."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7059863209724426,
+    "recall": 0.7011632323265076,
+    "f1_score": 0.7035664916038513,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Manejar dinero u objetos de forma ostentosa, presumida o indiscriminada."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7428317070007324,
+    "recall": 0.7379202842712402,
+    "f1_score": 0.7403678894042969,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Objeto para abanicarse y refrescarse con movimientos manuales."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7771425247192383,
+    "recall": 0.7101404666900635,
+    "f1_score": 0.742132306098938,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Objeto con amplias dimensiones o que cubre un gran espacio abarcando varios elementos."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7683427929878235,
+    "recall": 0.8041144609451294,
+    "f1_score": 0.7858216762542725,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Comida y provisiones vendidas en tiendas pequeñas."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.783031702041626,
+    "recall": 0.7643883228302002,
+    "f1_score": 0.7735977172851562,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona laboriosa, diligente y activa en sus quehaceres."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.8381061553955078,
+    "recall": 0.8016873598098755,
+    "f1_score": 0.8194923996925354,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar insistentemente a alguien con algo."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7757704854011536,
+    "recall": 0.7827744483947754,
+    "f1_score": 0.7792567610740662,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Describe una diferencia, brecha o distancia sumamente grande e insuperable."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7889386415481567,
+    "recall": 0.835402250289917,
+    "f1_score": 0.811505913734436,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Se refiere a algo o alguien que está inflado, hinchado o con exceso de volumen."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.8633977770805359,
+    "recall": 0.7599694728851318,
+    "f1_score": 0.8083887696266174,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Postre frito, típicamente hecho con plátano maduro y harina."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7651616334915161,
+    "recall": 0.7754963636398315,
+    "f1_score": 0.7702943682670593,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Hacer algo a medias o con desgano, sin dedicación."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.744210958480835,
+    "recall": 0.7166620492935181,
+    "f1_score": 0.7301766872406006,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que se ahoga o está en grave dificultad, especialmente económica."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7780759930610657,
+    "recall": 0.7255594730377197,
+    "f1_score": 0.7509006261825562,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Algo que sirve de inicio o presentación para algo más importante."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7637484073638916,
+    "recall": 0.8194819092750549,
+    "f1_score": 0.7906341552734375,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Usar prendas holgadas para proteger del frío o para disimular el cuerpo."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7518694400787354,
+    "recall": 0.8084897398948669,
+    "f1_score": 0.7791522741317749,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Revelar información personal o confidencial a alguien."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.732000470161438,
+    "recall": 0.7429788708686829,
+    "f1_score": 0.7374488115310669,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Unir o ajustar algo, generalmente prendas de vestir, mediante botones, cremalleras o similares."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7478333115577698,
+    "recall": 0.7433874607086182,
+    "f1_score": 0.7456037998199463,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Metáfora para referirse a alguien muy mayor, frecuentemente usado con afecto."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "SciBETO",
+    "precision": 0.7361835837364197,
+    "recall": 0.7012492418289185,
+    "f1_score": 0.7182919383049011,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Una superficie con pliegues o adornos circulares realzados."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7449429035186768,
+    "recall": 0.7592398524284363,
+    "f1_score": 0.7520233988761902,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Habitante del bajo Magdalena"
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7943863272666931,
+    "recall": 0.7324517369270325,
+    "f1_score": 0.7621628642082214,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Aprender o estudiar de memoria."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.72993004322052,
+    "recall": 0.7034295201301575,
+    "f1_score": 0.7164347171783447,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Gesto de desdén o desinterés"
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7683299779891968,
+    "recall": 0.700507640838623,
+    "f1_score": 0.7328529357910156,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Mover una prenda para refrescarse."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7751463055610657,
+    "recall": 0.7299028635025024,
+    "f1_score": 0.7518445253372192,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Persona que golpea a otra con la mano abierta."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7469018697738647,
+    "recall": 0.6772937774658203,
+    "f1_score": 0.7103967666625977,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Cobertura total de algo."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7663013935089111,
+    "recall": 0.8135398626327515,
+    "f1_score": 0.7892143726348877,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Comida poco saludable o de mala calidad"
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7990717887878418,
+    "recall": 0.727344274520874,
+    "f1_score": 0.7615227699279785,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy trabajadora y aplicada."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7560900449752808,
+    "recall": 0.7249607443809509,
+    "f1_score": 0.7401982545852661,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Trabajar con dedicación y esfuerzo constante."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7857775688171387,
+    "recall": 0.7271168231964111,
+    "f1_score": 0.7553099393844604,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Profundo y enorme."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7643826007843018,
+    "recall": 0.7552308440208435,
+    "f1_score": 0.7597790956497192,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Lleno de aire o hinchado excesivamente."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.6881774663925171,
+    "recall": 0.6569441556930542,
+    "f1_score": 0.6721981763839722,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Muy cansado o exhausto"
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7689076662063599,
+    "recall": 0.753821849822998,
+    "f1_score": 0.7612900137901306,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Impulsar o empujar con fuerza algo."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7464680671691895,
+    "recall": 0.7039796113967896,
+    "f1_score": 0.7246015071868896,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Abrazado fuertemente a alguien."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7793880701065063,
+    "recall": 0.7368450164794922,
+    "f1_score": 0.7575196623802185,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Aperitivo o bebida que se toma antes de una comida."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7883825898170471,
+    "recall": 0.804432213306427,
+    "f1_score": 0.7963265180587769,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Albergar o tener un sentimiento o idea."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.770305335521698,
+    "recall": 0.816226601600647,
+    "f1_score": 0.7926014065742493,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Desenvolverse o hablar con libertad."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7652500867843628,
+    "recall": 0.7248325347900391,
+    "f1_score": 0.7444931268692017,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Poner o cerrar un broche o cierre."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7150266766548157,
+    "recall": 0.6977599859237671,
+    "f1_score": 0.7062878012657166,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Término cariñoso para abuela"
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7171605825424194,
+    "recall": 0.6807461977005005,
+    "f1_score": 0.6984791159629822,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Muy enojado o molesto."
+  },
+  {
+    "modismo": "N/A",
+    "modelo": "minimax/minimax-m2:free",
+    "bert_model": "SciBETO",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "definicion_real": "",
+    "definicion_generada": ""
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.749491810798645,
+    "recall": 0.8174775838851929,
+    "f1_score": 0.7820098996162415,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Habitante de las regiones bajas de un área geográfica específica, comúnmente asociado a zonas de menor altitud en departamentos como Nariño."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.8922274112701416,
+    "recall": 0.8531512022018433,
+    "f1_score": 0.8722518682479858,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar con arma de fuego de manera intensa o repetitiva."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7676658630371094,
+    "recall": 0.7546769380569458,
+    "f1_score": 0.7611160278320312,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de acompañar una melodía con palmadas rítmicas."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.718491792678833,
+    "recall": 0.6974195241928101,
+    "f1_score": 0.7077988982200623,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Espolvorear o dispersar algo de manera amplia y desordenada."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7541865110397339,
+    "recall": 0.7155297994613647,
+    "f1_score": 0.73434978723526,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Expresa variedad o diversidad en opciones, situaciones o elementos."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7772653102874756,
+    "recall": 0.7007308006286621,
+    "f1_score": 0.7370164394378662,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Acción que cubre un amplio alcance o territorio."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.8167464733123779,
+    "recall": 0.8684514760971069,
+    "f1_score": 0.8418057560920715,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Establecimiento que comercializa productos básicos de consumo diario."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.8035779595375061,
+    "recall": 0.7691903114318848,
+    "f1_score": 0.7860082387924194,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy ocupada o activa en múltiples tareas."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.8024558424949646,
+    "recall": 0.7973724603652954,
+    "f1_score": 0.7999060750007629,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar insistentemente a alguien con insistencias o preguntas."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7616218328475952,
+    "recall": 0.7612000107765198,
+    "f1_score": 0.7614108324050903,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Que produce una sensación intensa de desesperanza o confusión."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7441160678863525,
+    "recall": 0.7581803798675537,
+    "f1_score": 0.7510823607444763,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona que se cree superior o actúa con exceso de confianza."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7229422330856323,
+    "recall": 0.6794012784957886,
+    "f1_score": 0.7004957795143127,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Estado de extrema fatiga o agotamiento físico y mental."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7951797246932983,
+    "recall": 0.7865542769432068,
+    "f1_score": 0.7908435463905334,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Insistir de manera molesta o persistente en una solicitud o acción."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7780537605285645,
+    "recall": 0.7197959423065186,
+    "f1_score": 0.7477918863296509,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Estado de extrema fatiga o agotamiento físico."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7796177864074707,
+    "recall": 0.7573528289794922,
+    "f1_score": 0.768324077129364,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Abrebocas es una pequeña cantidad de dinero entregada para facilitar un trámite o negocio."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7541104555130005,
+    "recall": 0.8069257736206055,
+    "f1_score": 0.7796246409416199,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Mantener caluroso o proteger del frío a alguien o algo."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.8421423435211182,
+    "recall": 0.9155979156494141,
+    "f1_score": 0.877335250377655,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Desprenderse rápidamente de un lugar o situación."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.752785861492157,
+    "recall": 0.7203581929206848,
+    "f1_score": 0.7362151741981506,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Finalizar o concluir algo de manera eficiente y ordenada."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7265419960021973,
+    "recall": 0.7430688142776489,
+    "f1_score": 0.7347124218940735,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Se usa coloquialmente para describir algo considerado obsoleto o de generaciones anteriores."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "SciBETO",
+    "precision": 0.7417532205581665,
+    "recall": 0.7218649387359619,
+    "f1_score": 0.7316739559173584,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona muy cansada o agotada, con aspecto desgastado."
+  },
+  {
+    "modismo": "N/A",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1",
+    "bert_model": "SciBETO",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "definicion_real": "",
+    "definicion_generada": ""
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.8131015300750732,
+    "recall": 0.8244331479072571,
+    "f1_score": 0.8187282085418701,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria o residente del municipio de Abajo, en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7777632474899292,
+    "recall": 0.7826452255249023,
+    "f1_score": 0.7801965475082397,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Actuar de manera irresponsable, gastando dinero de forma impulsiva o sin control."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7395884990692139,
+    "recall": 0.7480105757713318,
+    "f1_score": 0.7437756657600403,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acto de abandonar o dejar algo sin terminar o sin cuidado en la cultura colombiana."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7162367105484009,
+    "recall": 0.7035108804702759,
+    "f1_score": 0.7098167538642883,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Mover las manos o un objeto para crear corriente de aire o envolver algo suavemente."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7789769172668457,
+    "recall": 0.727407693862915,
+    "f1_score": 0.7523096203804016,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Persona que tiene muchas opciones o recursos disponibles para elegir."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7493872046470642,
+    "recall": 0.7132714986801147,
+    "f1_score": 0.7308834791183472,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Persona que actúa de manera exagerada o que hace alarde de sus habilidades."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.8174877166748047,
+    "recall": 0.8713876008987427,
+    "f1_score": 0.8435775637626648,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Establecimiento donde se venden productos básicos de consumo diario."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7945655584335327,
+    "recall": 0.7618057727813721,
+    "f1_score": 0.7778409123420715,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona trabajadora, diligente y constante en sus actividades."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7371252775192261,
+    "recall": 0.7345858812332153,
+    "f1_score": 0.735853374004364,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Realizar múltiples actividades pequeñas y poco efectivas al mismo tiempo."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7505666017532349,
+    "recall": 0.764586329460144,
+    "f1_score": 0.7575116157531738,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Que causa una impresión profunda y mueve en gran medida la percepción o la emoción."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7624613046646118,
+    "recall": 0.7699021100997925,
+    "f1_score": 0.7661636471748352,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Estar muy lleno o saturado, generalmente de comida o en exceso."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7190085649490356,
+    "recall": 0.6986016035079956,
+    "f1_score": 0.7086582183837891,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que actúa de manera arrogante y prepotente con quienes la rodean."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.8061431646347046,
+    "recall": 0.8129489421844482,
+    "f1_score": 0.8095317482948303,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Recoger o juntar cosas dispersas, especialmente en la calle o en lugares públicos."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7419343590736389,
+    "recall": 0.7312268018722534,
+    "f1_score": 0.7365416884422302,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona perezosa, floja o desganada para realizar actividades o responsabilidades."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7327268719673157,
+    "recall": 0.7214115262031555,
+    "f1_score": 0.7270251512527466,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Persona que comienza a contar su vida o detalles personales de manera indiscreta."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7350465059280396,
+    "recall": 0.7824388742446899,
+    "f1_score": 0.7580026388168335,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Revelar sentimientos o pensamientos que se mantenían ocultos."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7554649114608765,
+    "recall": 0.7424646615982056,
+    "f1_score": 0.7489083409309387,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Asegurar o ajustar algo con un botón, cremallera o hebilla."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7091571092605591,
+    "recall": 0.7347647547721863,
+    "f1_score": 0.7217338681221008,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona mayor, cariñosamente llamada así por su carácter dulce y respetuoso."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7701458930969238,
+    "recall": 0.7249387502670288,
+    "f1_score": 0.7468588352203369,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Lleno o congestionado, con muchas personas o cosas acumuladas."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7287885546684265,
+    "recall": 0.7944775819778442,
+    "f1_score": 0.7602167725563049,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Abajeño: persona originaria o residente de Abajo, región o municipio colombiano; descendiente de esa localidad."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.8339121341705322,
+    "recall": 0.8155431747436523,
+    "f1_score": 0.8246253132820129,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Golpear a alguien con un objeto contundente, causando lesiones."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7493725419044495,
+    "recall": 0.7514628171920776,
+    "f1_score": 0.7504162192344666,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de maniobrar con poca claridad para obtener un favor o beneficio, maniobra discreta."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7528737783432007,
+    "recall": 0.7301493883132935,
+    "f1_score": 0.7413374781608582,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Realizar gestos o movimientos para atraer la atención de alguien, especialmente de manera coqueta."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7822474241256714,
+    "recall": 0.7345051169395447,
+    "f1_score": 0.7576249241828918,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Expresión que indica una amplia variedad de opciones o posibilidades disponibles."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7480582594871521,
+    "recall": 0.705384373664856,
+    "f1_score": 0.7260948419570923,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Abarco es un modismo colombiano que expresa la capacidad de cubrir numerosos temas o responsabilidades."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7777628898620605,
+    "recall": 0.833041787147522,
+    "f1_score": 0.8044537901878357,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Conjunto de tiendas pequeñas de comestibles que venden productos de consumo diario."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7779704332351685,
+    "recall": 0.7557923793792725,
+    "f1_score": 0.7667210698127747,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy trabajadora y diligente, siempre activa y productiva."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.736418604850769,
+    "recall": 0.7514698505401611,
+    "f1_score": 0.7438681125640869,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Abejorrear: molestar persistente y repetidamente, como quien ronda buscando algo."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7780422568321228,
+    "recall": 0.751784086227417,
+    "f1_score": 0.7646878361701965,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Es la cualidad de provocar asombro de gran intensidad."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7498359084129333,
+    "recall": 0.7970283031463623,
+    "f1_score": 0.772712230682373,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona engreída y presumida, que presume de su importancia o poder."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7459359169006348,
+    "recall": 0.6976334452629089,
+    "f1_score": 0.7209765315055847,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Individuo agotado, irritado o hastiado por una situación."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7390244007110596,
+    "recall": 0.7588908672332764,
+    "f1_score": 0.7488259077072144,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "abotar es desechar algo de forma precipitada, sin análisis ni compromiso."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7357197999954224,
+    "recall": 0.7395927906036377,
+    "f1_score": 0.7376512289047241,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Abozao es un término coloquial que describe a una persona cansada y desorientada, sin energía ni motivación."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7570307850837708,
+    "recall": 0.7357773184776306,
+    "f1_score": 0.746252715587616,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Alimento ligero que abre el apetito y sirve como entrante o aperitivo."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7464351058006287,
+    "recall": 0.7963956594467163,
+    "f1_score": 0.770606517791748,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Mantener o albergar una idea, deseo o sospecha, de forma discreta y continua."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7116411328315735,
+    "recall": 0.7911651134490967,
+    "f1_score": 0.7492991089820862,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Abrirse es expresar de forma sincera sentimientos, ideas o experiencias ante otra persona."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7647151947021484,
+    "recall": 0.7597301602363586,
+    "f1_score": 0.7622145414352417,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Cerrar o sujetar algo con botones, broches o un mecanismo, asegurándolo firmemente."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7230355739593506,
+    "recall": 0.7422070503234863,
+    "f1_score": 0.7324958443641663,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Es un apelativo afectuoso para la abuela, una mujer mayor tratada con cariño."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "SciBETO",
+    "precision": 0.7715462446212769,
+    "recall": 0.7286582589149475,
+    "f1_score": 0.7494892477989197,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Abullonado es algo lleno y abarrotado de gente o de objetos."
+  },
+  {
+    "modismo": "N/A",
+    "modelo": "qwen/qwen-2-72b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "definicion_real": "",
+    "definicion_generada": ""
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7621500492095947,
+    "recall": 0.7613153457641602,
+    "f1_score": 0.7617325186729431,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Abandonar precipitadamente un lugar para evitar un problema o responsabilidad."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7307195663452148,
+    "recall": 0.7289527654647827,
+    "f1_score": 0.7298350930213928,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Actividad sencilla ejecutada con fluidez y ausencia de dificultades notables"
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7437381744384766,
+    "recall": 0.7309265732765198,
+    "f1_score": 0.7372767925262451,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona laboriosa que constantemente participa en múltiples actividades laborales"
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7143609523773193,
+    "recall": 0.706932783126831,
+    "f1_score": 0.7106274366378784,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Agitarse o moverse sin rumbo fijo"
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7206571102142334,
+    "recall": 0.7418954372406006,
+    "f1_score": 0.7311220765113831,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Situación que genera profunda consternación o asombro inesperado"
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7073872089385986,
+    "recall": 0.6754651069641113,
+    "f1_score": 0.6910577416419983,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Golpeado repetidamente hasta quedar deshecho"
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7741723656654358,
+    "recall": 0.756729245185852,
+    "f1_score": 0.7653513550758362,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Marchar o escapar rápidamente de un lugar"
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.736852765083313,
+    "recall": 0.7171194553375244,
+    "f1_score": 0.7268521785736084,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Acción de iniciar una conversación o expresar opiniones sin reservas."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7811102867126465,
+    "recall": 0.841167688369751,
+    "f1_score": 0.8100273013114929,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Consiste en escapar rápidamente de un lugar o situación"
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7540836930274963,
+    "recall": 0.7339807152748108,
+    "f1_score": 0.7438964247703552,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Concluir o resolver una situación de manera rápida y efectiva"
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7396239042282104,
+    "recall": 0.7242401242256165,
+    "f1_score": 0.7318511605262756,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona que mantiene costumbres y valores tradicionales de generaciones anteriores"
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7167326211929321,
+    "recall": 0.7055346369743347,
+    "f1_score": 0.711089551448822,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona fatigada debido a labores repetitivas y monótonas."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7672171592712402,
+    "recall": 0.7975311279296875,
+    "f1_score": 0.7820805311203003,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona que vive en una región de clima cálido en Colombia, especialmente en zonas costeras del Caribe."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7632110118865967,
+    "recall": 0.7352472543716431,
+    "f1_score": 0.748968243598938,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "En Colombia, significa trabajar con esfuerzo y dedicación."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.744070291519165,
+    "recall": 0.7500234842300415,
+    "f1_score": 0.747035026550293,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Conmoción o alboroto causado por una noticia impactante."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7353415489196777,
+    "recall": 0.7244577407836914,
+    "f1_score": 0.7298591136932373,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Acción de mover la mano o un objeto de manera similar a como se agita un abanico."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7664462924003601,
+    "recall": 0.7649289965629578,
+    "f1_score": 0.7656869292259216,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "En Colombia, 'abanico' puede aludir a los senos de una mujer, destacando su tamaño y forma."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.734539270401001,
+    "recall": 0.7032611966133118,
+    "f1_score": 0.7185600399971008,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Termino coloquial que indica estar muy enamorado o ilusionado por alguien."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.6878736019134521,
+    "recall": 0.744172215461731,
+    "f1_score": 0.7149162888526917,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "En Colombia, 'abarrotes' se usa para referirse a mercancías o provisiones en general, especialmente las que se venden en tiendas de barrio o almacenes de productos variados."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7312905192375183,
+    "recall": 0.7422510981559753,
+    "f1_score": 0.7367300391197205,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona inquieta y trabajadora; también, en un contexto negativo, indica alguien entrometido y chismoso."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7612384557723999,
+    "recall": 0.7444478273391724,
+    "f1_score": 0.752749502658844,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Hacer tareas de manera dispersa y sin concentración."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7732971906661987,
+    "recall": 0.7918313145637512,
+    "f1_score": 0.7824544906616211,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Califica algo que causa profunda impresión o admiración por su magnitud o belleza."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7507259845733643,
+    "recall": 0.7921698689460754,
+    "f1_score": 0.7708913087844849,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "En Colombia, \"abombado\" se usa para describir a alguien que está engañado o creyendo algo falso."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7275992035865784,
+    "recall": 0.6768105030059814,
+    "f1_score": 0.7012865543365479,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Estado de suma sorpresa, confusión o asombro."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.758122444152832,
+    "recall": 0.7787642478942871,
+    "f1_score": 0.7683047652244568,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Fastidiar, importunar o causar molestia a alguien con insistencia."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7410477995872498,
+    "recall": 0.7505835294723511,
+    "f1_score": 0.7457851767539978,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Estado de ebriedad avanzada o completa, donde la persona no puede mantener el equilibrio ni articular palabras con claridad."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7452059984207153,
+    "recall": 0.7466455698013306,
+    "f1_score": 0.7459251284599304,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "En Colombia, 'abrebocas' se usa para denominar alimentos o bebidas que se consumen antes de la comida principal para abrir el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7779484391212463,
+    "recall": 0.822431206703186,
+    "f1_score": 0.7995715737342834,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Proteger a alguien del frío o de algún daño potencial."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7329026460647583,
+    "recall": 0.8070223927497864,
+    "f1_score": 0.7681787610054016,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Empezar a prosperar o obtener éxito en una actividad, especialmente en el contexto de negocios o emprendimientos."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.763532280921936,
+    "recall": 0.7346315979957581,
+    "f1_score": 0.7488031387329102,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Cumplir una promesa o compromiso, especialmente si implica ofrecer algo."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7274450063705444,
+    "recall": 0.7503151893615723,
+    "f1_score": 0.7387031316757202,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Término cariñoso para referirse a una persona mayor, no necesariamente un familiar directo."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "SciBETO",
+    "precision": 0.7570580244064331,
+    "recall": 0.7253355383872986,
+    "f1_score": 0.7408573627471924,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "En apuros, confundido o desordenado en su estado o actividades."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.767465353012085,
+    "recall": 0.7662854194641113,
+    "f1_score": 0.7668749094009399,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Agitación, bulla o problema, generalmente entre dos o más personas."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7254078984260559,
+    "recall": 0.6908762454986572,
+    "f1_score": 0.7077211141586304,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Molestar o fastidiar a alguien con insistencia."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7746708393096924,
+    "recall": 0.7251659631729126,
+    "f1_score": 0.7491013407707214,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Persona muy habladora que cuenta todos los secretos."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7591384649276733,
+    "recall": 0.6936878561973572,
+    "f1_score": 0.7249388694763184,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Persona que se enferma fácilmente o tiene mucha debilidad física."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7630630135536194,
+    "recall": 0.8093302845954895,
+    "f1_score": 0.7855159044265747,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Alimentos y productos no perecederos."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.792566180229187,
+    "recall": 0.7249167561531067,
+    "f1_score": 0.7572335004806519,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona trabajadora y muy activa."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.8169259428977966,
+    "recall": 0.7713180780410767,
+    "f1_score": 0.7934671640396118,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Perseguir a alguien con insistencia y molestia."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7316325902938843,
+    "recall": 0.7322536706924438,
+    "f1_score": 0.7319430112838745,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Desordenado, caótico o extremadamente sucio"
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7489253282546997,
+    "recall": 0.7458575963973999,
+    "f1_score": 0.7473883628845215,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Muy gordo o abultado."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7392469048500061,
+    "recall": 0.6885137557983398,
+    "f1_score": 0.7129789590835571,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona molesta o pesada que no cede en su posición."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.8192086219787598,
+    "recall": 0.8093442916870117,
+    "f1_score": 0.8142465353012085,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Señalar o descubrir a alguien en un lugar público."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7159465551376343,
+    "recall": 0.7068502902984619,
+    "f1_score": 0.7113693356513977,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Iniciación o introducción a algo placentero o delicioso"
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.8101598620414734,
+    "recall": 0.825279712677002,
+    "f1_score": 0.8176498413085938,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Albergar o guardar algo con cuidado."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.6935703754425049,
+    "recall": 0.7614110708236694,
+    "f1_score": 0.7259091138839722,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Tomar confianza o desarrollar una mayor facundia al hablar"
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7723656892776489,
+    "recall": 0.721430778503418,
+    "f1_score": 0.7460298538208008,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Acabar o terminar algo de manera definitiva."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.699446439743042,
+    "recall": 0.7247368097305298,
+    "f1_score": 0.7118670344352722,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Apelativo cariñoso para referirse a algo o alguien"
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "SciBETO",
+    "precision": 0.7482926249504089,
+    "recall": 0.7067297101020813,
+    "f1_score": 0.7269175052642822,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Enfadado o molesto por algo."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.8399208784103394,
+    "recall": 0.8694158792495728,
+    "f1_score": 0.8544138669967651,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria de regiones bajas o de tierras cálidas en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.8198320865631104,
+    "recall": 0.8285440802574158,
+    "f1_score": 0.8241650462150574,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar repetidamente hacia alguien o algo con intención de herir o matar"
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7082124352455139,
+    "recall": 0.7330051064491272,
+    "f1_score": 0.7203955054283142,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de hablar mucho y de manera indisciplinada o sin sustancia"
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.703432023525238,
+    "recall": 0.6852448582649231,
+    "f1_score": 0.6942193508148193,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Halagar o adular a alguien para obtener algo de él"
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7500671148300171,
+    "recall": 0.7217597961425781,
+    "f1_score": 0.7356412410736084,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Variedad de opciones o posibilidades presentadas de manera amplia y diversa."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.700340986251831,
+    "recall": 0.7002724409103394,
+    "f1_score": 0.7003067135810852,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Acción de abrazar o rodear algo o alguien con los brazos."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7611020803451538,
+    "recall": 0.7821391820907593,
+    "f1_score": 0.771477222442627,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Conjunto de productos alimenticios y artículos de primera necesidad para el hogar."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.8003193736076355,
+    "recall": 0.7689337730407715,
+    "f1_score": 0.7843127250671387,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy trabajadora y activa en diversas actividades o tareas."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7791617512702942,
+    "recall": 0.7889959216117859,
+    "f1_score": 0.7840480208396912,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar o importunar insistentemente a alguien con palabras o acciones."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7817914485931396,
+    "recall": 0.7801327109336853,
+    "f1_score": 0.7809611558914185,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Algo que causa gran asombro o sorpresa por su magnitud o características extraordinarias."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.8067293763160706,
+    "recall": 0.8435514569282532,
+    "f1_score": 0.8247296214103699,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Dicho de una persona, que ha perdido la claridad mental o está aturdida."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7383365631103516,
+    "recall": 0.7177647352218628,
+    "f1_score": 0.7279053330421448,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que se viste de manera descuidada o con ropa arrugada y desordenada."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7899222373962402,
+    "recall": 0.7983416318893433,
+    "f1_score": 0.7941096425056458,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Llenar o hartar a alguien con algo, generalmente comida o bebida."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7617478966712952,
+    "recall": 0.7382073402404785,
+    "f1_score": 0.7497928738594055,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que está en una situación difícil o comprometida, generalmente por deudas o problemas financieros."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7065236568450928,
+    "recall": 0.6875262260437012,
+    "f1_score": 0.6968954801559448,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Persona o situación que genera gran expectación o curiosidad"
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7380203008651733,
+    "recall": 0.7992527484893799,
+    "f1_score": 0.7674170136451721,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Albergar o dar refugio a alguien o algo, generalmente con connotación de protección o resguardo."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7094537019729614,
+    "recall": 0.8555185198783875,
+    "f1_score": 0.7756696939468384,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Marcharse o alejarse de un lugar o situación de manera voluntaria o intempestiva"
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.771420419216156,
+    "recall": 0.7186013460159302,
+    "f1_score": 0.7440747618675232,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Lograr algo o alguien de manera efectiva o contundente."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7540984749794006,
+    "recall": 0.735828161239624,
+    "f1_score": 0.744851291179657,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona que fuma marihuana de manera habitual y con frecuencia."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "SciBETO",
+    "precision": 0.7612515687942505,
+    "recall": 0.7331637144088745,
+    "f1_score": 0.7469437122344971,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona o cosa que está hinchada o abultada de manera exagerada o ridícula."
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abajeño",
+      "output": {
+        "definicion": "Persona originaria o residente del municipio de Abajo, en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abalear",
+      "output": {
+        "definicion": "Actuar de manera irresponsable, gastando dinero de forma impulsiva o sin control."
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abaleo",
+      "output": {
+        "definicion": "Acto de abandonar o dejar algo sin terminar o sin cuidado en la cultura colombiana."
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanicar",
+      "output": {
+        "definicion": "Mover las manos o un objeto para crear corriente de aire o envolver algo suavemente."
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanico",
+      "output": {
+        "definicion": "Persona que tiene muchas opciones o recursos disponibles para elegir."
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarco",
+      "output": {
+        "definicion": "Persona que actúa de manera exagerada o que hace alarde de sus habilidades."
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarrotes",
+      "output": {
+        "definicion": "Establecimiento donde se venden productos básicos de consumo diario."
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abeja",
+      "output": {
+        "definicion": "Persona trabajadora, diligente y constante en sus actividades."
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abejorrear",
+      "output": {
+        "definicion": "Realizar múltiples actividades pequeñas y poco efectivas al mismo tiempo."
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abismante",
+      "output": {
+        "definicion": "Que causa una impresión profunda y mueve en gran medida la percepción o la emoción."
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abombado",
+      "output": {
+        "definicion": "Estar muy lleno o saturado, generalmente de comida o en exceso."
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aborrajado",
+      "output": {
+        "definicion": "Persona que actúa de manera arrogante y prepotente con quienes la rodean."
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abotar",
+      "output": {
+        "definicion": "Recoger o juntar cosas dispersas, especialmente en la calle o en lugares públicos."
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abozao",
+      "output": {
+        "definicion": "Persona perezosa, floja o desganada para realizar actividades o responsabilidades."
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrebocas",
+      "output": {
+        "definicion": "Persona que comienza a contar su vida o detalles personales de manera indiscreta."
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrigar\",\n  \"output\": {\n    \"definicion\": Ofrecer protección o refugio contra las inclemencias del tiempo. \n  }\n}"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrirse",
+      "output": {
+        "definicion": "Revelar sentimientos o pensamientos que se mantenían ocultos."
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrochar",
+      "output": {
+        "definicion": "Asegurar o ajustar algo con un botón, cremallera o hebilla."
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abuelita",
+      "output": {
+        "definicion": "Persona mayor, cariñosamente llamada así por su carácter dulce y respetuoso."
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "openai/gpt-4.1-nano",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abullonado",
+      "output": {
+        "definicion": "Lleno o congestionado, con muchas personas o cosas acumuladas."
+      }
+    }
+  }
+]

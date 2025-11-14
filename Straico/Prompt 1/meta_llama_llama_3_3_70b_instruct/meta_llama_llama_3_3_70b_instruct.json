@@ -1,0 +1,222 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abajeño",
+      "output": {
+        "definicion": "Habitante del bajo Magdalena"
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abalear",
+      "output": {
+        "definicion": "Aprender o estudiar de memoria."
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abaleo",
+      "output": {
+        "definicion": "Gesto de desdén o desinterés"
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanicar",
+      "output": {
+        "definicion": "Mover una prenda para refrescarse."
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanico",
+      "output": {
+        "definicion": "Persona que golpea a otra con la mano abierta."
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarco",
+      "output": {
+        "definicion": "Cobertura total de algo."
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarrotes",
+      "output": {
+        "definicion": "Comida poco saludable o de mala calidad"
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abeja",
+      "output": {
+        "definicion": "Persona muy trabajadora y aplicada."
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abejorrear",
+      "output": {
+        "definicion": "Trabajar con dedicación y esfuerzo constante."
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abismante",
+      "output": {
+        "definicion": "Profundo y enorme."
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abombado",
+      "output": {
+        "definicion": "Lleno de aire o hinchado excesivamente."
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aborrajado",
+      "output": {
+        "definicion": "Muy cansado o exhausto"
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abotar",
+      "output": {
+        "definicion": "Impulsar o empujar con fuerza algo."
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abozao",
+      "output": {
+        "definicion": "Abrazado fuertemente a alguien."
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrebocas",
+      "output": {
+        "definicion": "Aperitivo o bebida que se toma antes de una comida."
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrigar",
+      "output": {
+        "definicion": "Albergar o tener un sentimiento o idea."
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrirse",
+      "output": {
+        "definicion": "Desenvolverse o hablar con libertad."
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrochar",
+      "output": {
+        "definicion": "Poner o cerrar un broche o cierre."
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abuelita",
+      "output": {
+        "definicion": "Término cariñoso para abuela"
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abullonado",
+      "output": {
+        "definicion": "Muy enojado o molesto."
+      }
+    }
+  }
+]

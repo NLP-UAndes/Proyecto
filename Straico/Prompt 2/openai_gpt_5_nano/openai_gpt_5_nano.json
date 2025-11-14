@@ -1,0 +1,222 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abajeño",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abalear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abaleo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanicar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanico",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarrotes",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abeja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abejorrear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abismante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abombado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aborrajado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abotar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abozao",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrebocas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrigar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrirse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrochar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abuelita",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "openai/gpt-5-nano",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abullonado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  }
+]

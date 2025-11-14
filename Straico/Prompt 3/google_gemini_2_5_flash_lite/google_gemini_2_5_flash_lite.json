@@ -1,0 +1,162 @@
+[
+  {
+    "modismo": "abajeño",
+    "ejemplo": "Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abajeño\",\n    \"ejemplo\": \"Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago.\"\n  },\n  \"output\": {\n    \"literal\": \"gente del bajo\",\n    \"definicion\": \"Persona originaria de una región baja o costera.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abalear",
+    "ejemplo": "El funcionario resultó ileso a pesar de que el avión en que se dirigía a la capital del departamento fue abaleado.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abalear\",\n    \"ejemplo\": \"El funcionario resultó ileso a pesar de que el avión en que se dirigía a la capital del departamento fue abaleado.\"\n  },\n  \"output\": {\n    \"literal\": \"recibió disparos\",\n    \"definicion\": \"El objeto recibió proyectiles de arma de fuego.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "ejemplo": "Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abaleo\",\n    \"ejemplo\": \"Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía.\"\n  },\n  \"output\": {\n    \"literal\": \"disparos\",\n    \"definicion\": \"Sonidos de armas de fuego.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "ejemplo": "El bateador se ponchó abanicando el tercer lanzamiento.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abanicar\",\n    \"ejemplo\": \"El bateador se ponchó abanicando el tercer lanzamiento.\"\n  },\n  \"output\": {\n    \"literal\": \"falló al golpear\",\n    \"definicion\": \"El deportista no logró impactar la pelota con el bate.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanico",
+    "ejemplo": "No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abanico\",\n    \"ejemplo\": \"No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante.\"\n  },\n  \"output\": {\n    \"literal\": \"ventilador\",\n    \"definicion\": \"Aparato rotatorio que mueve aire para refrescar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarco",
+    "ejemplo": "Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abarco\",\n    \"ejemplo\": \"Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales.\"\n  },\n  \"output\": {\n    \"literal\": \"tipo de árbol\",\n    \"definicion\": \"Nombre de una especie arbórea tropical empleada para obtener madera.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "ejemplo": "El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abarrotes\",\n    \"ejemplo\": \"El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos.\"\n  },\n  \"output\": {\n    \"literal\": \"víveres\",\n    \"definicion\": \"Productos alimenticios básicos y comestibles.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abeja",
+    "ejemplo": "Llegaste sin problemas al sitio: no contaban con que eres una abeja y que siempre cargas un mapa del lugar a donde vas.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abeja\",\n    \"ejemplo\": \"Llegaste sin problemas al sitio: no contaban con que eres una abeja y que siempre cargas un mapa del lugar a donde vas.\"\n  },\n  \"output\": {\n    \"literal\": \"persona organizada\",\n    \"definicion\": \"Individuo que se anticipa con conocimiento y preparación a los eventos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "ejemplo": "Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abejorrear\",\n    \"ejemplo\": \"Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen.\"\n  },\n  \"output\": {\n    \"literal\": \"molestar insistentemente\",\n    \"definicion\": \"Generar fastidio o incomodidad con persistencia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abismante",
+    "ejemplo": "Después de todo, el poder adquisitivo de los latinos y los asiáticos está creciendo de manera abismante en ese país.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abismante\",\n    \"ejemplo\": \"Después de todo, el poder adquisitivo de los latinos y los asiáticos está creciendo de manera abismante en ese país.\"\n  },\n  \"output\": {\n    \"literal\": \"muy grande\",\n    \"definicion\": \"Magnitud o cantidad considerablemente superior.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abombado",
+    "ejemplo": "Juan no se comió la carne porque estaba abombada.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abombado\",\n    \"ejemplo\": \"Juan no se comió la carne porque estaba abombada.\"\n  },\n  \"output\": {\n    \"literal\": \"dañado\",\n    \"definicion\": \"Producto o alimento en estado de deterioro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "ejemplo": "El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"aborrajado\",\n    \"ejemplo\": \"El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'.\"\n  },\n  \"output\": {\n    \"literal\": \"plato frito dulce\",\n    \"definicion\": \"Alimento frito, usualmente a base de plátano maduro y queso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abotar",
+    "ejemplo": "Niña, abótese que la puede atropellar el carro.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abotar\",\n    \"ejemplo\": \"Niña, abótese que la puede atropellar el carro.\"\n  },\n  \"output\": {\n    \"literal\": \"retírese\",\n    \"definicion\": \"Persona, aléjese del peligro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abozao",
+    "ejemplo": "El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abozao\",\n    \"ejemplo\": \"El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano.\"\n  },\n  \"output\": {\n    \"literal\": \"ritmo folclórico\",\n    \"definicion\": \"Patrón musical propio de una región. Forma parte de danza costeña.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "ejemplo": "Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrebocas\",\n    \"ejemplo\": \"Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños.\"\n  },\n  \"output\": {\n    \"literal\": \"entrada previa\",\n    \"definicion\": \"Contenido que precede a un evento principal.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "ejemplo": "Le voy a abrigar la arepita para que le sepa más rico.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrigar\",\n    \"ejemplo\": \"Le voy a abrigar la arepita para que le sepa más rico.\"\n  },\n  \"output\": {\n    \"literal\": \"ponerle relleno\",\n    \"definicion\": \"Colocar un interior en el alimento.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "ejemplo": "No nos venga a engañar otra vez con sus cuentos, ábrase.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrirse\",\n    \"ejemplo\": \"No nos venga a engañar otra vez con sus cuentos, ábrase.\"\n  },\n  \"output\": {\n    \"literal\": \"vete de aquí\",\n    \"definicion\": \"Orden para que alguien abandone un lugar o situación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "ejemplo": "Ponte a hacer la tarea, antes de que alguien llegue y te abroche.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrochar\",\n    \"ejemplo\": \"Ponte a hacer la tarea, antes de que alguien llegue y te abroche.\"\n  },\n  \"output\": {\n    \"literal\": \"te regañe\",\n    \"definicion\": \"Persona que censura severamente a otra por una falla.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "ejemplo": "Trate de viajar en horarios que no haya congestión. Empaque un cargador de bebé, una abuelita cómoda o un coche portátil tipo paraguas.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abuelita\",\n    \"ejemplo\": \"Trate de viajar en horarios que no haya congestión. Empaque un cargador de bebé, una abuelita cómoda o un coche portátil tipo paraguas.\"\n  },\n  \"output\": {\n    \"literal\": \"coche de bebé\",\n    \"definicion\": \"Vehículo pequeño para transportar a un bebé.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "ejemplo": "Mientras se acomoda en el abullonado sofá, sufre un remezón sentimental enorme.",
+    "model": "google/gemini-2.5-flash-lite",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abullonado\",\n    \"ejemplo\": \"Mientras se acomoda en el abullonado sofá, sufre un remezón sentimental enorme.\"\n  },\n  \"output\": {\n    \"literal\": \"suave y acolchado\",\n    \"definicion\": \"Superficie blanda con relleno o almohadillado.\"\n  }\n}\n```"
+    }
+  }
+]

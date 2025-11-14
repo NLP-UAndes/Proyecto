@@ -1,0 +1,218 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abajeño",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abalear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abaleo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanicar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanico",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarrotes",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abeja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abejorrear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abismante",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "raw_response": "{\n  \"es_modismo\": \"Sí\"\n  \"prompt_id\": \"P2\",\n  \"input\": \"abombado\",\n  \"output\": {\n    }\n}"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aborrajado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abotar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abozao",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrebocas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrigar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrirse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrochar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abuelita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "meta-llama/llama-3.1-70b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abullonado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  }
+]

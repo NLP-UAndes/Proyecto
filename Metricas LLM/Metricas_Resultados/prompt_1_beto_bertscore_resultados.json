@@ -1,0 +1,3272 @@
+[
+  {
+    "modismo": "abajeño",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.40980690717697144,
+    "recall": 0.4383719265460968,
+    "f1_score": 0.4236083924770355,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria de la región del Bajo Magdalena en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.43199318647384644,
+    "recall": 0.4088980555534363,
+    "f1_score": 0.4201284945011139,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Insistir o presionar con insistencia en algo."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.4862706661224365,
+    "recall": 0.46641892194747925,
+    "f1_score": 0.4761379659175873,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de moverse o bailar con ritmos animados y desenfadados."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.42024940252304077,
+    "recall": 0.3863792419433594,
+    "f1_score": 0.4026032090187073,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Promover o impulsar algo con entusiasmo."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.4888496994972229,
+    "recall": 0.4707684814929962,
+    "f1_score": 0.4796387255191803,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Modismo que representa una amplia variedad de opciones o posibilidades."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.3126952052116394,
+    "recall": 0.2861127257347107,
+    "f1_score": 0.29881393909454346,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Incluir o abarcar todos los aspectos de un asunto."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.4972763657569885,
+    "recall": 0.5033403635025024,
+    "f1_score": 0.5002899765968323,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Tiendecitas que venden productos básicos y comestibles a precios bajos."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.40461230278015137,
+    "recall": 0.3928568959236145,
+    "f1_score": 0.3986479640007019,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona que trabaja arduamente y es muy productiva."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.45746660232543945,
+    "recall": 0.4457259774208069,
+    "f1_score": 0.4515199661254883,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Ir de un lugar a otro con prisa."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.6133319139480591,
+    "recall": 0.6402671933174133,
+    "f1_score": 0.6265101432800293,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Modismo que indica sorpresa o admiración ante algo impresionante."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.40989944338798523,
+    "recall": 0.40567001700401306,
+    "f1_score": 0.40777379274368286,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona con gran autoestima y confianza en sí misma."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.36422067880630493,
+    "recall": 0.3297971785068512,
+    "f1_score": 0.34615519642829895,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que está muy cansada o agotada"
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.45197993516921997,
+    "recall": 0.449104368686676,
+    "f1_score": 0.4505375623703003,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Terminar en una situación inesperada o desfavorable"
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.5267382264137268,
+    "recall": 0.4739753007888794,
+    "f1_score": 0.4989657700061798,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que tiene conocimientos básicos y superficiales sobre un tema."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.44341138005256653,
+    "recall": 0.45116809010505676,
+    "f1_score": 0.4472561180591583,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Comida o plato que sirve como inicio o preludio a una comida."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.43989628553390503,
+    "recall": 0.4498853385448456,
+    "f1_score": 0.44483473896980286,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "proteger o abrigar a alguien con ropa o abrigo"
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.3562074899673462,
+    "recall": 0.38452765345573425,
+    "f1_score": 0.36982619762420654,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Indicar que alguien revela o muestra algo que antes ocultaba."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.43923959136009216,
+    "recall": 0.4394981861114502,
+    "f1_score": 0.4393688440322876,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Abrochar significa tomar una decisión definitiva y comprometerse con ella."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.39636877179145813,
+    "recall": 0.38597244024276733,
+    "f1_score": 0.39110150933265686,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona mayor, generalmente una mujer de edad avanzada."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "amazon/nova-micro-v1",
+    "bert_model": "BETO",
+    "precision": 0.5058370232582092,
+    "recall": 0.4219055771827698,
+    "f1_score": 0.4600747227668762,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona que está muy agitada o nerviosa."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.299913614988327,
+    "recall": 0.34146472811698914,
+    "f1_score": 0.319343239068985,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona resiliente y adaptable acostumbrada a industrializar y resolver problemáticas en entornos rurales."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.47271567583084106,
+    "recall": 0.45707279443740845,
+    "f1_score": 0.4647626578807831,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Proceso de seleccionar bestias durante el rodeo para asignar sus cuartos con valor, típico en festivales de ganadería en Colombia."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.5147155523300171,
+    "recall": 0.45588117837905884,
+    "f1_score": 0.483515202999115,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Movimiento rápido dentro de un grupo para extraer beneficios o ventajas."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.44569653272628784,
+    "recall": 0.43529701232910156,
+    "f1_score": 0.44043537974357605,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Cantar algo adaptado de otra canción, usualmente con modificaciones humorísticas o personales."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.35414811968803406,
+    "recall": 0.32040703296661377,
+    "f1_score": 0.33643367886543274,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Conocimiento completo o entendimiento de una situación o asunto."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.3841816782951355,
+    "recall": 0.4325430989265442,
+    "f1_score": 0.406930536031723,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "La palabra 'abarrotes' utilizado para describir situaciones comerciales complejas o desorganizadas."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.4801980257034302,
+    "recall": 0.47145551443099976,
+    "f1_score": 0.47578659653663635,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Enjambre de personas o bastantes. Refiere a invadir o abrumar."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.46986380219459534,
+    "recall": 0.4237924814224243,
+    "f1_score": 0.44564059376716614,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Pagar deudas desde que se pagaba con café en la bolsa."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.6705134510993958,
+    "recall": 0.6776965856552124,
+    "f1_score": 0.6740858554840088,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Dicho de una situación o hecho impactante, sorprendente o difícil de aceptar."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.6301696300506592,
+    "recall": 0.6728129386901855,
+    "f1_score": 0.6507934927940369,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Se usa para describir algo que está hinchado o en mal estado, como un neumático."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.37894853949546814,
+    "recall": 0.3154217600822449,
+    "f1_score": 0.3442791700363159,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Estación sin puntos significativos en la conversación, indicando falta de experiencia."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.4712454378604889,
+    "recall": 0.48647749423980713,
+    "f1_score": 0.4787403345108032,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Romper en pedazos con golpes, generalmente entretejido o cualquier material crujiente."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.407423734664917,
+    "recall": 0.3725128173828125,
+    "f1_score": 0.38918694853782654,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Muy mojado o manchado, generalmente por agua o algún líquido."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.4622560143470764,
+    "recall": 0.45592427253723145,
+    "f1_score": 0.45906832814216614,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Comida o bebida que se ofrece antes de la comida principal para estimular el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.3277629017829895,
+    "recall": 0.3509061932563782,
+    "f1_score": 0.33893993496894836,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Proveer protección, cobertura o apoyo a alguien o algo."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.3104557394981384,
+    "recall": 0.3588128685951233,
+    "f1_score": 0.33288732171058655,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Referirse a una persona que habla abierta y libremente sobre temas personales u otros."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.42722371220588684,
+    "recall": 0.4463830292224884,
+    "f1_score": 0.43659329414367676,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Asegurar, generalmente con un botón o hebillas, algo como ropa o cinturón."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.46820706129074097,
+    "recall": 0.4814056158065796,
+    "f1_score": 0.47471463680267334,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Se afirma ser más hábil o astuto que una persona de avanzada edad."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "microsoft/phi-4",
+    "bert_model": "BETO",
+    "precision": 0.47886818647384644,
+    "recall": 0.4265134930610657,
+    "f1_score": 0.45117712020874023,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona que se presume intelectual pero habla con pretensiones sin fundamento."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.38890066742897034,
+    "recall": 0.42979663610458374,
+    "f1_score": 0.40832722187042236,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria de la región del Bajo Cauca, Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.5152800679206848,
+    "recall": 0.4580644369125366,
+    "f1_score": 0.48499059677124023,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Atacar o criticar a alguien con dureza."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.5146687030792236,
+    "recall": 0.4244968593120575,
+    "f1_score": 0.46525394916534424,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Confusión o desorden en una situación."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.5199333429336548,
+    "recall": 0.44524621963500977,
+    "f1_score": 0.47970008850097656,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Hacer circular el aire con movimientos rápidos."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.5011566877365112,
+    "recall": 0.4516666531562805,
+    "f1_score": 0.47512638568878174,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Información adicional innecesaria o irrelevante."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.2798597812652588,
+    "recall": 0.2576701045036316,
+    "f1_score": 0.2683069407939911,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Comprender o abarcar algo completamente."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.4894793629646301,
+    "recall": 0.5119261145591736,
+    "f1_score": 0.5004511475563049,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Artículos de aprovisionamiento para el hogar."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.4604622721672058,
+    "recall": 0.44720199704170227,
+    "f1_score": 0.45373526215553284,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona que trabaja incansablemente para obtener algo."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.46673333644866943,
+    "recall": 0.46447741985321045,
+    "f1_score": 0.46560266613960266,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Distraerse o perder el tiempo sin un propósito claro."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.5892274379730225,
+    "recall": 0.5422537326812744,
+    "f1_score": 0.5647655129432678,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Indican una gran cantidad o medida."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.5408471822738647,
+    "recall": 0.5600311756134033,
+    "f1_score": 0.5502720475196838,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Hinchado o exagerado en forma o apariencia."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.3640405237674713,
+    "recall": 0.2853584289550781,
+    "f1_score": 0.31993287801742554,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Muy cansado o agotado."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.5098899602890015,
+    "recall": 0.437867671251297,
+    "f1_score": 0.4711422622203827,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Acumular o guardar algo, especialmente alimentos."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.3884119689464569,
+    "recall": 0.29889869689941406,
+    "f1_score": 0.33782634139060974,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Muy cansado o agotado."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.49117058515548706,
+    "recall": 0.4380972981452942,
+    "f1_score": 0.4631183445453644,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Comida ligera antes de la principal"
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.348602294921875,
+    "recall": 0.3549234867095947,
+    "f1_score": 0.3517344892024994,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Proteger o mantener algo o a alguien."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.3068943917751312,
+    "recall": 0.3390476405620575,
+    "f1_score": 0.32217076420783997,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Mostrar sinceridad o franqueza en las palabras o acciones."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.5483146905899048,
+    "recall": 0.5086826682090759,
+    "f1_score": 0.5277556777000427,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Completar o finalizar algo de manera efectiva."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.44627195596694946,
+    "recall": 0.41751378774642944,
+    "f1_score": 0.4314141571521759,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona de edad avanzada, generalmente referida con afecto."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "amazon/nova-lite-v1",
+    "bert_model": "BETO",
+    "precision": 0.5450888872146606,
+    "recall": 0.4195595979690552,
+    "f1_score": 0.4741567075252533,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Muy lleno o repleto de algo."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.4721064269542694,
+    "recall": 0.49584490060806274,
+    "f1_score": 0.48368459939956665,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona oriunda del sur de Colombia, generalmente zonas rurales y montañosas."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.6727375984191895,
+    "recall": 0.6809148788452148,
+    "f1_score": 0.6768015623092651,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar con una bala a alguien o algo con fines agresivos o destructivos."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.42852404713630676,
+    "recall": 0.4055321216583252,
+    "f1_score": 0.4167111814022064,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Accidente o caída que ocasiona daños o lesiones."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.524054229259491,
+    "recall": 0.4634535014629364,
+    "f1_score": 0.4918944239616394,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Mover el aire con un abanico para refrescarse."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.5339226126670837,
+    "recall": 0.45506343245506287,
+    "f1_score": 0.4913490414619446,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Instrumento para refrescar."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.4095313549041748,
+    "recall": 0.36456745862960815,
+    "f1_score": 0.38574355840682983,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Logro comprender o abarcar una amplia gama de temas o conocimientos."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.507829487323761,
+    "recall": 0.5043864250183105,
+    "f1_score": 0.5061020851135254,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Articulos varios o de primera necesidad como comestibles, bebidas, productos de limpieza."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.4380226731300354,
+    "recall": 0.41529378294944763,
+    "f1_score": 0.4263555109500885,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona encantadora, sociável y agradable."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.46538281440734863,
+    "recall": 0.45969244837760925,
+    "f1_score": 0.4625200927257538,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Abejorrear: mudarse o salir de forma repentina con mucha rapidez."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.7303279638290405,
+    "recall": 0.7162504196166992,
+    "f1_score": 0.7232206463813782,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Expresión para referirse a una persona o cosa fascinante o impactante."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.5541883111000061,
+    "recall": 0.5502902269363403,
+    "f1_score": 0.5522323846817017,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Estado de emoción intensa o impacto causado por una sorpresa o emoción."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.46130096912384033,
+    "recall": 0.39765602350234985,
+    "f1_score": 0.4271205961704254,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Describir algo que está repleto o inchado."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.4833256006240845,
+    "recall": 0.4644235372543335,
+    "f1_score": 0.4736860692501068,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Acto de cerrar o apagar algo, como un botón o un objeto similar."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.5152184963226318,
+    "recall": 0.48776504397392273,
+    "f1_score": 0.5011160373687744,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que actúa con superioridad o soberbia, especialmente en política."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.501044750213623,
+    "recall": 0.49565428495407104,
+    "f1_score": 0.49833494424819946,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Secuencia que incita a continuar con algo, ofreciendo una introducción atractiva."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.2267240285873413,
+    "recall": 0.26526618003845215,
+    "f1_score": 0.24448542296886444,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Terminación temprana de una relación interpersonal."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.4461492598056793,
+    "recall": 0.4129576086997986,
+    "f1_score": 0.4289122223854065,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Abrochar es consumir al máximo, dejar algo en estado inservible."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.37789374589920044,
+    "recall": 0.4120468199253082,
+    "f1_score": 0.39423197507858276,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Anciana o mujer mayor con un parentesco cercano de abuelo o abuela."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "cohere/command-r-08-2024",
+    "bert_model": "BETO",
+    "precision": 0.6978528499603271,
+    "recall": 0.5887556672096252,
+    "f1_score": 0.6386789083480835,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Describir algo abullonado, significa recurrir a una cualidad de algo hinchado o abultado."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.5045371055603027,
+    "recall": 0.5513554811477661,
+    "f1_score": 0.526908278465271,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona oriunda de las tierras bajas de un país o región."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.799261748790741,
+    "recall": 0.7355063557624817,
+    "f1_score": 0.7660598158836365,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar repetidamente contra alguien o algo con un arma de fuego."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.5766572952270508,
+    "recall": 0.6153028011322021,
+    "f1_score": 0.5953535437583923,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "En Colombia, 'abaleo' se refiere a una balacera o un enfrentamiento con armas de fuego."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.46648287773132324,
+    "recall": 0.41560596227645874,
+    "f1_score": 0.4395771920681,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Descubrir o revelar información confidencial o secreta, usualmente de manera involuntaria."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.4314559996128082,
+    "recall": 0.42747002840042114,
+    "f1_score": 0.4294537305831909,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "En Colombia, 'abanico' se refiere a un conjunto diverso de opciones o posibilidades disponibles."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.4490288496017456,
+    "recall": 0.4266550540924072,
+    "f1_score": 0.43755611777305603,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Calzado rústico, usualmente de cuero, que cubre solo la planta del pie y se asegura con correas o cuerdas."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.5076469779014587,
+    "recall": 0.5211684703826904,
+    "f1_score": 0.5143188834190369,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Conjunto de productos básicos de consumo, especialmente alimentos y artículos para el hogar."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.4547681510448456,
+    "recall": 0.42021459341049194,
+    "f1_score": 0.43680912256240845,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy activa y trabajadora."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.44202661514282227,
+    "recall": 0.5238543748855591,
+    "f1_score": 0.47947433590888977,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar o importunar a alguien de forma insistente, similar al zumbido constante de un abejorro."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.6704831123352051,
+    "recall": 0.6906522512435913,
+    "f1_score": 0.6804182529449463,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Se usa para describir algo que causa gran asombro o sorpresa debido a su magnitud o intensidad."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.5557593107223511,
+    "recall": 0.5936530828475952,
+    "f1_score": 0.574081540107727,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Se dice de alguien aturdido, confundido o que tiene dificultad para comprender algo."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.5890622138977051,
+    "recall": 0.5838335752487183,
+    "f1_score": 0.5864362716674805,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona o cosa cubierta o rebozada en una masa, usualmente de harina y huevo, para freír."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.5593573451042175,
+    "recall": 0.5499982833862305,
+    "f1_score": 0.5546383261680603,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Hincharse o inflarse, usualmente refiriéndose a una parte del cuerpo o a un alimento descompuesto."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.4671979248523712,
+    "recall": 0.4623180031776428,
+    "f1_score": 0.4647451341152191,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que actúa de manera astuta y taimada para obtener un beneficio."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.45452880859375,
+    "recall": 0.44547438621520996,
+    "f1_score": 0.4499560594558716,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Alimento ligero que se sirve para estimular el apetito antes de la comida principal."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.2992600202560425,
+    "recall": 0.3034396171569824,
+    "f1_score": 0.30133533477783203,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Tener o sentir una esperanza o un sentimiento hacia algo o alguien."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.464979887008667,
+    "recall": 0.5032091736793518,
+    "f1_score": 0.483339786529541,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Retirarse o distanciarse de una situación, grupo o persona."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.49231550097465515,
+    "recall": 0.4767811894416809,
+    "f1_score": 0.48442384600639343,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Conseguir algo por medio de favores, influencias o aprovechándose de una situación."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.52287757396698,
+    "recall": 0.4592052698135376,
+    "f1_score": 0.4889773428440094,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona que tiene nietos; mujer mayor, generalmente cariñosa y sabia."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "google/gemini-2.0-flash-001",
+    "bert_model": "BETO",
+    "precision": 0.5691377520561218,
+    "recall": 0.5244808197021484,
+    "f1_score": 0.5458975434303284,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Se dice de algo o alguien inflado, pomposo o que aparenta más de lo que realmente es."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5061637759208679,
+    "recall": 0.5385425090789795,
+    "f1_score": 0.5218513011932373,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria o residente de la zona geográfica situada en zonas bajas o planicies."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5719900727272034,
+    "recall": 0.546297550201416,
+    "f1_score": 0.5588487386703491,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Acción de golpear o atacar con fuerza y repetidamente."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5334722399711609,
+    "recall": 0.4984801709651947,
+    "f1_score": 0.5153830051422119,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de golpear o atacar con fuerza y repetidamente."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5676640272140503,
+    "recall": 0.47289860248565674,
+    "f1_score": 0.5159661173820496,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Mover rápidamente un abanico para producir aire fresco."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.6589360237121582,
+    "recall": 0.6458026766777039,
+    "f1_score": 0.6523032188415527,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Instrumento portátil utilizado para producir aire fresco mediante su movimiento manual."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.3333281874656677,
+    "recall": 0.28235214948654175,
+    "f1_score": 0.30572983622550964,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Relación íntima o unión no formal entre dos personas."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5273873805999756,
+    "recall": 0.5701341032981873,
+    "f1_score": 0.5479282736778259,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Tienda que ofrece diversos productos de consumo diario y alimentos envasados."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4417162537574768,
+    "recall": 0.42572829127311707,
+    "f1_score": 0.43357494473457336,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy activa y trabajadora que siempre está ocupada en múltiples tareas."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4384517967700958,
+    "recall": 0.4847821593284607,
+    "f1_score": 0.46045446395874023,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar o fastidiar a alguien de manera insistente y repetitiva."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.48914963006973267,
+    "recall": 0.5270540714263916,
+    "f1_score": 0.5073949694633484,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Descripción de algo que produce o puede producir un sentimiento de temor o abrumación profunda."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5476915240287781,
+    "recall": 0.5811030268669128,
+    "f1_score": 0.5639027953147888,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona o cosa que se encuentra hinchada o inflada de manera excesiva."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.311055064201355,
+    "recall": 0.292881578207016,
+    "f1_score": 0.3016948699951172,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que actúa de manera exagerada o desmedida en una situación particular."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4689226746559143,
+    "recall": 0.46865904331207275,
+    "f1_score": 0.46879082918167114,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Cerrar con fuerza una botella o recipiente, especialmente dejando restos dentro."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4718341529369354,
+    "recall": 0.4553371071815491,
+    "f1_score": 0.46343889832496643,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que sufre del mal de ojo, experienciando fatiga inexplicable."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4468590319156647,
+    "recall": 0.42481833696365356,
+    "f1_score": 0.435560017824173,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Persona o cosa que incita a hablar o iniciar una conversación."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.43616923689842224,
+    "recall": 0.46269917488098145,
+    "f1_score": 0.4490426778793335,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Proporcionar calor o protección contra el frío utilizando prendas de vestir adecuadas."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.3143491744995117,
+    "recall": 0.3648727238178253,
+    "f1_score": 0.33773189783096313,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Desarrollar o expandir hacia nuevos horizontes o oportunidades de crecimiento y desarrollo personal."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.43956413865089417,
+    "recall": 0.42499130964279175,
+    "f1_score": 0.43215489387512207,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Acción de cerrar o ajustar algo con un broche o cierre."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.42616599798202515,
+    "recall": 0.4402315318584442,
+    "f1_score": 0.4330846071243286,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Término cariñoso para referirse a una abuela, generalmente en contextos familiares o afectivos."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4875955581665039,
+    "recall": 0.430015504360199,
+    "f1_score": 0.45699894428253174,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona con actitud desafiante o agresiva, dispuesta a enfrentarse a otros."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5651748776435852,
+    "recall": 0.6034873723983765,
+    "f1_score": 0.5837031006813049,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona nativa o residente de zonas bajas, generalmente en contraste con las zonas altas."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.47834253311157227,
+    "recall": 0.44915133714675903,
+    "f1_score": 0.4632875621318817,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Reducir el precio o valor de algo, generalmente mediante negociación."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5946052670478821,
+    "recall": 0.5555559396743774,
+    "f1_score": 0.5744176506996155,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de balear, disparar repetidamente con un arma de fuego."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4956803619861603,
+    "recall": 0.43730592727661133,
+    "f1_score": 0.4646669924259186,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Rechazar o evadir suavemente una propuesta o insistencia."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.49087804555892944,
+    "recall": 0.49874621629714966,
+    "f1_score": 0.49478086829185486,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Tienda que vende productos alimenticios y de primera necesidad."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4258517622947693,
+    "recall": 0.41934680938720703,
+    "f1_score": 0.4225742816925049,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona laboriosa y constante en su trabajo."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4105178415775299,
+    "recall": 0.41281306743621826,
+    "f1_score": 0.4116622805595398,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Realizar acciones de manera intensa y constante, generalmente con empeño y entusiasmo."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5587899684906006,
+    "recall": 0.548019289970398,
+    "f1_score": 0.5533522367477417,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Que produce un sentimiento de asombro o admiración profunda."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5476052761077881,
+    "recall": 0.5468582510948181,
+    "f1_score": 0.5472314953804016,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona que se encuentra en un estado de enojo o irritación."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.36226990818977356,
+    "recall": 0.3231251835823059,
+    "f1_score": 0.34157970547676086,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que se comporta de manera excesivamente sumisa o complaciente."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.3800828158855438,
+    "recall": 0.39335644245147705,
+    "f1_score": 0.38660573959350586,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Aplanar o comprimir algo hasta hacerlo más delgado o liso."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.43550366163253784,
+    "recall": 0.44297194480895996,
+    "f1_score": 0.439206063747406,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que ha consumido en exceso alcohol o drogas, alterando su estado mental y físico."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4505385756492615,
+    "recall": 0.4533344805240631,
+    "f1_score": 0.4519321918487549,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Pequeña porción de comida servida antes de una comida principal para estimular el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.47226646542549133,
+    "recall": 0.47671860456466675,
+    "f1_score": 0.47448208928108215,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Cubrirse con ropa u objetos para protegerse del frío."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.3319960832595825,
+    "recall": 0.38445621728897095,
+    "f1_score": 0.3563055098056793,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Tomar una actitud más receptiva o flexible ante una situación o persona."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5665942430496216,
+    "recall": 0.5153334140777588,
+    "f1_score": 0.5397495031356812,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Terminar, finalizar o concluir una acción o negociación."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.48462218046188354,
+    "recall": 0.45102038979530334,
+    "f1_score": 0.46721789240837097,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Término cariñoso para referirse a la abuela."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.6427685618400574,
+    "recall": 0.6011905670166016,
+    "f1_score": 0.6212846636772156,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Dicho de una tela o prenda: Arrugada o plisada intencionalmente para dar volumen."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.32829582691192627,
+    "recall": 0.3201773464679718,
+    "f1_score": 0.3241857886314392,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Indica una persona orgullosa de su origen humilde."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.7766267657279968,
+    "recall": 0.6458932161331177,
+    "f1_score": 0.7052526473999023,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar repetidamente contra alguien o algo."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.4290566146373749,
+    "recall": 0.40910467505455017,
+    "f1_score": 0.418843150138855,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Encontrar una solución inesperada o remedio a un problema."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.48866307735443115,
+    "recall": 0.4411340355873108,
+    "f1_score": 0.4636837840080261,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Molesta, incomoda o ahuyenta a alguien con insistencia."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.5008280277252197,
+    "recall": 0.4882659912109375,
+    "f1_score": 0.49446722865104675,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Se usa para indicar que algo está descompuesto, sin funcionar."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.31812170147895813,
+    "recall": 0.27337446808815,
+    "f1_score": 0.2940554916858673,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Estar muy atento a las acciones o palabras de alguien."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.3244023323059082,
+    "recall": 0.3325100541114807,
+    "f1_score": 0.3284061551094055,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Se refiere a una persona supersticiosa o temerosa."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.4724375009536743,
+    "recall": 0.43829429149627686,
+    "f1_score": 0.45472586154937744,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy activa, curiosa o inquieta."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.5067143440246582,
+    "recall": 0.49621349573135376,
+    "f1_score": 0.5014089941978455,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Estar en un estado de insolencia o arrogancia."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.6120011210441589,
+    "recall": 0.5651999711990356,
+    "f1_score": 0.5876702666282654,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Que es muy profundo o extenso."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.5916939973831177,
+    "recall": 0.6021422743797302,
+    "f1_score": 0.5968724489212036,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Se dice de una persona impresionada o sorprendida por algo."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.3276249170303345,
+    "recall": 0.2853797674179077,
+    "f1_score": 0.3050466775894165,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Conocedor, entendido en alguna materia."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.572677493095398,
+    "recall": 0.47235625982284546,
+    "f1_score": 0.5177016258239746,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Ignorar deliberadamente a alguien o algo."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.4098101258277893,
+    "recall": 0.39097368717193604,
+    "f1_score": 0.40017035603523254,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Agotado, exhausto, sin energía."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.42257261276245117,
+    "recall": 0.3826107680797577,
+    "f1_score": 0.4016000032424927,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Aperitivo para estimular el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.32501062750816345,
+    "recall": 0.3557441234588623,
+    "f1_score": 0.3396836221218109,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Ahorrar y guardar dinero o recursos con cautiousas prevision."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.36471909284591675,
+    "recall": 0.382077157497406,
+    "f1_score": 0.37319639325141907,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Referirse a una conversación o situación íntima."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.5488656163215637,
+    "recall": 0.4989463686943054,
+    "f1_score": 0.5227168798446655,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Desmontar un objeto o aparato."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.4814392626285553,
+    "recall": 0.39189043641090393,
+    "f1_score": 0.43207380175590515,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Dilema o situación complicada."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "google/gemma-2-27b-it",
+    "bert_model": "BETO",
+    "precision": 0.4612100422382355,
+    "recall": 0.39031893014907837,
+    "f1_score": 0.4228135645389557,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Enfadado, irritable o propenso a enojarse."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.345981240272522,
+    "recall": 0.39181891083717346,
+    "f1_score": 0.3674761950969696,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona proveniente de la región a orillas del río Magdalena, en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.558350682258606,
+    "recall": 0.5487548112869263,
+    "f1_score": 0.5535111427307129,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Atacar o maltratar a alguien de forma verbal, criticándolo duramente."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.44278213381767273,
+    "recall": 0.43985486030578613,
+    "f1_score": 0.44131362438201904,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acto de hostigar o molestar de forma insistente a alguien o algo."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.4660615921020508,
+    "recall": 0.44226008653640747,
+    "f1_score": 0.45384901762008667,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Manejar dinero u objetos de forma ostentosa, presumida o indiscriminada."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.5356858372688293,
+    "recall": 0.5078744292259216,
+    "f1_score": 0.5214095115661621,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Objeto para abanicarse y refrescarse con movimientos manuales."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.4494774341583252,
+    "recall": 0.4067939519882202,
+    "f1_score": 0.42707183957099915,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Objeto con amplias dimensiones o que cubre un gran espacio abarcando varios elementos."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.5440776348114014,
+    "recall": 0.4926501512527466,
+    "f1_score": 0.5170883536338806,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Comida y provisiones vendidas en tiendas pequeñas."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.3878505825996399,
+    "recall": 0.41240227222442627,
+    "f1_score": 0.3997498154640198,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona laboriosa, diligente y activa en sus quehaceres."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.4802267551422119,
+    "recall": 0.4949045479297638,
+    "f1_score": 0.48745518922805786,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar insistentemente a alguien con algo."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.600208044052124,
+    "recall": 0.6096178889274597,
+    "f1_score": 0.6048763394355774,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Describe una diferencia, brecha o distancia sumamente grande e insuperable."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.6302139759063721,
+    "recall": 0.6978108286857605,
+    "f1_score": 0.6622920036315918,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Se refiere a algo o alguien que está inflado, hinchado o con exceso de volumen."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.8666077852249146,
+    "recall": 0.7376344203948975,
+    "f1_score": 0.7969366908073425,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Postre frito, típicamente hecho con plátano maduro y harina."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.42149949073791504,
+    "recall": 0.43886691331863403,
+    "f1_score": 0.4300079047679901,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Hacer algo a medias o con desgano, sin dedicación."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.49091285467147827,
+    "recall": 0.452778697013855,
+    "f1_score": 0.47107529640197754,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que se ahoga o está en grave dificultad, especialmente económica."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.5483396053314209,
+    "recall": 0.49657076597213745,
+    "f1_score": 0.5211727619171143,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Algo que sirve de inicio o presentación para algo más importante."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.34287017583847046,
+    "recall": 0.38177400827407837,
+    "f1_score": 0.3612777888774872,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Usar prendas holgadas para proteger del frío o para disimular el cuerpo."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.33891087770462036,
+    "recall": 0.3760581612586975,
+    "f1_score": 0.356519490480423,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Revelar información personal o confidencial a alguien."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.4358270764350891,
+    "recall": 0.4433152675628662,
+    "f1_score": 0.4395392835140228,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Unir o ajustar algo, generalmente prendas de vestir, mediante botones, cremalleras o similares."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.44872307777404785,
+    "recall": 0.4638051986694336,
+    "f1_score": 0.4561395049095154,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Metáfora para referirse a alguien muy mayor, frecuentemente usado con afecto."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "bert_model": "BETO",
+    "precision": 0.5660263299942017,
+    "recall": 0.5220293402671814,
+    "f1_score": 0.543138325214386,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Una superficie con pliegues o adornos circulares realzados."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.35856008529663086,
+    "recall": 0.37504804134368896,
+    "f1_score": 0.3666187822818756,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Habitante del bajo Magdalena"
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4513387978076935,
+    "recall": 0.3915758728981018,
+    "f1_score": 0.41933873295783997,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Aprender o estudiar de memoria."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.39852023124694824,
+    "recall": 0.35232430696487427,
+    "f1_score": 0.3740011751651764,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Gesto de desdén o desinterés"
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4954072833061218,
+    "recall": 0.4325641393661499,
+    "f1_score": 0.4618578255176544,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Mover una prenda para refrescarse."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.49355506896972656,
+    "recall": 0.47113797068595886,
+    "f1_score": 0.48208603262901306,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Persona que golpea a otra con la mano abierta."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.34545013308525085,
+    "recall": 0.28744280338287354,
+    "f1_score": 0.31378814578056335,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Cobertura total de algo."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.34807857871055603,
+    "recall": 0.33938172459602356,
+    "f1_score": 0.3436751365661621,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Comida poco saludable o de mala calidad"
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4400606155395508,
+    "recall": 0.40755704045295715,
+    "f1_score": 0.4231856167316437,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy trabajadora y aplicada."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.35075366497039795,
+    "recall": 0.33339670300483704,
+    "f1_score": 0.3418550193309784,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Trabajar con dedicación y esfuerzo constante."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4954608082771301,
+    "recall": 0.4193582832813263,
+    "f1_score": 0.45424410700798035,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Profundo y enorme."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.550209105014801,
+    "recall": 0.5539630055427551,
+    "f1_score": 0.5520796775817871,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Lleno de aire o hinchado excesivamente."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.3313024938106537,
+    "recall": 0.29091066122055054,
+    "f1_score": 0.3097955584526062,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Muy cansado o exhausto"
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.47183775901794434,
+    "recall": 0.4071276783943176,
+    "f1_score": 0.43710073828697205,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Impulsar o empujar con fuerza algo."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.44885754585266113,
+    "recall": 0.41336044669151306,
+    "f1_score": 0.4303782880306244,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Abrazado fuertemente a alguien."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4210691452026367,
+    "recall": 0.3973581790924072,
+    "f1_score": 0.40887022018432617,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Aperitivo o bebida que se toma antes de una comida."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.3440449833869934,
+    "recall": 0.32776761054992676,
+    "f1_score": 0.3357090950012207,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Albergar o tener un sentimiento o idea."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.3408106565475464,
+    "recall": 0.37628647685050964,
+    "f1_score": 0.3576710522174835,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Desenvolverse o hablar con libertad."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4201563596725464,
+    "recall": 0.3903803527355194,
+    "f1_score": 0.4047214090824127,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Poner o cerrar un broche o cierre."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.6030060052871704,
+    "recall": 0.5010274648666382,
+    "f1_score": 0.5473068952560425,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Término cariñoso para abuela"
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5235740542411804,
+    "recall": 0.3587462306022644,
+    "f1_score": 0.425764262676239,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Muy enojado o molesto."
+  },
+  {
+    "modismo": "N/A",
+    "modelo": "minimax/minimax-m2:free",
+    "bert_model": "BETO",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "definicion_real": "",
+    "definicion_generada": ""
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.5181287527084351,
+    "recall": 0.6238231658935547,
+    "f1_score": 0.5660846829414368,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Habitante de las regiones bajas de un área geográfica específica, comúnmente asociado a zonas de menor altitud en departamentos como Nariño."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.7463288903236389,
+    "recall": 0.6883926391601562,
+    "f1_score": 0.7161909937858582,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar con arma de fuego de manera intensa o repetitiva."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.5258588790893555,
+    "recall": 0.46490174531936646,
+    "f1_score": 0.4935050904750824,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de acompañar una melodía con palmadas rítmicas."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.3781294524669647,
+    "recall": 0.3693379759788513,
+    "f1_score": 0.37368205189704895,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Espolvorear o dispersar algo de manera amplia y desordenada."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.4818018674850464,
+    "recall": 0.4779793620109558,
+    "f1_score": 0.47988301515579224,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Expresa variedad o diversidad en opciones, situaciones o elementos."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.4727264642715454,
+    "recall": 0.3794172406196594,
+    "f1_score": 0.42096319794654846,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Acción que cubre un amplio alcance o territorio."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.5397717952728271,
+    "recall": 0.5889263153076172,
+    "f1_score": 0.5632787346839905,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Establecimiento que comercializa productos básicos de consumo diario."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.5062431693077087,
+    "recall": 0.478304386138916,
+    "f1_score": 0.49187734723091125,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy ocupada o activa en múltiples tareas."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.45439356565475464,
+    "recall": 0.4916251301765442,
+    "f1_score": 0.4722766876220703,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar insistentemente a alguien con insistencias o preguntas."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.4561016857624054,
+    "recall": 0.45055079460144043,
+    "f1_score": 0.4533092677593231,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Que produce una sensación intensa de desesperanza o confusión."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.5279229879379272,
+    "recall": 0.5460032224655151,
+    "f1_score": 0.5368108749389648,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona que se cree superior o actúa con exceso de confianza."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.32841670513153076,
+    "recall": 0.27558591961860657,
+    "f1_score": 0.299690842628479,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Estado de extrema fatiga o agotamiento físico y mental."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.421968549489975,
+    "recall": 0.4018382430076599,
+    "f1_score": 0.411657452583313,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Insistir de manera molesta o persistente en una solicitud o acción."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.4915793240070343,
+    "recall": 0.434415340423584,
+    "f1_score": 0.46123290061950684,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Estado de extrema fatiga o agotamiento físico."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.47461044788360596,
+    "recall": 0.4870145320892334,
+    "f1_score": 0.4807324707508087,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Abrebocas es una pequeña cantidad de dinero entregada para facilitar un trámite o negocio."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.33113282918930054,
+    "recall": 0.36208614706993103,
+    "f1_score": 0.3459184467792511,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Mantener caluroso o proteger del frío a alguien o algo."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.5149021148681641,
+    "recall": 0.5722352266311646,
+    "f1_score": 0.5420568585395813,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Desprenderse rápidamente de un lugar o situación."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.537205159664154,
+    "recall": 0.5150930285453796,
+    "f1_score": 0.5259167551994324,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Finalizar o concluir algo de manera eficiente y ordenada."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.3949546217918396,
+    "recall": 0.4212108850479126,
+    "f1_score": 0.40766042470932007,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Se usa coloquialmente para describir algo considerado obsoleto o de generaciones anteriores."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "bert_model": "BETO",
+    "precision": 0.5235650539398193,
+    "recall": 0.44708025455474854,
+    "f1_score": 0.4823092222213745,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona muy cansada o agotada, con aspecto desgastado."
+  },
+  {
+    "modismo": "N/A",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1",
+    "bert_model": "BETO",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "definicion_real": "",
+    "definicion_generada": ""
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.38517796993255615,
+    "recall": 0.40221673250198364,
+    "f1_score": 0.3935129940509796,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria o residente del municipio de Abajo, en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.5122469663619995,
+    "recall": 0.4939320981502533,
+    "f1_score": 0.5029228329658508,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Actuar de manera irresponsable, gastando dinero de forma impulsiva o sin control."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.4482925832271576,
+    "recall": 0.4428260922431946,
+    "f1_score": 0.445542573928833,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acto de abandonar o dejar algo sin terminar o sin cuidado en la cultura colombiana."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.510397732257843,
+    "recall": 0.4425113797187805,
+    "f1_score": 0.47403642535209656,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Mover las manos o un objeto para crear corriente de aire o envolver algo suavemente."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.42931005358695984,
+    "recall": 0.4040680527687073,
+    "f1_score": 0.4163067936897278,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Persona que tiene muchas opciones o recursos disponibles para elegir."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.4173872470855713,
+    "recall": 0.3831956386566162,
+    "f1_score": 0.3995613157749176,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Persona que actúa de manera exagerada o que hace alarde de sus habilidades."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.5438328385353088,
+    "recall": 0.5859705209732056,
+    "f1_score": 0.5641158223152161,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Establecimiento donde se venden productos básicos de consumo diario."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.4042973518371582,
+    "recall": 0.3997432291507721,
+    "f1_score": 0.40200743079185486,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona trabajadora, diligente y constante en sus actividades."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.43285709619522095,
+    "recall": 0.4166092872619629,
+    "f1_score": 0.4245778024196625,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Realizar múltiples actividades pequeñas y poco efectivas al mismo tiempo."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.47969260811805725,
+    "recall": 0.4683291018009186,
+    "f1_score": 0.47394272685050964,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Que causa una impresión profunda y mueve en gran medida la percepción o la emoción."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.5525234937667847,
+    "recall": 0.5723326802253723,
+    "f1_score": 0.5622536540031433,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Estar muy lleno o saturado, generalmente de comida o en exceso."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.3783149719238281,
+    "recall": 0.35806867480278015,
+    "f1_score": 0.36791348457336426,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que actúa de manera arrogante y prepotente con quienes la rodean."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.5470311641693115,
+    "recall": 0.5561124682426453,
+    "f1_score": 0.5515344142913818,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Recoger o juntar cosas dispersas, especialmente en la calle o en lugares públicos."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.4753449559211731,
+    "recall": 0.4562912583351135,
+    "f1_score": 0.46562325954437256,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona perezosa, floja o desganada para realizar actividades o responsabilidades."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.4287515878677368,
+    "recall": 0.4298635423183441,
+    "f1_score": 0.4293068051338196,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Persona que comienza a contar su vida o detalles personales de manera indiscreta."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.27283260226249695,
+    "recall": 0.31374943256378174,
+    "f1_score": 0.29186394810676575,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Revelar sentimientos o pensamientos que se mantenían ocultos."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.3785068988800049,
+    "recall": 0.4019094407558441,
+    "f1_score": 0.3898572623729706,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Asegurar o ajustar algo con un botón, cremallera o hebilla."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.42945992946624756,
+    "recall": 0.4604724049568176,
+    "f1_score": 0.4444257915019989,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona mayor, cariñosamente llamada así por su carácter dulce y respetuoso."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "openai/gpt-4.1-nano",
+    "bert_model": "BETO",
+    "precision": 0.538277268409729,
+    "recall": 0.47266703844070435,
+    "f1_score": 0.5033430457115173,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Lleno o congestionado, con muchas personas o cosas acumuladas."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.3415590822696686,
+    "recall": 0.3835870027542114,
+    "f1_score": 0.36135512590408325,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Abajeño: persona originaria o residente de Abajo, región o municipio colombiano; descendiente de esa localidad."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.6452577114105225,
+    "recall": 0.6337295174598694,
+    "f1_score": 0.6394416689872742,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Golpear a alguien con un objeto contundente, causando lesiones."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.4960669279098511,
+    "recall": 0.4669554531574249,
+    "f1_score": 0.48107120394706726,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de maniobrar con poca claridad para obtener un favor o beneficio, maniobra discreta."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.5286777019500732,
+    "recall": 0.4865177571773529,
+    "f1_score": 0.5067222714424133,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Realizar gestos o movimientos para atraer la atención de alguien, especialmente de manera coqueta."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.4769991934299469,
+    "recall": 0.4566155672073364,
+    "f1_score": 0.46658486127853394,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Expresión que indica una amplia variedad de opciones o posibilidades disponibles."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.3976336717605591,
+    "recall": 0.39105042815208435,
+    "f1_score": 0.39431458711624146,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Abarco es un modismo colombiano que expresa la capacidad de cubrir numerosos temas o responsabilidades."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.5230504870414734,
+    "recall": 0.5676376819610596,
+    "f1_score": 0.5444326996803284,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Conjunto de tiendas pequeñas de comestibles que venden productos de consumo diario."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.4368193745613098,
+    "recall": 0.4278268814086914,
+    "f1_score": 0.4322763681411743,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy trabajadora y diligente, siempre activa y productiva."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.4772658348083496,
+    "recall": 0.4687315821647644,
+    "f1_score": 0.4729602038860321,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Abejorrear: molestar persistente y repetidamente, como quien ronda buscando algo."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.5388268232345581,
+    "recall": 0.5388470888137817,
+    "f1_score": 0.5388369560241699,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Es la cualidad de provocar asombro de gran intensidad."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.5244302153587341,
+    "recall": 0.5694120526313782,
+    "f1_score": 0.5459962487220764,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Persona engreída y presumida, que presume de su importancia o poder."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.3436221480369568,
+    "recall": 0.3149043917655945,
+    "f1_score": 0.32863709330558777,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Individuo agotado, irritado o hastiado por una situación."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.4339980483055115,
+    "recall": 0.44909241795539856,
+    "f1_score": 0.4414162337779999,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "abotar es desechar algo de forma precipitada, sin análisis ni compromiso."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.47273433208465576,
+    "recall": 0.4749823212623596,
+    "f1_score": 0.4738556742668152,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Abozao es un término coloquial que describe a una persona cansada y desorientada, sin energía ni motivación."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.42555174231529236,
+    "recall": 0.4194079637527466,
+    "f1_score": 0.4224575161933899,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Alimento ligero que abre el apetito y sirve como entrante o aperitivo."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.33913859724998474,
+    "recall": 0.3699554204940796,
+    "f1_score": 0.35387736558914185,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Mantener o albergar una idea, deseo o sospecha, de forma discreta y continua."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.28909844160079956,
+    "recall": 0.3468996286392212,
+    "f1_score": 0.315372496843338,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Abrirse es expresar de forma sincera sentimientos, ideas o experiencias ante otra persona."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.45557498931884766,
+    "recall": 0.4435774087905884,
+    "f1_score": 0.44949615001678467,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Cerrar o sujetar algo con botones, broches o un mecanismo, asegurándolo firmemente."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.4248329997062683,
+    "recall": 0.43901634216308594,
+    "f1_score": 0.4318082332611084,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Es un apelativo afectuoso para la abuela, una mujer mayor tratada con cariño."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "openai/gpt-5-nano",
+    "bert_model": "BETO",
+    "precision": 0.6036165356636047,
+    "recall": 0.515291690826416,
+    "f1_score": 0.5559680461883545,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Abullonado es algo lleno y abarrotado de gente o de objetos."
+  },
+  {
+    "modismo": "N/A",
+    "modelo": "qwen/qwen-2-72b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "definicion_real": "",
+    "definicion_generada": ""
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.4707542657852173,
+    "recall": 0.4509151577949524,
+    "f1_score": 0.460621178150177,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Abandonar precipitadamente un lugar para evitar un problema o responsabilidad."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.46768084168434143,
+    "recall": 0.4570823907852173,
+    "f1_score": 0.46232089400291443,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Actividad sencilla ejecutada con fluidez y ausencia de dificultades notables"
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.4137588441371918,
+    "recall": 0.405483216047287,
+    "f1_score": 0.40957921743392944,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona laboriosa que constantemente participa en múltiples actividades laborales"
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.4189520478248596,
+    "recall": 0.4287455081939697,
+    "f1_score": 0.4237922132015228,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Agitarse o moverse sin rumbo fijo"
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.5000517964363098,
+    "recall": 0.5244622826576233,
+    "f1_score": 0.5119662880897522,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Situación que genera profunda consternación o asombro inesperado"
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.3617510497570038,
+    "recall": 0.312345415353775,
+    "f1_score": 0.3352377116680145,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Golpeado repetidamente hasta quedar deshecho"
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.4621031582355499,
+    "recall": 0.44148683547973633,
+    "f1_score": 0.45155981183052063,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Marchar o escapar rápidamente de un lugar"
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.4265761375427246,
+    "recall": 0.4038040041923523,
+    "f1_score": 0.4148778021335602,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Acción de iniciar una conversación o expresar opiniones sin reservas."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.503891110420227,
+    "recall": 0.5878846645355225,
+    "f1_score": 0.5426569581031799,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Consiste en escapar rápidamente de un lugar o situación"
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.44047921895980835,
+    "recall": 0.41432374715805054,
+    "f1_score": 0.42700132727622986,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Concluir o resolver una situación de manera rápida y efectiva"
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.404201865196228,
+    "recall": 0.3938460648059845,
+    "f1_score": 0.3989567756652832,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona que mantiene costumbres y valores tradicionales de generaciones anteriores"
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "bert_model": "BETO",
+    "precision": 0.46817824244499207,
+    "recall": 0.43775463104248047,
+    "f1_score": 0.4524555504322052,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona fatigada debido a labores repetitivas y monótonas."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.5075384974479675,
+    "recall": 0.5663493275642395,
+    "f1_score": 0.535333514213562,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona que vive en una región de clima cálido en Colombia, especialmente en zonas costeras del Caribe."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.35333770513534546,
+    "recall": 0.31109198927879333,
+    "f1_score": 0.3308718502521515,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "En Colombia, significa trabajar con esfuerzo y dedicación."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.3926202058792114,
+    "recall": 0.3835567533969879,
+    "f1_score": 0.3880355954170227,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Conmoción o alboroto causado por una noticia impactante."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.5301966667175293,
+    "recall": 0.5035383701324463,
+    "f1_score": 0.5165237784385681,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Acción de mover la mano o un objeto de manera similar a como se agita un abanico."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.459498792886734,
+    "recall": 0.48277562856674194,
+    "f1_score": 0.4708496928215027,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "En Colombia, 'abanico' puede aludir a los senos de una mujer, destacando su tamaño y forma."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.31027016043663025,
+    "recall": 0.28918492794036865,
+    "f1_score": 0.29935669898986816,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Termino coloquial que indica estar muy enamorado o ilusionado por alguien."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.4309512972831726,
+    "recall": 0.4784379005432129,
+    "f1_score": 0.45345476269721985,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "En Colombia, 'abarrotes' se usa para referirse a mercancías o provisiones en general, especialmente las que se venden en tiendas de barrio o almacenes de productos variados."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.4858202338218689,
+    "recall": 0.4946106970310211,
+    "f1_score": 0.4901760220527649,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona inquieta y trabajadora; también, en un contexto negativo, indica alguien entrometido y chismoso."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.41471216082572937,
+    "recall": 0.4027848243713379,
+    "f1_score": 0.40866148471832275,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Hacer tareas de manera dispersa y sin concentración."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.6285521984100342,
+    "recall": 0.644050657749176,
+    "f1_score": 0.636207103729248,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Califica algo que causa profunda impresión o admiración por su magnitud o belleza."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.5097162127494812,
+    "recall": 0.5657966136932373,
+    "f1_score": 0.5362942814826965,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "En Colombia, \"abombado\" se usa para describir a alguien que está engañado o creyendo algo falso."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.38671937584877014,
+    "recall": 0.319023072719574,
+    "f1_score": 0.3496244251728058,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Estado de suma sorpresa, confusión o asombro."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.41035252809524536,
+    "recall": 0.3985247015953064,
+    "f1_score": 0.4043521583080292,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Fastidiar, importunar o causar molestia a alguien con insistencia."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.46340057253837585,
+    "recall": 0.4617968499660492,
+    "f1_score": 0.4625973403453827,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Estado de ebriedad avanzada o completa, donde la persona no puede mantener el equilibrio ni articular palabras con claridad."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.4698494076728821,
+    "recall": 0.48578792810440063,
+    "f1_score": 0.47768574953079224,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "En Colombia, 'abrebocas' se usa para denominar alimentos o bebidas que se consumen antes de la comida principal para abrir el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.2784422039985657,
+    "recall": 0.3246448040008545,
+    "f1_score": 0.2997737228870392,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Proteger a alguien del frío o de algún daño potencial."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.34811803698539734,
+    "recall": 0.42658427357673645,
+    "f1_score": 0.38337740302085876,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Empezar a prosperar o obtener éxito en una actividad, especialmente en el contexto de negocios o emprendimientos."
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.598237156867981,
+    "recall": 0.575181245803833,
+    "f1_score": 0.5864827036857605,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Cumplir una promesa o compromiso, especialmente si implica ofrecer algo."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.42195746302604675,
+    "recall": 0.4328175187110901,
+    "f1_score": 0.4273185133934021,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Término cariñoso para referirse a una persona mayor, no necesariamente un familiar directo."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "bert_model": "BETO",
+    "precision": 0.5445002317428589,
+    "recall": 0.45456624031066895,
+    "f1_score": 0.4954853951931,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "En apuros, confundido o desordenado en su estado o actividades."
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.484863817691803,
+    "recall": 0.4481394588947296,
+    "f1_score": 0.4657788574695587,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Agitación, bulla o problema, generalmente entre dos o más personas."
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.47783929109573364,
+    "recall": 0.42042291164398193,
+    "f1_score": 0.4472960829734802,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Molestar o fastidiar a alguien con insistencia."
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.39875274896621704,
+    "recall": 0.3901608884334564,
+    "f1_score": 0.39441007375717163,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Persona muy habladora que cuenta todos los secretos."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4070538878440857,
+    "recall": 0.33875739574432373,
+    "f1_score": 0.369778573513031,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Persona que se enferma fácilmente o tiene mucha debilidad física."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5346218347549438,
+    "recall": 0.4988952577114105,
+    "f1_score": 0.5161410570144653,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Alimentos y productos no perecederos."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.436977356672287,
+    "recall": 0.3822336792945862,
+    "f1_score": 0.407776415348053,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona trabajadora y muy activa."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5004774332046509,
+    "recall": 0.4911169409751892,
+    "f1_score": 0.4957529902458191,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Perseguir a alguien con insistencia y molestia."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4808647930622101,
+    "recall": 0.4704344868659973,
+    "f1_score": 0.4755924344062805,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Desordenado, caótico o extremadamente sucio"
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5394681692123413,
+    "recall": 0.5492129921913147,
+    "f1_score": 0.54429692029953,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Muy gordo o abultado."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.38096511363983154,
+    "recall": 0.3273437023162842,
+    "f1_score": 0.35212475061416626,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona molesta o pesada que no cede en su posición."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5386095643043518,
+    "recall": 0.46900612115859985,
+    "f1_score": 0.5014038681983948,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Señalar o descubrir a alguien en un lugar público."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.48212236166000366,
+    "recall": 0.46256518363952637,
+    "f1_score": 0.4721413254737854,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Iniciación o introducción a algo placentero o delicioso"
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.43941259384155273,
+    "recall": 0.4455597698688507,
+    "f1_score": 0.44246482849121094,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Albergar o guardar algo con cuidado."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.24354031682014465,
+    "recall": 0.2905651926994324,
+    "f1_score": 0.2649826109409332,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Tomar confianza o desarrollar una mayor facundia al hablar"
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5457824468612671,
+    "recall": 0.5049558877944946,
+    "f1_score": 0.5245760083198547,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Acabar o terminar algo de manera definitiva."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.4240054488182068,
+    "recall": 0.4380979537963867,
+    "f1_score": 0.4309365153312683,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Apelativo cariñoso para referirse a algo o alguien"
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "bert_model": "BETO",
+    "precision": 0.5429203510284424,
+    "recall": 0.4148573875427246,
+    "f1_score": 0.47032731771469116,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Enfadado o molesto por algo."
+  },
+  {
+    "modismo": "abajeño",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.6075447797775269,
+    "recall": 0.6398108005523682,
+    "f1_score": 0.623260498046875,
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "definicion_generada": "Persona originaria de regiones bajas o de tierras cálidas en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.6891045570373535,
+    "recall": 0.628957986831665,
+    "f1_score": 0.6576589941978455,
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "definicion_generada": "Disparar repetidamente hacia alguien o algo con intención de herir o matar"
+  },
+  {
+    "modismo": "abaleo",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.4209842085838318,
+    "recall": 0.41180843114852905,
+    "f1_score": 0.4163457751274109,
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "definicion_generada": "Acción de hablar mucho y de manera indisciplinada o sin sustancia"
+  },
+  {
+    "modismo": "abanicar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.4040721356868744,
+    "recall": 0.38042300939559937,
+    "f1_score": 0.39189112186431885,
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "definicion_generada": "Halagar o adular a alguien para obtener algo de él"
+  },
+  {
+    "modismo": "abanico",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.4287143647670746,
+    "recall": 0.41196197271347046,
+    "f1_score": 0.42017126083374023,
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "definicion_generada": "Variedad de opciones o posibilidades presentadas de manera amplia y diversa."
+  },
+  {
+    "modismo": "abarco",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.37344682216644287,
+    "recall": 0.3408280611038208,
+    "f1_score": 0.35639265179634094,
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "definicion_generada": "Acción de abrazar o rodear algo o alguien con los brazos."
+  },
+  {
+    "modismo": "abarrotes",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.4982699751853943,
+    "recall": 0.5005329847335815,
+    "f1_score": 0.4993989169597626,
+    "definicion_real": "Víveres de consumo diario.",
+    "definicion_generada": "Conjunto de productos alimenticios y artículos de primera necesidad para el hogar."
+  },
+  {
+    "modismo": "abeja",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.5014448761940002,
+    "recall": 0.46538931131362915,
+    "f1_score": 0.4827447831630707,
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "definicion_generada": "Persona muy trabajadora y activa en diversas actividades o tareas."
+  },
+  {
+    "modismo": "abejorrear",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.49632319808006287,
+    "recall": 0.5254442095756531,
+    "f1_score": 0.5104687213897705,
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "definicion_generada": "Molestar o importunar insistentemente a alguien con palabras o acciones."
+  },
+  {
+    "modismo": "abismante",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.6696503758430481,
+    "recall": 0.6720471978187561,
+    "f1_score": 0.6708466410636902,
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "definicion_generada": "Algo que causa gran asombro o sorpresa por su magnitud o características extraordinarias."
+  },
+  {
+    "modismo": "abombado",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.5712490081787109,
+    "recall": 0.6120849847793579,
+    "f1_score": 0.5909624099731445,
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "definicion_generada": "Dicho de una persona, que ha perdido la claridad mental o está aturdida."
+  },
+  {
+    "modismo": "aborrajado",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.42877286672592163,
+    "recall": 0.41475623846054077,
+    "f1_score": 0.4216481149196625,
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "definicion_generada": "Persona que se viste de manera descuidada o con ropa arrugada y desordenada."
+  },
+  {
+    "modismo": "abotar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.5105919241905212,
+    "recall": 0.4864690899848938,
+    "f1_score": 0.4982386827468872,
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "definicion_generada": "Llenar o hartar a alguien con algo, generalmente comida o bebida."
+  },
+  {
+    "modismo": "abozao",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.46757620573043823,
+    "recall": 0.4287872612476349,
+    "f1_score": 0.4473424553871155,
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "definicion_generada": "Persona que está en una situación difícil o comprometida, generalmente por deudas o problemas financieros."
+  },
+  {
+    "modismo": "abrebocas",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.4194924235343933,
+    "recall": 0.4184986650943756,
+    "f1_score": 0.4189949333667755,
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "definicion_generada": "Persona o situación que genera gran expectación o curiosidad"
+  },
+  {
+    "modismo": "abrigar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.33917009830474854,
+    "recall": 0.36747103929519653,
+    "f1_score": 0.3527538478374481,
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "definicion_generada": "Albergar o dar refugio a alguien o algo, generalmente con connotación de protección o resguardo."
+  },
+  {
+    "modismo": "abrirse",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.4445330500602722,
+    "recall": 0.5909035205841064,
+    "f1_score": 0.5073727369308472,
+    "definicion_real": "Irse de un lugar.",
+    "definicion_generada": "Marcharse o alejarse de un lugar o situación de manera voluntaria o intempestiva"
+  },
+  {
+    "modismo": "abrochar",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.546370804309845,
+    "recall": 0.5276839733123779,
+    "f1_score": 0.5368648767471313,
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "definicion_generada": "Lograr algo o alguien de manera efectiva o contundente."
+  },
+  {
+    "modismo": "abuelita",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.3717733919620514,
+    "recall": 0.3881898522377014,
+    "f1_score": 0.3798042833805084,
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "definicion_generada": "Persona que fuma marihuana de manera habitual y con frecuencia."
+  },
+  {
+    "modismo": "abullonado",
+    "modelo": "meta-llama/llama-4-maverick",
+    "bert_model": "BETO",
+    "precision": 0.6243798136711121,
+    "recall": 0.5430604219436646,
+    "f1_score": 0.5808879137039185,
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "definicion_generada": "Persona o cosa que está hinchada o abultada de manera exagerada o ridícula."
+  }
+]

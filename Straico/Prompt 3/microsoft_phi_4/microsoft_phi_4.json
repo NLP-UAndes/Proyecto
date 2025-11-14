@@ -1,0 +1,162 @@
+[
+  {
+    "modismo": "abajeño",
+    "ejemplo": "Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abajeño\",\n    \"ejemplo\": \"Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago.\"\n  },\n  \"output\": {\n    \"literal\": \"personas de la región baja\",\n    \"definicion\": \"residentes o individuos que viven en una zona geográfica baja o inferior\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abalear",
+    "ejemplo": "El funcionario resultó ileso a pesar de que el avión en que se dirigía a la capital del departamento fue abaleado.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abalear\",\n    \"ejemplo\": \"El funcionario resultó ileso a pesar de que el avión en que se dirigía a la capital del departamento fue abaleado.\"\n  },\n  \"output\": {\n    \"literal\": \"disparar balas\",\n    \"definicion\": \"lanzar munición de fuego, comúnmente de armas de fuego, hacia un objetivo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "ejemplo": "Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abaleo\",\n    \"ejemplo\": \"Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía.\"\n  },\n  \"output\": {\n    \"literal\": \"ruido fuerte\",\n    \"definicion\": \"situación de disturbio provocado por un acto que llamó la atención de la policía\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "ejemplo": "El bateador se ponchó abanicando el tercer lanzamiento.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abanicar\",\n    \"ejemplo\": \"El bateador se ponchó abanicando el tercer lanzamiento.\"\n  },\n  \"output\": {\n    \"literal\": \"exagerar\", \n    \"definicion\": \"La acción de reaccionar exageradamente o de manera exagerada\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanico",
+    "ejemplo": "No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abanico\",\n    \"ejemplo\": \"No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante.\"\n  },\n  \"output\": {\n    \"literal\": \"ventilador encendido\",\n    \"definicion\": \"un dispositivo que mueve el aire para refrescar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarco",
+    "ejemplo": "Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abarco\",\n    \"ejemplo\": \"Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales.\"\n  },\n  \"output\": {\n    \"literal\": \"madera de pino\",\n    \"definicion\": \"arbol con madera de pino que ha disminuido en oferta debido a su escasez natural\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "ejemplo": "El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abarrotes\",\n    \"ejemplo\": \"El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos.\"\n  },\n  \"output\": {\n    \"literal\": \"artículos de tienda\",\n    \"definicion\": \"provisiones alimentarias y artículos de tienda pequeños\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abeja",
+    "ejemplo": "Llegaste sin problemas al sitio: no contaban con que eres una abeja y que siempre cargas un mapa del lugar a donde vas.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abeja\",\n    \"ejemplo\": \"Llegaste sin problemas al sitio: no contaban con que eres una abeja y que siempre cargas un mapa del lugar a donde vas.\"\n  },\n  \"output\": {\n    \"literal\": \"una persona que muestra conocimiento detallado\",\n    \"definicion\": \"cuando alguien conoce exactamente cada detalle y aspecto de una ubicacion específica\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "ejemplo": "Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abejorrear\",\n    \"ejemplo\": \"Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen.\"\n  },\n  \"output\": {\n    \"literal\": \"agredir a una persona\",\n    \"definicion\": \"frase que describe agresion directa contra una persona\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abismante",
+    "ejemplo": "Después de todo, el poder adquisitivo de los latinos y los asiáticos está creciendo de manera abismante en ese país.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"literal\": \"increíblemente rápido\",\n  \"definicion\": \"muestra una tasa de crecimiento rápida e impresionante en el poder adquisitivo de los latinos y los asiáticos\"\n}\n```"
+    }
+  },
+  {
+    "modismo": "abombado",
+    "ejemplo": "Juan no se comió la carne porque estaba abombada.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abombado\",\n    \"ejemplo\": \"Juan no se comió la carne porque estaba abombada.\"\n  },\n  \"output\": {\n    \"literal\": \"la carne estaba infestada\",\n    \"definicion\": \"la carne estaba contagiada por gusanos producto de mala manipulación\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "ejemplo": "El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"aborrajado\",\n    \"ejemplo\": \"El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'.\"\n  },\n  \"output\": {\n    \"literal\": \"banano relleno frito\",\n    \"definicion\": \"platillo de banano relleno y frito en aceite\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abotar",
+    "ejemplo": "Niña, abótese que la puede atropellar el carro.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abotar\",\n    \"ejemplo\": \"Niña, abótese que la puede atropellar el carro.\"\n  },\n  \"output\": {\n    \"literal\": \"descanse en el suelo\",\n    \"definicion\": \"pretende que alguien se siente o yace por seguridad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abozao",
+    "ejemplo": "El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abozao\",\n    \"ejemplo\": \"El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano.\"\n  },\n  \"output\": {\n    \"literal\": \"muy lento\",\n    \"definicion\": \"bailar con mucha lentitud\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "ejemplo": "Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrebocas\",\n    \"ejemplo\": \"Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños.\"\n  },\n  \"output\": {\n    \"literal\": \"evento previo\",\n    \"definicion\": \"presentaciones que anticipan un evento principal principal\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "ejemplo": "Le voy a abrigar la arepita para que le sepa más rico.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrigar\",\n    \"ejemplo\": \"Le voy a abrigar la arepita para que le sepa más rico.\"\n  },\n  \"output\": {\n    \"literal\": \"cocer un segundo\",\n    \"definicion\": \"El cocinar nuevamente algo para mejorar su sabor o textura\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "ejemplo": "No nos venga a engañar otra vez con sus cuentos, ábrase.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrirse\",\n    \"ejemplo\": \"No nos venga a engañar otra vez con sus cuentos, ábrase.\"\n  },\n  \"output\": {\n    \"literal\": \"contéstenos la verdad\",\n    \"definicion\": \"Declarar sincera e honestamente su verdad sin ocultar nada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "ejemplo": "Ponte a hacer la tarea, antes de que alguien llegue y te abroche.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrochar\",\n    \"ejemplo\": \"Ponte a hacer la tarea, antes de que alguien llegue y te abroche.\"\n  },\n  \"output\": {\n    \"literal\": \"interponiéndose entre tú y la tarea\",\n    \"definicion\": \"cuando alguien evita que completes una actividad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "ejemplo": "Trate de viajar en horarios que no haya congestión. Empaque un cargador de bebé, una abuelita cómoda o un coche portátil tipo paraguas.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abuelita\",\n    \"ejemplo\": \"Trate de viajar en horarios que no haya congestión. Asimismo, empaque un cargador de bebé, una abuelita cómoda o un coche portátil tipo paraguas.\"\n  },\n  \"output\": {\n    \"literal\": \"un asiento cómodo en el coche\",\n    \"definicion\": \"fomentar una opción acomodada para religar herramientas o bebidas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "ejemplo": "Mientras se acomoda en el abullonado sofá, sufre un remezón sentimental enorme.",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abullonado\",\n    \"ejemplo\": \"Mientras se acomoda en el abullonado sofá, sufre un remezón sentimental enorme.\"\n  },\n  \"output\": {\n    \"literal\": \"con mucho acecho y amor propio\",\n    \"definicion\": \"demonstrando una actitud de maximización del comodidad y el cuidado de la propia persona.\"\n  }\n}\n```"
+    }
+  }
+]

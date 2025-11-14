@@ -1,0 +1,194 @@
+[
+  {
+    "modismo": "abajeño",
+    "ejemplo": "Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abajeño\",\n    \"ejemplo\": \"Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago.\"\n  },\n  \"output\": {\n    \"literal\": \"habitantes de abajo\",\n    \"definicion\": \"Personas que viven en la parte baja de una región.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abalear",
+    "ejemplo": "El funcionario resultó ileso a pesar de que el avión en que se dirigía a la capital del departamento fue abaleado.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "error": "HTTPSConnectionPool(host='api.straico.com', port=443): Read timed out. (read timeout=30)"
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "ejemplo": "Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abaleo\",\n    \"ejemplo\": \"Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía.\"\n  },\n  \"output\": {\n    \"literal\": \"ruido fuerte\",\n    \"definicion\": \"sonido intenso y desordenado\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "ejemplo": "El bateador se ponchó abanicando el tercer lanzamiento.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abanicar\",\n    \"ejemplo\": \"El bateador se ponchó abanicando el tercer lanzamiento.\"\n  },\n  \"output\": {\n    \"literal\": \"golpear el aire\",\n    \"definicion\": \"Acción de mover el bate sin tocar la pelota\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanico",
+    "ejemplo": "No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abanico",
+        "ejemplo": "No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante."
+      },
+      "output": {
+        "literal": "ventilador",
+        "definicion": "dispositivo que genera corrientes de aire para enfriar"
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "ejemplo": "Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abarco",
+        "ejemplo": "Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales."
+      },
+      "output": {
+        "literal": "madera nativa",
+        "definicion": "madera proveniente de árboles nativos de la región"
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "ejemplo": "El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abarrotes\",\n    \"ejemplo\": \"El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos.\"\n  },\n  \"output\": {\n    \"literal\": \"artículos de alimento\",\n    \"definicion\": \"productos básicos para la preparación de comidas en establecimientos pequeños\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abeja",
+    "ejemplo": "Llegaste sin problemas al sitio: no contaban con que eres una abeja y que siempre cargas un mapa del lugar a donde vas.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "error": "HTTPSConnectionPool(host='api.straico.com', port=443): Read timed out. (read timeout=30)"
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "ejemplo": "Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abejorrear",
+        "ejemplo": "Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen."
+      },
+      "output": {
+        "literal": "acercarse mucho",
+        "definicion": "acercarse muy cerca de alguien de forma invasiva"
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "ejemplo": "Después de todo, el poder adquisitivo de los latinos y los asiáticos está creciendo de manera abismante en ese país.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abismante\",\n    \"ejemplo\": \"Después de todo, el poder adquisitivo de los latinos y los asiáticos está creciendo de manera abismante en ese país.\"\n  },\n  \"output\": {\n    \"literal\": \"muy rápido\",\n    \"definicion\": \"ocurriendo con gran velocidad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abombado",
+    "ejemplo": "Juan no se comió la carne porque estaba abombada.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abombado\",\n    \"ejemplo\": \"Juan no se comió la carne porque estaba abombada.\"\n  },\n  \"output\": {\n    \"literal\": \"mala\",\n    \"definicion\": \"alimento no apto para consumo por descomposición\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "ejemplo": "El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"aborrajado\",\n    \"ejemplo\": \"El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'.\"\n  },\n  \"output\": {\n    \"literal\": \"papa rellena frita\",\n    \"definicion\": \"Plato de papa rellena de queso y frita\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abotar",
+    "ejemplo": "Niña, abótese que la puede atropellar el carro.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abotar\",\n    \"ejemplo\": \"Niña, abótese que la puede atropellar el carro.\"\n  },\n  \"output\": {\n    \"literal\": \"ten cuidado\",\n    \"definicion\": \"Advertir a alguien para que evite un peligro inminente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abozao",
+    "ejemplo": "El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abozao\",\n    \"ejemplo\": \"El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano.\"\n  },\n  \"output\": {\n    \"literal\": \"ritmo de danza\",\n    \"definicion\": \"ritmo musical usado en bailes tradicionales\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "ejemplo": "Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrebocas\",\n    \"ejemplo\": \"Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños.\"\n  },\n  \"output\": {\n    \"literal\": \"inicio\",\n    \"definicion\": \"parte inicial de un evento o presentación\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "ejemplo": "Le voy a abrigar la arepita para que le sepa más rico.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrigar\",\n    \"ejemplo\": \"Le voy a abrigar la arepita para que le sepa más rico.\"\n  },\n  \"output\": {\n    \"literal\": \"envolver en aluminio\",\n    \"definicion\": \"Cubrir con papel aluminio para conservar calor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "ejemplo": "No nos venga a engañar otra vez con sus cuentos, ábrase.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrirse\",\n    \"ejemplo\": \"No nos venga a engañar otra vez con sus cuentos, ábrase.\"\n  },\n  \"output\": {\n    \"literal\": \"sea honesto\",\n    \"definicion\": \"Manifestar sinceridad en palabras o acciones.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "ejemplo": "Ponte a hacer la tarea, antes de que alguien llegue y te abroche.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrochar\",\n    \"ejemplo\": \"Ponte a hacer la tarea, antes de que alguien llegue y te abroche.\"\n  },\n  \"output\": {\n    \"literal\": \"te moleste\",\n    \"definicion\": \"Ser incomodado por alguien que interrumpe.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "ejemplo": "Trate de viajar en horarios que no haya congestión. Empaque un cargador de bebé, una abuelita cómoda o un coche portátil tipo paraguas.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abuelita\",\n    \"ejemplo\": \"Trate de viajar en horarios que no haya congestión. Empaque un cargador de bebé, una abuelita cómoda o un coche portátil tipo paraguas.\"\n  },\n  \"output\": {\n    \"literal\": \"porta bebé\",\n    \"definicion\": \"dispositivo para transportar bebés\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "ejemplo": "Mientras se acomoda en el abullonado sofá, sufre un remezón sentimental enorme.",
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "abullonado",
+        "ejemplo": "Mientras se acomoda en el abullonado sofá, sufre un remezón sentimental enorme."
+      },
+      "output": {
+        "literal": "arrugado",
+        "definicion": "que tiene arrugas"
+      }
+    }
+  }
+]

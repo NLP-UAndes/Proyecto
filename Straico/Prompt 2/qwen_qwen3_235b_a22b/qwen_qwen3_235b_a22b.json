@@ -1,0 +1,170 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abajeño\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abaleo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanicar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanico",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abismante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abotar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abrigar\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrochar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abuelita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "qwen/qwen3-235b-a22b",
+    "response": {
+      "raw_response": ""
+    }
+  }
+]

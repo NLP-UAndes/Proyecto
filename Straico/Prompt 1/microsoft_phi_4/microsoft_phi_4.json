@@ -1,0 +1,142 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abajeño\",\n  \"output\": {\n    \"definicion\": \"Persona resiliente y adaptable acostumbrada a industrializar y resolver problemáticas en entornos rurales.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abalear\",\n  \"output\": {\n    \"definición\": \"Expresión derivada de 'a la media cuarta', denota indiferencia sobre un evento social.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abaleo\",\n  \"output\": {\n    \"definicion\": \"Proceso de seleccionar bestias durante el rodeo para asignar sus cuartos con valor, típico en festivales de ganadería en Colombia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abanicar\",\n  \"output\": {\n    \"definicion\": \"Movimiento rápido dentro de un grupo para extraer beneficios o ventajas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abanico\",\n  \"output\": {\n    \"definicion\": \"Cantar algo adaptado de otra canción, usualmente con modificaciones humorísticas o personales.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abarco\",\n  \"output\": {\n    \"definicion\": \"Conocimiento completo o entendimiento de una situación o asunto.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abarrotes\",\n  \"output\": {\n    \"definicion\": \"La palabra 'abarrotes' utilizado para describir situaciones comerciales complejas o desorganizadas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abeja\",\n  \"output\": {\n    \"definicion\": \"Enjambre de personas o bastantes. Refiere a invadir o abrumar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abejorrear\",\n  \"output\": {\n    \"definicion\": \"Pagar deudas desde que se pagaba con café en la bolsa.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abismante\",\n  \"output\": {\n    \"definicion\": \"Dicho de una situación o hecho impactante, sorprendente o difícil de aceptar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abombado\",\n  \"output\": {\n    \"definicion\": \"Se usa para describir algo que está hinchado o en mal estado, como un neumático.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aborrajado\",\n  \"output\": {\n    \"definicion\": \"Estación sin puntos significativos en la conversación, indicando falta de experiencia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abotar\",\n  \"output\": {\n    \"definicion\": \"Romper en pedazos con golpes, generalmente entretejido o cualquier material crujiente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abozao\",\n  \"output\": {\n    \"definicion\": \"Muy mojado o manchado, generalmente por agua o algún líquido.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrebocas\",\n  \"output\": {\n    \"definicion\": \"Comida o bebida que se ofrece antes de la comida principal para estimular el apetito.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrigar\",\n  \"output\": {\n    \"definicion\": \"Proveer protección, cobertura o apoyo a alguien o algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrirse\",\n  \"output\": {\n    \"definicion\": \"Referirse a una persona que habla abierta y libremente sobre temas personales u otros.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrochar\",\n  \"output\": {\n    \"definicion\": \"Asegurar, generalmente con un botón o hebillas, algo como ropa o cinturón.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abuelita\",\n  \"output\": {\n    \"definicion\": \"Se afirma ser más hábil o astuto que una persona de avanzada edad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abullonado\",\n  \"output\": {\n    \"definicion\": \"Persona que se presume intelectual pero habla con pretensiones sin fundamento.\"\n  }\n}\n```"
+    }
+  }
+]

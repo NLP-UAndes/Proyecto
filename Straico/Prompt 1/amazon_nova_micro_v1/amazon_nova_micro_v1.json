@@ -1,0 +1,222 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abajeño",
+      "output": {
+        "definicion": "Persona originaria de la región del Bajo Magdalena en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abalear",
+      "output": {
+        "definicion": "Insistir o presionar con insistencia en algo."
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abaleo",
+      "output": {
+        "definicion": "Acción de moverse o bailar con ritmos animados y desenfadados."
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanicar",
+      "output": {
+        "definicion": "Promover o impulsar algo con entusiasmo."
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanico",
+      "output": {
+        "definicion": "Modismo que representa una amplia variedad de opciones o posibilidades."
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarco",
+      "output": {
+        "definicion": "Incluir o abarcar todos los aspectos de un asunto."
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarrotes",
+      "output": {
+        "definicion": "Tiendecitas que venden productos básicos y comestibles a precios bajos."
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abeja",
+      "output": {
+        "definicion": "Persona que trabaja arduamente y es muy productiva."
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abejorrear",
+      "output": {
+        "definicion": "Ir de un lugar a otro con prisa."
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abismante",
+      "output": {
+        "definicion": "Modismo que indica sorpresa o admiración ante algo impresionante."
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abombado",
+      "output": {
+        "definicion": "Persona con gran autoestima y confianza en sí misma."
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aborrajado",
+      "output": {
+        "definicion": "Persona que está muy cansada o agotada"
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abotar",
+      "output": {
+        "definicion": "Terminar en una situación inesperada o desfavorable"
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abozao",
+      "output": {
+        "definicion": "Persona que tiene conocimientos básicos y superficiales sobre un tema."
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrebocas",
+      "output": {
+        "definicion": "Comida o plato que sirve como inicio o preludio a una comida."
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrigar",
+      "output": {
+        "definicion": "proteger o abrigar a alguien con ropa o abrigo"
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrirse",
+      "output": {
+        "definicion": "Indicar que alguien revela o muestra algo que antes ocultaba."
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrochar",
+      "output": {
+        "definicion": "Abrochar significa tomar una decisión definitiva y comprometerse con ella."
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abuelita",
+      "output": {
+        "definicion": "Persona mayor, generalmente una mujer de edad avanzada."
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "amazon/nova-micro-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abullonado",
+      "output": {
+        "definicion": "Persona que está muy agitada o nerviosa."
+      }
+    }
+  }
+]

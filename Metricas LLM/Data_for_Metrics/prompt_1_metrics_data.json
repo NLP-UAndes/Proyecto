@@ -1,0 +1,1946 @@
+[
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Persona originaria de la región del Bajo Magdalena en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Insistir o presionar con insistencia en algo."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Acción de moverse o bailar con ritmos animados y desenfadados."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Promover o impulsar algo con entusiasmo."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Modismo que representa una amplia variedad de opciones o posibilidades."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Incluir o abarcar todos los aspectos de un asunto."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Tiendecitas que venden productos básicos y comestibles a precios bajos."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Persona que trabaja arduamente y es muy productiva."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Ir de un lugar a otro con prisa."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Modismo que indica sorpresa o admiración ante algo impresionante."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Persona con gran autoestima y confianza en sí misma."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Persona que está muy cansada o agotada"
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Terminar en una situación inesperada o desfavorable"
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Persona que tiene conocimientos básicos y superficiales sobre un tema."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Comida o plato que sirve como inicio o preludio a una comida."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "proteger o abrigar a alguien con ropa o abrigo"
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Indicar que alguien revela o muestra algo que antes ocultaba."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Abrochar significa tomar una decisión definitiva y comprometerse con ella."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Persona mayor, generalmente una mujer de edad avanzada."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "amazon/nova-micro-v1",
+    "definicion_generada": "Persona que está muy agitada o nerviosa."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Persona resiliente y adaptable acostumbrada a industrializar y resolver problemáticas en entornos rurales."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Proceso de seleccionar bestias durante el rodeo para asignar sus cuartos con valor, típico en festivales de ganadería en Colombia."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Movimiento rápido dentro de un grupo para extraer beneficios o ventajas."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Cantar algo adaptado de otra canción, usualmente con modificaciones humorísticas o personales."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Conocimiento completo o entendimiento de una situación o asunto."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "La palabra 'abarrotes' utilizado para describir situaciones comerciales complejas o desorganizadas."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Enjambre de personas o bastantes. Refiere a invadir o abrumar."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Pagar deudas desde que se pagaba con café en la bolsa."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Dicho de una situación o hecho impactante, sorprendente o difícil de aceptar."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Se usa para describir algo que está hinchado o en mal estado, como un neumático."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Estación sin puntos significativos en la conversación, indicando falta de experiencia."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Romper en pedazos con golpes, generalmente entretejido o cualquier material crujiente."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Muy mojado o manchado, generalmente por agua o algún líquido."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Comida o bebida que se ofrece antes de la comida principal para estimular el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Proveer protección, cobertura o apoyo a alguien o algo."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Referirse a una persona que habla abierta y libremente sobre temas personales u otros."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Asegurar, generalmente con un botón o hebillas, algo como ropa o cinturón."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Se afirma ser más hábil o astuto que una persona de avanzada edad."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "microsoft/phi-4",
+    "definicion_generada": "Persona que se presume intelectual pero habla con pretensiones sin fundamento."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Persona originaria de la región del Bajo Cauca, Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Atacar o criticar a alguien con dureza."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Confusión o desorden en una situación."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Hacer circular el aire con movimientos rápidos."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Información adicional innecesaria o irrelevante."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Comprender o abarcar algo completamente."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Artículos de aprovisionamiento para el hogar."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Persona que trabaja incansablemente para obtener algo."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Distraerse o perder el tiempo sin un propósito claro."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Indican una gran cantidad o medida."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Hinchado o exagerado en forma o apariencia."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Muy cansado o agotado."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Acumular o guardar algo, especialmente alimentos."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Muy cansado o agotado."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Comida ligera antes de la principal"
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Proteger o mantener algo o a alguien."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Mostrar sinceridad o franqueza en las palabras o acciones."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Completar o finalizar algo de manera efectiva."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Persona de edad avanzada, generalmente referida con afecto."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "amazon/nova-lite-v1",
+    "definicion_generada": "Muy lleno o repleto de algo."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Persona oriunda del sur de Colombia, generalmente zonas rurales y montañosas."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Disparar con una bala a alguien o algo con fines agresivos o destructivos."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Accidente o caída que ocasiona daños o lesiones."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Mover el aire con un abanico para refrescarse."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Instrumento para refrescar."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Logro comprender o abarcar una amplia gama de temas o conocimientos."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Articulos varios o de primera necesidad como comestibles, bebidas, productos de limpieza."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Persona encantadora, sociável y agradable."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Abejorrear: mudarse o salir de forma repentina con mucha rapidez."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Expresión para referirse a una persona o cosa fascinante o impactante."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Estado de emoción intensa o impacto causado por una sorpresa o emoción."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Describir algo que está repleto o inchado."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Acto de cerrar o apagar algo, como un botón o un objeto similar."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Persona que actúa con superioridad o soberbia, especialmente en política."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Secuencia que incita a continuar con algo, ofreciendo una introducción atractiva."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Terminación temprana de una relación interpersonal."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Abrochar es consumir al máximo, dejar algo en estado inservible."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Anciana o mujer mayor con un parentesco cercano de abuelo o abuela."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "cohere/command-r-08-2024",
+    "definicion_generada": "Describir algo abullonado, significa recurrir a una cualidad de algo hinchado o abultado."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Persona oriunda de las tierras bajas de un país o región."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Disparar repetidamente contra alguien o algo con un arma de fuego."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "En Colombia, 'abaleo' se refiere a una balacera o un enfrentamiento con armas de fuego."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Descubrir o revelar información confidencial o secreta, usualmente de manera involuntaria."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "En Colombia, 'abanico' se refiere a un conjunto diverso de opciones o posibilidades disponibles."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Calzado rústico, usualmente de cuero, que cubre solo la planta del pie y se asegura con correas o cuerdas."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Conjunto de productos básicos de consumo, especialmente alimentos y artículos para el hogar."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Persona muy activa y trabajadora."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Molestar o importunar a alguien de forma insistente, similar al zumbido constante de un abejorro."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Se usa para describir algo que causa gran asombro o sorpresa debido a su magnitud o intensidad."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Se dice de alguien aturdido, confundido o que tiene dificultad para comprender algo."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Persona o cosa cubierta o rebozada en una masa, usualmente de harina y huevo, para freír."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Hincharse o inflarse, usualmente refiriéndose a una parte del cuerpo o a un alimento descompuesto."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Persona que actúa de manera astuta y taimada para obtener un beneficio."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Alimento ligero que se sirve para estimular el apetito antes de la comida principal."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Tener o sentir una esperanza o un sentimiento hacia algo o alguien."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Retirarse o distanciarse de una situación, grupo o persona."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Conseguir algo por medio de favores, influencias o aprovechándose de una situación."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Persona que tiene nietos; mujer mayor, generalmente cariñosa y sabia."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "google/gemini-2.0-flash-001",
+    "definicion_generada": "Se dice de algo o alguien inflado, pomposo o que aparenta más de lo que realmente es."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Persona originaria o residente de la zona geográfica situada en zonas bajas o planicies."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Acción de golpear o atacar con fuerza y repetidamente."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Acción de golpear o atacar con fuerza y repetidamente."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Mover rápidamente un abanico para producir aire fresco."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Instrumento portátil utilizado para producir aire fresco mediante su movimiento manual."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Relación íntima o unión no formal entre dos personas."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Tienda que ofrece diversos productos de consumo diario y alimentos envasados."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Persona muy activa y trabajadora que siempre está ocupada en múltiples tareas."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Molestar o fastidiar a alguien de manera insistente y repetitiva."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Descripción de algo que produce o puede producir un sentimiento de temor o abrumación profunda."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Persona o cosa que se encuentra hinchada o inflada de manera excesiva."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Persona que actúa de manera exagerada o desmedida en una situación particular."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Cerrar con fuerza una botella o recipiente, especialmente dejando restos dentro."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Persona que sufre del mal de ojo, experienciando fatiga inexplicable."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Persona o cosa que incita a hablar o iniciar una conversación."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Proporcionar calor o protección contra el frío utilizando prendas de vestir adecuadas."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Desarrollar o expandir hacia nuevos horizontes o oportunidades de crecimiento y desarrollo personal."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Acción de cerrar o ajustar algo con un broche o cierre."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Término cariñoso para referirse a una abuela, generalmente en contextos familiares o afectivos."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "qwen/qwen-2-vl-72b-instruct",
+    "definicion_generada": "Persona con actitud desafiante o agresiva, dispuesta a enfrentarse a otros."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Persona nativa o residente de zonas bajas, generalmente en contraste con las zonas altas."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Reducir el precio o valor de algo, generalmente mediante negociación."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Acción de balear, disparar repetidamente con un arma de fuego."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Rechazar o evadir suavemente una propuesta o insistencia."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Tienda que vende productos alimenticios y de primera necesidad."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Persona laboriosa y constante en su trabajo."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Realizar acciones de manera intensa y constante, generalmente con empeño y entusiasmo."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Que produce un sentimiento de asombro o admiración profunda."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Persona que se encuentra en un estado de enojo o irritación."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Persona que se comporta de manera excesivamente sumisa o complaciente."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Aplanar o comprimir algo hasta hacerlo más delgado o liso."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Persona que ha consumido en exceso alcohol o drogas, alterando su estado mental y físico."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Pequeña porción de comida servida antes de una comida principal para estimular el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Cubrirse con ropa u objetos para protegerse del frío."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Tomar una actitud más receptiva o flexible ante una situación o persona."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Terminar, finalizar o concluir una acción o negociación."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Término cariñoso para referirse a la abuela."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "qwen/qwen-2.5-72b-instruct",
+    "definicion_generada": "Dicho de una tela o prenda: Arrugada o plisada intencionalmente para dar volumen."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Indica una persona orgullosa de su origen humilde."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Disparar repetidamente contra alguien o algo."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Encontrar una solución inesperada o remedio a un problema."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Molesta, incomoda o ahuyenta a alguien con insistencia."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Se usa para indicar que algo está descompuesto, sin funcionar."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Estar muy atento a las acciones o palabras de alguien."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Se refiere a una persona supersticiosa o temerosa."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Persona muy activa, curiosa o inquieta."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Estar en un estado de insolencia o arrogancia."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Que es muy profundo o extenso."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Se dice de una persona impresionada o sorprendida por algo."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Conocedor, entendido en alguna materia."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Ignorar deliberadamente a alguien o algo."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Agotado, exhausto, sin energía."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Aperitivo para estimular el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Ahorrar y guardar dinero o recursos con cautiousas prevision."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Referirse a una conversación o situación íntima."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Desmontar un objeto o aparato."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Dilema o situación complicada."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "google/gemma-2-27b-it",
+    "definicion_generada": "Enfadado, irritable o propenso a enojarse."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Persona proveniente de la región a orillas del río Magdalena, en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Atacar o maltratar a alguien de forma verbal, criticándolo duramente."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Acto de hostigar o molestar de forma insistente a alguien o algo."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Manejar dinero u objetos de forma ostentosa, presumida o indiscriminada."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Objeto para abanicarse y refrescarse con movimientos manuales."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Objeto con amplias dimensiones o que cubre un gran espacio abarcando varios elementos."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Comida y provisiones vendidas en tiendas pequeñas."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Persona laboriosa, diligente y activa en sus quehaceres."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Molestar insistentemente a alguien con algo."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Describe una diferencia, brecha o distancia sumamente grande e insuperable."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Se refiere a algo o alguien que está inflado, hinchado o con exceso de volumen."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Postre frito, típicamente hecho con plátano maduro y harina."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Hacer algo a medias o con desgano, sin dedicación."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Persona que se ahoga o está en grave dificultad, especialmente económica."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Algo que sirve de inicio o presentación para algo más importante."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Usar prendas holgadas para proteger del frío o para disimular el cuerpo."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Revelar información personal o confidencial a alguien."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Unir o ajustar algo, generalmente prendas de vestir, mediante botones, cremalleras o similares."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Metáfora para referirse a alguien muy mayor, frecuentemente usado con afecto."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "google/gemini-2.5-flash-lite",
+    "definicion_generada": "Una superficie con pliegues o adornos circulares realzados."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Habitante del bajo Magdalena"
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Aprender o estudiar de memoria."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Gesto de desdén o desinterés"
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Mover una prenda para refrescarse."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Persona que golpea a otra con la mano abierta."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Cobertura total de algo."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Comida poco saludable o de mala calidad"
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Persona muy trabajadora y aplicada."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Trabajar con dedicación y esfuerzo constante."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Profundo y enorme."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Lleno de aire o hinchado excesivamente."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Muy cansado o exhausto"
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Impulsar o empujar con fuerza algo."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Abrazado fuertemente a alguien."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Aperitivo o bebida que se toma antes de una comida."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Albergar o tener un sentimiento o idea."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Desenvolverse o hablar con libertad."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Poner o cerrar un broche o cierre."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Término cariñoso para abuela"
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "meta-llama/llama-3.3-70b-instruct",
+    "definicion_generada": "Muy enojado o molesto."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Habitante de las regiones bajas de un área geográfica específica, comúnmente asociado a zonas de menor altitud en departamentos como Nariño."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Disparar con arma de fuego de manera intensa o repetitiva."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Acción de acompañar una melodía con palmadas rítmicas."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Espolvorear o dispersar algo de manera amplia y desordenada."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Expresa variedad o diversidad en opciones, situaciones o elementos."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Acción que cubre un amplio alcance o territorio."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Establecimiento que comercializa productos básicos de consumo diario."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Persona muy ocupada o activa en múltiples tareas."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Molestar insistentemente a alguien con insistencias o preguntas."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Que produce una sensación intensa de desesperanza o confusión."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Persona que se cree superior o actúa con exceso de confianza."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Estado de extrema fatiga o agotamiento físico y mental."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Insistir de manera molesta o persistente en una solicitud o acción."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Estado de extrema fatiga o agotamiento físico."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Abrebocas es una pequeña cantidad de dinero entregada para facilitar un trámite o negocio."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Mantener caluroso o proteger del frío a alguien o algo."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Desprenderse rápidamente de un lugar o situación."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Finalizar o concluir algo de manera eficiente y ordenada."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Se usa coloquialmente para describir algo considerado obsoleto o de generaciones anteriores."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "definicion_generada": "Persona muy cansada o agotada, con aspecto desgastado."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Persona originaria o residente del municipio de Abajo, en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Actuar de manera irresponsable, gastando dinero de forma impulsiva o sin control."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Acto de abandonar o dejar algo sin terminar o sin cuidado en la cultura colombiana."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Mover las manos o un objeto para crear corriente de aire o envolver algo suavemente."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Persona que tiene muchas opciones o recursos disponibles para elegir."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Persona que actúa de manera exagerada o que hace alarde de sus habilidades."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Establecimiento donde se venden productos básicos de consumo diario."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Persona trabajadora, diligente y constante en sus actividades."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Realizar múltiples actividades pequeñas y poco efectivas al mismo tiempo."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Que causa una impresión profunda y mueve en gran medida la percepción o la emoción."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Estar muy lleno o saturado, generalmente de comida o en exceso."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Persona que actúa de manera arrogante y prepotente con quienes la rodean."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Recoger o juntar cosas dispersas, especialmente en la calle o en lugares públicos."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Persona perezosa, floja o desganada para realizar actividades o responsabilidades."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Persona que comienza a contar su vida o detalles personales de manera indiscreta."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Revelar sentimientos o pensamientos que se mantenían ocultos."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Asegurar o ajustar algo con un botón, cremallera o hebilla."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Persona mayor, cariñosamente llamada así por su carácter dulce y respetuoso."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "openai/gpt-4.1-nano",
+    "definicion_generada": "Lleno o congestionado, con muchas personas o cosas acumuladas."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Abajeño: persona originaria o residente de Abajo, región o municipio colombiano; descendiente de esa localidad."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Golpear a alguien con un objeto contundente, causando lesiones."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Acción de maniobrar con poca claridad para obtener un favor o beneficio, maniobra discreta."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Realizar gestos o movimientos para atraer la atención de alguien, especialmente de manera coqueta."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Expresión que indica una amplia variedad de opciones o posibilidades disponibles."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Abarco es un modismo colombiano que expresa la capacidad de cubrir numerosos temas o responsabilidades."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Conjunto de tiendas pequeñas de comestibles que venden productos de consumo diario."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Persona muy trabajadora y diligente, siempre activa y productiva."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Abejorrear: molestar persistente y repetidamente, como quien ronda buscando algo."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Es la cualidad de provocar asombro de gran intensidad."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Persona engreída y presumida, que presume de su importancia o poder."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Individuo agotado, irritado o hastiado por una situación."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "abotar es desechar algo de forma precipitada, sin análisis ni compromiso."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Abozao es un término coloquial que describe a una persona cansada y desorientada, sin energía ni motivación."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Alimento ligero que abre el apetito y sirve como entrante o aperitivo."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Mantener o albergar una idea, deseo o sospecha, de forma discreta y continua."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Abrirse es expresar de forma sincera sentimientos, ideas o experiencias ante otra persona."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Cerrar o sujetar algo con botones, broches o un mecanismo, asegurándolo firmemente."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Es un apelativo afectuoso para la abuela, una mujer mayor tratada con cariño."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "openai/gpt-5-nano",
+    "definicion_generada": "Abullonado es algo lleno y abarrotado de gente o de objetos."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Abandonar precipitadamente un lugar para evitar un problema o responsabilidad."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Actividad sencilla ejecutada con fluidez y ausencia de dificultades notables"
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Persona laboriosa que constantemente participa en múltiples actividades laborales"
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Agitarse o moverse sin rumbo fijo"
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Situación que genera profunda consternación o asombro inesperado"
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Golpeado repetidamente hasta quedar deshecho"
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Marchar o escapar rápidamente de un lugar"
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Acción de iniciar una conversación o expresar opiniones sin reservas."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Consiste en escapar rápidamente de un lugar o situación"
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Concluir o resolver una situación de manera rápida y efectiva"
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Persona que mantiene costumbres y valores tradicionales de generaciones anteriores"
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "qwen/qwen3-235b-a22b",
+    "definicion_generada": "Persona fatigada debido a labores repetitivas y monótonas."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Persona que vive en una región de clima cálido en Colombia, especialmente en zonas costeras del Caribe."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "En Colombia, significa trabajar con esfuerzo y dedicación."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Conmoción o alboroto causado por una noticia impactante."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Acción de mover la mano o un objeto de manera similar a como se agita un abanico."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "En Colombia, 'abanico' puede aludir a los senos de una mujer, destacando su tamaño y forma."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Termino coloquial que indica estar muy enamorado o ilusionado por alguien."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "En Colombia, 'abarrotes' se usa para referirse a mercancías o provisiones en general, especialmente las que se venden en tiendas de barrio o almacenes de productos variados."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Persona inquieta y trabajadora; también, en un contexto negativo, indica alguien entrometido y chismoso."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Hacer tareas de manera dispersa y sin concentración."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Califica algo que causa profunda impresión o admiración por su magnitud o belleza."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "En Colombia, \"abombado\" se usa para describir a alguien que está engañado o creyendo algo falso."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Estado de suma sorpresa, confusión o asombro."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Fastidiar, importunar o causar molestia a alguien con insistencia."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Estado de ebriedad avanzada o completa, donde la persona no puede mantener el equilibrio ni articular palabras con claridad."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "En Colombia, 'abrebocas' se usa para denominar alimentos o bebidas que se consumen antes de la comida principal para abrir el apetito."
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Proteger a alguien del frío o de algún daño potencial."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Empezar a prosperar o obtener éxito en una actividad, especialmente en el contexto de negocios o emprendimientos."
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Cumplir una promesa o compromiso, especialmente si implica ofrecer algo."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "Término cariñoso para referirse a una persona mayor, no necesariamente un familiar directo."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "microsoft/wizardlm-2-8x22b",
+    "definicion_generada": "En apuros, confundido o desordenado en su estado o actividades."
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Agitación, bulla o problema, generalmente entre dos o más personas."
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Molestar o fastidiar a alguien con insistencia."
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Persona muy habladora que cuenta todos los secretos."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Persona que se enferma fácilmente o tiene mucha debilidad física."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Alimentos y productos no perecederos."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Persona trabajadora y muy activa."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Perseguir a alguien con insistencia y molestia."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Desordenado, caótico o extremadamente sucio"
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Muy gordo o abultado."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Persona molesta o pesada que no cede en su posición."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Señalar o descubrir a alguien en un lugar público."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Iniciación o introducción a algo placentero o delicioso"
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Albergar o guardar algo con cuidado."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Tomar confianza o desarrollar una mayor facundia al hablar"
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Acabar o terminar algo de manera definitiva."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Apelativo cariñoso para referirse a algo o alguien"
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "meta-llama/llama-3.1-70b-instruct",
+    "definicion_generada": "Enfadado o molesto por algo."
+  },
+  {
+    "modismo": "abajeño",
+    "definicion_real": "Propio o nativo de las costas o de las tierras bajas.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Persona originaria de regiones bajas o de tierras cálidas en Colombia."
+  },
+  {
+    "modismo": "abalear",
+    "definicion_real": "Disparar a alguien o a algo de manera repetida con un arma de fuego.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Disparar repetidamente hacia alguien o algo con intención de herir o matar"
+  },
+  {
+    "modismo": "abaleo",
+    "definicion_real": "Situación en la que hay disparos repetidos que provienen de una o varias armas de fuego.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Acción de hablar mucho y de manera indisciplinada o sin sustancia"
+  },
+  {
+    "modismo": "abanicar",
+    "definicion_real": "En el beisbol, fallar el bateador al no tocar la pelota que se le lanza habiendo hecho el movimiento completo del bate para golpearla.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Halagar o adular a alguien para obtener algo de él"
+  },
+  {
+    "modismo": "abanico",
+    "definicion_real": "Aparato eléctrico que crea una corriente de aire en una habitación para ventilarla y disminuir su temperatura.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Variedad de opciones o posibilidades presentadas de manera amplia y diversa."
+  },
+  {
+    "modismo": "abarco",
+    "definicion_real": "Árbol maderable que alcanza una altura hasta 50 m, de hojas lanceoladas, follaje poco frondoso, la corteza se procesa para la elaboración de canastos.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Acción de abrazar o rodear algo o alguien con los brazos."
+  },
+  {
+    "modismo": "abarrotes",
+    "definicion_real": "Víveres de consumo diario.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Conjunto de productos alimenticios y artículos de primera necesidad para el hogar."
+  },
+  {
+    "modismo": "abeja",
+    "definicion_real": "Ser hábil o astuto para salir bien librado de situaciones complicadas.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Persona muy trabajadora y activa en diversas actividades o tareas."
+  },
+  {
+    "modismo": "abejorrear",
+    "definicion_real": "Manosear lujuriosamente a alguien en público.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Molestar o importunar insistentemente a alguien con palabras o acciones."
+  },
+  {
+    "modismo": "abismante",
+    "definicion_real": "Referido a alguien o a algo, que es sorprendente o muy notorio.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Algo que causa gran asombro o sorpresa por su magnitud o características extraordinarias."
+  },
+  {
+    "modismo": "abombado",
+    "definicion_real": "Referido a un alimento, que está descompuesto.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Dicho de una persona, que ha perdido la claridad mental o está aturdida."
+  },
+  {
+    "modismo": "aborrajado",
+    "definicion_real": "Plato típico hecho con dos capas de plátano maduro frito con un relleno de queso y bocadillo entre ellas, y que se apana y se frita hasta dorarse.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Persona que se viste de manera descuidada o con ropa arrugada y desordenada."
+  },
+  {
+    "modismo": "abotar",
+    "definicion_real": "Ubicarse alguien o algo en la orilla del río o la acera.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Llenar o hartar a alguien con algo, generalmente comida o bebida."
+  },
+  {
+    "modismo": "abozao",
+    "definicion_real": "Danza caracterizada por movimientos pélvicos enérgicos y rápidos de los danzantes y se acompaña con frecuentes gritos.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Persona que está en una situación difícil o comprometida, generalmente por deudas o problemas financieros."
+  },
+  {
+    "modismo": "abrebocas",
+    "definicion_real": "Adelanto que a manera de muestra se ofrece como motivación para que el público asista a una presentación o a un espectáculo.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Persona o situación que genera gran expectación o curiosidad"
+  },
+  {
+    "modismo": "abrigar",
+    "definicion_real": "Calentar los alimentos en la estufa.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Albergar o dar refugio a alguien o algo, generalmente con connotación de protección o resguardo."
+  },
+  {
+    "modismo": "abrirse",
+    "definicion_real": "Irse de un lugar.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Marcharse o alejarse de un lugar o situación de manera voluntaria o intempestiva"
+  },
+  {
+    "modismo": "abrochar",
+    "definicion_real": "Exigirle duramente a alguien que realice una tarea o cumpla con sus deberes.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Lograr algo o alguien de manera efectiva o contundente."
+  },
+  {
+    "modismo": "abuelita",
+    "definicion_real": "Cuna portátil para bebé que facilita llevarlo de un sitio a otro.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Persona que fuma marihuana de manera habitual y con frecuencia."
+  },
+  {
+    "modismo": "abullonado",
+    "definicion_real": "Referido a un mueble o prenda de vestir, relleno o abultado por un material que se expande, utilizado en los textiles con que se recubren o elaboran estos objetos.",
+    "modelo": "meta-llama/llama-4-maverick",
+    "definicion_generada": "Persona o cosa que está hinchada o abultada de manera exagerada o ridícula."
+  }
+]

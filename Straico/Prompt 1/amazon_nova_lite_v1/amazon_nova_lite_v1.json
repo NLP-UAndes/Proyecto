@@ -1,0 +1,222 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abajeño",
+      "output": {
+        "definicion": "Persona originaria de la región del Bajo Cauca, Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abalear",
+      "output": {
+        "definicion": "Atacar o criticar a alguien con dureza."
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abaleo",
+      "output": {
+        "definicion": "Confusión o desorden en una situación."
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanicar",
+      "output": {
+        "definicion": "Hacer circular el aire con movimientos rápidos."
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanico",
+      "output": {
+        "definicion": "Información adicional innecesaria o irrelevante."
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarco",
+      "output": {
+        "definicion": "Comprender o abarcar algo completamente."
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarrotes",
+      "output": {
+        "definicion": "Artículos de aprovisionamiento para el hogar."
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abeja",
+      "output": {
+        "definicion": "Persona que trabaja incansablemente para obtener algo."
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abejorrear",
+      "output": {
+        "definicion": "Distraerse o perder el tiempo sin un propósito claro."
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abismante",
+      "output": {
+        "definicion": "Indican una gran cantidad o medida."
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abombado",
+      "output": {
+        "definicion": "Hinchado o exagerado en forma o apariencia."
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aborrajado",
+      "output": {
+        "definicion": "Muy cansado o agotado."
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abotar",
+      "output": {
+        "definicion": "Acumular o guardar algo, especialmente alimentos."
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abozao",
+      "output": {
+        "definicion": "Muy cansado o agotado."
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrebocas",
+      "output": {
+        "definicion": "Comida ligera antes de la principal"
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrigar",
+      "output": {
+        "definicion": "Proteger o mantener algo o a alguien."
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrirse",
+      "output": {
+        "definicion": "Mostrar sinceridad o franqueza en las palabras o acciones."
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrochar",
+      "output": {
+        "definicion": "Completar o finalizar algo de manera efectiva."
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abuelita",
+      "output": {
+        "definicion": "Persona de edad avanzada, generalmente referida con afecto."
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "amazon/nova-lite-v1",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abullonado",
+      "output": {
+        "definicion": "Muy lleno o repleto de algo."
+      }
+    }
+  }
+]

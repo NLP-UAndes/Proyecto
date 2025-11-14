@@ -1,0 +1,198 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abajeño",
+      "output": {
+        "definicion": "Indica una persona orgullosa de su origen humilde."
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abalear\",\n  \"output\": {\n    \"definicion\": \"Disparar repetidamente contra alguien o algo.\"\n  }\n}```\n"
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "raw_response": "\n```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abaleo\",\n  \"output\": {\n    \"definicion\": \"Encontrar una solución inesperada o remedio a un problema.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanicar",
+      "output": {
+        "definicion": "Molesta, incomoda o ahuyenta a alguien con insistencia."
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abanico",
+      "output": {
+        "definicion": "Se usa para indicar que algo está descompuesto, sin funcionar."
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarco",
+      "output": {
+        "definicion": "Estar muy atento a las acciones o palabras de alguien."
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abarrotes",
+      "output": {
+        "definicion": "Se refiere a una persona supersticiosa o temerosa."
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abeja\",\n  \"output\": {\n    \"definicion\": \"Persona muy activa, curiosa o inquieta.\"\n  }\n}```"
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abejorrear",
+      "output": {
+        "definicion": "Estar en un estado de insolencia o arrogancia."
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abismante",
+      "output": {
+        "definicion": "Que es muy profundo o extenso."
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "raw_response": "\n```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abombado\",\n  \"output\": {\n    \"definicion\": \"Se dice de una persona impresionada o sorprendida por algo.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aborrajado",
+      "output": {
+        "definicion": "Conocedor, entendido en alguna materia."
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "raw_response": "\n```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abotar\",\n  \"output\": {\n    \"definicion\": \"Ignorar deliberadamente a alguien o algo.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abozao",
+      "output": {
+        "definicion": "Agotado, exhausto, sin energía."
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrebocas",
+      "output": {
+        "definicion": "Aperitivo para estimular el apetito."
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrigar",
+      "output": {
+        "definicion": "Ahorrar y guardar dinero o recursos con cautiousas prevision."
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abrirse",
+      "output": {
+        "definicion": "Referirse a una conversación o situación íntima."
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrochar\",\n  \"output\": {\n    \"definicion\": \"Desmontar un objeto o aparato.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abuelita",
+      "output": {
+        "definicion": "Dilema o situación complicada."
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abullonado",
+      "output": {
+        "definicion": "Enfadado, irritable o propenso a enojarse."
+      }
+    }
+  }
+]

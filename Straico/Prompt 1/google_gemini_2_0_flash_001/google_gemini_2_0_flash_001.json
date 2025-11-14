@@ -1,0 +1,142 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abajeño\",\n  \"output\": {\n    \"definicion\": \"Persona oriunda de las tierras bajas de un país o región.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abalear\",\n  \"output\": {\n    \"definicion\": \"Disparar repetidamente contra alguien o algo con un arma de fuego.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abaleo\",\n  \"output\": {\n    \"definicion\": \"En Colombia, 'abaleo' se refiere a una balacera o un enfrentamiento con armas de fuego.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abanicar\",\n  \"output\": {\n    \"definicion\": \"Descubrir o revelar información confidencial o secreta, usualmente de manera involuntaria.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abanico\",\n  \"output\": {\n    \"definicion\": \"En Colombia, 'abanico' se refiere a un conjunto diverso de opciones o posibilidades disponibles.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abarco\",\n  \"output\": {\n    \"definicion\": \"Calzado rústico, usualmente de cuero, que cubre solo la planta del pie y se asegura con correas o cuerdas.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abarrotes\",\n  \"output\": {\n    \"definicion\": \"Conjunto de productos básicos de consumo, especialmente alimentos y artículos para el hogar.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abeja\",\n  \"output\": {\n    \"definicion\": \"Persona muy activa y trabajadora.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abejorrear\",\n  \"output\": {\n    \"definicion\": \"Molestar o importunar a alguien de forma insistente, similar al zumbido constante de un abejorro.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abismante\",\n  \"output\": {\n    \"definicion\": \"Se usa para describir algo que causa gran asombro o sorpresa debido a su magnitud o intensidad.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abombado\",\n  \"output\": {\n    \"definicion\": \"Se dice de alguien aturdido, confundido o que tiene dificultad para comprender algo.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aborrajado\",\n  \"output\": {\n    \"definicion\": \"Persona o cosa cubierta o rebozada en una masa, usualmente de harina y huevo, para freír.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abotar\",\n  \"output\": {\n    \"definicion\": \"Hincharse o inflarse, usualmente refiriéndose a una parte del cuerpo o a un alimento descompuesto.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abozao\",\n  \"output\": {\n    \"definicion\": \"Persona que actúa de manera astuta y taimada para obtener un beneficio.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrebocas\",\n  \"output\": {\n    \"definicion\": \"Alimento ligero que se sirve para estimular el apetito antes de la comida principal.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrigar\",\n  \"output\": {\n    \"definicion\": \"Tener o sentir una esperanza o un sentimiento hacia algo o alguien.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrirse\",\n  \"output\": {\n    \"definicion\": \"Retirarse o distanciarse de una situación, grupo o persona.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrochar\",\n  \"output\": {\n    \"definicion\": \"Conseguir algo por medio de favores, influencias o aprovechándose de una situación.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abuelita\",\n  \"output\": {\n    \"definicion\": \"Persona que tiene nietos; mujer mayor, generalmente cariñosa y sabia.\"\n  }\n}\n```\n"
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "google/gemini-2.0-flash-001",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abullonado\",\n  \"output\": {\n    \"definicion\": \"Se dice de algo o alguien inflado, pomposo o que aparenta más de lo que realmente es.\"\n  }\n}\n```\n"
+    }
+  }
+]
