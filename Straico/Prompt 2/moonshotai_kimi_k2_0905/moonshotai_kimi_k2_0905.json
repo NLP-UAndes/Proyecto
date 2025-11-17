@@ -1,0 +1,13 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "moonshotai/kimi-k2-0905",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abajeño",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  }
+]

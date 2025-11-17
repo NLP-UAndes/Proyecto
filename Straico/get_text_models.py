@@ -7,7 +7,7 @@ import requests
 from typing import Dict, Any, List
 
 # API Key
-API_KEY = "8z-9jQAA88DqGOwysRF8KtHVN46DusE1HicHFJJnGR8S1sORXeD"
+API_KEY = "v8-Ps43kVOZynO8LHli5ay9oXNDR7VNMmDkxONui5xcp8Q0tjAo"
 
 def get_available_models() -> Dict[str, Any]:
     """Obtener la lista de modelos disponibles en Straico.

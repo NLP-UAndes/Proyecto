@@ -1,0 +1,13 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abajeño",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  }
+]

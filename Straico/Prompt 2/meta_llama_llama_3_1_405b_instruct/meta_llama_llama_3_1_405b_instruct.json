@@ -1,0 +1,9 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abaje"
+    }
+  }
+]

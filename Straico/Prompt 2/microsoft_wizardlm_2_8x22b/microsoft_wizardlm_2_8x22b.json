@@ -1,0 +1,9 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "microsoft/wizardlm-2-8x22b",
+    "response": {
+      "raw_response": " ```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abajeño\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  }
+]

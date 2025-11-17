@@ -1,0 +1,13 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abajeño",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  }
+]

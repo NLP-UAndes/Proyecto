@@ -1,0 +1,13 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abajeño",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  }
+]

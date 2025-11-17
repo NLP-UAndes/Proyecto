@@ -1,0 +1,9 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abajeño\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  }
+]

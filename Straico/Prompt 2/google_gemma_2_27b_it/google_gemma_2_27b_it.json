@@ -1,0 +1,9 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "google/gemma-2-27b-it",
+    "response": {
+      "raw_response": "\n\n\n```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abajeño\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  }
+]

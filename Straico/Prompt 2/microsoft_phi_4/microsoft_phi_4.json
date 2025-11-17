@@ -1,0 +1,9 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "microsoft/phi-4",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abajeño\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  }
+]
