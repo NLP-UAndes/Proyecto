@@ -1,0 +1,1121 @@
+[
+  {
+    "modismo": "abajeño",
+    "ejemplo": "Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abajeño\",\n    \"ejemplo\": \"Empezaron cultivos de tabaco y a elaborar un delicioso aguardiente de contrabando, al mismo tiempo que cultivaban cacao para llevar a los abajeños de Cartago.\"\n  },\n  \"output\": {\n    \"literal\": \"habitantes de tierras bajas\",\n    \"definicion\": \"personas que residen en zonas de menor altitud.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abalear",
+    "ejemplo": "El funcionario resultó ileso a pesar de que el avión en que se dirigía a la capital del departamento fue abaleado.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abalear\",\n    \"ejemplo\": \"El funcionario resultó ileso a pesar de que el avión en que se dirigía a la capital del departamento fue abaleado.\"\n  },\n  \"output\": {\n    \"literal\": \"recibir disparos\",\n    \"definicion\": \"ser impactado por proyectiles de arma de fuego.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "ejemplo": "Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abaleo\",\n    \"ejemplo\": \"Por la calle doce se oía un tremendo abaleo y al poco rato vimos llegar a la policía.\"\n  },\n  \"output\": {\n    \"literal\": \"disparos de arma de fuego\",\n    \"definicion\": \"Sonidos producidos por el uso de armas en un lugar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "ejemplo": "El bateador se ponchó abanicando el tercer lanzamiento.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abanicar\",\n    \"ejemplo\": \"El bateador se ponchó abanicando el tercer lanzamiento.\"\n  },\n  \"output\": {\n    \"literal\": \"fallar el golpe\",\n    \"definicion\": \"No conectar el lanzamiento con el bate.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanico",
+    "ejemplo": "No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abanico\",\n    \"ejemplo\": \"No podía dormir la siesta de la tarde sin el abanico prendido, el calor era desesperante.\"\n  },\n  \"output\": {\n    \"literal\": \"ventilador eléctrico\",\n    \"definicion\": \"dispositivo que genera corriente de aire para refrescar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarco",
+    "ejemplo": "Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abarco\",\n    \"ejemplo\": \"Actualmente, la oferta de madera de abarco ha disminuido, como consecuencia de la reducción de sus poblaciones naturales.\"\n  },\n  \"output\": {\n    \"literal\": \"madera de árbol\",\n    \"definicion\": \"Material obtenido de la corteza o tronco de un árbol.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "ejemplo": "El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abarrotes\",\n    \"ejemplo\": \"El Plaza Centro tiene 389 soluciones destinadas para vendedores de hierbas, flores, artesanías, frutas, verduras, abarrotes, carnes y lácteos.\"\n  },\n  \"output\": {\n    \"literal\": \"productos básicos\",\n    \"definicion\": \"Artículos alimenticios y de consumo esencial en el hogar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abeja",
+    "ejemplo": "Llegaste sin problemas al sitio: no contaban con que eres una abeja y que siempre cargas un mapa del lugar a donde vas.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abeja\",\n    \"ejemplo\": \"Llegaste sin problemas al sitio: no contaban con que eres una abeja y que siempre cargas un mapa del lugar a donde vas.\"\n  },\n  \"output\": {\n    \"literal\": \"persona organizada\",\n    \"definicion\": \"alguien que planea y prepara todo con anticipación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "ejemplo": "Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abejorrear\",\n    \"ejemplo\": \"Se ha vuelto una práctica de lo más normal eso de que se le peguen a una los tipos en los buses y lo abejorreen.\"\n  },\n  \"output\": {\n    \"literal\": \"acosar insistentemente\",\n    \"definicion\": \"molestar a alguien de manera persistente y molesta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abismante",
+    "ejemplo": "Después de todo, el poder adquisitivo de los latinos y los asiáticos está creciendo de manera abismante en ese país.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abismante\",\n    \"ejemplo\": \"Después de todo, el poder adquisitivo de los latinos y los asiáticos está creciendo de manera abismante en ese país.\"\n  },\n  \"output\": {\n    \"literal\": \"muy acelerada\",\n    \"definicion\": \"crecimiento rápido y notable en poco tiempo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abombado",
+    "ejemplo": "Juan no se comió la carne porque estaba abombada.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abombado\",\n    \"ejemplo\": \"Juan no se comió la carne porque estaba abombada.\"\n  },\n  \"output\": {\n    \"literal\": \"en mal estado\",\n    \"definicion\": \"alimento descompuesto o no apto para consumo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "ejemplo": "El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"aborrajado\",\n    \"ejemplo\": \"El aborrajado es un plato típico que se inscribe en la amplia gama de platos que conforman la 'cocina vallecaucana'.\"\n  },\n  \"output\": {\n    \"literal\": \"plátano relleno frito\",\n    \"definicion\": \"plato tradicional hecho de plátano maduro relleno y frito.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abotar",
+    "ejemplo": "Niña, abótese que la puede atropellar el carro.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abotar\",\n    \"ejemplo\": \"Niña, abótese que la puede atropellar el carro.\"\n  },\n  \"output\": {\n    \"literal\": \"aléjese rápidamente\",\n    \"definicion\": \"moverse con prontitud para evitar peligro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abozao",
+    "ejemplo": "El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abozao\",\n    \"ejemplo\": \"El grupo de Chocó bailó Voltea en ritmo de abozao que es una danza folclórica del Pacífico colombiano.\"\n  },\n  \"output\": {\n    \"literal\": \"ritmo tradicional\",\n    \"definicion\": \"Estilo musical característico de una región.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "ejemplo": "Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrebocas\",\n    \"ejemplo\": \"Cine, arte y paz en 5 cortometrajes de abrebocas al festival Caleidoscopio de sueños.\"\n  },\n  \"output\": {\n    \"literal\": \"introducción previa\",\n    \"definicion\": \"evento o actividad que precede a otro principal.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "ejemplo": "Le voy a abrigar la arepita para que le sepa más rico.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrigar\",\n    \"ejemplo\": \"Le voy a abrigar la arepita para que le sepa más rico.\"\n  },\n  \"output\": {\n    \"literal\": \"calentar un poco\",\n    \"definicion\": \"Aumentar la temperatura de algo para mejorar su sabor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "ejemplo": "No nos venga a engañar otra vez con sus cuentos, ábrase.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrirse\",\n    \"ejemplo\": \"No nos venga a engañar otra vez con sus cuentos, ábrase.\"\n  },\n  \"output\": {\n    \"literal\": \"vaya a otro lado\",\n    \"definicion\": \"indicación de rechazo o desinterés hacia alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "ejemplo": "Ponte a hacer la tarea, antes de que alguien llegue y te abroche.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abrochar\",\n    \"ejemplo\": \"Ponte a hacer la tarea, antes de que alguien llegue y te abroche.\"\n  },\n  \"output\": {\n    \"literal\": \"te regañe\",\n    \"definicion\": \"Recibir una reprimenda o llamado de atención.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "ejemplo": "Trate de viajar en horarios que no haya congestión. Empaque un cargador de bebé, una abuelita cómoda o un coche portátil tipo paraguas.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "ejemplo": "Mientras se acomoda en el abullonado sofá, sufre un remezón sentimental enorme.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aburria",
+    "ejemplo": "Esta pava se encuentra en estado de Casi Amenazada y es la única pava negra relativamente grande que habite en zonas montañosas.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aburrición",
+    "ejemplo": "¡Qué aburrición! Siempre los mismos con lo mismo en lo mismo.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acabado",
+    "ejemplo": "Si bien se ve acabado físicamente, su voz está intacta. Su intervención duró casi siete horas.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acabarropa",
+    "ejemplo": "Tronco acabarropa, no hizo nada y está pidiendo más plata.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acabose",
+    "ejemplo": "El restaurante dejaba mucho que desear pero el acabose fue cuando los meseros exigieron unas propinas exageradas.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=502",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>502 Proxy Error</title>\n</head><body>\n<h1>Proxy Error</h1>\n<p>The proxy server received an invalid\r\nresponse from an upstream server.<br />\r\nThe proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "acartonado",
+    "ejemplo": "El cantante vallenato no hacía gala de sus acostumbradas actuaciones y se le notaba serio y acartonado.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acatar",
+    "ejemplo": "Sólo cuando descargamos el mercado acatamos que se nos habían quedado los plátanos en la casa del compadre.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "accesar",
+    "ejemplo": "Para accesar al sistema debes introducir tu contraseña.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aceite",
+    "ejemplo": "Los camioneros le midieron el aceite al nuevo ministro amenazándolo con un paro de transportadores que nunca pensaron llevar a cabo.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acelerado",
+    "ejemplo": "Sus amigos dicen que Angelita es muy acelerada, pero que siempre tiene iniciativa y es muy decidida.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acelere",
+    "ejemplo": "El acelere de la Administración Municipal conlleva a graves errores en los cálculos de la tributación.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acema",
+    "ejemplo": "Que uno vaya a una casa a realizar un pesebre y le tengan su chocolate, su pedazo de queso, su pedazo de acema, se ve muy tradicional.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achacado",
+    "ejemplo": "Volvió más achacado, entonces lo trajeron a la clínica. Pero él es fuerte y se está reponiendo.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achajuanado",
+    "ejemplo": "Los dos viajeros llegaron a la posada hambrientos y achajuanados.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achantado",
+    "ejemplo": "Así que empecé a devolverme y un poco achantado miraba atrás constantemente, en un intento por mantener la esperanza de llegar a verla.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achantar",
+    "ejemplo": "No se dejó achantar, decidió irse por el lado de la percusión rítmica y ahí, por fin, llegó el swing esperado.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achante",
+    "ejemplo": "Andaba en un achante porque nadie lo había felicitado de cumpleaños en el colegio.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achapado",
+    "ejemplo": "Es muy achapado, dijo que quería ir al baño cuando ya íbamos a pagar.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achicar",
+    "ejemplo": "Mijo, ayúdeme a achicar la champa para que no se nos hunda.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achicharrar",
+    "ejemplo": "Los campos se secaron y se achicharraron por la falta de lluvia, y las cosechas se marchitaban de sed.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achicopalado",
+    "ejemplo": "Carajo, me hace falta Estelita hoy para subirme el ánimo, porque estoy achicopalada.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achicopalar",
+    "ejemplo": "Hay que sacarle también jugo a la experiencia, y eso depende de nosotras mismas, de no dejarnos achicopalar.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achilado",
+    "ejemplo": "Fue una música que los padres detestaron porque venía de personajes con el pelo lacio, largo y caótico, de barbas achiladas y guitarras destrozadas.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achilar",
+    "ejemplo": "Se le achila el pelo a pesar de gastar fortunas en cuidados y tratamientos.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achiote",
+    "ejemplo": "El achiote crece y se desarrolla en muy buenas condiciones desde el nivel del mar hasta los 1.200 metros de altura.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achiquitar",
+    "ejemplo": "No metas tu ropa de lana en la secadora, ya que se puede rasgar y achiquitar.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achira",
+    "ejemplo": "Por su buen tamaño, su color verde intenso y un sabor muy agradable, en algunas regiones de Colombia los tamales se envuelven en hojas de achira y no de plátano.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achucado",
+    "ejemplo": "Está como achucado por esa tos.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achucarse",
+    "ejemplo": "Me achuqué ayer por comer rápido y casi muero.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "achín",
+    "ejemplo": "También está la papa china o achín, un tubérculo parecido a la yuca, de gran tamaño y de sabor delicado, con la que se pueden preparar sudados y purés para acompañar pollo o mariscos.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aco",
+    "ejemplo": "Para preparar el aco, tostaba la linaza en callana y después se la molía; se cernía en cedazo muy fino y esta harina se la preparaba con panela rallada.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "acobalar",
+    "ejemplo": "El taller ofrece chalecos, cascos, forros, mecánica en general, servicio electrónico, y técnicos en radiar y acobalar toda clase de rines.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "acolitar",
+    "ejemplo": "Antes de enviudar, su esposo le acolitó su voluntariado, como también le auspició sus clases de cocina.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acomedirse",
+    "ejemplo": "Como vieron que no podía solo, varios de sus compañeros rápidamente se acomidieron y con la fuerza de siete hombres, la pesada puerta se abrió lentamente.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acondicionar",
+    "ejemplo": "Pensando en la calidad de vida de los discapacitados, la empresa ofrece acondicionar los vehículos y así mejorar su movilidad.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acordeonero",
+    "ejemplo": "Estos conjuntos clásicos se caracterizaban porque el acordeonero era el mismo cantante y se hacía acompañar de una caja y una guacharaca.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acose",
+    "ejemplo": "Pero qué acose el tuyo. Al menos espera a que lleguemos a la casa.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acosón",
+    "ejemplo": "Soy muy exigente, muy acosón y me exijo a mí mismo. Discutir conmigo no es fácil, pero cedo ante las razones de la inteligencia.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acotejar",
+    "ejemplo": "Se están acotejando las pruebas para demostrar que financieramente esta empresa no puede asumir el contrato.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acudiente",
+    "ejemplo": "El rector informó que el desconocido ingresó como cualquier acudiente que llega a la institución a traer a un estudiante que viene tarde.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acuerpado",
+    "ejemplo": "A la entrada un guardaespaldas de estatura media, acuerpado y de traje negro intenta impedir el ingreso de más personas.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aculillarse",
+    "ejemplo": "Tembló la madre tierra y hasta los más incrédulos, los que no van a misa, se aculillaron, se echaron la bendición y gritaron.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acurrucarse",
+    "ejemplo": "En el momento en que la tierra se empezó a sacudir bruscamente, mi amigo tiró su bicicleta y se acurrucó al lado del barranco.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acusaletas",
+    "ejemplo": "El niño Jorge Mario se ha ganado la enemistad de sus compañeros, que lo tildan de acusaletas.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acusetas",
+    "ejemplo": "Pone en tela de juicio a todo el que se le atraviese, sin que hasta ahora en sus múltiples incursiones de rufián desafiante y acusetas, haya podido probar nada de lo que afirma.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "acápite",
+    "ejemplo": "En los acápites que se leen a continuación, se especifica cuando un hecho doloso puede considerarse como agravado.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aeróbicos",
+    "ejemplo": "La profesora de aeróbicos supervisa que los ejercicios se realicen de forma apropiada.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afanar",
+    "ejemplo": "- Te veo muy seguro. - Lo he pensado con calma, sin afanarme.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afiche",
+    "ejemplo": "¿Le prende veladora al afiche de la selección que tiene autografiado en el cuarto?",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afiebrado",
+    "ejemplo": "El New York Times destaca que colombianos son los más 'afiebrados' por su selección de fútbol.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afiebrarse",
+    "ejemplo": "Con la llegada de los primeros dientes lo más probable es que el niño se afiebre y tenga otras molestias.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afilado",
+    "ejemplo": "Estudiamos en grupos y llegamos a presentar bien afiladas el examen final que tanto nos preocupaba.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afilarse",
+    "ejemplo": "Tenía planeado trasnochar y afilarse para el examen de admisión.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afirmativo",
+    "ejemplo": "Afirmativo, mi General: en cosa de minutos le traigo al plomero.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aflojachocho",
+    "ejemplo": "Todos esos tragos eran bien recibidos por nosotros, sin embargo, yo le hacía fuerza para que mi amiga tomara el popular 'aflojachocho'.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aforar",
+    "ejemplo": "Si usted considera que su equipaje vale más entonces deberá aforar su equipaje en donde se asegurará y se declarará su valor.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afrijolar",
+    "ejemplo": "En medio del relajo le afrijolaron dos pepazos en la cabeza y por eso expulsaron al culpable.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afro",
+    "ejemplo": "Dentro de un mes se realizará en Medellín la primera muestra de cine y video afro e indígena.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "afugias",
+    "ejemplo": "El proyecto de reelección pasará sin mayores afugias su primera prueba esta semana en el Congreso.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agache",
+    "ejemplo": "Lo preocupante fue que en la noticia publicada pasaron de agache que la pobreza extrema prácticamente se mantuvo inalterada.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agalla",
+    "ejemplo": "Creo que se precipitó o se le abrió la agalla, se hubiera esperado un año más y hubiera ganado más dinero.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agalludo",
+    "ejemplo": "Ya continuaremos esta crónica de cómo una nación, pequeña pero resuelta, agalluda como ninguna otra, acaba engulléndose a otra.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agarrar",
+    "ejemplo": "Fue Tránsito Ariza la que agarró la ocasión al vuelo y mandó a la viuda para el dormitorio del hijo, con el pretexto de que en el suyo no había lugar.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agarrón",
+    "ejemplo": "El agarrón se filtró a los medios y al otro día era la comidilla de las crónicas políticas.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agonía",
+    "ejemplo": "Tengo una agonía en el estómago que con gusto me comería tu plato también.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agrieras",
+    "ejemplo": "Últimamente he tenido 'agrieras', que aparecen después de que he comido. Y para eso tomo antiácidos.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agringarse",
+    "ejemplo": "Después de vivir tanto tiempo en Chicago, la verdad poco a poco se le ha ido el acento barranquillero que tenía, ya está empezando a agringarse.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agrio",
+    "ejemplo": "Su abuela paterna, una mujer agria y dominante, la cuidó desde sus cuatro años.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agripado",
+    "ejemplo": "Consúltale si tu hijo puede realizar actividades normalmente a pesar de estar agripado.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agropecuario",
+    "ejemplo": "Siempre que combinaba mal la ropa su tía arribista lo llamaba agropecuario.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agua",
+    "ejemplo": "Se desarrolló una caracterización física y química de los principales ríos, quebradas y humedales en la época de aguas altas y bajas del Río Orinoco.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguacatado",
+    "ejemplo": "Según el actor su papel será el de un cachaco, realmente 'aguacatado' que le hará la vida imposible a su yerno.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguacatarse",
+    "ejemplo": "Esa pelea ya la teníamos ganada en el juzgado, pero cuando el negocio subió al tribunal, mis abogados se aguacataron y les dio miedo o flojera.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguacero",
+    "ejemplo": "Eran las 8:05 de la mañana cuando se desgajó un aguacero descomunal y el río Anaime comenzó a crujir.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguachento",
+    "ejemplo": "Esta variedad de papa tiene la característica de ser más aguachenta: según el experto, no se deshace en caldos pero puede procesarse en forma de hojuelas y bastones.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguado",
+    "ejemplo": "Dicen los abuelos que si se está de mal humor o se lo prepara de mala gana, el ajiaco queda aguado, se agria o se corta.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguaguado",
+    "ejemplo": "Ese niño es muy aguaguado, no se le puede decir nada que por todo llora y les cuenta a sus padres.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguaitacaminos",
+    "ejemplo": "El llanero personifica en sus cantos, dichos y leyendas, al alcaraván, aguaitacaminos, y muchos otros animales, adjudicándoles propiedades, cualidades y defectos.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguaitar",
+    "ejemplo": "Antes Nuánashe se volvía tigre y se comía la gente: un día fue a la roza con su mujer y se convirtió en tigre; la iba aguaitando, cada vez se le parecía más como a una piña, le pareció muy sabrosa y se la comió.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguajina",
+    "ejemplo": "Del aguaje maduro se obtiene la pulpa sin semilla de donde se elabora la aguajina: bebida denominada 'leche de la Amazonía'.",
+    "model": "mistralai/mistral-medium-3",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  }
+]

@@ -3,7 +3,1883 @@
     "modismo": "abajeño",
     "model": "meta-llama/llama-3.1-405b-instruct",
     "response": {
-      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abaje"
+      "prompt_id": "P2",
+      "input": "abajeño",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abalear\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abal"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abanic"
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abanico\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarrotes",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abeja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abejorrear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abismante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abomba"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aborraja"
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abot"
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abozao",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrebocas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abrig"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrirse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abroch"
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abuelita\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abullonado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aburria",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aburria",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aburrición",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aburrición",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acabado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acaba"
+    }
+  },
+  {
+    "modismo": "acabarropa",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acabarro"
+    }
+  },
+  {
+    "modismo": "acabose",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acabose",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acartonado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acartona"
+    }
+  },
+  {
+    "modismo": "acatar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acatar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "accesar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "accesar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aceite",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aceite",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acelerado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acelera"
+    }
+  },
+  {
+    "modismo": "acelere",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acelere",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acema",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acema",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achacado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achacado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achajuanado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achajuanado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achantado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"achanta"
+    }
+  },
+  {
+    "modismo": "achantar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achantar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achante",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achante",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achapado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"achapa"
+    }
+  },
+  {
+    "modismo": "achicar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"achic"
+    }
+  },
+  {
+    "modismo": "achicharrar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "achicharrar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achicopalado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicopalado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achicopalar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicopalar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achilado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"achila"
+    }
+  },
+  {
+    "modismo": "achilar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achilar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achiote",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achiote",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achiquitar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"achiquit"
+    }
+  },
+  {
+    "modismo": "achira",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achira",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achucado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achucado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achucarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"achucar"
+    }
+  },
+  {
+    "modismo": "achín",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achín",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aco",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acobalar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acobalar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acolitar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acolitar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acomedirse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acomedir"
+    }
+  },
+  {
+    "modismo": "acondicionar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acondicionar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acordeonero",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acordeonero\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acose",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acose",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acosón",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acosón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acotejar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acotejar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acudiente",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acudien"
+    }
+  },
+  {
+    "modismo": "acuerpado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acuerpado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aculillarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aculillarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acurrucarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acurrucarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acusaletas",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acusaletas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acusetas",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acuset"
+    }
+  },
+  {
+    "modismo": "acápite",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acápite\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aeróbicos",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"a"
+    }
+  },
+  {
+    "modismo": "afanar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"afan"
+    }
+  },
+  {
+    "modismo": "afiche",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"afiche\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afiebrado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afiebrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afiebrarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afiebrarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afilado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afilado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afilarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afilarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afirmativo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afirmativo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aflojachocho",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aflojachocho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aforar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"afor"
+    }
+  },
+  {
+    "modismo": "afrijolar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"afrijol"
+    }
+  },
+  {
+    "modismo": "afro",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afugias",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"afugi"
+    }
+  },
+  {
+    "modismo": "agache",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agache",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agalla",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agalla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agalludo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agalludo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agarrar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"agarr"
+    }
+  },
+  {
+    "modismo": "agarrón",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"agarr"
+    }
+  },
+  {
+    "modismo": "agonía",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agonía",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agrieras",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"agrier"
+    }
+  },
+  {
+    "modismo": "agringarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"agringar"
+    }
+  },
+  {
+    "modismo": "agrio",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agrio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agripado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "agropecuario",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "agua",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agua",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguacatado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguacatado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguacatarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguacatarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguacero",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguace"
+    }
+  },
+  {
+    "modismo": "aguachento",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguachen"
+    }
+  },
+  {
+    "modismo": "aguado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aguaguado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguaguado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aguaitacaminos",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguaitacaminos\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aguaitar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguait"
+    }
+  },
+  {
+    "modismo": "aguajina",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguaji"
+    }
+  },
+  {
+    "modismo": "aguallevame",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguallevame",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguamasa",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguamasa\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aguamiel",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguami"
+    }
+  },
+  {
+    "modismo": "aguamil",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguamil",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguanoso",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguano"
+    }
+  },
+  {
+    "modismo": "aguantador",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguantad"
+    }
+  },
+  {
+    "modismo": "aguarapar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguarapar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguardientoso",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguardientoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguasal",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguasal",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguatero",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguate"
+    }
+  },
+  {
+    "modismo": "aguatudo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguatu"
+    }
+  },
+  {
+    "modismo": "aguijar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"aguij"
+    }
+  },
+  {
+    "modismo": "aguinaldo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguinaldo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agáchese",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"agáchese\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agüerista",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agüerista",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agüero",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"agüe"
+    }
+  },
+  {
+    "modismo": "ahogado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ahoga"
+    }
+  },
+  {
+    "modismo": "ahorcado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ahorca"
+    }
+  },
+  {
+    "modismo": "ahorcar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ahorcar\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ahorita",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ahori"
+    }
+  },
+  {
+    "modismo": "ahuyama",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ahuya"
+    }
+  },
+  {
+    "modismo": "ahí",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ahí\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aire",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ai"
+    }
+  },
+  {
+    "modismo": "ajetreo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ajetr"
+    }
+  },
+  {
+    "modismo": "ajiaco",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajiaco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ajicie",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajicie",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ajustar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajustar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ala",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ala",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alabado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alaba"
+    }
+  },
+  {
+    "modismo": "alargue",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alarg"
+    }
+  },
+  {
+    "modismo": "alarma",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alarma",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alberca",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alberca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "albiriscado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "albiriscado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcabala",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alcaba"
+    }
+  },
+  {
+    "modismo": "alcahueta",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcahueta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcahuetear",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcahuetear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcancía",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alcanc"
+    }
+  },
+  {
+    "modismo": "alcanzado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcanzado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcanzamocho",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcanzamocho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcaparro",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alcapar"
+    }
+  },
+  {
+    "modismo": "alcaraván",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alcaraván\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "alcayata",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alcaya"
+    }
+  },
+  {
+    "modismo": "alebrestar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alebrest"
+    }
+  },
+  {
+    "modismo": "alegadera",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alegade"
+    }
+  },
+  {
+    "modismo": "alegar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alegato",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "```\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alegato\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "alegrías",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alegrí"
+    }
+  },
+  {
+    "modismo": "alegrón",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alegr"
+    }
+  },
+  {
+    "modismo": "alentarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alentarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alepruz",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alepr"
+    }
+  },
+  {
+    "modismo": "alero",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alerta",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alerta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aleta",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aleta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aletear",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alete"
+    }
+  },
+  {
+    "modismo": "aletoso",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aletoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alevino",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alevi"
+    }
+  },
+  {
+    "modismo": "alevoso",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alevo"
+    }
+  },
+  {
+    "modismo": "alfabeto",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alfabeto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alfombrar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alfombrar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alférez",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P2\",\n  \"input\": \"alfér"
+    }
+  },
+  {
+    "modismo": "algo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "prompt_id": "P2",
+      "input": "algo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "algotro",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alicoramiento",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alimentador",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alinderar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aliprús",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alistar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aliñado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "allacito",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almacén",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almidón",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almirajó",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almojábana",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almorzadero",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almuercero",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almuerzo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alocado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alpargata",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alpargatudo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "altamisa",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "altanero",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "altanería",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "altillo",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alto",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "altoparlante",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alucema",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aluzar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alzado",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alón",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amacice",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amacizar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amagallar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amalayarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amanecedero",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "amanecer",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amanecido",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amangualarse",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amansar",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amarga",
+    "model": "meta-llama/llama-3.1-405b-instruct",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
     }
   }
 ]

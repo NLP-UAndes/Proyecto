@@ -1,0 +1,1199 @@
+{
+  "responses": [
+    {
+      "modismo": "abajeño",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abajeño",
+        "output": {
+          "definicion": "Persona originaria de la región andina colombiana, especialmente de los departamentos de Antioquia y Eje Cafetero."
+        }
+      }
+    },
+    {
+      "modismo": "abalear",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abalear",
+        "output": {
+          "definicion": "Disparar balas de manera indiscriminada o sin control."
+        }
+      }
+    },
+    {
+      "modismo": "abaleo",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abaleo",
+        "output": {
+          "definicion": "Aviso o llamada de atención a varias personas para que se organicen o preparen."
+        }
+      }
+    },
+    {
+      "modismo": "abanicar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abanicar",
+        "output": {
+          "definicion": "Ventilar o refrescar algo o a alguien con movimiento rápido de un objeto plano."
+        }
+      }
+    },
+    {
+      "modismo": "abanico",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abanico",
+        "output": {
+          "definicion": "Persona que habla mucho o divulga secretos o rumores de manera indiscriminada."
+        }
+      }
+    },
+    {
+      "modismo": "abarco",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abarco",
+        "output": {
+          "definicion": "Comprender o entender completamente algo complejo o difícil."
+        }
+      }
+    },
+    {
+      "modismo": "abarrotes",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=503",
+        "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+      }
+    },
+    {
+      "modismo": "abeja",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=503",
+        "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+      }
+    },
+    {
+      "modismo": "abejorrear",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abejorrear",
+        "output": {
+          "definicion": "Hablar o actuar de manera confusa o superficial, sin profundidad ni claridad."
+        }
+      }
+    },
+    {
+      "modismo": "abismante",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abismante",
+        "output": {
+          "definicion": "Algo extremadamente profundo o muy hondo, ya sea en sentido literal o figurado."
+        }
+      }
+    },
+    {
+      "modismo": "abombado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abombado",
+        "output": {
+          "definicion": "Persona que está molesta o enfadada."
+        }
+      }
+    },
+    {
+      "modismo": "aborrajado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "aborrajado",
+        "output": {
+          "definicion": "Persona o cosa que está desordenada, enmarañada o enredada."
+        }
+      }
+    },
+    {
+      "modismo": "abotar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abotar",
+        "output": {
+          "definicion": "Dejar algo o a alguien en un lugar de manera descuidada o abandonada."
+        }
+      }
+    },
+    {
+      "modismo": "abozao",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abozao",
+        "output": {
+          "definicion": "Persona que se siente atraída por alguien, generalmente de manera intensa y manifiesta."
+        }
+      }
+    },
+    {
+      "modismo": "abrebocas",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abrebocas",
+        "output": {
+          "definicion": "Comida o bebida apetitosa que abre el apetito para seguir comiendo."
+        }
+      }
+    },
+    {
+      "modismo": "abrigar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abrigar",
+        "output": {
+          "definicion": "Cultivar o mantener en secreto una idea, sentimiento o intención."
+        }
+      }
+    },
+    {
+      "modismo": "abrirse",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abrirse",
+        "output": {
+          "definicion": "Separarse o distanciarse de alguien o algo, generalmente de manera repentina."
+        }
+      }
+    },
+    {
+      "modismo": "abrochar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abrochar",
+        "output": {
+          "definicion": "Cerrar o asegurar algo con broche o cierre."
+        }
+      }
+    },
+    {
+      "modismo": "abuelita",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abuelita",
+        "output": {
+          "definicion": "Persona anciana y sabia que posee una gran experiencia y conocimientos."
+        }
+      }
+    },
+    {
+      "modismo": "abullonado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "abullonado",
+        "output": {
+          "definicion": "Persona que está molesta, enfadada o irritada."
+        }
+      }
+    },
+    {
+      "modismo": "aburria",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "aburria",
+        "output": {
+          "definicion": "Persona o cosa que causa aburrimiento o molestia."
+        }
+      }
+    },
+    {
+      "modismo": "aburrición",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "aburrición",
+        "output": {
+          "definicion": "Sentimiento profundo de aburrimiento y desgana por falta de interés o estimulación."
+        }
+      }
+    },
+    {
+      "modismo": "acabado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acabado",
+        "output": {
+          "definicion": "Persona muy cansada o agotada física o mentalmente."
+        }
+      }
+    },
+    {
+      "modismo": "acabarropa",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acabarropa",
+        "output": {
+          "definicion": "Persona que se aprovecha de algo o alguien hasta dejarlo sin nada."
+        }
+      }
+    },
+    {
+      "modismo": "acabose",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acabose",
+        "output": {
+          "definicion": "Expresión utilizada para indicar que algo ha terminado o se ha agotado."
+        }
+      }
+    },
+    {
+      "modismo": "acartonado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acartonado",
+        "output": {
+          "definicion": "Persona que presenta una actitud extremadamente seria y rígida en sus costumbres o formas de pensar."
+        }
+      }
+    },
+    {
+      "modismo": "acatar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acatar",
+        "output": {
+          "definicion": "Aceptar o someterse a una autoridad, decisión o mandato."
+        }
+      }
+    },
+    {
+      "modismo": "accesar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "accesar",
+        "output": {
+          "definicion": "Conectar o iniciar sesión en un sistema informático o red."
+        }
+      }
+    },
+    {
+      "modismo": "aceite",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "aceite",
+        "output": {
+          "definicion": "Dinero para sobornar o corromper a alguien."
+        }
+      }
+    },
+    {
+      "modismo": "acelerado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acelerado",
+        "output": {
+          "definicion": "Persona apurada o impaciente que actúa con prisa excesiva."
+        }
+      }
+    },
+    {
+      "modismo": "acelere",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acelere",
+        "output": {
+          "definicion": "Pedir a alguien que se apresure o aumente el ritmo en una tarea."
+        }
+      }
+    },
+    {
+      "modismo": "acema",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acema",
+        "output": {
+          "definicion": "Persona que(dirige o) guía un grupo o equipo."
+        }
+      }
+    },
+    {
+      "modismo": "achacado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achacado",
+        "output": {
+          "definicion": "Persona encorvada o con problemas de salud crónicos, especialmente en la espalda."
+        }
+      }
+    },
+    {
+      "modismo": "achajuanado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achajuanado",
+        "output": {
+          "definicion": "Persona que está entre perturbada o borracha y medio dormida."
+        }
+      }
+    },
+    {
+      "modismo": "achantado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achantado",
+        "output": {
+          "definicion": "Persona que está desanimada o deprimida debido a una situación adversa."
+        }
+      }
+    },
+    {
+      "modismo": "achantar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achantar",
+        "output": {
+          "definicion": "Causar tedio o aburrimiento a alguien."
+        }
+      }
+    },
+    {
+      "modismo": "achante",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achante",
+        "output": {
+          "definicion": "Palabra utilizada para expresar asombro, sorpresa o admiración."
+        }
+      }
+    },
+    {
+      "modismo": "achapado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achapado",
+        "output": {
+          "definicion": "Persona que tiene miedo o se siente intimidada."
+        }
+      }
+    },
+    {
+      "modismo": "achicar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achicar",
+        "output": {
+          "definicion": "Reducir o disminuir algo en cantidad, tamaño o intensidad."
+        }
+      }
+    },
+    {
+      "modismo": "achicharrar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achicharrar",
+        "output": {
+          "definicion": "Freír o tostar algo hasta que quede muy dorado o quemado."
+        }
+      }
+    },
+    {
+      "modismo": "achicopalado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achicopalado",
+        "output": {
+          "definicion": "Persona excesivamente tímida o retraída, que se achica en situaciones sociales."
+        }
+      }
+    },
+    {
+      "modismo": "achicopalar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achicopalar",
+        "output": {
+          "definicion": "Matar o herir a alguien con arma blanca, generalmente con un cuchillo."
+        }
+      }
+    },
+    {
+      "modismo": "achilado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achilado",
+        "output": {
+          "definicion": "Persona deformada o que ha quedado con secuelas físicas por alguna enfermedad o accidente."
+        }
+      }
+    },
+    {
+      "modismo": "achilar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achilar",
+        "output": {
+          "definicion": "Moler o desmenuzar algo en pequeñas partes."
+        }
+      }
+    },
+    {
+      "modismo": "achiote",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achiote",
+        "output": {
+          "definicion": "Persona que se aprovecha de otra para realizar un trabajo o tarea."
+        }
+      }
+    },
+    {
+      "modismo": "achiquitar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achiquitar",
+        "output": {
+          "definicion": "Hacer que algo o alguien parezca más pequeño o insignificante de lo que realmente es."
+        }
+      }
+    },
+    {
+      "modismo": "achira",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achira",
+        "output": {
+          "definicion": "Persona o cosa de poco valor o importancia."
+        }
+      }
+    },
+    {
+      "modismo": "achucado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achucado",
+        "output": {
+          "definicion": "Persona que se aprovecha de los demás o que es aprovechado"
+        }
+      }
+    },
+    {
+      "modismo": "achucarse",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achucarse",
+        "output": {
+          "definicion": "Aproximarse demasiado a alguien, invadiendo su espacio personal."
+        }
+      }
+    },
+    {
+      "modismo": "achín",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "achín",
+        "output": {
+          "definicion": "Persona apocada, sin carácter, falta de entusiasmo o energía."
+        }
+      }
+    },
+    {
+      "modismo": "aco",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "raw_response": "```\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aco\",\n  \"output\": {\n    \"definicion\": \"Persona astuta y hábil para engañar a los demás.\"\n  }\n}\n```"
+      }
+    },
+    {
+      "modismo": "acobalar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acobalar",
+        "output": {
+          "definicion": "Sentir vergüenza o turbación por algo."
+        }
+      }
+    },
+    {
+      "modismo": "acolitar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acolitar",
+        "output": {
+          "definicion": "Servir de ayudante o asistente en una tarea o función."
+        }
+      }
+    },
+    {
+      "modismo": "acomedirse",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acomedirse",
+        "output": {
+          "definicion": "Adaptarse con sumisión o debilidad a una situación o petición."
+        }
+      }
+    },
+    {
+      "modismo": "acondicionar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acondicionar",
+        "output": {
+          "definicion": "Preparar o adecuar algo para que esté en buen estado o listo para su uso."
+        }
+      }
+    },
+    {
+      "modismo": "acordeonero",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acordeonero",
+        "output": {
+          "definicion": "Persona astuta y hábil para aprovecharse de las situaciones de manera rápida y fácil."
+        }
+      }
+    },
+    {
+      "modismo": "acose",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acose",
+        "output": {
+          "definicion": "Presionar o urgir insistentemente a alguien para que haga algo."
+        }
+      }
+    },
+    {
+      "modismo": "acosón",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acosón",
+        "output": {
+          "definicion": "Persona o cosa que resulta fastidiosa o molesta debido a su insistencia o perseverancia."
+        }
+      }
+    },
+    {
+      "modismo": "acotejar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acotejar",
+        "output": {
+          "definicion": "Presionar o apretujar a alguien para que haga algo o responda una pregunta."
+        }
+      }
+    },
+    {
+      "modismo": "acudiente",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acudiente",
+        "output": {
+          "definicion": "Persona responsable de cuidar o acompañar a otra, especialmente en contextos educativos o médicos."
+        }
+      }
+    },
+    {
+      "modismo": "acuerpado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acuerpado",
+        "output": {
+          "definicion": "Persona que se aprovecha de la buena voluntad o generosidad de los demás."
+        }
+      }
+    },
+    {
+      "modismo": "aculillarse",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "aculillarse",
+        "output": {
+          "definicion": "Sentir un miedo intenso que paraliza."
+        }
+      }
+    },
+    {
+      "modismo": "acurrucarse",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acurrucarse",
+        "output": {
+          "definicion": "Sentarse o acostarse en posición encogida, generalmente con las piernas flexionadas"
+        }
+      }
+    },
+    {
+      "modismo": "acusaletas",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acusaletas",
+        "output": {
+          "definicion": "Personas que acusan sin fundamento ni pruebas."
+        }
+      }
+    },
+    {
+      "modismo": "acusetas",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acusetas",
+        "output": {
+          "definicion": "Gente o cosas de mala calidad o poca importancia."
+        }
+      }
+    },
+    {
+      "modismo": "acápite",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "acápite",
+        "output": {
+          "definicion": "Plan o idea inicial para abordar un proyecto o situación."
+        }
+      }
+    },
+    {
+      "modismo": "aeróbicos",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "aeróbicos",
+        "output": {
+          "definicion": "Ejercicios físicos realizados en grupo al ritmo de música animada."
+        }
+      }
+    },
+    {
+      "modismo": "afanar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afanar",
+        "output": {
+          "definicion": "Tomar algo fraude o furtivamente, con intención de apropiarse de ello sin permiso."
+        }
+      }
+    },
+    {
+      "modismo": "afiche",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afiche",
+        "output": {
+          "definicion": "Persona que se hace notar por su forma exagerada de vestir o comportarse."
+        }
+      }
+    },
+    {
+      "modismo": "afiebrado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afiebrado",
+        "output": {
+          "definicion": "Persona apasionada o entusiasta por algo o alguien."
+        }
+      }
+    },
+    {
+      "modismo": "afiebrarse",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afiebrarse",
+        "output": {
+          "definicion": "Enfadarse o irritarse intensamente."
+        }
+      }
+    },
+    {
+      "modismo": "afilado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afilado",
+        "output": {
+          "definicion": "Persona muy perspicaz o astuta, capaz de resolver situaciones con habilidad y rapidez."
+        }
+      }
+    },
+    {
+      "modismo": "afilarse",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afilarse",
+        "output": {
+          "definicion": "Prepararse o entrenarse para mejorar en algo o enfrentar un desafío."
+        }
+      }
+    },
+    {
+      "modismo": "afirmativo",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afirmativo",
+        "output": {
+          "definicion": "Persona que siempre está de acuerdo o dice que sí a cualquier cosa."
+        }
+      }
+    },
+    {
+      "modismo": "aflojachocho",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "aflojachocho",
+        "output": {
+          "definicion": "Persona floja, perezosa o indolente."
+        }
+      }
+    },
+    {
+      "modismo": "aforar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "aforar",
+        "output": {
+          "definicion": "Evaluar o estimar algo de forma aproximada, especialmente una cantidad o un valor."
+        }
+      }
+    },
+    {
+      "modismo": "afrijolar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afrijolar",
+        "output": {
+          "definicion": "Tomar el desayuno o la comida principal del día, especialmente si es fuerte y nutritiva."
+        }
+      }
+    },
+    {
+      "modismo": "afro",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afro",
+        "output": {
+          "definicion": "Persona de cabello muy crespo y ensortijado."
+        }
+      }
+    },
+    {
+      "modismo": "afugias",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "afugias",
+        "output": {
+          "definicion": "Matapalo o planta trepadora que sofoca el árbol que lo sostiene"
+        }
+      }
+    },
+    {
+      "modismo": "agache",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "agache",
+        "output": {
+          "definicion": "Persona astuta que actúa con cautela y disimulo."
+        }
+      }
+    },
+    {
+      "modismo": "agalla",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "agalla",
+        "output": {
+          "definicion": "Conjunto de personas que se reúnen针 forma ruidosa y alborotada, generalmente en un lugar público."
+        }
+      }
+    },
+    {
+      "modismo": "agalludo",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "agalludo",
+        "output": {
+          "definicion": "Persona que presume de valiente o atrevida sin causa justificada."
+        }
+      }
+    },
+    {
+      "modismo": "agarrar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "agarrar",
+        "output": {
+          "definicion": "Tomar algo o a alguien con fuerza o apresuradamente."
+        }
+      }
+    },
+    {
+      "modismo": "agarrón",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "agarrón",
+        "output": {
+          "definicion": "Discusión o pelea intensa, generalmente con agresividad física"
+        }
+      }
+    },
+    {
+      "modismo": "agonía",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "prompt_id": "P1",
+        "input": "agonía",
+        "output": {
+          "definicion": "Estado de ansiedad o desasosiego por no saber qué va a ocurrir."
+        }
+      }
+    },
+    {
+      "modismo": "agrieras",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "agringarse",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "agrio",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "agripado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "agropecuario",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "agua",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "aguacatado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "aguacatarse",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "aguacero",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "aguachento",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "aguado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "aguaguado",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "aguaitacaminos",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "aguaitar",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    },
+    {
+      "modismo": "aguajina",
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "response": {
+        "error": "status=422",
+        "response": {
+          "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+          "success": false
+        }
+      }
+    }
+  ],
+  "processed_modismos": [
+    "abullonado",
+    "acabado",
+    "aguaguado",
+    "acose",
+    "achicopalar",
+    "achiquitar",
+    "achira",
+    "acusetas",
+    "aguacatarse",
+    "afanar",
+    "achicopalado",
+    "abozao",
+    "acabarropa",
+    "acosón",
+    "abarrotes",
+    "afugias",
+    "achantado",
+    "achilar",
+    "agropecuario",
+    "achantar",
+    "acelere",
+    "acelerado",
+    "achucado",
+    "aforar",
+    "achajuanado",
+    "acolitar",
+    "acurrucarse",
+    "achicar",
+    "abismante",
+    "afilado",
+    "aburrición",
+    "acápite",
+    "afiebrado",
+    "achucarse",
+    "aguajina",
+    "aceite",
+    "afiche",
+    "agalludo",
+    "agrieras",
+    "acobalar",
+    "acomedirse",
+    "abrochar",
+    "acordeonero",
+    "afro",
+    "abotar",
+    "acuerpado",
+    "aculillarse",
+    "aeróbicos",
+    "agripado",
+    "abajeño",
+    "achacado",
+    "acudiente",
+    "acema",
+    "aguado",
+    "abanico",
+    "agua",
+    "agarrar",
+    "abaleo",
+    "achapado",
+    "abarco",
+    "aguacero",
+    "abanicar",
+    "aguaitacaminos",
+    "achicharrar",
+    "acatar",
+    "agalla",
+    "acondicionar",
+    "agarrón",
+    "aguacatado",
+    "abrirse",
+    "abalear",
+    "acartonado",
+    "afiebrarse",
+    "agache",
+    "aborrajado",
+    "afrijolar",
+    "aguachento",
+    "abombado",
+    "abejorrear",
+    "acusaletas",
+    "agonía",
+    "achilado",
+    "abrebocas",
+    "afilarse",
+    "achante",
+    "achín",
+    "agrio",
+    "afirmativo",
+    "aflojachocho",
+    "accesar",
+    "abrigar",
+    "aco",
+    "acotejar",
+    "acabose",
+    "agringarse",
+    "abeja",
+    "aburria",
+    "abuelita",
+    "achiote",
+    "aguaitar"
+  ],
+  "last_updated": "2025-11-18T12:06:05.215325",
+  "items_completed": 100,
+  "errors_count": 17
+}

@@ -9,5 +9,9872 @@
         "es_modismo": "No"
       }
     }
+  },
+  {
+    "modismo": "abalear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abalear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abaleo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanicar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanico",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarrotes",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abeja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abejorrear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abismante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abombado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aborrajado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abotar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abozao",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrebocas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrigar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrirse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrochar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abuelita",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abullonado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aburria",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aburria",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aburrición",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aburrición",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acabado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acabado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acabarropa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acabarropa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acabose",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acabose",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acartonado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acartonado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acatar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acatar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "accesar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "accesar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aceite",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aceite",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acelerado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acelerado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acelere",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acelere",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acema",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acema",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achacado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achacado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achajuanado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achajuanado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achantado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achantado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achantar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achantar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achante",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achante",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achapado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achapado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achicar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achicharrar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicharrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achicopalado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicopalado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achicopalar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicopalar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achilado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achilado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achilar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achilar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achiote",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achiote",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achiquitar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achiquitar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achira",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achira",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achucado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achucado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achucarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achucarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achín",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acobalar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acobalar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acolitar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acolitar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acomedirse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acomedirse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acondicionar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acondicionar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acordeonero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acordeonero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acose",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acose",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acosón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acosón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acotejar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acotejar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acudiente",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acudiente",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acuerpado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acuerpado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aculillarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aculillarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acurrucarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acurrucarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acusaletas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acusaletas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acusetas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acusetas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acápite",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "aeróbicos",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "afanar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afanar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afiche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afiche",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afiebrado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afiebrado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afiebrarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afiebrarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afilado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afilado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afilarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afilarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afirmativo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afirmativo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aflojachocho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aflojachocho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aforar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aforar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afrijolar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afrijolar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afugias",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afugias",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agache",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agache",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agalla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agalla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agalludo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agalludo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agarrar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agarrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agarrón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agarrón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agonía",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agonía",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agrieras",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agrieras",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agringarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agringarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agrio",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agrio",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agripado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "agropecuario",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "agua",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agua",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguacatado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguacatado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguacatarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguacatarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguacero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguacero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguachento",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguachento",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguaguado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguaguado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguaitacaminos",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguaitacaminos",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguaitar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguaitar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguajina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguajina",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguallevame",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguallevame",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguamasa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguamasa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguamiel",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguamiel",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguamil",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguamil",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguanoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguanoso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguantador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguantador",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguarapar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguarapar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguardientoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguardientoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguasal",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguasal",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguatero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguatero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguatudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguatudo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguijar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguijar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguinaldo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguinaldo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agáchese",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agáchese",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agüerista",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agüerista",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agüero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agüero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ahogado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahogado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ahorcado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahorcado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ahorcar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahorcar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ahorita",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahorita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ahuyama",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahuyama",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ahí",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahí",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aire",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aire",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ajetreo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajetreo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ajiaco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajiaco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ajicie",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajicie",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ajustar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajustar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ala",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ala",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alabado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alabado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alargue",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alargue",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alarma",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alarma",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alberca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alberca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "albiriscado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "albiriscado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcabala",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcabala",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcahueta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcahueta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcahuetear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcahuetear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcancía",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcancía",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcanzado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcanzado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcanzamocho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcanzamocho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcaparro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcaparro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcaraván",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcaraván",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcayata",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcayata",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alebrestar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alebrestar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alegadera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegadera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alegar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alegato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alegrías",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegrías",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alegrón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegrón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alentarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alentarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alepruz",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alepruz",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alerta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alerta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aleta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aleta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aletear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aletear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aletoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aletoso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alevino",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alevino",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alevoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alevoso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alfabeto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alfabeto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alfombrar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alfombrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alférez",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alférez",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "algo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "algo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "algotro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "algotro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alicoramiento",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alicoramiento",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alimentador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alimentador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alinderar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alinderar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aliprús",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aliprús",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alistar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alistar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aliñado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aliñado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "allacito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "allacito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almacén",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almacén",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almidón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almidón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almirajó",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almirajó",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almojábana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almojábana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almorzadero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almorzadero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almuercero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almuercero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almuerzo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almuerzo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alocado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alocado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alpargata",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alpargata",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alpargatudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alpargatudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "altamisa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altamisa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "altanero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altanero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "altanería",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altanería",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "altillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "altoparlante",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altoparlante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alucema",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alucema",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aluzar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aluzar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alzado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alzado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amacice",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amacice",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amacizar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amacizar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amagallar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amagallar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amalayarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amalayarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amanecedero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amanecedero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amanecer",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amanecer",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amanecido",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amanecido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amangualarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amangualarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amansar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amansar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amarga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amarga",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amarillearse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amarillearse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amarradijo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amarradijo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amarrar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amarrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amartelado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amartelado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amañador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amañador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amañarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amañarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ambil",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ambil",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "americano",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "americano",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ameritar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ameritar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amigovio",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amigovio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amiguero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amiguero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amojonarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amojonarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amonado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amonado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "anaco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anaco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "anamú",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anamú",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "anchar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anchar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "anche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anche",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ancheta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ancheta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ancho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ancho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "anchovero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anchovero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "andado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "andado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "andareguear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "andareguear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "andén",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "andén",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "angelito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "angelito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "angeo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "angeo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "angurriento",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "angurriento",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "angurrioso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "angurrioso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "anillado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anillado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "animalero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "animalero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antejardín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antejardín",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antimotines",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antimotines",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antisocial",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antisocial",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antojado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antojado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antojarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antojarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antojoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antojoso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antualito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antualito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apachurrado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apachurrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apachurrar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apachurrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apalastrado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apalastrado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apaleado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apaleado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apanado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apanado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apapachar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apapachar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aparatejo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aparatejo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aparatiado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aparatiado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aparecido",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aparecido",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apartamento",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apartamento",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apechichar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apechichar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apelotardar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apelotardar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apenado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apenado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apenarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apenarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aperar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aperar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apercollar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apercollar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aperezarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aperezarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apestar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apestar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apeto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apeto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apeñuscado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apeñuscado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apicharse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apicharse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apilonar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apilonar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aplanchado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplanchado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aplanchado, da",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplanchado, da",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aplanchar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplanchar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aplastarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplastarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aplicar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplicar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aporreada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aporreada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aporrión",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aporrión",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aportante",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aportante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apostador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apostador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apretar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apretar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apuntarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apuntarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apurarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apurarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aquisito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aquisito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "araguato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "araguato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arandela",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arandela",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arapaima",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arapaima",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arawuana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arawuana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arazá",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arazá",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arbolear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arbolear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arboloco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arboloco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arborización",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arborización",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arborizar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arborizar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arción",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arción",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ardencia",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ardencia",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ardido",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ardido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arenera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arenera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arenga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arenga",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arepazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arepazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arepear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arepear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arequipe",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arequipe",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "areta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "areta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "argolla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "argolla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "argollar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "argollar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arisco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arisco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arizá",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arizá",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arma",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arma",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "armatroste",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "armatroste",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arniada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arniada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arracachada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arracachada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrancadas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrancadas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrancado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrancado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrancamuelas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrancamuelas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arranque",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arranque",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrastraderas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrastraderas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrastrado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrastrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrastrar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrastrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrau",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrau",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrecho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrecho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrechón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrechón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arregionado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arregionado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arreglar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arreglar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arremedar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arremedar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrempujar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrempujar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arremuesco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arremuesco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arreo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arreo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arriado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arriado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arribar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arribar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arriero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arriero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arriesgada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arriesgada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrimadero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrimadero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrimado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrimado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrimar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrimar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arriscar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arriscar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrodillado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrodillado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrozudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrozudo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrugarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrugarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrumar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrumar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrume",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrume",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arruncharse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arruncharse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrunche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrunche",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrutanao",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrutanao",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "artillero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "artillero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aruñar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aruñar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aruñón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aruñón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "as",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "as",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asado, da",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asado, da",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asaí",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asaí",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aseador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aseador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asocio",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asocio",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asolapado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asolapado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asoleada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asoleada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asolear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asolear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asomadera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asomadera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asquiento",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asquiento",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asumir",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asumir",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atacado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atacado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atafagar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atafagar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atajada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atajada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atajar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atajar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atalayero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atalayero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ataque",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ataque",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atarantado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarantado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atarantarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarantarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atarragarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarragarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atarraya",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarraya",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atarrosarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarrosarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atarván",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarván",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atarzanar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarzanar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ataviar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ataviar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atembado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atembado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atenerse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atenerse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atenido",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atenido",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atol",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atol",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atorador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atorador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atorarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atorarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atortolado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atortolado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atrabancado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atrabancado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atracacunas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atracacunas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atravesado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atravesado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atronado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atronado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atufado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atufado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atulampado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atulampado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atulampar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atulampar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aturugarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aturugarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atutado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atutado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "auca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "auca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "auchar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "auchar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aulagas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aulagas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aullar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aullar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ausentismo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ausentismo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "autoferro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "autoferro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "autopartes",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "autopartes",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avaluador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avaluador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avemaría",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avemaría",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aventado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aventado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "averaguado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "averaguado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "averiguadera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "averiguadera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "averigüetas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "averigüetas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avichucho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avichucho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avionada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avionada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avispa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avispa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avispero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avispero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "avivato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avivato",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "avión, na",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avión, na",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avío",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avío",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ayahuasca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ayahuasca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ayayais",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ayayais",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "azafrán",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azafrán",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azarado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azarado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azarar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azarar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azare",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azare",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azaroso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azaroso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azorada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azorada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azotea",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azotea",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azul",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azul",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azulejo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azulejo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "añales",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "añales",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "añejo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "añejo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "año",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "año",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baba",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "babilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "babilla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "babosada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "babosada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "baby",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baby",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bacaba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacaba",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bacanería",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacanería",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bacano",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacano",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bacao",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacao",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bacenilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacenilla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bachaco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bachaco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bache",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bache",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bacán",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacán",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "badea",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "badea",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bagazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bagazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bagre",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bagre",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bahareque",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bahareque",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bahía",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bahía",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bailador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bailador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baile",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baile",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baja",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bajalenguas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bajalenguas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bajonear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bajonear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bala",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bala",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balaca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balaca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balacera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balacera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balache",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balache",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balancear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balancear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balanza",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balanza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balastro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balastro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balay",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balay",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balcón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balcón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baldado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baldado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "balde",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balde",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baldosa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baldosa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baldío",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baldío",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balneario",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balneario",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balota",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balota",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balsámica",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balsámica",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balurdo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balurdo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bamba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bamba",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bambazú",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bambazú",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bambinazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "bambuco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bambuco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bananero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bananero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bananiar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bananiar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banano",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banano",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banda",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banda",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bandeja",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bandeja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bandera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bandera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banderazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banderazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banderear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banderear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bandido",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bandido",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bandola",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bandola",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bangaña",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bangaña",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banquear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banquear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banquetero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banquetero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banquitas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banquitas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bao",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bao",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baquiano",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baquiano",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barajar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barajar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barajustar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barajustar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barajuste",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barajuste",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baratero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baratero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbachato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbachato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbasco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbasco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbasqueado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbasqueado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbasquear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbasquear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbecue",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbecue",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbiancho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbiancho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbuchas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbuchas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbudo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barequear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barequear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barequeo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barequeo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barequero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barequero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bareto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bareto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barquilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barquilla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barra",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barra",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barrera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barretón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barretón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barrial",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrial",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barrida",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrida",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barril",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barril",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barrilete",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrilete",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barrio",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrio",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barulaque",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barulaque",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "base",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "base",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "basquetbol",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "basquetbol",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "basquetbolista",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "basquetbolista",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bastimento",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bastimento",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bastonero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bastonero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bastón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bastón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bata",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bata",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bataclana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bataclana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "batanear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batanear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "batea",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batea",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "batir",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batir",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "batola",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batola",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "batuso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batuso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bayetilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bayetilla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bazar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bazar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bazuco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bazuco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bazuquero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bazuquero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bañar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bañar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bañera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bañera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baño",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baño",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baúl",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baúl",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "be",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "be",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bebeco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bebeco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bebedero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bebedero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bebeta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bebeta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "beich",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "beich",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bejuco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bejuco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "belfo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "belfo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "belleza",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "belleza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bellísima",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bellísima",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bemba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bemba",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bembear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bembear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bembón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bembón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bendición",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bendición",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "beneficiadero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "beneficiadero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "beriberi",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "beriberi",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "berma",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berma",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "berraquillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berraquillo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "berreadera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berreadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "berrietas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berrietas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "berrinche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berrinche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "berroche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berroche",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "biao",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "biao",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "biblia",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "biblia",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "biche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "biche",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bicho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bicho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bichuraco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bichuraco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bichuría",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bichuría",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bicicletero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bicicletero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bien",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bien",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bifamiliar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bifamiliar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bifé",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bifé",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bijao",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bijao",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "billar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "billar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "billete",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "billete",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "billuyo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "billuyo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bilocho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bilocho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bimbo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bimbo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "birimbí",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "birimbí",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "birra",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "birra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "birria",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "birria",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "birrioso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "birrioso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bitute",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bitute",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bizcochería",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bizcochería",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bizcocho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bizcocho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bizcorneto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bizcorneto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "biósfera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "biósfera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blablablá",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blablablá",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blanqueada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blanqueada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "blanqueado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blanqueado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blanqueador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blanqueador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blanquear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blanquear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blindar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blindar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blof",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blof",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bloqueador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bloqueador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blower",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blower",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blumas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blumas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bluyín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bluyín",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bobo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bobo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocachico",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocachico",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocadillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocadillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocel",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocel",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocina",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocín",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bocón, a",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocón, a",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boda",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boda",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bodega",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bodega",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bodoque",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bodoque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bogadera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bogadera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bogar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bogar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bojote",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bojote",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bola",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bola",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bolañero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolañero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bolera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boleta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boleta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boletear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boletear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boleteo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boleteo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boletería",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boletería",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boli",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boli",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bolillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolillo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bolinillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolinillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bolita",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bolión",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolión",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bollo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bollo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bolo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bololó",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bololó",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bolsillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolsillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bomba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bomba",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bombacho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bombacho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bombero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bombero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bombillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bombillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bon bon bum",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bon bon bum",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bongo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bongo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bonitico",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bonitico",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bonitico, ca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bonitico, ca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bono",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bono",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquiancha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquiancha",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquiar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquiar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquiduro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquiduro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquiflojo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquiflojo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquineto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquineto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquisabroso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquisabroso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquisucio",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquisucio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bordón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bordón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bordón, na",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bordón, na",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bore",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bore",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "borona",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "borona",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "borondo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "borondo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "borrachero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "borrachero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "borugo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "borugo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bota",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bota",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botadero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botadero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botalón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botalón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botaratas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botaratas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bote",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bote",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botella",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botella",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botilito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botilito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bracero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bracero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bramadero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bramadero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brasier",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brasier",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bravero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bravero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "braviar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "braviar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bravo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bravo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "brazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "breva",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "breva",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "breve",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "breve",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brevo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brevo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brilladora",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brilladora",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brincar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brincar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brinconear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brinconear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brincón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brincón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "briqué",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "briqué",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brisar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brisar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brocha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brocha",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bronquinoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bronquinoso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brotado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brotado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brotar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brotar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bruja",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bruja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brujear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brujear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buchaca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchaca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buchipluma",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchipluma",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buchácara",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchácara",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buchón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buchón, na",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchón, na",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "budare",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "budare",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buenamente",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buenamente",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buenamoza",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buenamoza",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buenavida",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buenavida",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bueno",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bueno",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buenón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buenón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bufeo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bufeo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buganvil",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buganvil",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buitrón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buitrón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bulla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bulla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bullaranga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bullaranga",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bullerengue",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bullerengue",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bulloso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bulloso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bullugo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bullugo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bulto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bulto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "burletero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burletero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "burra",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burra",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "burrero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burrero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "burro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "burundanga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burundanga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "burusa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burusa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bus",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bus",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buscaniguas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buscaniguas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buscapiés",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buscapiés",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buscapleitos",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buscapleitos",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buseta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buseta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buseto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buseto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bustona",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bustona",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "butaca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "butaca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "butatón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "butatón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "butifarra",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "butifarra",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buziraco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buziraco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buzo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buzo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buñuelo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buñuelo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "béisbol",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "béisbol",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bómper",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bómper",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bóveda",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bóveda",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bóxer",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bóxer",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "búcaro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "búcaro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabalidad",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabalidad",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caballete",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caballete",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caballito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caballito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caballote",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caballote",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabecear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabecera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabecinegro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecinegro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabecipelado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecipelado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabecizoco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecizoco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabello",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabello",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabestrear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabestrear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabestrillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabestrillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabestro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabestro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabeza",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabeza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabezal",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabezal",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabezazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabezazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabezón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabezón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabildo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabildo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabinero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabinero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabra",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabra",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabreado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabreado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabrearse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabrearse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabrito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabrito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabuco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabuco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabuya",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabuya",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cacao",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacao",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cacha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacha",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachacero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachacero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachaco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachaco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachaloa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachaloa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachapa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachapa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cacharrear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacharrear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cacharrero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacharrero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cacharro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacharro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachaza",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachaza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachetear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachetear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachetero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachetero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachezudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachezudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachicado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachicado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachicamo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachicamo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachicar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachicar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachichí",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachichí",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachifa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachifa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachifo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachifo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachiporro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachiporro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachirre",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachirre",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachitanta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachitanta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachivera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachivera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cacho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachona",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachona",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachonear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachonear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachucha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachucha",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachumbo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachumbo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caché",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caché",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachín",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacorro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacorro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacota",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacota",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cacreco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacreco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cadena",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cadena",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caderón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caderón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cadillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cadillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cadmia",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cadmia",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caedizo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caedizo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caer",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caer",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cafetero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cafetero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cafongo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cafongo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cafuche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cafuche",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "café",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "café",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caga",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cagadero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagadero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cagar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cagarruta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagarruta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caguana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caguana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caguetas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caguetas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cagá",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagá",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cagón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cagüinga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagüinga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cagüingo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagüingo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caimacán",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caimacán",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caimanear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caimanear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caimarón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caimarón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caimo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caimo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caja",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cajeta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "cajeto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "cajonero, ra",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cajonero, ra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cajulo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cajulo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cajón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cajón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calabazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calabazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "calado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calanchín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calanchín",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "calar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calavera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calavera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "calceta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calceta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calcetear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calcetear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calceto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calceto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caldo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caldo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calentado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calentado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "calentano",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calentano",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calentano, na",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calentano, na",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calentarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calentarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calentillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calentillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calentura",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calentura",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caleto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caleto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calicanto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calicanto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calidoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calidoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caliente",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caliente",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calificar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calificar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calilla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "callana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "callana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calle",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calle",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "callo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "callo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calor",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calor",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calvazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calvazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "calvear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calvear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calza",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calzar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calzar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "calzonarias",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "calzonarias",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cama",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cama",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "camada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "camaján",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camaján",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "camandulero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camandulero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "camastrón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camastrón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cambambero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cambambero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cambiazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cambiazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cambuche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cambuche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "camellar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camellar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "camello",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camello",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "camellón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camellón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caminadera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caminadera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caminado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caminado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caminadora",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caminadora",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caminar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caminar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caminata",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caminata",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "camionado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camionado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "camiseta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camiseta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "camonina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camonina",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "camoruco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camoruco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "camostre",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camostre",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "campanero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "campanero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "campechana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "campechana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "campero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "campero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "campo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "campo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "camu",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camu",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "camuro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "camuro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "canal",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canal",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "canalear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canalear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "canalero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canalero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "canaleta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canaleta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "canalete",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canalete",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "canalón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canalón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cananguchal",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cananguchal",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "canangucho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canangucho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "canar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "canasta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canasta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cancanear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cancanear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cancañá",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cancañá",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cancha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cancharana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cancharina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canchero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "candado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "candelilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "candidatizar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "candirú",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "candonga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "caneca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canelazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canequero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "caney",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canguro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canillera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canillón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canoera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canopy",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cansón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cantada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cantador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cantagallo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cantaleta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cantaletear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cantaletoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cantarilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cantinero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "canto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
   }
 ]

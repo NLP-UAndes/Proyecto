@@ -1,0 +1,1833 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abajeño\",\n  \"output\": {\n    \"definicion\": \"Relativo o perteneciente a las tierras bajas o a las regiones costeras.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abalear\",\n  \"output\": {\n    \"definicion\": \"Disparar a una o varias personas con un arma de fuego.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abaleo\",\n  \"output\": {\n    \"definicion\": \"Acción de disparar armas de fuego repetidamente contra algo o alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abanicar\",\n  \"output\": {\n    \"definicion\": \"Expulsar o rechazar a alguien de un lugar o situación abruptamente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abanico\",\n  \"output\": {\n    \"definicion\": \"Variedad o diversidad de opciones, elementos o situaciones disponibles.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abarco\",\n  \"output\": {\n    \"definicion\": \"La primera persona del singular del presente de indicativo del verbo abarcar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abarrotes\",\n  \"output\": {\n    \"definicion\": \"Productos de consumo masivo y primera necesidad vendidos en tiendas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abeja\",\n  \"output\": {\n    \"definicion\": \"Persona muy lista, ágil mentalmente y con astucia para resolver situaciones.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abombado\",\n  \"output\": {\n    \"definicion\": \"Dícese de algo o alguien que ha perdido su frescura o está inservible.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aborrajado\",\n  \"output\": {\n    \"definicion\": \"Alimento recubierto de masa, usualmente plátano maduro o yuca.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abotar\",\n  \"output\": {\n    \"definicion\": \"Desperdiciar o echar a perder una oportunidad o recurso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abozao\",\n  \"output\": {\n    \"definicion\": \"Persona muy llena o satisfecha de comida.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrebocas\",\n  \"output\": {\n    \"definicion\": \"Entrada o plato ligero que precede la comida principal.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrigar\",\n  \"output\": {\n    \"definicion\": \"Pensar detenidamente alguna idea o sentimiento.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrirse\",\n  \"output\": {\n    \"definicion\": \"Retirarse o distanciarse de un lugar o situación, generalmente para evitar un conflicto.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abrochar\",\n  \"output\": {\n    \"definicion\": \"Engañar o tomar ventaja de alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abuelita\",\n  \"output\": {\n    \"definicion\": \"Forma cariñosa o hipocorística de referirse a una abuela.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abullonado\",\n  \"output\": {\n    \"definicion\": \"Dicho de una persona, que ha comido en exceso y se siente llena o hinchada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aburria",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aburria\",\n  \"output\": {\n    \"definicion\": \"Estado de desgano o tedio, comúnmente asociado a la inactividad o falta de estímulos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aburrición",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aburrición\",\n  \"output\": {\n    \"definicion\": \"Estado de aburrimiento o tedio prolongado que genera desinterés.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acabado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acabado\",\n  \"output\": {\n    \"definicion\": \"Persona muy cansada, exhausta o que se encuentra en un estado deplorable física o anímicamente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acabarropa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acabarropa\",\n  \"output\": {\n    \"definicion\": \"Hacer algo con celeridad y sin consideración por los detalles o el tiempo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acabose",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acabose\",\n  \"output\": {\n    \"definicion\": \"Estado de ruina o destrucción total, el fin de algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acartonado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acartonado\",\n  \"output\": {\n    \"definicion\": \"Algo o alguien carente de naturalidad, frescura o espontaneidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acatar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acatar\",\n  \"output\": {\n    \"definicion\": \"Cumplir o ejecutar una orden, norma o decisión.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "accesar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"accesar\",\n  \"output\": {\n    \"definicion\": \"Entrar o tener acceso a un lugar, información o sistema.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aceite",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aceite\",\n  \"output\": {\n    \"definicion\": \"Se refiere a dinero ilícito o soborno ofrecido para agilizar un trámite o negocio.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acelerado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acelerado\",\n  \"output\": {\n    \"definicion\": \"Estado de apuro o agitación excesiva.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acelere",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acelere\",\n  \"output\": {\n    \"definicion\": \"Estado de agitación o prisa excesiva.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acema",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acema\",\n  \"output\": {\n    \"definicion\": \"La expresión acema, se refiere despectivamente a una persona torpe o tonta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achacado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achacado\",\n  \"output\": {\n    \"definicion\": \"Estado de malestar general, desánimo o dolencia física leve.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achajuanado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achajuanado\",\n  \"output\": {\n    \"definicion\": \"Estado de vergüenza o timidez ante una situación inusual o incómoda.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achantado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achantado\",\n  \"output\": {\n    \"definicion\": \"Persona aburrida, desanimada o que ha perdido el entusiasmo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achantar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achantar\",\n  \"output\": {\n    \"definicion\": \"Disminuir el ánimo, sentirse intimidado o avergonzado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achante",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achante\",\n  \"output\": {\n    \"definicion\": \"Estado de abatimiento o desazón.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achapado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achapado\",\n  \"output\": {\n    \"definicion\": \"Adjetivo para describir a una persona de baja estatura y contextura robusta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achicar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achicar\",\n  \"output\": {\n    \"definicion\": \"Reducir el tamaño o volumen de algo, o encogerse por temor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achicharrar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achicharrar\",\n  \"output\": {\n    \"definicion\": \"Quemarse o tostarse excesivamente la comida o piel.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achicopalado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achicopalado\",\n  \"output\": {\n    \"definicion\": \"La persona achicopalada se siente desanimada, triste o apenada por alguna circunstancia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achicopalar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achicopalar\",\n  \"output\": {\n    \"definicion\": \"Causar desánimo, tristeza o pena en alguien, dejándolo sin fuerzas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achilado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achilado\",\n  \"output\": {\n    \"definicion\": \"Estado de melancolía, decaimiento o desánimo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achilar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achilar\",\n  \"output\": {\n    \"definicion\": \"Acción de avergonzar o intimidar a alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achiote",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achiote\",\n  \"output\": {\n    \"definicion\": \"Colorante natural de tonos anaranjados o rojizos, utilizado en gastronomía y cosmética.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achiquitar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achiquitar\",\n  \"output\": {\n    \"definicion\": \"Reducir el tamaño o volumen de algo, o hacer que parezca más pequeño.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achira",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achira\",\n  \"output\": {\n    \"definicion\": \"La achira es un bizcocho típico colombiano, de almidón, crujiente y salado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achucado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achucado\",\n  \"output\": {\n    \"definicion\": \"Estado de aflicción, tristeza o melancolía profunda.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achucarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achucarse\",\n  \"output\": {\n    \"definicion\": \"Contraerse una persona o animal por frío o molestia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "achín",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"achín\",\n  \"output\": {\n    \"definicion\": \"Expresión para afirmar o confirmar algo, generalmente con sarcasmo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aco\",\n  \"output\": {\n    \"definicion\": \"Estado de mucha borrachera o ingesta excesiva de bebidas alcohólicas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acobalar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acobalar\",\n  \"output\": {\n    \"definicion\": \"Generar miedo o intimidación en una persona.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acolitar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acolitar\",\n  \"output\": {\n    \"definicion\": \"Brindar ayuda o apoyo a alguien en una situación o tarea específica.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acomedirse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acomedirse\",\n  \"output\": {\n    \"definicion\": \"Ofrecer ayuda o colaboración de forma voluntaria.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acondicionar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acondicionar\",\n  \"output\": {\n    \"definicion\": \"Preparar o adecuar un lugar o una cosa para un fin específico.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acordeonero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acordeonero\",\n  \"output\": {\n    \"definicion\": \"Persona que toca el acordeón.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acose",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acose\",\n  \"output\": {\n    \"definicion\": \"Acción de molestar insistentemente a alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acosón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acosón\",\n  \"output\": {\n    \"definicion\": \"Acción de molestar o importunar insistentemente a alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acotejar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acotejar\",\n  \"output\": {\n    \"definicion\": \"Poner algo en un lugar apropiado o adecuado para su uso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acudiente",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acudiente\",\n  \"output\": {\n    \"definicion\": \"Persona responsable legalmente de la custodia o educación de otra.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acuerpado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acuerpado\",\n  \"output\": {\n    \"definicion\": \"Persona de constitución física robusta o con buen desarrollo muscular.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aculillarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aculillarse\",\n  \"output\": {\n    \"definicion\": \"Experimentar miedo o cobardía ante una situación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acurrucarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acurrucarse\",\n  \"output\": {\n    \"definicion\": \"Contraer el cuerpo o alguna de sus partes, arrimándose a algo o a alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acusaletas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acusaletas\",\n  \"output\": {\n    \"definicion\": \"Persona que delata o informa sobre las acciones de otros.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acusetas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acusetas\",\n  \"output\": {\n    \"definicion\": \"Personas que informan secretamente de las faltas ajenas para causar daño o obtener provecho.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acápite",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"acápite\",\n  \"output\": {\n    \"definicion\": \"Párrafo o sección independiente dentro de un texto más amplio.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aeróbicos",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aeróbicos\",\n  \"output\": {\n    \"definicion\": \"Actividad física que mejora la condición cardiovascular y respiratoria.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afanar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afanar\",\n  \"output\": {\n    \"definicion\": \"Apoderarse de algo ajeno sin consentimiento.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afiche",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afiche\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona atractiva y de buena apariencia física.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afiebrado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afiebrado\",\n  \"output\": {\n    \"definicion\": \"Persona muy entusiasmada o apasionada por algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afiebrarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afiebrarse\",\n  \"output\": {\n    \"definicion\": \"Obsesionarse o emocionarse exageradamente por algo, perdiendo la objetividad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afilado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afilado\",\n  \"output\": {\n    \"definicion\": \"Se dice de una persona con ingenio rápido y perspicaz.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afilarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afilarse\",\n  \"output\": {\n    \"definicion\": \"Iniciar una relación sentimental o amorosa informal con alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afirmativo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afirmativo\",\n  \"output\": {\n    \"definicion\": \"Indica acuerdo o confirmación con lo expresado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aflojachocho",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aflojachocho\",\n  \"output\": {\n    \"definicion\": \"Persona inactiva y de reacción lenta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aforar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aforar\",\n  \"output\": {\n    \"definicion\": \"Inspeccionar o verificar las características y cantidad de una mercancía importada o exportada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afrijolar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afrijolar\",\n  \"output\": {\n    \"definicion\": \"Preparar un guiso con frijoles para consumir como alimento.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afro\",\n  \"output\": {\n    \"definicion\": \"Persona de ascendencia africana o estilo de cabello rizado y voluminoso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "afugias",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"afugias\",\n  \"output\": {\n    \"definicion\": \"Estado de apuro o necesidad extrema.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agache",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agache\",\n  \"output\": {\n    \"definicion\": \"Acción colectiva y silenciosa de los comerciantes para ocultar información financiera o rebajas a la autoridad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agalla",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agalla\",\n  \"output\": {\n    \"definicion\": \"La agalla es la audacia, osadía o el valor para enfrentar un desafío.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agalludo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agalludo\",\n  \"output\": {\n    \"definicion\": \"Individuo codicioso o ambicioso de manera desmedida.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agarrar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agarrar\",\n  \"output\": {\n    \"definicion\": \"Tomar, coger, asir fuertemente un objeto o una oportunidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agarrón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agarrón\",\n  \"output\": {\n    \"definicion\": \"Pelea física o verbal intensa y repentina.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agonía",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agonía\",\n  \"output\": {\n    \"definicion\": \"Estado de aflicción, molestia o insistencia exagerada ante una situación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agrieras",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agrieras\",\n  \"output\": {\n    \"definicion\": \"Acción de sentirse molesto o descontento por algo. También, sensación de ardor estomacal.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agringarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agringarse\",\n  \"output\": {\n    \"definicion\": \"Adoptar costumbres o maneras de los extranjeros, especialmente de Norteamérica.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agrio",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agrio\",\n  \"output\": {\n    \"definicion\": \"Se dice de una persona con un carácter amargado o irascible.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agripado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agripado\",\n  \"output\": {\n    \"definicion\": \"La persona que padece una afección respiratoria similar a la gripe.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agropecuario",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agua",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguacatado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguacatarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguacero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=502",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>502 Proxy Error</title>\n</head><body>\n<h1>Proxy Error</h1>\n<p>The proxy server received an invalid\r\nresponse from an upstream server.<br />\r\nThe proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "aguachento",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguaguado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguaitacaminos",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguaitar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguajina",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguallevame",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguamasa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguamiel",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguamil",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguanoso",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguantador",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguarapar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguardientoso",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguasal",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguatero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguatudo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguijar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aguinaldo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agáchese",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agüerista",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "agüero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ahogado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ahorcado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ahorcar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ahorita",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ahuyama",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "ahí",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "aire",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ajetreo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ajiaco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ajicie",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ajustar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "ala",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alabado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alargue",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alarma",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alberca",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "albiriscado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alcabala",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alcahueta",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alcahuetear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alcancía",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alcanzado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alcanzamocho",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alcaparro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alcaraván",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alcayata",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alebrestar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alegadera",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alegar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alegato",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alegrías",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alegrón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alentarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alepruz",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alerta",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aleta",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aletear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aletoso",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alevino",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alevoso",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alfabeto",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alfombrar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alférez",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "algo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "algotro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alicoramiento",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alimentador",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alinderar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aliprús",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alistar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aliñado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "allacito",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almacén",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almidón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almirajó",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almojábana",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almorzadero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almuercero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "almuerzo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alocado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alpargata",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alpargatudo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "altamisa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "altanero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "altanería",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "altillo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alto",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "altoparlante",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alucema",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "aluzar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alzado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "alón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amacice",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amacizar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amagallar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amalayarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amanecedero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amanecer",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amanecido",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amangualarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amansar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "amarga",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "error": "status=422",
+      "response": {
+        "error": "The daily API limit for spending coins has been reached for the current day. Please wait for the new reset on the next UTC day",
+        "success": false
+      }
+    }
+  }
+]
