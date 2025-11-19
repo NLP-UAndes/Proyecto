@@ -47944,5 +47944,4245 @@
         "success": false
       }
     }
+  },
+  {
+    "modismo": "uniformado",
+    "ejemplo": "Todos sus compañeros huyen de los uniformados que les perseguían con sus cachiporras.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "uniformado",
+        "ejemplo": "Todos sus compañeros huyen de los uniformados que les perseguían con sus cachiporras."
+      },
+      "output": {
+        "literal": "policía",
+        "definicion": "persona que mantiene el orden público."
+      }
+    }
+  },
+  {
+    "modismo": "uniforme",
+    "ejemplo": "El grupo musical lo conformaban soldados que abandonaron sus fusiles, sus granadas y su traje de fatiga para sumarse a la gran celebración.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "uniforme",
+        "ejemplo": "El grupo musical lo conformaban soldados que abandonaron sus fusiles, sus granadas y su traje de fatiga para sumarse a la gran celebración."
+      },
+      "output": {
+        "literal": "ropa de trabajo",
+        "definicion": "prendas usadas en el desempeño de una ocupación."
+      }
+    }
+  },
+  {
+    "modismo": "untada",
+    "ejemplo": "Madres superprotectoras que desocupan un frasco de ultrabloqueador en cada untada a su retoñito.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "untar",
+    "ejemplo": "Hicieron todo lo posible por untarlo, pero nunca pudieron con su honestidad.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"untar\",\n    \"ejemplo\": \"Hicieron todo lo posible por untarlo, pero nunca pudieron con su honestidad.\"\n  },\n  \"output\": {\n    \"literal\": \"corromper\",\n    \"definicion\": \"intentar influir ilegalmente\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "urgido",
+    "ejemplo": "Mientras adelantaba mi tesis sobre la poesía de Álvaro Mutis, urgido de consultar un par de monografías sobre su obra, lo llamé para ver si podía pasar a recogerlas a su casa y me comentó que no iba a estar allí.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "urgido",
+        "ejemplo": "Mientras adelantaba mi tesis sobre la poesía de Álvaro Mutis, urgido de consultar un par de monografías sobre su obra, lo llamé para ver si podía pasar a recogerlas a su casa y me comentó que no iba a estar allí."
+      },
+      "output": {
+        "literal": "con necesidad",
+        "definicion": "necesitando algo con urgencia"
+      }
+    }
+  },
+  {
+    "modismo": "utilero",
+    "ejemplo": "Santa Fe, […] jugó ese partido con otro uniforme debido a un ‘olvido’ del utilero del equipo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "utilero",
+        "ejemplo": "Santa Fe, […] jugó ese partido con otro uniforme debido a un ‘olvido’ del utilero del equipo."
+      },
+      "output": {
+        "literal": "encargado de equipamiento",
+        "definicion": "persona que se ocupa del equipamiento deportivo."
+      }
+    }
+  },
+  {
+    "modismo": "uva",
+    "ejemplo": "Siga cuidadosamente estos consejos, evite contratiempos y mantenga su carro, siempre, como una uva.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "uva",
+        "ejemplo": "Siga cuidadosamente estos consejos, evite contratiempos y mantenga su carro, siempre, como una uva."
+      },
+      "output": {
+        "literal": "intacto y limpio",
+        "definicion": "en perfecto estado y sin daños"
+      }
+    }
+  },
+  {
+    "modismo": "uña",
+    "ejemplo": "Éramos inseparables, andábamos como uña y mugre, juntos todo el día.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"uña\",\n    \"ejemplo\": \"Éramos inseparables, andábamos como uña y mugre, juntos todo el día.\"\n  },\n  \"output\": {\n    \"literal\": \"muy unidos\",\n    \"definicion\": \"describe personas que siempre están juntas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "útiles",
+    "ejemplo": "Hasta sombras de maquillaje, entre útiles inútiles que piden en listas escolares.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"útiles\",\n    \"ejemplo\": \"Hasta sombras de maquillaje, entre útiles inútiles que piden en listas escolares.\"\n  },\n  \"output\": {\n    \"literal\": \"objetos escolares\",\n    \"definicion\": \"artículos necesarios para el estudio o trabajo escolar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vaca",
+    "ejemplo": "Hicimos una vaca y viajamos porque sabíamos que podíamos fortalecer el conocimiento sobre ganado.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vacacionar",
+    "ejemplo": "El bello y azul Mar Caribe, y muchas otras bellezas que hacen de Cartagena de Indias un magnífico lugar para visitar y vacacionar.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vaciada",
+    "ejemplo": "Mercedes fue y le pegó una vaciada a la musa que ¡hágame el favor!, que le dijo de todo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vaciada",
+        "ejemplo": "Mercedes fue y le pegó una vaciada a la musa que ¡hágame el favor!, que le dijo de todo."
+      },
+      "output": {
+        "literal": "descarga de insultos",
+        "definicion": "expresión de enojo mediante palabras hirientes."
+      }
+    }
+  },
+  {
+    "modismo": "vaciado",
+    "ejemplo": "A sabiendas que estaba vaciada, para decirle que se vieran, que pasaran un fin de semana juntos a cambio de uno o dos millones de regalito.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vaciar",
+    "ejemplo": "Luego me cuenta, chino. Mire que Madam va a venir y nos va volver a vaciar si lo ve aquí sentado.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vaciar",
+        "ejemplo": "Luego me cuenta, chino. Mire que Madam va a venir y nos va volver a vaciar si lo ve aquí sentado."
+      },
+      "output": {
+        "literal": "sacar",
+        "definicion": "obligar a alguien a irse o salir"
+      }
+    }
+  },
+  {
+    "modismo": "vacilar",
+    "ejemplo": "Yo ya le dije que nos viéramos para vacilar en la parranda.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vacilón",
+    "ejemplo": "Son aquellos que van por las calles rompiendo corazones porque nacieron así, y vivir de bacilón en bacilón es lo que los hace felices.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vacilón\",\n    \"ejemplo\": \"Son aquellos que van por las calles rompiendo corazones porque nacieron así, y vivir de bacilón en bacilón es lo que los hace felices.\"\n  },\n  \"output\": {\n    \"literal\": \"momento de diversión\",\n    \"definicion\": \"situación de entretenimiento y alegría.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vacuna",
+    "ejemplo": "Pero los grupos ilegales no sólo cobraron impuestos arbitrarios y vacunas, sino que logran apropiarse de recursos públicos.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vagabundería",
+    "ejemplo": "La guerra es un negocio y no estamos dispuestos a seguir financiando más esa vagabundería",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vagabundería\",\n    \"ejemplo\": \"La guerra es un negocio y no estamos dispuestos a seguir financiando más esa vagabundería\"\n  },\n  \"output\": {\n    \"literal\": \"actividad sin sentido\",\n    \"definicion\": \"acción inútil o sin propósito claro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vagabundo",
+    "ejemplo": "¡Este es mucho vagabundo! Nos hace trabajar horas extras y no nos las paga, ¿y ahora nos va a poner a trabahar los festivos?",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vaina",
+    "ejemplo": "Como, por el momento, no estoy trabajando, entonces empiezan a echarle a uno vainas o me echan de la casa.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vaina\",\n    \"ejemplo\": \"Como, por el momento, no estoy trabajando, entonces empiezan a echarle a uno vainas o me echan de la casa.\"\n  },\n  \"output\": {\n    \"literal\": \"problemas\",\n    \"definicion\": \"situaciones difíciles o complicaciones.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vainazo",
+    "ejemplo": "La mujer le arrojó el trapo y le lanzó toda suerte de vainazos, hasta que se despidió con su sonrisa de siempre.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vale",
+    "ejemplo": "Vale, no me salgas ahora con esa disculpa.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "valla",
+    "ejemplo": "La valla de Valentín Vargas era la menos vencida del campeonato, con 14 goles.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "valla",
+        "ejemplo": "La valla de Valentín Vargas era la menos vencida del campeonato, con 14 goles."
+      },
+      "output": {
+        "literal": " portería",
+        "definicion": "estructura donde se anotan goles"
+      }
+    }
+  },
+  {
+    "modismo": "vallenato",
+    "ejemplo": "Un aspecto importante del vallenato es su característica periodística en el mensaje de los cantos y la crónica minuciosa ocurrida en la provincia.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vallenato\",\n    \"ejemplo\": \"Un aspecto importante del vallenato es su característica periodística en el mensaje de los cantos y la crónica minuciosa ocurrida en la provincia.\"\n  },\n  \"output\": {\n    \"literal\": \"canción narrativa\",\n    \"definicion\": \"composición musical que relata eventos con detalle.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "valor",
+    "ejemplo": "Tiene valor el presidente cuando clava a los ciudadanos con tantos impuestos.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"valor\",\n    \"ejemplo\": \"Tiene valor el presidente cuando clava a los ciudadanos con tantos impuestos.\"\n  },\n  \"output\": {\n    \"literal\": \"coraje\",\n    \"definicion\": \"fortaleza o valentía para enfrentar situaciones difíciles.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "van",
+    "ejemplo": "Los viajes para la carrera ya no los tenía que hacer en moto, logró comprar una vagoneta y luego una van, que adaptó, la mitad era taller y la otra era casa",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"van\",\n    \"ejemplo\": \"Los viajes para la carrera ya no los tenía que hacer en moto, logró comprar una vagoneta y luego una van, que adaptó, la mitad era taller y la otra era casa\"\n  },\n  \"output\": {\n    \"literal\": \"camioneta grande\",\n    \"definicion\": \"vehículo grande para transporte de personas o carga\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "varado",
+    "ejemplo": "Que muestre el talento sin tanto payaso, y que no deje entrar a tanto diseñador varado -y barato- ni a tanta modelo veterana.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "varar",
+    "ejemplo": "Poncho le contó los traspiés sufridos por la alergia, la frustración con la guitarra, y ella volvió a retarlo, \"no puedes vararte, hay otros caminos para un músico\".",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "varar",
+        "ejemplo": "Poncho le contó los traspiés sufridos por la alergia, la frustración con la guitarra, y ella volvió a retarlo, \"no puedes vararte, hay otros caminos para un músico\"."
+      },
+      "output": {
+        "literal": "rendirse",
+        "definicion": "abandonar o darse por vencido"
+      }
+    }
+  },
+  {
+    "modismo": "varasanta",
+    "ejemplo": "La varasanta aloja en sus tallos huecos grandes hormigas que, además de defenderlo, realizan la limpieza del suelo a su alrededor.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "varasanta",
+        "ejemplo": "La varasanta aloja en sus tallos huecos grandes hormigas que, además de defenderlo, realizan la limpieza del suelo a su alrededor."
+      },
+      "output": {
+        "literal": "planta con hormigas",
+        "definicion": "planta que alberga hormigas en sus tallos"
+      }
+    }
+  },
+  {
+    "modismo": "variante",
+    "ejemplo": "Precisó que la valorización contempla también las obras de la variante Chinchiná-La Romelia-El Pollo, que harán finalmente parte de la solución vial Armenia-Pereira-Manizales.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"variante\",\n    \"ejemplo\": \"Precisó que la valorización contempla también las obras de la variante Chinchiná-La Romelia-El Pollo, que harán finalmente parte de la solución vial Armenia-Pereira-Manizales.\"\n  },\n  \"output\": {\n    \"literal\": \"tramo alternativo\",\n    \"definicion\": \"camino que evita áreas congestionadas o problemáticas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "varilla",
+    "ejemplo": "Uno de los usos de la varilla grafilada es en la construcción de elementos prefabricados en concreto.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"varilla\",\n    \"ejemplo\": \"Uno de los usos de la varilla grafilada es en la construcción de elementos prefabricados en concreto.\"\n  },\n  \"output\": {\n    \"literal\": \"barra de metal\",\n    \"definicion\": \"pieza cilíndrica de metal utilizada en construcción.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "varón",
+    "ejemplo": "Pero un día me las di de muy varoncito y entré a una liposucción de cuello, cuando empezó el procedimiento me empezaron a temblar las piernas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "varón",
+        "ejemplo": "Pero un día me las di de muy varoncito y entré a una liposucción de cuello, cuando empezó el procedimiento me empezaron a temblar las piernas."
+      },
+      "output": {
+        "literal": "atrevido",
+        "definicion": "persona que actúa con valentía o audacia."
+      }
+    }
+  },
+  {
+    "modismo": "vasado",
+    "ejemplo": "Edy tomaba agua por vasados.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vasado\",\n    \"ejemplo\": \"Edy tomaba agua por vasados.\"\n  },\n  \"output\": {\n    \"literal\": \"por pequeñas cantidades\",\n    \"definicion\": \"tomando agua en pequeñas porciones\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vastagosa",
+    "ejemplo": "Por el río, en grandes vastagosas (balsas), bajaban hasta Girardot para emprender, de ahí en adelante, el viaje a pie, pasando por la capital.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ve",
+    "ejemplo": "Así, José María Córdova, con v corta, se denominan también el aeropuerto de Rionegro.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "veinticuatro",
+    "ejemplo": "Miren bien, no se agarren de los árboles porque puede haber una conga, yanabe o veinticuatro (por la duración de los efectos de la picadura).",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"veinticuatro\",\n    \"ejemplo\": \"Miren bien, no se agarren de los árboles porque puede haber una conga, yanabe o veinticuatro (por la duración de los efectos de la picadura).\"\n  },\n  \"output\": {\n    \"literal\": \"largos efectos\",\n    \"definicion\": \"consecuencias que duran mucho tiempo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "veintiúnico",
+    "ejemplo": "Una fila que parece interminable se extiende a lo largo de la veintiúnica calle de El Cabildo para hacerse merecedora del mana traído por el Gobierno.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"veintiúnico\",\n    \"ejemplo\": \"Una fila que parece interminable se extiende a lo largo de la veintiúnica calle de El Cabildo para hacerse merecedora del mana traído por el Gobierno.\"\n  },\n  \"output\": {\n    \"literal\": \"calle principal\",\n    \"definicion\": \"denombra la calle principal o más importante de un lugar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vejestorio",
+    "ejemplo": "La indiferencia es tan grande que el código [de policía] se ha convertido en un pobre vejestorio decrépito.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vejestorio",
+        "ejemplo": "La indiferencia es tan grande que el código [de policía] se ha convertido en un pobre vejestorio decrépito."
+      },
+      "output": {
+        "literal": "cosa vieja y deteriorada",
+        "definicion": "objeto o elemento antiguo y en mal estado."
+      }
+    }
+  },
+  {
+    "modismo": "velar",
+    "ejemplo": "Qué niño tan caprichoso. Cuando le sirven no come nada y cuando llegan invitados se la pasa velando.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"velar\",\n    \"ejemplo\": \"Qué niño tan caprichoso. Cuando le sirven no come nada y cuando llegan invitados se la pasa velando.\"\n  },\n  \"output\": {\n    \"literal\": \"mirar fijamente\",\n    \"definicion\": \"observar atentamente con interés o curiosidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "velón",
+    "ejemplo": "Estaban regalando una perrita muy bien educada. No era velona ni canequera.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "velón",
+        "ejemplo": "Estaban regalando una perrita muy bien educada. No era velona ni canequera."
+      },
+      "output": {
+        "literal": "problemática",
+        "definicion": "causa inconvenientes o problemas"
+      }
+    }
+  },
+  {
+    "modismo": "vena",
+    "ejemplo": "Y es que a los estudiantes se les dio en la vena del gusto con este proyecto pues pudieron hacerlo tangible y que traspasar las aulas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vena\",\n    \"ejemplo\": \"Y es que a los estudiantes se les dio en la vena del gusto con este proyecto pues pudieron hacerlo tangible y que traspasar las aulas.\"\n  },\n  \"output\": {\n    \"literal\": \"gusto\",\n    \"definicion\": \"agrado o placer\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vencerse",
+    "ejemplo": "El supervisor deberá informar al contratista los elementos o medicamentos que están por vencerse para su correspondiente cambio.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vencerse",
+        "ejemplo": "El supervisor deberá informar al contratista los elementos o medicamentos que están por vencerse para su correspondiente cambio."
+      },
+      "output": {
+        "literal": "caducar",
+        "definicion": "llegar a su fecha de expiración."
+      }
+    }
+  },
+  {
+    "modismo": "vencido",
+    "ejemplo": "Esta leche ya está vencida, no la puedes consumir.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vendaje",
+    "ejemplo": "Envolvía el pan en papel de panadería de barrio y sin faltar a su buena costumbre nos daba el vendaje cada vez que hacíamos una compra.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vendaje",
+        "ejemplo": "Envolvía el pan en papel de panadería de barrio y sin faltar a su buena costumbre nos daba el vendaje cada vez que hacíamos una compra."
+      },
+      "output": {
+        "literal": "papel de envolver",
+        "definicion": "material utilizado para cubrir o proteger objetos"
+      }
+    }
+  },
+  {
+    "modismo": "ventajoso",
+    "ejemplo": "La principal característica del ventajoso es la mala fe, porque equivocaciones las comete cualquiera.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "ventajoso",
+        "ejemplo": "La principal característica del ventajoso es la mala fe, porque equivocaciones las comete cualquiera."
+      },
+      "output": {
+        "literal": "persona deshonesta",
+        "definicion": "individuo que actúa con engaño"
+      }
+    }
+  },
+  {
+    "modismo": "ventanear",
+    "ejemplo": "Vendían unas hamacas para gatos que se pegan a la ventana, para que nuestros felinos puedan ventanear y tomar el sol",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "venteado",
+    "ejemplo": "No preste atención a lo que dice Juan, todos sabemos que está venteado.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "venteado",
+        "ejemplo": "No preste atención a lo que dice Juan, todos sabemos que está venteado."
+      },
+      "output": {
+        "literal": "confundido y desorientado",
+        "definicion": "persona que muestra desorientación o confusión."
+      }
+    }
+  },
+  {
+    "modismo": "ventiado",
+    "ejemplo": "Hubo comida ventiada en la fiesta de fin de año.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ventiar",
+    "ejemplo": "Después de un tiempo decide pasar el arroz a una vasija plástica y comienza a ventiarlo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ventiar\",\n    \"ejemplo\": \"Después de un tiempo decide pasar el arroz a una vasija plástica y comienza a ventiarlo.\"\n  },\n  \"output\": {\n    \"literal\": \"enfriar arroz\",\n    \"definicion\": \"dejar que el arroz se enfríe gradualmente\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "veranera",
+    "ejemplo": "Por eso nada mejor que una veranera o trinitaria para adornar y dar la bienvenida a los pasajeros.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vereda",
+    "ejemplo": "Las veredas se encuentran jurisdiccionalmente bajo la administración de la alcaldía.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "verga",
+    "ejemplo": "Se compró una verga de bicicleta.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "verga",
+        "ejemplo": "Se compró una verga de bicicleta."
+      },
+      "output": {
+        "literal": "una parte de bicicleta",
+        "definicion": "elemento específico de una bicicleta"
+      }
+    }
+  },
+  {
+    "modismo": "vergajada",
+    "ejemplo": "Que te hubieran hecho ese descuento en la nómina sin avisarte fue una vergajada.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vergajada\",\n    \"ejemplo\": \"Que te hubieran hecho ese descuento en la nómina sin avisarte fue una vergajada.\"\n  },\n  \"output\": {\n    \"literal\": \"golpe bajo\",\n    \"definicion\": \"acción inesperada y perjudicial\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vergajo",
+    "ejemplo": "Este chino vergajo se trae algo entre manos, nunca lo había visto tan casero, decía mi mamá, y ahora va a misa hasta los sábados.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vergajo\",\n    \"ejemplo\": \"Este chino vergajo se trae algo entre manos, nunca lo había visto tan casero, decía mi mamá, y ahora va a misa hasta los sábados.\"\n  },\n  \"output\": {\n    \"literal\": \"raro\",\n    \"definicion\": \"persona que actúa de manera inusual.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "verguero",
+    "ejemplo": "Ya te había dicho que salir temprano de clase sin permiso del profe es un verguero.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "verraco",
+    "ejemplo": "Estoy verraco porque en el momento en que la gente más lo esperaba fallé. Pero muchos han fallado. Yo no voy a bajar la cabeza. Estoy verraco, pero tranquilo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "verraco",
+        "ejemplo": "Estoy verraco porque en el momento en que la gente más lo esperaba fallé. Pero muchos han fallado. Yo no voy a bajar la cabeza. Estoy verraco, pero tranquilo."
+      },
+      "output": {
+        "literal": "enfadado",
+        "definicion": "estado de irritación o molestia"
+      }
+    }
+  },
+  {
+    "modismo": "verraquera",
+    "ejemplo": "Esa es una ventaja, el hecho de ser positivo y tener el coraje y la verraquera de ser capaz de ganar.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"verraquera\",\n    \"ejemplo\": \"Esa es una ventaja, el hecho de ser positivo y tener el coraje y la verraquera de ser capaz de ganar.\"\n  },\n  \"output\": {\n    \"literal\": \"valentía\",\n    \"definicion\": \"cualidad de ser valiente y arriesgado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "verriondera",
+    "ejemplo": "Esos tipos son la verriondera pa' trabajar y hacer negocios.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"verriondera\",\n    \"ejemplo\": \"Esos tipos son la verriondera pa' trabajar y hacer negocios.\"\n  },\n  \"output\": {\n    \"literal\": \"personas confiables\",\n    \"definicion\": \"individuos en quienes se puede confiar para realizar tareas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "verriondo",
+    "ejemplo": "Hombe, usté es un verriondo pa' tocar maracas; hombe, ¿por qué no hacemos un conjunto?",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"verriondo\",\n    \"ejemplo\": \"Hombe, usté es un verriondo pa' tocar maracas; hombe, ¿por qué no hacemos un conjunto?\"\n  },\n  \"output\": {\n    \"literal\": \"bueno\",\n    \"definicion\": \"persona habilidosa o talentosa en algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "verrugosa",
+    "ejemplo": "Las verrugosas son las únicas víboras de Colombia que ponen huevos. El resto, anota el experto, tienen a sus crías en la barriga.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "verrugosa",
+        "ejemplo": "Las verrugosas son las únicas víboras de Colombia que ponen huevos. El resto, anota el experto, tienen a sus crías en la barriga."
+      },
+      "output": {
+        "literal": "víbora que pone huevos",
+        "definicion": "serpiente que reproduce mediante huevos"
+      }
+    }
+  },
+  {
+    "modismo": "vertical",
+    "ejemplo": "Era difícil sacarlo del partido porque desde el principio y, a pesar de los ataques, se monstró como una persona vertical.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vertical\",\n    \"ejemplo\": \"Era difícil sacarlo del partido porque desde el principio y, a pesar de los ataques, se mostró como una persona vertical.\"\n  },\n  \"output\": {\n    \"literal\": \"firme\",\n    \"definicion\": \"detenida y constante en sus decisiones\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vestido",
+    "ejemplo": "Se puso el viejo vestido de baño y una camiseta enorme y salió con Ali y con Luisa, que cambiaba las oposiciones y todo su futuro por esa tarde de sol.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vestido",
+        "ejemplo": "Se puso el viejo vestido de baño y una camiseta enorme y salió con Ali y con Luisa, que cambiaba las oposiciones y todo su futuro por esa tarde de sol."
+      },
+      "output": {
+        "literal": "ropa antigua",
+        "definicion": "prendas de vestir usadas o desactualizadas."
+      }
+    }
+  },
+  {
+    "modismo": "vestidor",
+    "ejemplo": "El pañuelo se debe usar en color blanco, ojalá en lino o seda para complementar el traje oscuro más vestidor.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vestidor\",\n    \"ejemplo\": \"El pañuelo se debe usar en color blanco, ojalá en lino o seda para complementar el traje oscuro más vestidor.\"\n  },\n  \"output\": {\n    \"literal\": \"formal\",\n    \"definicion\": \"relacionado con la formalidad y elegancia en vestimenta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vestier",
+    "ejemplo": "4 alcobas (todas con baño, principal con vestier, familiares con closet, alcoba de empleada completa).",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vestier\",\n    \"ejemplo\": \"4 alcobas (todas con baño, principal con vestier, familiares con closet, alcoba de empleada completa).\"\n  },\n  \"output\": {\n    \"literal\": \"ropa\",\n    \"definicion\": \"área para almacenar ropa\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "veterano",
+    "ejemplo": "Formamos un equipo de baloncesto con los más veteranos de la empresa, de 50 a 60 años.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "veterano",
+        "ejemplo": "Formamos un equipo de baloncesto con los más veteranos de la empresa, de 50 a 60 años."
+      },
+      "output": {
+        "literal": "mayores",
+        "definicion": "personas de mayor edad o experiencia en un grupo."
+      }
+    }
+  },
+  {
+    "modismo": "viajado",
+    "ejemplo": "Llevó todos los pedidos de un solo viajado.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "viajado",
+        "ejemplo": "Llevó todos los pedidos de un solo viajado."
+      },
+      "output": {
+        "literal": "viaje",
+        "definicion": "trayecto realizado para entregar o recoger algo"
+      }
+    }
+  },
+  {
+    "modismo": "vianda",
+    "ejemplo": "Los fríjoles con garra que le metió en el 'vianda' su mujer poco agraciada deben estar riquísimos.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vianda\",\n    \"ejemplo\": \"Los fríjoles con garra que le metió en el 'vianda' su mujer poco agraciada deben estar riquísimos.\"\n  },\n  \"output\": {\n    \"literal\": \"comida para llevar\",\n    \"definicion\": \"alimento preparado para consumir en otro lugar\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "viaticar",
+    "ejemplo": "Alguien en la reunión llamó la atención a tantos funcionarios presentes, que sólo vinieron a viaticar.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vibra",
+    "ejemplo": "- Varitas de incienso: especialmente la que preparan los Krisnas, para \"las buenas vibras\".",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vibra\",\n    \"ejemplo\": \"- Varitas de incienso: especialmente la que preparan los Krisnas, para \\\"las buenas vibras\\\".\"\n  },\n  \"output\": {\n    \"literal\": \"energía positiva\",\n    \"definicion\": \"sensación de optimismo y bienestar\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vida",
+    "ejemplo": "La vida de perros empezó al día siguiente de que se fueran a vivir juntos.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vidrioso",
+    "ejemplo": "Los frutos que no se desprenden del árbol presentan trastornos fisiológicos internos (corazón negro) y externos (escaldados en algunas frutas se vuelven vidriosas).",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vieja",
+    "ejemplo": "Mañana tengo cita con la vieja del juzgado para resolver el problema de la demanda.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "viejera",
+    "ejemplo": "La viejera es una fatiga anticipada, una imposibilidad que se adelanta, un no poder que llega cuando todavía el sol no se ha recogido y quedan en las alforjas unos cuantos proyectiles.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "viejerío",
+    "ejemplo": "¿Viene ese actor? ¡Qué viejerío el que va a llegar a ese Centro Comercial!",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "viernes",
+    "ejemplo": "Como hoy es un viernes chiquito te recomendamos una deliciosa hamburguesa bistec a caballo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"viernes\",\n    \"ejemplo\": \"Como hoy es un viernes chiquito te recomendamos una deliciosa hamburguesa bistec a caballo.\"\n  },\n  \"output\": {\n    \"literal\": \"día laboral corto\",\n    \"definicion\": \"día de trabajo que termina antes del horario habitual\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "viga",
+    "ejemplo": "Chepe se puso viga yendo al gimnasio todos los días.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vikingo",
+    "ejemplo": "Un vikingo de lulo o piña sería perfecto para el calor de esta tarde.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "villamarquín",
+    "ejemplo": "Las herramientas para talla de madera son rústicas para este tipo de trabajo, utilizan hachas, machete, hachuela, gurbias, formones, villamarquín, cuchillos y peines.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "villamarquín",
+        "ejemplo": "Las herramientas para talla de madera son rústicas para este tipo de trabajo, utilizan hachas, machete, hachuela, gurbias, formones, villamarquín, cuchillos y peines."
+      },
+      "output": {
+        "literal": "cuchillo de hoja ancha",
+        "definicion": "herramienta cortante con hoja ancha para tallar madera"
+      }
+    }
+  },
+  {
+    "modismo": "vincha",
+    "ejemplo": "Las clientas suelen encargar las vinchas y demás diademas florecidas para ir a la playa o a piscina.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vincha\",\n    \"ejemplo\": \"Las clientas suelen encargar las vinchas y demás diademas florecidas para ir a la playa o a piscina.\"\n  },\n  \"output\": {\n    \"literal\": \"diadema de flores\",\n    \"definicion\": \"adorno para el cabello compuesto de flores.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vinete",
+    "ejemplo": "El consumo de vinete es muy común en la zona rural de la costa chocoana, donde el alcohol también es producido.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vinete",
+        "ejemplo": "El consumo de vinete es muy común en la zona rural de la costa chocoana, donde el alcohol también es producido."
+      },
+      "output": {
+        "literal": "bebida artesanal",
+        "definicion": "bebida alcohólica elaborada localmente"
+      }
+    }
+  },
+  {
+    "modismo": "violento",
+    "ejemplo": "La negra grande, (vino con eso)/ el profe neivo, esta con eso /el Grupo Niche, trae más de eso / ritmo y folclor, pero del más violento.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "violento",
+        "ejemplo": "La negra grande, (vino con eso)/ el profe neivo, esta con eso /el Grupo Niche, trae más de eso / ritmo y folclor, pero del más violento."
+      },
+      "output": {
+        "literal": "muy intenso",
+        "definicion": "expresión de alta intensidad o fuerza en algo."
+      }
+    }
+  },
+  {
+    "modismo": "violinista",
+    "ejemplo": "A algunas las invade el sentimiento de culpa por haber abandonado a sus amigas por el novio, y se inventan planes de violinista.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"violinista\",\n    \"ejemplo\": \"A algunas las invade el sentimiento de culpa por haber abandonado a sus amigas por el novio, y se inventan planes de violinista.\"\n  },\n  \"output\": {\n    \"literal\": \"mentir\",\n    \"definicion\": \"decir algo que no es cierto\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "violín",
+    "ejemplo": "La propia naturaleza, acostumbrada a vernos sufrir, se encarga del trabajo de estrujarnos como a violín prestado.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "viringo",
+    "ejemplo": "Indignación porque taxista salió ‘viringo’ a manejar una moto por las calles de Neiva.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "viringo",
+        "ejemplo": "Indignación porque taxista salió ‘viringo’ a manejar una moto por las calles de Neiva."
+      },
+      "output": {
+        "literal": "irresponsable",
+        "definicion": "persona que actúa sin considerar las consecuencias de sus acciones."
+      }
+    }
+  },
+  {
+    "modismo": "viruta",
+    "ejemplo": "Retirar el acabado viejo de la superficie de muebles usados, usando viruta de acero, lija de papel o disolventes.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "viruta",
+        "ejemplo": "Retirar el acabado viejo de la superficie de muebles usados, usando viruta de acero, lija de papel o disolventes."
+      },
+      "output": {
+        "literal": "material abrasivo",
+        "definicion": "material utilizado para lijar y eliminar capas superficiales."
+      }
+    }
+  },
+  {
+    "modismo": "visa",
+    "ejemplo": "Deben tramitar visa colombiana los extranjeros que deseen permanecer en el territorio colombiano y pretendan realizar actividades diferentes a turismo y esparcimiento.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"visa\",\n    \"ejemplo\": \"Deben tramitar visa colombiana los extranjeros que deseen permanecer en el territorio colombiano y pretendan realizar actividades diferentes a turismo y esparcimiento.\"\n  },\n  \"output\": {\n    \"literal\": \"permiso de entrada\",\n    \"definicion\": \"autorización oficial para ingresar a un país.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "visaje",
+    "ejemplo": "Deje de dar visaje con ese celular que ya todos lo vimos.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "visajoso",
+    "ejemplo": "Yo allá monté mi papel de loco, de visajoso y de hiperactivo. Cantaba vallenatos a cambio de monedas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "visita",
+    "ejemplo": "Amor, pásame las toallas que me llegó la visita.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vistas",
+    "ejemplo": "La manteca la vendo a peso la botella, lo mesmo que la hiel muy usada en medecina para las vistas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vistas",
+        "ejemplo": "La manteca la vendo a peso la botella, lo mesmo que la hiel muy usada en medecina para las vistas."
+      },
+      "output": {
+        "literal": "visión",
+        "definicion": "capacidad de ver o percepción visual"
+      }
+    }
+  },
+  {
+    "modismo": "vitrina",
+    "ejemplo": "¿Supone alguna pérdida espiritual el dejarse llevar por la curiosidad y, sin tener por qué, mirar lo que se ofrece en las vitrinas de los almacenes, comercios en general?",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vitrina",
+        "ejemplo": "¿Supone alguna pérdida espiritual el dejarse llevar por la curiosidad y, sin tener por qué, mirar lo que se ofrece en las vitrinas de los almacenes, comercios en general?"
+      },
+      "output": {
+        "literal": "mostrar productos",
+        "definicion": "exhibir artículos para venta"
+      }
+    }
+  },
+  {
+    "modismo": "vitrinear",
+    "ejemplo": "Son más los clientes que llegan a un centro comercial a 'vitrinear' que los que van a cine o a comprar artículos de tecnología, ropa o calzado.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vitrinear",
+        "ejemplo": "Son más los clientes que llegan a un centro comercial a 'vitrinear' que los que van a cine o a comprar artículos de tecnología, ropa o calzado."
+      },
+      "output": {
+        "literal": "mirar vitrinas",
+        "definicion": "observar los productos expuestos en tiendas."
+      }
+    }
+  },
+  {
+    "modismo": "viudo",
+    "ejemplo": "Su plato típico es el viudo de pescado, principalmente en los pueblos de las riberas del Magdalena.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"viudo\",\n    \"ejemplo\": \"Su plato típico es el viudo de pescado, principalmente en los pueblos de las riberas del Magdalena.\"\n  },\n  \"output\": {\n    \"literal\": \"pescado sin cabeza\",\n    \"definicion\": \"pescado preparado sin su cabeza\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "viáticos",
+    "ejemplo": "Una vez la delegación llega del exterior tiene la obligación de legalizar los viáticos autorizados, por medio de la presentación de un informe detallado de los eventos a los que asistió.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "voceador",
+    "ejemplo": "De nuevo confunden con vendedores ambulantes a los honrados voceadores de la prensa, que ni son ambulantes, ni comercian con contrabando.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"voceador\",\n    \"ejemplo\": \"De nuevo confunden con vendedores ambulantes a los honrados voceadores de la prensa, que ni son ambulantes, ni comercian con contrabando.\"\n  },\n  \"output\": {\n    \"literal\": \"vendedor de periódicos\",\n    \"definicion\": \"persona que vende periódicos en la calle.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "voladero",
+    "ejemplo": "El temor de rodar por un voladero lo hizo maniobrar hacia unos vehículos que esperaban paso en ese sitio, por el carril contrario.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "voladero",
+        "ejemplo": "El temor de rodar por un voladero lo hizo maniobrar hacia unos vehículos que esperaban paso en ese sitio, por el carril contrario."
+      },
+      "output": {
+        "literal": "camino peligroso",
+        "definicion": "ruta con riesgo de accidente"
+      }
+    }
+  },
+  {
+    "modismo": "volado",
+    "ejemplo": "Un edificio tendrá un volado de 13 metros, ¿cómo hacen para soportar tal volado ¿cómo lo solucionan?",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"volado\",\n    \"ejemplo\": \"Un edificio tendrá un volado de 13 metros, ¿cómo hacen para soportar tal volado ¿cómo lo solucionan?\"\n  },\n  \"output\": {\n    \"literal\": \"saliente\",\n    \"definicion\": \"parte que sobresale de una estructura\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "volado, da",
+    "ejemplo": "Es una vieja muy complicada. Tiene el genio volado. Seguro vas a tener problemas con ella.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "voladora",
+    "ejemplo": "La voladora corría encima del agua dejando una estela de espuma blanca tras de sí.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"voladora\",\n    \"ejemplo\": \"La voladora corría encima del agua dejando una estela de espuma blanca tras de sí.\"\n  },\n  \"output\": {\n    \"literal\": \"lancha rápida\",\n    \"definicion\": \"embarcación veloz que desplaza agua al avanzar\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "volandas",
+    "ejemplo": "Mi madre reconoció el santo y seña, y estuvo en el baile hasta las siete de la mañana, cuando tuvo que cambiarse de ropa a las volandas para no llegar tarde a la misa.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "volante",
+    "ejemplo": "Los prestamistas piratas se promocionan por Internet o mediante volantes entregados en la calle.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "volante",
+        "ejemplo": "Los prestamistas piratas se promocionan por Internet o mediante volantes entregados en la calle."
+      },
+      "output": {
+        "literal": "panfleto",
+        "definicion": "folleto con información publicitaria."
+      }
+    }
+  },
+  {
+    "modismo": "volarse",
+    "ejemplo": "Se volaron 5 presos de la cárcel de mayor seguridad.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"volarse\",\n    \"ejemplo\": \"Se volaron 5 presos de la cárcel de mayor seguridad.\"\n  },\n  \"output\": {\n    \"literal\": \"escapar\",\n    \"definicion\": \"salir sin autorización de un lugar restringido\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "volate",
+    "ejemplo": "¡Qué!, si con aquel volate que había en la casa, con el novenario del niño, ni se supo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "voleo",
+    "ejemplo": "Me gusta mucho pensar que acabé de salir de una jornada de trabajo duro con mucho voleo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "volqueta",
+    "ejemplo": "Nuestras volquetas son vehículos versátiles, imponentes en su diseño y fabricadas para resistir los trabajos más pesados en la difícil topografía colombiana.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "voltaje",
+    "ejemplo": "No le gustaba bañarse mucho; así que tenía el voltaje fuerte.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "voltiarepas",
+    "ejemplo": "Ser voltiarepas es cambiar de partido para poder conseguir la arepa: «arepa que no se voltea no se asa», dice el refrán.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vos",
+    "ejemplo": "Pero en realidad no sé quién sos vos, nunca estuve cerca tuyo, quizás por temor.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "voz",
+    "ejemplo": "Hoy en día cualquier voz de tarro vende gracias a la computación.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vuelo",
+    "ejemplo": "Tuvimos una charla hoy sobre reciclaje, pero muchos temas se hicieron a vuelo de pájaro.No tiene marca Co",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vuelta",
+    "ejemplo": "Agustín estaba lejos de poder cumplirle el gran sueño al hijo si apenas andaba en las vueltas del préstamo ante la entidad financiera.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "vueltón",
+    "ejemplo": "\"Qué buen vueltón, pero para la próxima vez lleven el vestido de baño que nos quedamos con las ganas de meternos al río\"",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "várzea",
+    "ejemplo": "Los bosques de várzea son menos diversos que los bosques de tierras altas, aunque son de la misma talla.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "váucher",
+    "ejemplo": "En temporada alta, tenemos los registros, las quejas formales de viajeros que llegan al aeropuerto y no encuentran su tiquete o su váucher de servicios.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"𝑣áuch𝑒r\",\n    \"ejemplo\": \"En temporada alta, tenemos los registros, las quejas formales de viajeros que llegan al aeropuerto y no encuentran su tiquete o su váucher de servicios.\"\n  },\n  \"output\": {\n    \"literal\": \"recibo\",\n    \"definicion\": \"documento que acredita un servicio o pago.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vía",
+    "ejemplo": "Hasta el Lago Calima ya se tiene la doble vía, pero de ahí en adelante no han avanzado los trabajos por temas relacionados con las consultas previas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "waffle",
+    "ejemplo": "Fue entonces que decidí que esa mañana me iba a dar el gusto de desayunar wafles con dulce de chocolate y banano.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yanabe",
+    "ejemplo": "Me han picado las hormigas yanabe, negras, grandes, cuya picadura es como si clavaran una aguja al rojo vivo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yare",
+    "ejemplo": "La leche o agua de yare que le sacan a la yuca es venenosa y de color blanco, pero cuando la cocinan pierde el veneno y se vuelve apta para el consumo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "yare",
+        "ejemplo": "La leche o agua de yare que le sacan a la yuca es venenosa y de color blanco, pero cuando la cocinan pierde el veneno y se vuelve apta para el consumo."
+      },
+      "output": {
+        "literal": "savia venenosa",
+        "definicion": "líquido tóxico extraído de una planta."
+      }
+    }
+  },
+  {
+    "modismo": "yarumo",
+    "ejemplo": "Más abajo del yarumo sentenciado se explayaba el arroyo en una como ciénaga, entre los matorrales de junco explotados por ño Matica.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yaré",
+    "ejemplo": "Había partido tres días antes del resguardo hacia el casco urbano a comerciar yuca, chontaduro, azafrán criollo y canastos tejidos en yaré.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yata",
+    "ejemplo": "La yata sale cada noche en busca de alimento.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yax",
+    "ejemplo": "Por eso invitamos a todos los adultos para que les enseñen a los niños y niñas de su localidad a jugar el yax, las canicas, los encostalados la golosa, el lazo y el cucunubá.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ye",
+    "ejemplo": "El conductor del bus nos dijo que nos bajáramos en la ye que estaba más adelante y que siguiéramos a mano derecha hasta encontrar el pueblo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yerbatero",
+    "ejemplo": "Posteriormente el médico fue un yerbatero campesino, Pío Gélvez que labraba el campo de lunes a viernes y llegaba al pueblo sábados y domingos con su tarantín de frascos y jarabes.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "yerbatero",
+        "ejemplo": "Posteriormente el médico fue un yerbatero campesino, Pío Gélvez que labraba el campo de lunes a viernes y llegaba al pueblo sábados y domingos con su tarantín de frascos y jarabes."
+      },
+      "output": {
+        "literal": "curandero con plantas",
+        "definicion": "persona que trata enfermedades con hierbas medicinales"
+      }
+    }
+  },
+  {
+    "modismo": "yermis",
+    "ejemplo": "Quién no corrió, se ensució, raspó, rio o encontró en su camino a amigos y amores de toda la vida en un partido de yermis?",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yerto",
+    "ejemplo": "Mi adorado novio cuando estaba yerta del frío, me sirvió de calefacción.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yesquero",
+    "ejemplo": "No te vayas de Jericó, fundado en 1851, sin tu carriel, recuerda que ahí podrás guardar, dados, barbera, yesquero y cigarrillos,",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yeyo",
+    "ejemplo": "El tiempo no le alcanza para cumplir los compromisos, a tal punto que en días pasados le dio un ‘yeyo’ por el exceso de trabajo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yipao",
+    "ejemplo": "El yipao hace parte viva del paisaje cultural cafetero.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yopo",
+    "ejemplo": "Yopal se fundó en un área que estuvo ocupada por un bosque yopos -un yopal- de modo que la historia de la ciudad está atada a un árbol que abundó en la orinoquía.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yota",
+    "ejemplo": "Ya está lista la yota, no hay que dejar que se reseque así que ¡a moldear se dijo!",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"yota\",\n    \"ejemplo\": \"Ya está lista la yota, no hay que dejar que se reseque así que ¡a moldear se dijo!\"\n  },\n  \"output\": {\n    \"literal\": \"masa para cocinar\",\n    \"definicion\": \"preparación de alimentos antes de cocción\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yuco",
+    "ejemplo": "Le llevo una docena de yucos a mi abuelita, para que se los coma con el chocolate de las onces esta semana.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yucuta",
+    "ejemplo": "Cuando los sálibas se convierten en médicos tradicionales no pueden tomar yucuta en abundancia, solamente un pocillo de yucuta bien finita y licuada.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yulo",
+    "ejemplo": "Además cuenta, que para tener contacto con el Oso, los Guatines, los Yulos, el Tigrillo y un Tigre que viven en esa amplia zona del Caquetá, le ayuda un indígena consumidor de ambil.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yunga",
+    "ejemplo": "Voy a cosechar las naranjas en el yunga, porque como es caliente, las frutas son dulces.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yunta",
+    "ejemplo": "Ahora hacemos yuntas hasta de 35 pescados que pesan entre cuatro y cinco libras pa venderlas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "yuquero",
+    "ejemplo": "Entregan créditos al sector yuquero.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"yuquero\",\n    \"ejemplo\": \"Entregan créditos al sector yuquero.\"\n  },\n  \"output\": {\n    \"literal\": \"informal\",\n    \"definicion\": \"relacionado con actividades no reguladas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yuruparí",
+    "ejemplo": "El estudio del yurupary tiene particular significado para Colombia y Brasil, los dos países regados por el Vaupés.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"yuruparí\",\n    \"ejemplo\": \"El estudio del yurupary tiene particular significado para Colombia y Brasil, los dos países regados por el Vaupés.\"\n  },\n  \"output\": {\n    \"literal\": \"cultura indígena\",\n    \"definicion\": \"aspectos culturales de comunidades nativas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yátaro",
+    "ejemplo": "Allí el silbido de la flecha de un indio cazador sorprende la carrera de un ligero ciervo ó el lento y pesado vuelo de un abigarrado yátaro",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "yátaro",
+        "ejemplo": "Allí el silbido de la flecha de un indio cazador sorprende la carrera de un ligero ciervo ó el lento y pesado vuelo de un abigarrado yátaro"
+      },
+      "output": {
+        "literal": "pájaro colorido",
+        "definicion": "ave de colores vistosos"
+      }
+    }
+  },
+  {
+    "modismo": "zafado",
+    "ejemplo": "Que el tipo sea zafado, loco diga o no diga, no tiene nada que ver con nuestros problemas sociales.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zafarrancho",
+    "ejemplo": "Entonces el pobre aludido, o baja la cabeza o se insolenta y se arma el zafarrancho y por eso todos preferimos calmar al ingenuo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zafarrancho",
+        "ejemplo": "Entonces el pobre aludido, o baja la cabeza o se insolenta y se arma el zafarrancho y por eso todos preferimos calmar al ingenuo."
+      },
+      "output": {
+        "literal": "pleito",
+        "definicion": "conflicto o disputa entre personas."
+      }
+    }
+  },
+  {
+    "modismo": "zafarse",
+    "ejemplo": "Un terapeuta me zafó las vendas antes de enseñarme, o mejor dicho obligarme a usar unas muletas esperpénticas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zafo",
+    "ejemplo": "Todavía no he podido afinar la guitarra porque tiene una cuerda zafa.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zafo\",\n    \"ejemplo\": \"Todavía no he podido afinar la guitarra porque tiene una cuerda zafa.\"\n  },\n  \"output\": {\n    \"literal\": \"suelta\",\n    \"definicion\": \"no está bien ajustada\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zamarros",
+    "ejemplo": "Atrás varias filas de fieros jinetes, lucen con orgullos flamantes zamarros cuyas extremidades tocan el suelo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zamarros\",\n    \"ejemplo\": \"Atrás varias filas de fieros jinetes, lucen con orgullos flamantes zamarros cuyas extremidades tocan el suelo.\"\n  },\n  \"output\": {\n    \"literal\": \"abrigos largos\",\n    \"definicion\": \"prendas de vestir largas y calientes.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zambapalo",
+    "ejemplo": "No estuvo el mejor jugador y el zambapalo que se armó fue tenaz.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zambo",
+    "ejemplo": "La ley limitó su propio alcance, pues alude en particular a las poblaciones rurales, y no definió \"negritudes\", es decir que excluyó a zambos y mulatos.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zambo\",\n    \"ejemplo\": \"La ley limitó su propio alcance, pues alude en particular a las poblaciones rurales, y no definió 'negritudes', es decir que excluyó a zambos y mulatos.\"\n  },\n  \"output\": {\n    \"literal\": \"persona de origen mixto\",\n    \"definicion\": \"individuo con ascendencia variada, incluyendo africana.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zambumbia",
+    "ejemplo": "La zambumbia es muy popular en el departamento de Santander en los conjuntos guabineros para la música del torbellino.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zambumbia",
+        "ejemplo": "La zambumbia es muy popular en el departamento de Santander en los conjuntos guabineros para la música del torbellino."
+      },
+      "output": {
+        "literal": "instrumento musical",
+        "definicion": "objeto usado para producir sonidos en música"
+      }
+    }
+  },
+  {
+    "modismo": "zamuro",
+    "ejemplo": "El rey de los gallinazos o rey zamuro es un ave compacta de extraordinario colorido (en plumaje adulto)",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zamuro\",\n    \"ejemplo\": \"El rey de los gallinazos o rey zamuro es un ave compacta de extraordinario colorido (en plumaje adulto)\"\n  },\n  \"output\": {\n    \"literal\": \"ave carroñera\",\n    \"definicion\": \"ave que se alimenta de cadáveres\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zanahorio",
+    "ejemplo": "Su sobrino Rodrigo, ecléctico e irreverente a pesar de su carita de niño bueno, zanahorio y pentecostal.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zanahorio\",\n    \"ejemplo\": \"Su sobrino Rodrigo, ecléctico e irreverente a pesar de su carita de niño bueno, zanahorio y pentecostal.\"\n  },\n  \"output\": {\n    \"literal\": \"hombre de iglesia\",\n    \"definicion\": \"persona que frecuenta y participa activamente en actividades religiosas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zancudero",
+    "ejemplo": "De ese lugar salen todas las plagas que se pueda imaginar, empezando por el zancudero que nos tenemos que aguantar todo el día.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zancudero",
+        "ejemplo": "De ese lugar salen todas las plagas que se pueda imaginar, empezando por el zancudero que nos tenemos que aguantar todo el día."
+      },
+      "output": {
+        "literal": "lugar lleno de mosquitos",
+        "definicion": "área infestada de insectos voladores"
+      }
+    }
+  },
+  {
+    "modismo": "zancudo",
+    "ejemplo": "El hombre espanta instintivamente un zancudo, se acomoda. El tiempo pasa. Por momentos la música pareciera distorsionarse y el viejo se agita intranquilo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zancudo\",\n    \"ejemplo\": \"El hombre espanta instintivamente un zancudo, se acomoda. El tiempo pasa. Por momentos la música pareciera distorsionarse y el viejo se agita intranquilo.\"\n  },\n  \"output\": {\n    \"literal\": \"蚊子\",\n    \"definicion\": \"insecto volador que pica\"\n  }\n}\n``` \n\nNota: Aunque \"zancudo\" en el contexto dado parece referirse a un mosquito, en modismos colombianos \"zancudo\" puede tener significados figurativos. Sin embargo, dado el contexto, se ha inferido que se refiere a un mosquito literal. Si \"zancudo\" tiene un significado figurativo diferente en modismos colombianos, por favor proporciona más contexto o ejemplos."
+    }
+  },
+  {
+    "modismo": "zancón",
+    "ejemplo": "Era, flaca, delgada, muy alta y zancona, por eso le iba muy bien en atletismo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zangolotear",
+    "ejemplo": "Había una tormenta, el oleaje era muy fuerte, así que la embarcación se zangoloteaba de un lado para otro.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zapallo",
+    "ejemplo": "El cultivo de zapallo en Colombia se realiza en huertos caseros, en climas cálido y templado.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zapato",
+    "ejemplo": "Mirá, el tipo tenía poca gracia. Mejor dicho, era un zapato.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zapato",
+        "ejemplo": "Mirá, el tipo tenía poca gracia. Mejor dicho, era un zapato."
+      },
+      "output": {
+        "literal": "persona desagradable",
+        "definicion": "persona sin atractivo ni gracia social."
+      }
+    }
+  },
+  {
+    "modismo": "zaperoco",
+    "ejemplo": "Intentó agarrarse de sus recuerdos para escribir un guión. Tenía una duda: “¿Cómo armo este zaperoco sin tomar partido? Era lo más difícil”.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zaperoco\",\n    \"ejemplo\": \"Intentó agarrarse de sus recuerdos para escribir un guión. Tenía una duda: “¿Cómo armo este zaperoco sin tomar partido? Era lo más difícil”.\"\n  },\n  \"output\": {\n    \"literal\": \"revuelto complicado\",\n    \"definicion\": \"situación desordenada y compleja\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zapote",
+    "ejemplo": "La madera del zapote se emplea en ebanistería y carpintería.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zaragoza",
+    "ejemplo": "Amo a mi familia. Música, el rock. Una comida, arroz blanco, zaragozas y queso.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zaragoza\",\n    \"ejemplo\": \"Amo a mi familia. Música, el rock. Una comida, arroz blanco, zaragozas y queso.\"\n  },\n  \"output\": {\n    \"literal\": \"salsa de tomate\",\n    \"definicion\": \"condimento hecho de tomates procesados.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zarapa",
+    "ejemplo": "Esta sabrosa comida adquiere una consistencia apastelada y representa la versión Caribe de un almuerzo no tan ligero, y le llaman zarapa.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zarapa\",\n    \"ejemplo\": \"Esta sabrosa comida adquiere una consistencia apastelada y representa la versión Caribe de un almuerzo no tan ligero, y le llaman zarapa.\"\n  },\n  \"output\": {\n    \"literal\": \"comida pesada\",\n    \"definicion\": \"referencia a un plato con textura densa y consistente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zarazo",
+    "ejemplo": "Las mujeres habrán preparado con días de anticipación ayacas, cachapas (arepas de maíz zarazo), tungos de jojoto y la indispensable mamona.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zarazo\",\n    \"ejemplo\": \"Las mujeres habrán preparado con días de anticipación ayacas, cachapas (arepas de maíz zarazo), tungos de jojoto y la indispensable mamona.\"\n  },\n  \"output\": {\n    \"literal\": \"grueso\",\n    \"definicion\": \"denso o de consistencia espesa\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zarco",
+    "ejemplo": "Sí, es cierto, tiene una cara muy linda y unos ojos zarcos ni soñados.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zarco",
+        "ejemplo": "Sí, es cierto, tiene una cara muy linda y unos ojos zarcos ni soñados."
+      },
+      "output": {
+        "literal": "azul claro",
+        "definicion": "color azul muy claro, casi blanco."
+      }
+    }
+  },
+  {
+    "modismo": "zarzo",
+    "ejemplo": "Tenía libros que guardaba en el zarzo de la casa. Recuerdo haber visto libros de Schopenhauer.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zarzo",
+        "ejemplo": "Tenía libros que guardaba en el zarzo de la casa. Recuerdo haber visto libros de Schopenhauer."
+      },
+      "output": {
+        "literal": "escondite",
+        "definicion": "lugar secreto para guardar objetos"
+      }
+    }
+  },
+  {
+    "modismo": "zoca",
+    "ejemplo": "Se hizo un tratamiento alisador para el cabello y el químico la dejó zoca.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zoca\",\n    \"ejemplo\": \"Se hizo un tratamiento alisador para el cabello y el químico la dejó zoca.\"\n  },\n  \"output\": {\n    \"literal\": \"cabello sin forma\",\n    \"definicion\": \"cabello desaliñado o sin estructura\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zona",
+    "ejemplo": "Es importante que las autoridades de la ciudad decreten una sola zona de tolerancia unificada y con reglas estrictas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zopenco",
+    "ejemplo": "¡Este es mucho zopenco! Le echó por encima el carro a las astromelias de la abuela y las rompió todas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zorra",
+    "ejemplo": "La Corte Constitucional prohibió en el 2003 el tránsito de zorras en las principales ciudades del país.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zorra",
+        "ejemplo": "La Corte Constitucional prohibió en el 2003 el tránsito de zorras en las principales ciudades del país."
+      },
+      "output": {
+        "literal": "prostituta",
+        "definicion": "persona que ofrece servicios sexuales a cambio de dinero."
+      }
+    }
+  },
+  {
+    "modismo": "zorrero",
+    "ejemplo": "Santuario fue su primer nombre y 1997 el año en que la suerte empezó a tocar sus cascos, cuando el dragoneante [...] lo negoció a un zorrero del centro de Bogotá.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zorrero",
+        "ejemplo": "Santuario fue su primer nombre y 1997 el año en que la suerte empezó a tocar sus cascos, cuando el dragoneante [...] lo negoció a un zorrero del centro de Bogotá."
+      },
+      "output": {
+        "literal": "persona que vende caballos",
+        "definicion": "individuo dedicado a la venta de equinos"
+      }
+    }
+  },
+  {
+    "modismo": "zorrongo",
+    "ejemplo": "Estaba muy conversador en el coctel y pasó de grupo en grupo hasta que se hizo presentar al director, a quien quería conocer personalmente el zorongo.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zorrongo\",\n    \"ejemplo\": \"Estaba muy conversador en el coctel y pasó de grupo en grupo hasta que se hizo presentar al director, a quien quería conocer personalmente el zorongo.\"\n  },\n  \"output\": {\n    \"literal\": \"ambición\",\n    \"definicion\": \"deseo intenso de lograr algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zumbador",
+    "ejemplo": "Jugar con la cauchera a dispararle a los pájaros, la coca y el zumbador eran algunos de los juegos en los que los niños se entretenían en esta ciudad.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zumbador",
+        "ejemplo": "Jugar con la cauchera a dispararle a los pájaros, la coca y el zumbador eran algunos de los juegos en los que los niños se entretenían en esta ciudad."
+      },
+      "output": {
+        "literal": "juego con sonido",
+        "definicion": "actividad de entretenimiento que produce ruido"
+      }
+    }
+  },
+  {
+    "modismo": "zumbambico",
+    "ejemplo": "‘Zumbambico’, esa palabra propia de los regaños de las abuelas, es usada hoy por los nuevos padres y madres.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zumbambico\",\n    \"ejemplo\": \"‘Zumbambico’, esa palabra propia de los regaños de las abuelas, es usada hoy por los nuevos padres y madres.\"\n  },\n  \"output\": {\n    \"literal\": \"reproche cariñoso\",\n    \"definicion\": \"expresión de desaprobación pero con afecto\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zumbar",
+    "ejemplo": "Esta montañita para zumbar piedras, para que se desgualanguen achilados.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zumbar\",\n    \"ejemplo\": \"Esta montañita para zumbar piedras, para que se desgualanguen achilados.\"\n  },\n  \"output\": {\n    \"literal\": \"girar\",\n    \"definicion\": \"mover rápidamente en círculos\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zuncho",
+    "ejemplo": "Un domingo, me ordenaron guardar los famosos cajones. Me acuerdo que eran de madera, liados con zunchos, llenos de letreros de un alfabeto rarísimo, qué misterio.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zuncho\",\n    \"ejemplo\": \"Un domingo, me ordenaron guardar los famosos cajones. Me acuerdo que eran de madera, liados con zunchos, llenos de letreros de un alfabeto rarísimo, qué misterio.\"\n  },\n  \"output\": {\n    \"literal\": \"tacos de madera\",\n    \"definicion\": \"pequeños trozos de madera usados para unir o sostener.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zunga",
+    "ejemplo": "Zunga que se respete por más salón de belleza y botox que se inyecte en la cara, jamás será una dama.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zunga\",\n    \"ejemplo\": \"Zunga que se respete por más salón de belleza y botox que se inyecte en la cara, jamás será una dama.\"\n  },\n  \"output\": {\n    \"literal\": \"persona vulgar\",\n    \"definicion\": \"individuo de comportamiento o apariencia poco refinada\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zuro",
+    "ejemplo": "La paloma de castilla o zuro, que ahora vive en forma semisilvestre, es prácticamente la única ave que vive en las zonas más desprovistas de vegetación.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zuro\",\n    \"ejemplo\": \"La paloma de castilla o zuro, que ahora vive en forma semisilvestre, es prácticamente la única ave que vive en las zonas más desprovistas de vegetación.\"\n  },\n  \"output\": {\n    \"literal\": \"paloma común\",\n    \"definicion\": \"ave de tipo paloma que vive en zonas desérticas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zurrapa",
+    "ejemplo": "Luisita, la zurrapa de la familia, sólo tiene un año y ya corretea por todas partes.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zurrapa\",\n    \"ejemplo\": \"Luisita, la zurrapa de la familia, sólo tiene un año y ya corretea por todas partes.\"\n  },\n  \"output\": {\n    \"literal\": \"niña traviesa\",\n    \"definicion\": \"niña que se comporta de manera inquieta y juguetona.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zurrumbo",
+    "ejemplo": "Hasta un mojón de piedra clavado al pie de un zurrumbo de aquí, sobre la derecha y siguiendo el mismo lindero hasta una puerta de golpe que está en el filo de entrada a potrero.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zurrumbo",
+        "ejemplo": "Hasta un mojón de piedra clavado al pie de un zurrumbo de aquí, sobre la derecha y siguiendo el mismo lindero hasta una puerta de golpe que está en el filo de entrada a potrero."
+      },
+      "output": {
+        "literal": "terreno inclinado",
+        "definicion": "área con pendiente o desnivel."
+      }
+    }
+  },
+  {
+    "modismo": "zurrón",
+    "ejemplo": "Estos zurrones me van sacar canas con esas travesuras.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "zurumbático",
+    "ejemplo": "Y había muerto mi Jorge Mario. ¡Guau, qué noticia! Como ya dije, casi me da un soponcio. Quedé lela, lo que se dice lela. Aturdida, zurumbática, anonadada.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zurumbático\",\n    \"ejemplo\": \"Y había muerto mi Jorge Mario. ¡Guau, qué noticia! Como ya dije, casi me da un soponcio. Quedé lela, lo que se dice lela. Aturdida, zurumbática, anonadada.\"\n  },\n  \"output\": {\n    \"literal\": \"confundida\",\n    \"definicion\": \"estada de confusión mental\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zángano",
+    "ejemplo": "Pues en el Chocó existían zánganos capaces de eso... Y si era para pelear, entonces se transformaban en tigres.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "zángano",
+        "ejemplo": "Pues en el Chocó existían zánganos capaces de eso... Y si era para pelear, entonces se transformaban en tigres."
+      },
+      "output": {
+        "literal": "hombre",
+        "definicion": "persona de sexo masculino"
+      }
+    }
+  },
+  {
+    "modismo": "ñacaroso",
+    "ejemplo": "Te acuerdas de la moto ñacarosa que tenía? la vendí.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñacaroso\",\n    \"ejemplo\": \"Te acuerdas de la moto ñacarosa que tenía? la vendí.\"\n  },\n  \"output\": {\n    \"literal\": \"barato o usado\",\n    \"definicion\": \"descripción de algo de baja calidad o de segunda mano\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñame",
+    "ejemplo": "Se atribuyen valores medicinales al ñame como anti-inflamatorio y anti-espasmódico o por su contenido moderado de alcaloides y esteroides.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñame\",\n    \"ejemplo\": \"Se atribuyen valores medicinales al ñame como anti-inflamatorio y anti-espasmódico o por su contenido moderado de alcaloides y esteroides.\"\n  },\n  \"output\": {\n    \"literal\": \"tubérculo comestible\",\n    \"definicion\": \"raíz comestible utilizada en gastronomía.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñango",
+    "ejemplo": "¡Agárrate para que no te vayas al piso, no sea que te maltrates el 'huesito del ñango'!, que así le llama el vulgo al lugar donde la espalda pierde su denominación.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "ñango",
+        "ejemplo": "¡Agárrate para que no te vayas al piso, no sea que te maltrates el 'huesito del ñango'!, que así le llama el vulgo al lugar donde la espalda pierde su denominación."
+      },
+      "output": {
+        "literal": "parte baja de la espalda",
+        "definicion": "sección inferior de la columna vertebral"
+      }
+    }
+  },
+  {
+    "modismo": "ñapa",
+    "ejemplo": "Las compradoras regateaban hasta que finalmente obtenían una rebaja o se llevaban una buena ñapa.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "ñapa",
+        "ejemplo": "Las compradoras regateaban hasta que finalmente obtenían una rebaja o se llevaban una buena ñapa."
+      },
+      "output": {
+        "literal": "regalo adicional",
+        "definicion": "artículo extra o bono recibido sin costo adicional."
+      }
+    }
+  },
+  {
+    "modismo": "ñapanga",
+    "ejemplo": "Habilísima en labores domésticas, la ñapanga cultiva su inteligencia con la lectura de escogidas piezas literarias.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñapanga\",\n    \"ejemplo\": \"Habilísima en labores domésticas, la ñapanga cultiva su inteligencia con la lectura de escogidas piezas literarias.\"\n  },\n  \"output\": {\n    \"literal\": \"mujer trabajadora y culta\",\n    \"definicion\": \"mujer que realiza labores domésticas y se dedica a la lectura.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñapango",
+    "ejemplo": "Mientras andan y trasiegan por las calles, callejones y afueras del poblacho, la gente dicta el fallo: muy ricos, muy en grande; pero eran unos ñapangos.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ñatas",
+    "ejemplo": "Vos ves en cine las cosas pegadas a tus ñatas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ñato",
+    "ejemplo": "Reconozco, eso sí, que el santo que se descabezó, con todo y lo ñato que era, se veía menos mal que el que entronizaron en su lugar, en su altar, con perfiladita nariz aguileña, griega.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñato\",\n    \"ejemplo\": \"Reconozco, eso sí, que el santo que se descabezó, con todo y lo ñato que era, se veía menos mal que el que entronizaron en su lugar, en su altar, con perfiladita nariz aguileña, griega.\"\n  },\n  \"output\": {\n    \"literal\": \"nose plano\",\n    \"definicion\": \"persona con nariz chata o pequeña.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñeque",
+    "ejemplo": "El ñeque es un mamífero, de tamaño similar a un conejo grande, considerado en peligro de extinción. Son considerados importantes por la dispersión de semillas.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñeque\",\n    \"ejemplo\": \"El ñeque es un mamífero, de tamaño similar a un conejo grande, considerado en peligro de extinción. Son considerados importantes por la dispersión de semillas.\"\n  },\n  \"output\": {\n    \"literal\": \"mamífero pequeño\",\n    \"definicion\": \"animal de tamaño reducido.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñero",
+    "ejemplo": "Un ñero, en Bogotá, lo que los sociólogos, en su jerga insufrible, llaman una ‘persona en situación de calle’.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñero\",\n    \"ejemplo\": \"Un ñero, en Bogotá, lo que los sociólogos, en su jerga insufrible, llaman una ‘persona en situación de calle’.\"\n  },\n  \"output\": {\n    \"literal\": \"persona sin hogar\",\n    \"definicion\": \"individuo que no tiene vivienda\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñervo",
+    "ejemplo": "Todos los domingos compro el \"ñervito\" para el sancocho.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ñingrí",
+    "ejemplo": "Arrastra una chuspa con un totumo lleno de birimbí y un ñingrí de pan.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ñoco",
+    "ejemplo": "A un amigo una vez le arrancaron la primera falange del meñique de un mordisco (el pobre se quedó ñoco).",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñoco\",\n    \"ejemplo\": \"A un amigo una vez le arrancaron la primera falange del meñique de un mordisco (el pobre se quedó ñoco).\"\n  },\n  \"output\": {\n    \"literal\": \"sin un dedo\",\n    \"definicion\": \"faltando una parte del dedo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñonco",
+    "ejemplo": "Una ñonca que ha pasado de la champa (canoa) a la moto no sabe las normas de tránsito poniendo en peligro su vida y otras.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñonco\",\n    \"ejemplo\": \"Una ñonca que ha pasado de la champa (canoa) a la moto no sabe las normas de tránsito poniendo en peligro su vida y otras.\"\n  },\n  \"output\": {\n    \"literal\": \"persona inexperiente\",\n    \"definicion\": \"individuo que carece de conocimientos o habilidades.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñongado",
+    "ejemplo": "Después de esperar tanto, fue decepcionante ver ese arroz ñongado como plato principal.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñongado\",\n    \"ejemplo\": \"Después de esperar tanto, fue decepcionante ver ese arroz ñongado como plato principal.\"\n  },\n  \"output\": {\n    \"literal\": \"mal presentado\",\n    \"definicion\": \"condición de algo presentado de manera deficiente o sin cuidado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñoño",
+    "ejemplo": "[…] me encantó dejar atrás al profesor timorato y ñoño que siempre se portaba bien con sus estudiantes y su círculo de conocidos.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñoño\",\n    \"ejemplo\": \"[…] me encantó dejar atrás al profesor timorato y ñoño que siempre se portaba bien con sus estudiantes y su círculo de conocidos.\"\n  },\n  \"output\": {\n    \"literal\": \"excesivamente amable\",\n    \"definicion\": \"persona que muestra una excesiva amabilidad o complacencia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñuco",
+    "ejemplo": "No seas ñuco, esa ropa ya está pasada de moda.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ñuco\",\n    \"ejemplo\": \"No seas ñuco, esa ropa ya está pasada de moda.\"\n  },\n  \"output\": {\n    \"literal\": \"anticuado\",\n    \"definicion\": \"persona o cosa desactualizada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñurido",
+    "ejemplo": "Esos niños están \"ñuridos\" de tanto aguantar hambre.",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "a cabalidad",
+    "ejemplo": "el tra- bajo fue hecho a cabalidad",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"a cabalidad\",\n    \"ejemplo\": \"el tra- bajo fue hecho a cabalidad\"\n  },\n  \"output\": {\n    \"literal\": \"completamente\",\n    \"definicion\": \"sin dejar nada pendiente, de forma total\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a juro",
+    "ejemplo": "a juro que tenía que hacerlo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"a juro\",\n    \"ejemplo\": \"a juro que tenía que hacerlo\"\n  },\n  \"output\": {\n    \"literal\": \"con certeza\",\n    \"definicion\": \"confirmando algo con seguridad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a lo bien",
+    "ejemplo": "ayúdeme, pero a lo bien",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"a lo bien\",\n    \"ejemplo\": \"ayúdeme, pero a lo bien\"\n  },\n  \"output\": {\n    \"literal\": \"lo mejor posible\",\n    \"definicion\": \"acción realizada con máxima calidad o esfuerzo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a lo que dé el tejo",
+    "ejemplo": "haremos la fiesta a lo que dé el tejo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "a lo que dé el tejo",
+        "ejemplo": "haremos la fiesta a lo que dé el tejo"
+      },
+      "output": {
+        "literal": "hasta donde alcance",
+        "definicion": "hasta el límite máximo permitido"
+      }
+    }
+  },
+  {
+    "modismo": "a mansalva",
+    "ejemplo": "los mataron a mansalva",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"a mansalva\",\n    \"ejemplo\": \"los mataron a mansalva\"\n  },\n  \"output\": {\n    \"literal\": \"sin control\",\n    \"definicion\": \"de manera descontrolada y violenta\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a todo taco",
+    "ejemplo": "del auto de fe pasamos al chocolate, servido aquella tarde a todo taco",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "a todo taco",
+        "ejemplo": "del auto de fe pasamos al chocolate, servido aquella tarde a todo taco"
+      },
+      "output": {
+        "literal": "rápido y en abundancia",
+        "definicion": "de manera rápida y en gran cantidad"
+      }
+    }
+  },
+  {
+    "modismo": "abagó",
+    "ejemplo": "si yo supiera lo cierto/cuál jue el que te aconsejó,/te mandara tus maicitos,/ aparte del abagó",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"abagó\",\n    \"ejemplo\": \"si yo supiera lo cierto/cuál jue el que te aconsejó,/te mandara tus maicitos,/ aparte del abagó\"\n  },\n  \"output\": {\n    \"literal\": \"castigo adicional\",\n    \"definicion\": \"recibimiento con reprimenda o castigo extra\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agallinado",
+    "ejemplo": "así que vido a don jerónimo bien agallinao por la pobreza [ .] determinó protegerlo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "agallinado",
+        "ejemplo": "así que vido a don jerónimo bien agallinao por la pobreza [ .] determinó protegerlo"
+      },
+      "output": {
+        "literal": "desanimado",
+        "definicion": "persona que ha perdido el ánimo o la fuerza por una situación difícil"
+      }
+    }
+  },
+  {
+    "modismo": "agallinar",
+    "ejemplo": "por eso nos agallina tanto la pobreza",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "aguadijiar",
+    "ejemplo": "las niguas tienen la culpa/ ¡que yo no te vaya a ver! / ¡qué demontre de las niguas/pa'aguadijiar y doler",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ahoritica",
+    "ejemplo": "ahoritica regreso. ahoritica se fue",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "alpargatón",
+    "ejemplo": "fulano es un alpargatón",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "amañado",
+    "ejemplo": "está muy amañada en su nuevo trabajo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ambicia",
+    "ejemplo": "la ambicia rompe el saco",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "amenito",
+    "ejemplo": "le dieron tetero al niño? –amenito, contesta la madre",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "andadera",
+    "ejemplo": "estoy cansado de tanta andadera",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "andar",
+    "ejemplo": "anda en un carro viejo. anda en una yegua blanca",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "aperado",
+    "ejemplo": "el muchacho quedó bien aperado para el colegio",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "aperezado",
+    "ejemplo": "hoy amanecí bastante aperezado",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "aperezado",
+        "ejemplo": "hoy amanecí bastante aperezado"
+      },
+      "output": {
+        "literal": "muy perezoso",
+        "definicion": "estado de gran pereza o falta de energía"
+      }
+    }
+  },
+  {
+    "modismo": "aplatanado",
+    "ejemplo": "el presidente, otrora enérgico y firme ante la adversidad electoral, se mostró errático, aplatanado e indeciso",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "apuntalar",
+    "ejemplo": "cuando llegamos estaban apuntalando",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "argollado",
+    "ejemplo": "yo no sabía que alberto estaba argollado",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "argollero",
+    "ejemplo": "juan es argollero en todos sus tratos",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "asentar los cascos",
+    "ejemplo": "estos enredos de la chatica [ .] son ardores de la mocedad, aunque algo anticipados. ahí se le irán pasando, a conforme vaya asentando los cascos",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "asentarse",
+    "ejemplo": "pueda ser que nicanor se asiente con el casamiento",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "asentarse",
+        "ejemplo": "pueda ser que nicanor se asiente con el casamiento"
+      },
+      "output": {
+        "literal": "aceptar",
+        "definicion": "dar conformidad o acuerdo."
+      }
+    }
+  },
+  {
+    "modismo": "asistir",
+    "ejemplo": "eusebio asiste en la montaña",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ataúd de las ánimas",
+    "ejemplo": "salieron los comisarios con el ataúd de las ánimas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "atembar",
+    "ejemplo": "se va volviendo un insulso, un pendejete, un indolente boquiabierto. será . que esta tierra nos va atembando",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "aterrizar",
+    "ejemplo": "con cualquiera de los panoramas, es gravísima la ausencia de realidad de la clase dirigente. no quiere aterrizar o no quiere entender lo que está pasando",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "aterrizar",
+        "ejemplo": "con cualquiera de los panoramas, es gravísima la ausencia de realidad de la clase dirigente. no quiere aterrizar o no quiere entender lo que está pasando"
+      },
+      "output": {
+        "literal": "reconocer la realidad",
+        "definicion": "aceptar y comprender la situación actual"
+      }
+    }
+  },
+  {
+    "modismo": "atisbón",
+    "ejemplo": "aquel ¡tun! ¡tun! perpetuo de [ .] rateros atisbones [ .] son para coger el monte",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "atisbón",
+        "ejemplo": "aquel ¡tun! ¡tun! perpetuo de [ .] rateros atisbones [ .] son para coger el monte"
+      },
+      "output": {
+        "literal": "vigilante",
+        "definicion": "persona encargada de observar y alertar."
+      }
+    }
+  },
+  {
+    "modismo": "atortolarse",
+    "ejemplo": "se atortolaron al ver al policía",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "atrincar",
+    "ejemplo": "aquí le tengo aparte la",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "avivatada",
+    "ejemplo": "fulano siempre con sus avivatadas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "ayudado",
+    "ejemplo": "si es o no bruja escobera o voladora, se discute: mas ¿cómo no creer que es una ayudada de siete suelas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "azogado",
+    "ejemplo": "no le digo que es azogado? parece un lagarto, una ardilla, un muñeco de caucho",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "azucararse",
+    "ejemplo": "el arequipe se nos azucaró",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "badulaque",
+    "ejemplo": "tu novio resultó un completo badulaque",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "bajareque",
+    "ejemplo": "casa de bahareque",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "banderearse",
+    "ejemplo": "le gusta mucho banderearse",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "bareque",
+    "ejemplo": "casa de bahareque",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "bichirón",
+    "ejemplo": "se volvió una bichirona de siete suelas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "biscorneto",
+    "ejemplo": "el bizcorneto tiene el malvado vicio de robase las gallinas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "bitoque",
+    "ejemplo": "si jueres a piquetiar/y el piquete se te empacha,/ metete una lavativa/con bitoque de arracacha",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "blanco",
+    "ejemplo": "vean que ponerse a hablar de nobleza esta pastora [ .] ¡tan blanca que es y no se fija en el pelo pasudo que tiene",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "bolate",
+    "ejemplo": "en el volate de la manifestación se me perdió el sombrero",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "bombada",
+    "ejemplo": "la represa que se ha formado en el sirpe puede volverse una bombada",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"bombada\",\n    \"ejemplo\": \"la represa que se ha formado en el sirpe puede volverse una bombada\"\n  },\n  \"output\": {\n    \"literal\": \"explosión repentina\",\n    \"definicion\": \"situación de peligro por acumulación de agua que podría romper de forma inesperada\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "botar corriente",
+    "ejemplo": "no bote corriente con ella porque está perdiendo el tiempo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "caballo",
+    "ejemplo": "usted si es mucho caballo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "cabalmente",
+    "ejemplo": "cabalmente acabo de verlo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"cabalmente\",\n    \"ejemplo\": \"cabalmente acabo de verlo\"\n  },\n  \"output\": {\n    \"literal\": \"justo ahora\",\n    \"definicion\": \"momento inmediatamente anterior\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cachilapo",
+    "ejemplo": "yo más bien me voy en cachilapo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "cachimonis",
+    "ejemplo": "él no acepta sino pago cachimonis",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"cachimonis\",\n    \"ejemplo\": \"él no acepta sino pago cachimonis\"\n  },\n  \"output\": {\n    \"literal\": \"morros\",\n    \"definicion\": \"granos o trozos de cacao crudo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cachorro",
+    "ejemplo": "tu primo es un cachorro de primera",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"cachorro\",\n    \"ejemplo\": \"tu primo es un cachorro de primera\"\n  },\n  \"output\": {\n    \"literal\": \"niño pequeño\",\n    \"definicion\": \"persona joven e inmadura\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "caerse",
+    "ejemplo": "la secretaria se cayó con el jefe de personal",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"caerse\",\n    \"ejemplo\": \"la secretaria se cayó con el jefe de personal\"\n  },\n  \"output\": {\n    \"literal\": \"enamorarse\",\n    \"definicion\": \"desarrollar sentimientos románticos\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "candelero",
+    "ejemplo": "solo, o con candelero, en la esquina, en el paseo, en cualquier parte donde pepa se hallase, siguió empalagando tres semanas mortales",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"candelero\",\n    \"ejemplo\": \"solo, o con candelero, en la esquina, en el paseo, en cualquier parte donde pepa se hallase, siguió empalagando tres semanas mortales\"\n  },\n  \"output\": {\n    \"literal\": \"acompañado\",\n    \"definicion\": \"con la presencia de alguien más\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "canillero",
+    "ejemplo": "me dieron dos canilleros que me dejaron cojo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"canillero\",\n    \"ejemplo\": \"me dieron dos canilleros que me dejaron cojo\"\n  },\n  \"output\": {\n    \"literal\": \"golpes en la pierna\",\n    \"definicion\": \"golpes que afectan la parte inferior de la pierna\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "capamicos",
+    "ejemplo": "más vale un capamicos que un bobo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "capellanía",
+    "ejemplo": "la hacienda tiene la capellanía del camino público",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"capellanía\",\n    \"ejemplo\": \"la hacienda tiene la capellanía del camino público\"\n  },\n  \"output\": {\n    \"literal\": \"cuidado del camino\",\n    \"definicion\": \"situación de ser responsable de mantener o supervisar\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "carachoso",
+    "ejemplo": ".] todos los adornos ostentosos, son para esas negras, casi siempre caratosas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"carachoso\",\n    \"ejemplo\": \".] todos los adornos ostentosos, son para esas negras, casi siempre caratosas\"\n  },\n  \"output\": {\n    \"literal\": \"ostentoso\",\n    \"definicion\": \"que llama la atención por exceso\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "carameliar",
+    "ejemplo": "el gerente me caramelió para aprobarme el préstamo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"carameliar\",\n    \"ejemplo\": \"el gerente me caramelió para aprobarme el préstamo\"\n  },\n  \"output\": {\n    \"literal\": \"halagar\",\n    \"definicion\": \"decir cosas buenas para influir\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "caratoso",
+    "ejemplo": ".] todos los adornos ostentosos, son para esas negras, casi siempre caratosas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"caratoso\",\n    \"ejemplo\": \".] todos los adornos ostentosos, son para esas negras, casi siempre caratosas\"\n  },\n  \"output\": {\n    \"literal\": \"ostentosa\",\n    \"definicion\": \"persona que se viste con exceso de lujo o adornos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "caraza",
+    "ejemplo": "qué caraza la de este sujeto",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "caraza",
+        "ejemplo": "qué caraza la de este sujeto"
+      },
+      "output": {
+        "literal": "fachada",
+        "definicion": "apariencia externa que oculta verdadera intención"
+      }
+    }
+  },
+  {
+    "modismo": "cargue",
+    "ejemplo": "corabastos es zona de cargue y descargue",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"cargue\",\n    \"ejemplo\": \"corabastos es zona de cargue y descargue\"\n  },\n  \"output\": {\n    \"literal\": \"carga\",\n    \"definicion\": \"acción de cargar algo o alguien\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cascarilla",
+    "ejemplo": "no trabajo con el patrón porque es muy cascarillas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "caspetudo",
+    "ejemplo": "le quedó el masato caspetudo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"caspetudo\",\n    \"ejemplo\": \"le quedó el masato caspetudo\"\n  },\n  \"output\": {\n    \"literal\": \"mal sabor de boca\",\n    \"definicion\": \"sensación desagradable en la boca\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "centaviar",
+    "ejemplo": "se la pasa vendiendo baratijas para centaviar",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "centaviar",
+        "ejemplo": "se la pasa vendiendo baratijas para centaviar"
+      },
+      "output": {
+        "literal": "ahorrar dinero",
+        "definicion": "reunir pequeñas cantidades de dinero"
+      }
+    }
+  },
+  {
+    "modismo": "chanchiro",
+    "ejemplo": "qué haremos, mi bien, qué haremos,/tan chanchirientos que estamos:/juntemos nuestros chanchiros/y un solo chanchiro hagamos",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"chanchiro\",\n    \"ejemplo\": \"qué haremos, mi bien, qué haremos,/tan chanchirientos que estamos:/juntemos nuestros chanchiros/y un solo chanchiro hagamos\"\n  },\n  \"output\": {\n    \"literal\": \"asuntos pendientes\",\n    \"definicion\": \"problemas o tareas que necesitan ser resueltos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chanfa",
+    "ejemplo": "conseguí mi buena chanfa",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"chanfa\",\n    \"ejemplo\": \"conseguí mi buena chanfa\"\n  },\n  \"output\": {\n    \"literal\": \"trabajo fácil\",\n    \"definicion\": \"empleo que requiere poca dedicación y ofrece buenos beneficios\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chipola",
+    "ejemplo": "taba yo ayer por la tarde,/comiendo mi mazamorra,/ cuando me cayó la nueva/qu'era muerta mi chipola",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "chirringo",
+    "ejemplo": "no lo vayan a matar tan chirringo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"chirringo\",\n    \"ejemplo\": \"no lo vayan a matar tan chirringo\"\n  },\n  \"output\": {\n    \"literal\": \"rapido\",\n    \"definicion\": \"con prisa o velocidad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chisgua",
+    "ejemplo": "en el otro lau del río/parió una yegua dos potros;/ por la jalta de una chisgua/no te traje los calostros",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "chisgua",
+        "ejemplo": "en el otro lau del río/parió una yegua dos potros;/ por la jalta de una chisgua/no te traje los calostros"
+      },
+      "output": {
+        "literal": "cosa pequeña",
+        "definicion": "objeto de tamaño reducido y sin importancia significativa."
+      }
+    }
+  },
+  {
+    "modismo": "chispeadura",
+    "ejemplo": "mi vestido tiene chispeaduras de barro",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "chispear",
+    "ejemplo": "está chispeando",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "chispear",
+        "ejemplo": "está chispeando"
+      },
+      "output": {
+        "literal": "lloviznar",
+        "definicion": "caer lluvia fina y ligera"
+      }
+    }
+  },
+  {
+    "modismo": "chorrearse",
+    "ejemplo": "el carnicero se chorreó las vueltas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "chuchingo",
+    "ejemplo": "no sea chuchingo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "chuchingo",
+        "ejemplo": "no sea chuchingo"
+      },
+      "output": {
+        "literal": "engañoso",
+        "definicion": "persona que miente o engaña"
+      }
+    }
+  },
+  {
+    "modismo": "chulla",
+    "ejemplo": "me quedé con el chulla vestido",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "chulla",
+        "ejemplo": "me quedé con el chulla vestido"
+      },
+      "output": {
+        "literal": "vestido viejo",
+        "definicion": "prenda de ropa usada o desgastada"
+      }
+    }
+  },
+  {
+    "modismo": "chumba",
+    "ejemplo": "la yuca salió chumba",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "chunchoso",
+    "ejemplo": "desde que te vi venir/en ese potro chunchoso/ me dijo mi corazón:/ni pa' novio ni pa' esposo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"chunchoso\",\n    \"ejemplo\": \"desde que te vi venir/en ese potro chunchoso/ me dijo mi corazón:/ni pa' novio ni pa' esposo\"\n  },\n  \"output\": {\n    \"literal\": \"desaliñado\",\n    \"definicion\": \"persona o cosa que presenta un aspecto desordenado o descuidado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chusmero",
+    "ejemplo": "qué quiere decir con eso de chusmero del gobierno? les decíamos así a aquellos civiles que sin ser soldados ni pertenecer a ningún cuerpo militar ayudaban a perseguir a los llaneros rebeldes",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"chusmero\",\n    \"ejemplo\": \"qué quiere decir con eso de chusmero del gobierno? les decíamos así a aquellos civiles que sin ser soldados ni pertenecer a ningún cuerpo militar ayudaban a perseguir a los llaneros rebeldes\"\n  },\n  \"output\": {\n    \"literal\": \"colaborador civil\",\n    \"definicion\": \"persona que auxilia a las autoridades sin ser parte oficial.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chéchere",
+    "ejemplo": "el cuarto de chécheres",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "chéchere",
+        "ejemplo": "el cuarto de chécheres"
+      },
+      "output": {
+        "literal": "objetos inútiles",
+        "definicion": "artículos sin uso práctico"
+      }
+    }
+  },
+  {
+    "modismo": "chúpame las cáscaras",
+    "ejemplo": "no lo querían por chúpame las cáscaras",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"chúpame las cáscaras\",\n    \"ejemplo\": \"no lo querían por chúpame las cáscaras\"\n  },\n  \"output\": {\n    \"literal\": \"ignorarlo completamente\",\n    \"definicion\": \"rechazo total sin consideración\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cocha",
+    "ejemplo": "estamos cociendo la cocha de jabón",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "conejero",
+    "ejemplo": "lista de los individuos conejeros de billar",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "conejero",
+        "ejemplo": "lista de los individuos conejeros de billar"
+      },
+      "output": {
+        "literal": "jugador tramposo",
+        "definicion": "persona que engaña o fraude en juegos"
+      }
+    }
+  },
+  {
+    "modismo": "cosca",
+    "ejemplo": "la cosca del armadillo/sirve pa'miles enredos:/sirve pa'sembrar el maíz/y para guardar los güevos",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"cosca\",\n    \"ejemplo\": \"la cosca del armadillo/sirve pa'miles enredos:/sirve pa'sembrar el maíz/y para guardar los güevos\"\n  },\n  \"output\": {\n    \"literal\": \"caparazón o concha\",\n    \"definicion\": \"parte dura y protectora de un animal\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cositero",
+    "ejemplo": "me pongo a podarle y perfilarle la mata, con estas manos mías tan mañosas y cositeras",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "costaleo",
+    "ejemplo": "el costaleo es muy generalizado en algunas fincas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "costaleo",
+        "ejemplo": "el costaleo es muy generalizado en algunas fincas"
+      },
+      "output": {
+        "literal": "roce de animales",
+        "definicion": "contacto físico entre animales"
+      }
+    }
+  },
+  {
+    "modismo": "coyabra",
+    "ejemplo": "la piedra de moler, en cuatro estacas/aseguran muy bien en otras cuatro,/ una cuyabra aparadora ponen,/y a su lado, con agua, un calabazo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"coyabra\",\n    \"ejemplo\": \"la piedra de moler, en cuatro estacas/aseguran muy bien en otras cuatro,/ una cuyabra aparadora ponen,/y a su lado, con agua, un calabazo\"\n  },\n  \"output\": {\n    \"literal\": \"circulo de piedra\",\n    \"definicion\": \"estructura circular de piedra\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "crem",
+    "ejemplo": "para poder una defenderse de estas caimanas de la crem",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "cuadrado",
+    "ejemplo": "mi taita izque fue un mulato muy zarco y muy cuadrao,",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"cuadrado\",\n    \"ejemplo\": \"mi taita izque fue un mulato muy zarco y muy cuadrao,\"\n  },\n  \"output\": {\n    \"literal\": \"recto\",\n    \"definicion\": \"persona de carácter firme y honesto\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cucarrearse",
+    "ejemplo": "este café se cucarrió",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "cucarrearse",
+        "ejemplo": "este café se cucarrió"
+      },
+      "output": {
+        "literal": "se encogió",
+        "definicion": "reducirse de tamaño o volumen"
+      }
+    }
+  },
+  {
+    "modismo": "cucharearse",
+    "ejemplo": "la ventana se cuchareó",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"cucharearse\",\n    \"ejemplo\": \"la ventana se cuchareó\"\n  },\n  \"output\": {\n    \"literal\": \"torcerse\",\n    \"definicion\": \"deformarse por presión o fuerza\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cuco",
+    "ejemplo": "qué muñeca tan cuca",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "cuido",
+    "ejemplo": "ai les tengo hartos cuidos pa que maten el hambre",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "cuido",
+        "ejemplo": "ai les tengo hartos cuidos pa que maten el hambre"
+      },
+      "output": {
+        "literal": "comida",
+        "definicion": "alimento que se proporciona para saciar el hambre"
+      }
+    }
+  },
+  {
+    "modismo": "cunga",
+    "ejemplo": "cuando salí de los llanos/a caballo en una pulga/me vino a' clarear el día/ juntito a l'olla e la cunga",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"cunga\",\n    \"ejemplo\": \"cuando salí de los llanos/a caballo en una pulga/me vino a' clarear el día/ juntito a l'olla e la cunga\"\n  },\n  \"output\": {\n    \"literal\": \"tira de ropa\",\n    \"definicion\": \"Pieza de ropa colgada para tender.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cuítiva",
+    "ejemplo": "esos son puras cuítivas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "cuítiva",
+        "ejemplo": "esos son puras cuítivas"
+      },
+      "output": {
+        "literal": "rincones oscuros",
+        "definicion": "lugar o situación inseguro o sospechoso"
+      }
+    }
+  },
+  {
+    "modismo": "célebre",
+    "ejemplo": "aí la veo culeca con el muchachito. ni gracia es, niñ' elisa; ¡es tan sabrocito y tan célebre",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"célebre\",\n    \"ejemplo\": \"aí la veo culeca con el muchachito. ni gracia es, niñ' elisa; ¡es tan sabrocito y tan célebre\"\n  },\n  \"output\": {\n    \"literal\": \"famoso\",\n    \"definicion\": \"conocido por muchas personas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "decolaje",
+    "ejemplo": "fue muy movido el decolaje del avión",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "decolaje",
+        "ejemplo": "fue muy movido el decolaje del avión"
+      },
+      "output": {
+        "literal": "salida del avión",
+        "definicion": "momento en que el avión comienza a despegar"
+      }
+    }
+  },
+  {
+    "modismo": "deje",
+    "ejemplo": "corre para llegar a tiempo a la misa que ya sonó el deje",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"deje\",\n    \"ejemplo\": \"corre para llegar a tiempo a la misa que ya sonó el deje\"\n  },\n  \"output\": {\n    \"literal\": \"señal final\",\n    \"definicion\": \"indicación que marca el final de algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "demónchiros",
+    "ejemplo": "qué demónchiros se haría",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"demónchiros\",\n    \"ejemplo\": \"qué demónchiros se haría\"\n  },\n  \"output\": {\n    \"literal\": \"qué mierda\",\n    \"definicion\": \"expresión de sorpresa o irritación\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "derechura",
+    "ejemplo": "qué derechura la tuya",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "derechura",
+        "ejemplo": "qué derechura la tuya"
+      },
+      "output": {
+        "literal": "rectitud",
+        "definicion": "actitud de ser honrado y sincero"
+      }
+    }
+  },
+  {
+    "modismo": "desabrochado",
+    "ejemplo": "es muy desabrochado para hablar",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "desabrochado",
+        "ejemplo": "es muy desabrochado para hablar"
+      },
+      "output": {
+        "literal": "relajado",
+        "definicion": "persona que actúa con naturalidad y sin tensión"
+      }
+    }
+  },
+  {
+    "modismo": "desafortunadamente",
+    "ejemplo": "desafortunadamente subió otra vez la gasolina",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"desafortunadamente\",\n    \"ejemplo\": \"desafortunadamente subió otra vez la gasolina\"\n  },\n  \"output\": {\n    \"literal\": \"por suerte no\",\n    \"definicion\": \"indicación de que algo negativo ocurrió\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "desarrancharse",
+    "ejemplo": "el teniente se desarranchó porque probó que es casado",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"desarrancharse\",\n    \"ejemplo\": \"el teniente se desarranchó porque probó que es casado\"\n  },\n  \"output\": {\n    \"literal\": \" revelar la verdad\",\n    \"definicion\": \"exponer un hecho oculto\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "descuerada",
+    "ejemplo": "la descuerada se prolongó hasta las tantas de la noche, entre las delicias de armonía",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"descuerada\",\n    \"ejemplo\": \"la descuerada se prolongó hasta las tantas de la noche, entre las delicias de armonía\"\n  },\n  \"output\": {\n    \"literal\": \"fiesta nocturna\",\n    \"definicion\": \"reunión social que se extiende hasta altas horas de la noche\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "desgonzado",
+    "ejemplo": "lo levantaron del suelo sin sentido y desgonzado",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"desgonzado\",\n    \"ejemplo\": \"lo levantaron del suelo sin sentido y desgonzado\"\n  },\n  \"output\": {\n    \"literal\": \"sin fuerzas\",\n    \"definicion\": \"persona extremadamente débil o sin energía\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "deshuevarse",
+    "ejemplo": "me voy a deshuevar por terminar eso pronto",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"deshuevarse\",\n    \"ejemplo\": \"me voy a deshuevar por terminar eso pronto\"\n  },\n  \"output\": {\n    \"literal\": \"esforzarse mucho\",\n    \"definicion\": \"poner un gran esfuerzo en algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "despepado",
+    "ejemplo": "salió despepado de la oficina",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "despepado",
+        "ejemplo": "salió despepado de la oficina"
+      },
+      "output": {
+        "literal": "enojado",
+        "definicion": "salir muy molesto o irritado"
+      }
+    }
+  },
+  {
+    "modismo": "dolor de cabeza",
+    "ejemplo": "por la firma de ese documento tuve un dolor de cabeza. ese muchacho es un dolor de cabeza",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "dolor de cabeza",
+        "ejemplo": "por la firma de ese documento tuve un dolor de cabeza. ese muchacho es un dolor de cabeza"
+      },
+      "output": {
+        "literal": "inconveniente",
+        "definicion": "problema o complicación que genera molestia."
+      }
+    }
+  },
+  {
+    "modismo": "dígame",
+    "ejemplo": "vendrá la señora",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"dígame\",\n    \"ejemplo\": \"vendrá la señora\"\n  },\n  \"output\": {\n    \"literal\": \"avíseme\",\n    \"definicion\": \"notifícame la llegada\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "echar clavija",
+    "ejemplo": "en ese negocio me echó clavija",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"echar clavija\",\n    \"ejemplo\": \"en ese negocio me echó clavija\"\n  },\n  \"output\": {\n    \"literal\": \"poner obstáculos\",\n    \"definicion\": \"hacer dificultoso o impedir\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "echar ojo",
+    "ejemplo": "échele ojo a los niños",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"echar ojo\",\n    \"ejemplo\": \"échele ojo a los niños\"\n  },\n  \"output\": {\n    \"literal\": \"vigilar a los niños\",\n    \"definicion\": \"prestar atención y cuidado a alguien\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "el algo",
+    "ejemplo": "llegó el algo. llegaron las cucas, el churro, los buñuelos",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "embarrarla",
+    "ejemplo": "la embarraste con ese chiste tan vulgar",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "embarrarla",
+        "ejemplo": "la embarraste con ese chiste tan vulgar"
+      },
+      "output": {
+        "literal": "cometer un error",
+        "definicion": "hacer algo incorrecto o inapropiado"
+      }
+    }
+  },
+  {
+    "modismo": "embarruntar",
+    "ejemplo": "se embarrutó en la caballeriza",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "embarruntar",
+        "ejemplo": "se embarrutó en la caballeriza"
+      },
+      "output": {
+        "literal": "ensuciar",
+        "definicion": "ponerse o quedar sucio"
+      }
+    }
+  },
+  {
+    "modismo": "empandorgarse",
+    "ejemplo": "cuide de que el negocio no se vaya a empandorgar",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "empandorgarse",
+        "ejemplo": "cuide de que el negocio no se vaya a empandorgar"
+      },
+      "output": {
+        "literal": "estropear",
+        "definicion": "estropear o dañar algo"
+      }
+    }
+  },
+  {
+    "modismo": "emparamado",
+    "ejemplo": "no llevé el paraguas y llegué emparamado",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"emparamado\",\n    \"ejemplo\": \"no llevé el paraguas y llegué emparamado\"\n  },\n  \"output\": {\n    \"literal\": \"empapado\",\n    \"definicion\": \"muy mojado por lluvia\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "en chaquess de",
+    "ejemplo": "en chaques de ir a misa, me veré con mi novio",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"en chaquess de\",\n    \"ejemplo\": \"en chaques de ir a misa, me veré con mi novio\"\n  },\n  \"output\": {\n    \"literal\": \"listo para\",\n    \"definicion\": \"preparado para realizar algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "enfuertar",
+    "ejemplo": "enfuertar guarapo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "engerido",
+    "ejemplo": "el pollo está engerido porque está enfermo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"engerido\",\n    \"ejemplo\": \"el pollo está engerido porque está enfermo\"\n  },\n  \"output\": {\n    \"literal\": \"enfermo\",\n    \"definicion\": \" Presenta síntomas de enfermedad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "engomado",
+    "ejemplo": "está engomado con el último libro que compró",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "engomado",
+        "ejemplo": "está engomado con el último libro que compró"
+      },
+      "output": {
+        "literal": "obsesionado",
+        "definicion": "muy interesado o involucrado"
+      }
+    }
+  },
+  {
+    "modismo": "enquimbarse",
+    "ejemplo": "ve que si dejás a este muchacho bien enquimbao, vos sos el primero que tenés que responder!",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "escachalandrado",
+    "ejemplo": "esa vigüela que suena/tiene la boca rasgada y también el que la toca/tiene su escachalandrada",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"escachalandrado\",\n    \"ejemplo\": \"esa vigüela que suena/tiene la boca rasgada y también el que la toca/tiene su escachalandrada\"\n  },\n  \"output\": {\n    \"literal\": \"golpe en la cara\",\n    \"definicion\": \"acción de recibir un impacto directo en el rostro\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "escapito",
+    "ejemplo": "escapito me caigo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "escapito",
+        "ejemplo": "escapito me caigo"
+      },
+      "output": {
+        "literal": "cuidado",
+        "definicion": "advertencia de riesgo inminente"
+      }
+    }
+  },
+  {
+    "modismo": "estar bien parado",
+    "ejemplo": "pedro está bien parado en el ministerio",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "estar bien parado",
+        "ejemplo": "pedro está bien parado en el ministerio"
+      },
+      "output": {
+        "literal": "ser respetado",
+        "definicion": "tener buena reputación y estima."
+      }
+    }
+  },
+  {
+    "modismo": "estartazo",
+    "ejemplo": "expertos sostienen que debería hacerse una emisión para darle un estartazo a la economía",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "estartazo",
+        "ejemplo": "expertos sostienen que debería hacerse una emisión para darle un estartazo a la economía"
+      },
+      "output": {
+        "literal": "impulso inicial",
+        "definicion": "acción que proporciona un inicio fuerte y dinámico"
+      }
+    }
+  },
+  {
+    "modismo": "estrellón",
+    "ejemplo": "hubo un estrellón terrible en la autopista",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "estrellón",
+        "ejemplo": "hubo un estrellón terrible en la autopista"
+      },
+      "output": {
+        "literal": "accidente de tránsito",
+        "definicion": "colisión vehicular grave"
+      }
+    }
+  },
+  {
+    "modismo": "fajarse",
+    "ejemplo": "se fajó con ese discurso",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"fajarse\",\n    \"ejemplo\": \"se fajó con ese discurso\"\n  },\n  \"output\": {\n    \"literal\": \"esforzarse\",\n    \"definicion\": \"aplicar energía y dedicación a una tarea.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fifirichas",
+    "ejemplo": "no es gracioso; es apenas un fifirichas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "fucha",
+    "ejemplo": "se armó la fucha",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "furuminga",
+    "ejemplo": "en la plaza de mercado se formó la furuminga",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "furuminga",
+        "ejemplo": "en la plaza de mercado se formó la furuminga"
+      },
+      "output": {
+        "literal": "confusión",
+        "definicion": "situación de desorden y caos"
+      }
+    }
+  },
+  {
+    "modismo": "guapirrear",
+    "ejemplo": "en córdoba, guapirrear es la máxima expresión de la felicidad",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "güevón",
+    "ejemplo": "qué hubo, güevón",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "güinche",
+    "ejemplo": "la yuca está güinche",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "güinche",
+        "ejemplo": "la yuca está güinche"
+      },
+      "output": {
+        "literal": "dulce",
+        "definicion": "en un estado de madurez o dulzura."
+      }
+    }
+  },
+  {
+    "modismo": "hacer cuarto",
+    "ejemplo": "mis amigos me hicieron cuarto para poder salir antes de clase",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "hacer cuarto",
+        "ejemplo": "mis amigos me hicieron cuarto para poder salir antes de clase"
+      },
+      "output": {
+        "literal": "facilitar salida",
+        "definicion": "ayudar a alguien a irse antes"
+      }
+    }
+  },
+  {
+    "modismo": "hacer cucarrón",
+    "ejemplo": "los hombres hacen el cucarrón que se estila en nuestros colegios",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "hacer hasta para vender",
+    "ejemplo": "en la fiesta pedro hizo hasta para vender",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "hacerse",
+    "ejemplo": "dónde me haré yo? –hágase ahí",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "hermanolo",
+    "ejemplo": "qué hubo, hermanolo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "horcón",
+    "ejemplo": "para los blancos, mogolla;/pa' los negros, mojicones;/para los recién casados/cama con güenos horcones",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "iji",
+    "ejemplo": "iji! si me voy a levantar temprano",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "intervenir",
+    "ejemplo": "él no quiso intervenir en la discusión",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "intervenir",
+        "ejemplo": "él no quiso intervenir en la discusión"
+      },
+      "output": {
+        "literal": "participar",
+        "definicion": "tomar parte en una acción o situación."
+      }
+    }
+  },
+  {
+    "modismo": "itaña",
+    "ejemplo": "pobrecita guacamaya,/mucha lástima me da:/se acabaron las itañas,/y ahora ¿qué comerá",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "jalarle",
+    "ejemplo": "le jala bastante a la mecánica",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "jipata",
+    "ejemplo": "en honda me tienen preso/y en la ciudad de la plata/porque no quise querer/una que andaba jipata",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"jipata\",\n    \"ejemplo\": \"en honda me tienen preso/y en la ciudad de la plata/porque no quise querer/una que andaba jipata\"\n  },\n  \"output\": {\n    \"literal\": \"mujer celosa\",\n    \"definicion\": \"mujer que muestra celos constantes.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jojoro",
+    "ejemplo": "el maíz no sirve, está jojoro",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "juaica",
+    "ejemplo": "la muchacha que a los quince/no se acueste con sus taitas,/que se tranque bien la puerta/porque se la lleva el juaica",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "jurumba",
+    "ejemplo": "por esta bajada abajo/va un conejo que zumba/recogiendo su tabaco/para echarle a su jurumba",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "jurumba",
+        "ejemplo": "por esta bajada abajo/va un conejo que zumba/recogiendo su tabaco/para echarle a su jurumba"
+      },
+      "output": {
+        "literal": "fiesta ruidosa",
+        "definicion": "celebración con mucho ruido y bullicio"
+      }
+    }
+  },
+  {
+    "modismo": "jurungo",
+    "ejemplo": "habla un jurungo que no se le entiende",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"jurungo\",\n    \"ejemplo\": \"habla un jurungo que no se le entiende\"\n  },\n  \"output\": {\n    \"literal\": \"idioma incomprensible\",\n    \"definicion\": \"lenguaje que no se entiende\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "la quinta porra",
+    "ejemplo": "ese barrio queda en la quinta porra",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"la quinta porra\",\n    \"ejemplo\": \"ese barrio queda en la quinta porra\"\n  },\n  \"output\": {\n    \"literal\": \"muy lejos\",\n    \"definicion\": \"indica una ubicación muy distante\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lagartería",
+    "ejemplo": "me choca la lagartería de ese señor",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "lancha",
+    "ejemplo": "juan es una lancha",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "lancha",
+        "ejemplo": "juan es una lancha"
+      },
+      "output": {
+        "literal": "persona rápida",
+        "definicion": "persona veloz en sus acciones o movimientos."
+      }
+    }
+  },
+  {
+    "modismo": "las viejas",
+    "ejemplo": "ir donde las viejas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "las viejas",
+        "ejemplo": "ir donde las viejas"
+      },
+      "output": {
+        "literal": "visitar a las mujeres",
+        "definicion": "ir a encontrarse con mujeres mayores o conocidas."
+      }
+    }
+  },
+  {
+    "modismo": "leído",
+    "ejemplo": "garcía márquez es muy leído en latinoamérica",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"leído\",\n    \"ejemplo\": \"garcía márquez es muy leído en latinoamérica\"\n  },\n  \"output\": {\n    \"literal\": \"ampliamente conocido\",\n    \"definicion\": \"popular y reconocido en una región.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "loca",
+    "ejemplo": "juan es una loca",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"loca\",\n    \"ejemplo\": \"juan es una loca\"\n  },\n  \"output\": {\n    \"literal\": \"persona exagerada\",\n    \"definicion\": \"persona que actúa de manera exagerada o impredecible\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "locha",
+    "ejemplo": "a pedro le gusta echar su locha",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"locha\",\n    \"ejemplo\": \"a pedro le gusta echar su locha\"\n  },\n  \"output\": {\n    \"literal\": \"quejarse\",\n    \"definicion\": \"expresar descontento o insatisfacción\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lunarejo",
+    "ejemplo": "hombre lunarejo. vaca lunareja",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "lunarejo",
+        "ejemplo": "hombre lunarejo. vaca lunareja"
+      },
+      "output": {
+        "literal": "markado",
+        "definicion": "persona o animal con marcas visibles"
+      }
+    }
+  },
+  {
+    "modismo": "lupias",
+    "ejemplo": "me gané unas lupias",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "lupias",
+        "ejemplo": "me gané unas lupias"
+      },
+      "output": {
+        "literal": "dinero",
+        "definicion": "cantidad de dinero ganada"
+      }
+    }
+  },
+  {
+    "modismo": "machucarse",
+    "ejemplo": "me machuqué el dedo con la puerta del carro",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"machucarse\",\n    \"ejemplo\": \"me machuqué el dedo con la puerta del carro\"\n  },\n  \"output\": {\n    \"literal\": \"lastimarse\",\n    \"definicion\": \"sufrir un daño físico\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "madremonte",
+    "ejemplo": "aquí, la madremonte, musgosa y putrefacta, que, al bañarse en las cabeceras de los ríos, envenena sus aguas y ocasiona calenturas y tuntún, llagas y carate, ronchas y enconos",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "madremonte",
+        "ejemplo": "aquí, la madremonte, musgosa y putrefacta, que, al bañarse en las cabeceras de los ríos, envenena sus aguas y ocasiona calenturas y tuntún, llagas y carate, ronchas y enconos"
+      },
+      "output": {
+        "literal": "agua contaminada",
+        "definicion": "agua sucia y dañina para la salud"
+      }
+    }
+  },
+  {
+    "modismo": "magué",
+    "ejemplo": "allá'rriba viene el diablo/con una cruz de magué/pa'decir a las mujeres/que apuren con el cajé",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"magué\",\n    \"ejemplo\": \"allá'rriba viene el diablo/con una cruz de magué/pa'decir a las mujeres/que apuren con el cajé\"\n  },\n  \"output\": {\n    \"literal\": \"barato\",\n    \"definicion\": \"de bajo costo o valor\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mamar gallo",
+    "ejemplo": "me está mamando gallo con el pago del arriendo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "mamar gallo",
+        "ejemplo": "me está mamando gallo con el pago del arriendo"
+      },
+      "output": {
+        "literal": "mentir",
+        "definicion": "decir cosas falsas o engañosas"
+      }
+    }
+  },
+  {
+    "modismo": "mana",
+    "ejemplo": "lo qu'hemos de hacer es buscale al niño un compañerito, pa que s'entretenga con él y jueguen ai en el platanal y en la manguita de la mana",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "mana",
+        "ejemplo": "lo qu'hemos de hacer es buscale al niño un compañerito, pa que s'entretenga con él y jueguen ai en el platanal y en la manguita de la mana"
+      },
+      "output": {
+        "literal": "calle",
+        "definicion": "espacio público donde se juega"
+      }
+    }
+  },
+  {
+    "modismo": "manfifio",
+    "ejemplo": "quedó manfifio con tanto chisme",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "manosear",
+    "ejemplo": "se molestó porque pensó que lo estaban manoseando",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"manosear\",\n    \"ejemplo\": \"se molestó porque pensó que lo estaban manoseando\"\n  },\n  \"output\": {\n    \"literal\": \"tocar inapropiadamente\",\n    \"definicion\": \"contacto físico no deseado o inapropiado\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "marramucia",
+    "ejemplo": "no venga usted con marramucias para que firme el contrato",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "matiné",
+    "ejemplo": "la invité a matiné",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "matiné",
+        "ejemplo": "la invité a matiné"
+      },
+      "output": {
+        "literal": "ver película tarde",
+        "definicion": "invitación a ver una película por la tarde"
+      }
+    }
+  },
+  {
+    "modismo": "mejengue",
+    "ejemplo": "este joven es de mucho mejengue",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "mejengue",
+        "ejemplo": "este joven es de mucho mejengue"
+      },
+      "output": {
+        "literal": "engaño",
+        "definicion": "acción de engañar o falsear"
+      }
+    }
+  },
+  {
+    "modismo": "meterle julepe",
+    "ejemplo": "dele julepe/amigo don chepe./dele a don chepe/amigo julepe",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "meterle julepe",
+        "ejemplo": "dele julepe/amigo don chepe./dele a don chepe/amigo julepe"
+      },
+      "output": {
+        "literal": "embriagar a alguien",
+        "definicion": "hacer que una persona se intoxique con alcohol"
+      }
+    }
+  },
+  {
+    "modismo": "miquingo",
+    "ejemplo": "juan se mostró miquingo con su regalo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"miquingo\",\n    \"ejemplo\": \"juan se mostró miquingo con su regalo\"\n  },\n  \"output\": {\n    \"literal\": \"informal\",\n    \"definicion\": \"actitud poco formal o distante\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mire a ver",
+    "ejemplo": "mire a ver si hace lo que debe",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "mogote",
+    "ejemplo": "anoche dormí en l'arena,/ de cabecera un mogote;/¡cómo me estarán pensando/las mocitas de tribote",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "mogote",
+        "ejemplo": "anoche dormí en l'arena,/ de cabecera un mogote;/¡cómo me estarán pensando/las mocitas de tribote"
+      },
+      "output": {
+        "literal": "cerro pequeño",
+        "definicion": "pequeña elevación terrestre"
+      }
+    }
+  },
+  {
+    "modismo": "moridera",
+    "ejemplo": "de pronto me da una moridera, distinta y peor que la de el morro: el sudor se me vuelve granizo por la frente, por la nuca, por todo el cuerpo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "moridera",
+        "ejemplo": "de pronto me da una moridera, distinta y peor que la de el morro: el sudor se me vuelve granizo por la frente, por la nuca, por todo el cuerpo"
+      },
+      "output": {
+        "literal": "sensación intensa de frío",
+        "definicion": "sensación extrema y repentina de frío intenso"
+      }
+    }
+  },
+  {
+    "modismo": "mosco",
+    "ejemplo": "con sus medias no le pica mosco ni zancudo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "mosco",
+        "ejemplo": "con sus medias no le pica mosco ni zancudo"
+      },
+      "output": {
+        "literal": "sin problemas",
+        "definicion": "sin inconvenientes o molestias."
+      }
+    }
+  },
+  {
+    "modismo": "míster",
+    "ejemplo": "un míster preguntó por la señorita",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "nave",
+    "ejemplo": "qué nave la que te compraste",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "necear",
+    "ejemplo": "han neceado todo el día",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"necear\",\n    \"ejemplo\": \"han neceado todo el día\"\n  },\n  \"output\": {\n    \"literal\": \"perder el tiempo\",\n    \"definicion\": \"gastar tiempo sin hacer nada productivo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "niguatero",
+    "ejemplo": "ese es un pobre niguatero",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"niguatero\",\n    \"ejemplo\": \"ese es un pobre niguatero\"\n  },\n  \"output\": {\n    \"literal\": \"persona perezosa\",\n    \"definicion\": \"individuo que evita trabajar o esfuerzarse\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no estar el palo para hacer cucharas",
+    "ejemplo": "no todos los días está el palo para hacer cucharas",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "no estar el palo para hacer cucharas",
+        "ejemplo": "no todos los días está el palo para hacer cucharas"
+      },
+      "output": {
+        "literal": "no siempre hay oportunidad",
+        "definicion": "indica que las condiciones favorables no son constantes."
+      }
+    }
+  },
+  {
+    "modismo": "no saber o entender ni papa",
+    "ejemplo": "no sé ni papa de francés",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"no saber o entender ni papa\",\n    \"ejemplo\": \"no sé ni papa de francés\"\n  },\n  \"output\": {\n    \"literal\": \"no entender nada\",\n    \"definicion\": \"carecer completamente de comprensión o conocimiento\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no tener pierde",
+    "ejemplo": "ese negocio no tiene pierde",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "no tener pierde",
+        "ejemplo": "ese negocio no tiene pierde"
+      },
+      "output": {
+        "literal": "es rentable",
+        "definicion": "producir beneficios económicos"
+      }
+    }
+  },
+  {
+    "modismo": "ojos brotados",
+    "ejemplo": "berreó él",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ojos brotados\",\n    \"ejemplo\": \"berreó él\"\n  },\n  \"output\": {\n    \"literal\": \"ojos llorosos\",\n    \"definicion\": \"ojos con lágrimas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pachocha",
+    "ejemplo": "no hagas más pachocha y ponte a estudiar",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "pachorrear",
+    "ejemplo": "ese peón pachorrea demasiado",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "pachorrear",
+        "ejemplo": "ese peón pachorrea demasiado"
+      },
+      "output": {
+        "literal": "hacer trabajo mal",
+        "definicion": "realizar tareas de manera inadecuada o con poca dedicación"
+      }
+    }
+  },
+  {
+    "modismo": "papa caliente",
+    "ejemplo": "el reemplazo de juan manuel santos en la u se volvió una papa caliente",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"papa caliente\",\n    \"ejemplo\": \"el reemplazo de juan manuel santos en la u se volvió una papa caliente\"\n  },\n  \"output\": {\n    \"literal\": \"problema complicado\",\n    \"definicion\": \"situación difícil de manejar\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pasar aceite",
+    "ejemplo": "mi abuelo ya está pasando aceite",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"pasar aceite\",\n    \"ejemplo\": \"mi abuelo ya está pasando aceite\"\n  },\n  \"output\": {\n    \"literal\": \"está muriendo\",\n    \"definicion\": \"indicar que alguien está cerca de la muerte\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "patirrajado",
+    "ejemplo": "ese es un pobre patirrajado",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "petaquearse",
+    "ejemplo": "se petaqueó la máquina",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"petaquearse\",\n    \"ejemplo\": \"se petaqueó la máquina\"\n  },\n  \"output\": {\n    \"literal\": \"se rompió\",\n    \"definicion\": \"dejó de funcionar\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "picar el ojo",
+    "ejemplo": "le picó el ojo para coquetearle",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "picar el ojo",
+        "ejemplo": "le picó el ojo para coquetearle"
+      },
+      "output": {
+        "literal": "guiñar un ojo",
+        "definicion": "hacer un movimiento con el ojo para expresar coquetería"
+      }
+    }
+  },
+  {
+    "modismo": "pingua",
+    "ejemplo": "carlitos es una pingua de dos años",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"pingua\",\n    \"ejemplo\": \"carlitos es una pingua de dos años\"\n  },\n  \"output\": {\n    \"literal\": \"bebé\",\n    \"definicion\": \"niño pequeño\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "piste",
+    "ejemplo": "de esta tierra me destierran/por no darme mazamorra;/ que el gallo les coma el piste/y el puerco les rompa l'olla",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"piste\",\n    \"ejemplo\": \"de esta tierra me destierran/por no darme mazamorra;/ que el gallo les coma el piste/y el puerco les rompa l'olla\"\n  },\n  \"output\": {\n    \"literal\": \"semillas\",\n    \"definicion\": \"parte del grano que el gallináceo come\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "plebe",
+    "ejemplo": "pedro es muy plebe",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "plebe",
+        "ejemplo": "pedro es muy plebe"
+      },
+      "output": {
+        "literal": "gente común",
+        "definicion": "persona de clase baja o media."
+      }
+    }
+  },
+  {
+    "modismo": "poner conejo",
+    "ejemplo": "en la reunión informal de las comisiones séptimas, maría cristina ocampo dijo que el gobierno le puso conejo al congreso con las reformas a la seguridad social. el congresista alberto cano le reprochó diciéndole que si no le daba pena usar esas palabras tan feas en la casa de las leyes. más penoso es que el gobierno nos ponga conejo y no se ponga colorado, insistió ella",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "poner conejo",
+        "ejemplo": "en la reunión informal de las comisiones séptimas, maría cristina ocampo dijo que el gobierno le puso conejo al congreso con las reformas a la seguridad social. el congresista alberto cano le reprochó diciéndole que si no le daba pena usar esas palabras tan feas en la casa de las leyes. más penoso es que el gobierno nos ponga conejo y no se ponga colorado, insistió ella"
+      },
+      "output": {
+        "literal": "hacer trampa",
+        "definicion": "realizar una acción engañosa o fraudulenta"
+      }
+    }
+  },
+  {
+    "modismo": "popora",
+    "ejemplo": "juan tiene una popora en la pierna",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "pordebajear",
+    "ejemplo": "nieves consiente en la venta, porque ve la conveniencia . ¡mas luego vos estás sola y pordebajiada",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "pordebajear",
+        "ejemplo": "nieves consiente en la venta, porque ve la conveniencia . ¡mas luego vos estás sola y pordebajiada"
+      },
+      "output": {
+        "literal": "quedarse a deber",
+        "definicion": "situación de estar en desventaja o perdiendo algo"
+      }
+    }
+  },
+  {
+    "modismo": "quedar pálido",
+    "ejemplo": "quedaron pálidos con la noticia",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "quedar pálido",
+        "ejemplo": "quedaron pálidos con la noticia"
+      },
+      "output": {
+        "literal": "pálidos de sorpresa",
+        "definicion": "quedar sorprendidos o impactados"
+      }
+    }
+  },
+  {
+    "modismo": "quisque",
+    "ejemplo": "me dijeron quesque va a venir el obispo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "quisque",
+        "ejemplo": "me dijeron quesque va a venir el obispo"
+      },
+      "output": {
+        "literal": "dijeron que",
+        "definicion": "indica que algo fue mencionado por otros"
+      }
+    }
+  },
+  {
+    "modismo": "quién quita",
+    "ejemplo": "quién quita que se casen",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "regarse",
+    "ejemplo": "se regó en críticas y acusaciones",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"regarse\",\n    \"ejemplo\": \"se regó en críticas y acusaciones\"\n  },\n  \"output\": {\n    \"literal\": \"abundó\",\n    \"definicion\": \"hizo en gran cantidad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "riego",
+    "ejemplo": "tengo un riego de papa",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"riego\",\n    \"ejemplo\": \"tengo un riego de papa\"\n  },\n  \"output\": {\n    \"literal\": \"biblioteca de papa\",\n    \"definicion\": \"colección de libros sobre un tema específico\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "runchera",
+    "ejemplo": "ese hotel es una runchera",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "runchera",
+        "ejemplo": "ese hotel es una runchera"
+      },
+      "output": {
+        "literal": "lugar desordenado",
+        "definicion": "espacio poco organizado y sucio"
+      }
+    }
+  },
+  {
+    "modismo": "saber",
+    "ejemplo": "este amigo sabe madrugar todos los días",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"saber\",\n    \"ejemplo\": \"este amigo sabe madrugar todos los días\"\n  },\n  \"output\": {\n    \"literal\": \"conocer\",\n    \"definicion\": \"tener conocimiento o información sobre algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sacar la piedra",
+    "ejemplo": "me sacó la piedra con todos sus chismes",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "salir pitado",
+    "ejemplo": "salieron pitados para la casa",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "salir pitado",
+        "ejemplo": "salieron pitados para la casa"
+      },
+      "output": {
+        "literal": "salir corriendo",
+        "definicion": "moverse rápidamente hacia un destino"
+      }
+    }
+  },
+  {
+    "modismo": "sanjuanear",
+    "ejemplo": "san juan y la magdalena/se jueron a sanjuaniar;/san juan le pegó un moquete/que la hizo patiboliar",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"sanjuanear\",\n    \"ejemplo\": \"san juan y la magdalena/se jueron a sanjuaniar;/san juan le pegó un moquete/que la hizo patiboliar\"\n  },\n  \"output\": {\n    \"literal\": \"andar de juerga\",\n    \"definicion\": \"salir a divertirse o festejar\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser pinta",
+    "ejemplo": "nuestro vecino es pinta",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "ser pinta",
+        "ejemplo": "nuestro vecino es pinta"
+      },
+      "output": {
+        "literal": "ser guapo",
+        "definicion": "tener buena apariencia física."
+      }
+    }
+  },
+  {
+    "modismo": "ser un número",
+    "ejemplo": "juan con tragos es un número",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ser un número\",\n    \"ejemplo\": \"juan con tragos es un número\"\n  },\n  \"output\": {\n    \"literal\": \"persona incontrolable\",\n    \"definicion\": \"alguien que pierde el control\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser una fiera",
+    "ejemplo": "antonio es una fiera para el negocio",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ser una fiera\",\n    \"ejemplo\": \"antonio es una fiera para el negocio\"\n  },\n  \"output\": {\n    \"literal\": \"ser muy habilidoso\",\n    \"definicion\": \"tener gran destreza o capacidad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser una tusa",
+    "ejemplo": "carlos es una tusa como profesional. ¡pa casarse con una tusa [ .] tiempo sobra",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "siembro",
+    "ejemplo": "un siembro de papa",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"siembro\",\n    \"ejemplo\": \"un siembro de papa\"\n  },\n  \"output\": {\n    \"literal\": \"un cultivo de papa\",\n    \"definicion\": \"área donde se planta y cría una especie vegetal\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sobar la pita",
+    "ejemplo": "no sobe la pita",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "sudor",
+    "ejemplo": "me tomé un sudor, para esta gripa",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "surumangué",
+    "ejemplo": "este es el surumanguito/y este es el surumanguito/y este es el surumangué,/que lo bailan con la mano,/que lo bailan con el pie",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"surumangué\",\n    \"ejemplo\": \"este es el surumanguito/y este es el surumanguito/y este es el surumangué,/que lo bailan con la mano,/que lo bailan con el pie\"\n  },\n  \"output\": {\n    \"literal\": \"baile simple\",\n    \"definicion\": \"danza realizada con movimientos básicos y repetitivos\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tampoco",
+    "ejemplo": "presentaste entonces tu renuncia? ¡no , tampoco! tampoco es que le quitemos el saludo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"tampoco\",\n    \"ejemplo\": \"presentaste entonces tu renuncia? ¡no , tampoco! tampoco es que le quitemos el saludo\"\n  },\n  \"output\": {\n    \"literal\": \"ni siquiera\",\n    \"definicion\": \"expresión de negación enfática que indica una acción no realizada\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "te conozco mosco",
+    "ejemplo": "no me digas mentiras que te conozco mosco",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "modismo": "tenerle azar",
+    "ejemplo": "como a yo me parecía cosa diabólica siempre les tenía azar y recelo",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"tenerle azar\",\n    \"ejemplo\": \"como a yo me parecía cosa diabólica siempre les tenía azar y recelo\"\n  },\n  \"output\": {\n    \"literal\": \"temor instintivo\",\n    \"definicion\": \"sentimiento de miedo natural o innato\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tirarse",
+    "ejemplo": "se tiró el negocio; se tiró la fiesta",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"tirarse\",\n    \"ejemplo\": \"se tiró el negocio; se tiró la fiesta\"\n  },\n  \"output\": {\n    \"literal\": \"arruinó\",\n    \"definicion\": \"causar el fracaso o el desastre.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "toca",
+    "ejemplo": "hay que pagar ese impuesto –toca",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "toca",
+        "ejemplo": "hay que pagar ese impuesto –toca"
+      },
+      "output": {
+        "literal": "obligatorio",
+        "definicion": "es necesario o requerido."
+      }
+    }
+  },
+  {
+    "modismo": "vespertina",
+    "ejemplo": "ayer fuimos a vespertina",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "vespertina",
+        "ejemplo": "ayer fuimos a vespertina"
+      },
+      "output": {
+        "literal": "clase por la tarde",
+        "definicion": "reunión o actividad educativa después de medio día"
+      }
+    }
+  },
+  {
+    "modismo": "yegua",
+    "ejemplo": "ser una yegua",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "yegua",
+        "ejemplo": "ser una yegua"
+      },
+      "output": {
+        "literal": "ser rebelde e indomable",
+        "definicion": "ser una persona difícil de controlar o manejar"
+      }
+    }
+  },
+  {
+    "modismo": "zumbón",
+    "ejemplo": "me metió un zumbón",
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "response": {
+      "raw_response": ""
+    }
   }
 ]

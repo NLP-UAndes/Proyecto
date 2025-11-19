@@ -8773,5 +8773,5499 @@
         "success": false
       }
     }
+  },
+  {
+    "modismo": "cajulo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cajulo",
+      "output": {
+        "definicion": "Un pequeño contenedor de madera para el almacenamiento de objetos."
+      }
+    }
+  },
+  {
+    "modismo": "cajón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cajón",
+      "output": {
+        "definicion": "Contenedor rectangular destinado al reposo de los difuntos."
+      }
+    }
+  },
+  {
+    "modismo": "calabazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calabazo",
+      "output": {
+        "definicion": "Celda de detención policial."
+      }
+    }
+  },
+  {
+    "modismo": "calado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calado",
+      "output": {
+        "definicion": "Estado de estar completamente empapado por agua."
+      }
+    }
+  },
+  {
+    "modismo": "calanchín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calanchín",
+      "output": {
+        "definicion": "Persona caracterizada por su extrema avaricia y ahorratividad."
+      }
+    }
+  },
+  {
+    "modismo": "calar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calar",
+      "output": {
+        "definicion": "Quedar perfectamente ajustado y elegante en la ropa."
+      }
+    }
+  },
+  {
+    "modismo": "calavera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calavera",
+      "output": {
+        "definicion": "Persona que vive de manera disipada y festiva."
+      }
+    }
+  },
+  {
+    "modismo": "calceta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calceta",
+      "output": {
+        "definicion": "Lugar oculto utilizado para esconder objetos."
+      }
+    }
+  },
+  {
+    "modismo": "calcetear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calcetear",
+      "output": {
+        "definicion": "Desplazarse a pie con rapidez."
+      }
+    }
+  },
+  {
+    "modismo": "calceto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calceto",
+      "output": {
+        "definicion": "Prenda de vestir que cubre el pie y parte de la pierna."
+      }
+    }
+  },
+  {
+    "modismo": "caldo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caldo",
+      "output": {
+        "definicion": "Situación de confusión o complicación."
+      }
+    }
+  },
+  {
+    "modismo": "calentado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calentado",
+      "output": {
+        "definicion": "Persona en estado de enojo o alteración."
+      }
+    }
+  },
+  {
+    "modismo": "calentano",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calentano",
+      "output": {
+        "definicion": "Individuo proveniente de una zona de clima cálido."
+      }
+    }
+  },
+  {
+    "modismo": "calentano, na",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calentano, na",
+      "output": {
+        "definicion": "Persona que se enardece con rapidez."
+      }
+    }
+  },
+  {
+    "modismo": "calentarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calentarse",
+      "output": {
+        "definicion": "Enojarse o alterarse emocionalmente."
+      }
+    }
+  },
+  {
+    "modismo": "calentillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calentillo",
+      "output": {
+        "definicion": "Estado de irritación o enojo moderado."
+      }
+    }
+  },
+  {
+    "modismo": "calentura",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calentura",
+      "output": {
+        "definicion": "Estado de fiebre o excitación intensa en el cuerpo humano."
+      }
+    }
+  },
+  {
+    "modismo": "caleto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caleto",
+      "output": {
+        "definicion": "Ejecución de una acción de manera discreta y reservada."
+      }
+    }
+  },
+  {
+    "modismo": "calicanto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calicanto",
+      "output": {
+        "definicion": "Persona de carácter endurecido e inquebrantable."
+      }
+    }
+  },
+  {
+    "modismo": "calidoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calidoso",
+      "output": {
+        "definicion": "Persona con gran atractivo sensual y apasionado."
+      }
+    }
+  },
+  {
+    "modismo": "caliente",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caliente",
+      "output": {
+        "definicion": "Designa a una persona en estado de enojo o agitación."
+      }
+    }
+  },
+  {
+    "modismo": "calificar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calificar",
+      "output": {
+        "definicion": "Asignar un juicio o valoración a personas o cosas mediante una escala."
+      }
+    }
+  },
+  {
+    "modismo": "calilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calilla",
+      "output": {
+        "definicion": "Designa un pequeño inconveniente o problema menor en el contexto cotidiano."
+      }
+    }
+  },
+  {
+    "modismo": "callana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "callana",
+      "output": {
+        "definicion": "Calidad inherente o tipo de persona o cosa."
+      }
+    }
+  },
+  {
+    "modismo": "calle",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calle",
+      "output": {
+        "definicion": "Representa el entorno urbano y social donde ocurren interacciones diarias fuera del hogar."
+      }
+    }
+  },
+  {
+    "modismo": "callo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "callo",
+      "output": {
+        "definicion": "Dureza en la piel provocada por fricción continua."
+      }
+    }
+  },
+  {
+    "modismo": "calor",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calor",
+      "output": {
+        "definicion": "Sensación de temperatura elevada en el entorno."
+      }
+    }
+  },
+  {
+    "modismo": "calvazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calvazo",
+      "output": {
+        "definicion": "Golpe fuerte y directo."
+      }
+    }
+  },
+  {
+    "modismo": "calvear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calvear",
+      "output": {
+        "definicion": "Pérdida total del cabello en la cabeza."
+      }
+    }
+  },
+  {
+    "modismo": "calza",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calza",
+      "output": {
+        "definicion": "Designa el encaje preciso de un elemento en su contexto."
+      }
+    }
+  },
+  {
+    "modismo": "calzar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calzar",
+      "output": {
+        "definicion": "Ajustarse o encajar de forma precisa."
+      }
+    }
+  },
+  {
+    "modismo": "calzonarias",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "calzonarias",
+      "output": {
+        "definicion": "Individuo que demuestra cobardía y debilidad extrema."
+      }
+    }
+  },
+  {
+    "modismo": "cama",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cama",
+      "output": {
+        "definicion": "Representa un estado de comodidad y reposo."
+      }
+    }
+  },
+  {
+    "modismo": "camada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camada",
+      "output": {
+        "definicion": "Grupo de personas de la misma generación o círculo social."
+      }
+    }
+  },
+  {
+    "modismo": "camaján",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camaján",
+      "output": {
+        "definicion": "Persona avara y mezquina en el manejo de sus recursos."
+      }
+    }
+  },
+  {
+    "modismo": "camandulero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camandulero",
+      "output": {
+        "definicion": "Persona entrometida que se interesa en asuntos ajenos."
+      }
+    }
+  },
+  {
+    "modismo": "camastrón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camastrón",
+      "output": {
+        "definicion": "Individuo caracterizado por su extrema pereza y afición a permanecer en la cama."
+      }
+    }
+  },
+  {
+    "modismo": "cambambero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cambambero",
+      "output": {
+        "definicion": "Persona que ejecuta constantes cambios en sus decisiones o acciones."
+      }
+    }
+  },
+  {
+    "modismo": "cambiazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cambiazo",
+      "output": {
+        "definicion": "Reemplazo engañoso de un objeto por otro de menor valor."
+      }
+    }
+  },
+  {
+    "modismo": "cambuche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cambuche",
+      "output": {
+        "definicion": "Vivienda precaria y rústica utilizada en áreas rurales."
+      }
+    }
+  },
+  {
+    "modismo": "camellar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camellar",
+      "output": {
+        "definicion": "Realizar labores con intenso esfuerzo físico."
+      }
+    }
+  },
+  {
+    "modismo": "camello",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camello",
+      "output": {
+        "definicion": "Tarea laboral informal y agotadora."
+      }
+    }
+  },
+  {
+    "modismo": "camellón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camellón",
+      "output": {
+        "definicion": "Espacio central de una vía que separa los carriles de tránsito."
+      }
+    }
+  },
+  {
+    "modismo": "caminadera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caminadera",
+      "output": {
+        "definicion": "Recorrido prolongado realizado a pie."
+      }
+    }
+  },
+  {
+    "modismo": "caminado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caminado",
+      "output": {
+        "definicion": "Deambulación persistente a pie."
+      }
+    }
+  },
+  {
+    "modismo": "caminadora",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caminadora",
+      "output": {
+        "definicion": "Máquina de ejercicio que permite caminar en un lugar fijo."
+      }
+    }
+  },
+  {
+    "modismo": "caminar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caminar",
+      "output": {
+        "definicion": "Desplazarse a pie de manera intencional."
+      }
+    }
+  },
+  {
+    "modismo": "caminata",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caminata",
+      "output": {
+        "definicion": "Desplazamiento a pie en grupo para expresar ideas o celebrar eventos."
+      }
+    }
+  },
+  {
+    "modismo": "camionado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camionado",
+      "output": {
+        "definicion": "Abundante cantidad de elementos o personas."
+      }
+    }
+  },
+  {
+    "modismo": "camiseta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camiseta",
+      "output": {
+        "definicion": "Símbolo de compromiso y lealtad hacia un grupo o causa."
+      }
+    }
+  },
+  {
+    "modismo": "camonina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camonina",
+      "output": {
+        "definicion": "Caminar de forma apresurada o con energía."
+      }
+    }
+  },
+  {
+    "modismo": "camoruco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camoruco",
+      "output": {
+        "definicion": "Individuo caracterizado por su astucia y engaño."
+      }
+    }
+  },
+  {
+    "modismo": "camostre",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camostre",
+      "output": {
+        "definicion": "Disputa o riña entre personas"
+      }
+    }
+  },
+  {
+    "modismo": "campanero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "campanero",
+      "output": {
+        "definicion": "Persona que alerta o anuncia eventos de manera oportuna."
+      }
+    }
+  },
+  {
+    "modismo": "campechana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "campechana",
+      "output": {
+        "definicion": "Modo de ser franco y natural."
+      }
+    }
+  },
+  {
+    "modismo": "campero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "campero",
+      "output": {
+        "definicion": "Adjetivo que describe algo relacionado con el campo o el ámbito rural."
+      }
+    }
+  },
+  {
+    "modismo": "campo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "campo",
+      "output": {
+        "definicion": "Áreas rurales destinadas a actividades agrícolas y pecuarias."
+      }
+    }
+  },
+  {
+    "modismo": "camu",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camu",
+      "output": {
+        "definicion": "Ocultar o disimular algo para evitar ser detectado."
+      }
+    }
+  },
+  {
+    "modismo": "camuro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "camuro",
+      "output": {
+        "definicion": "Individuo que muestra ingenuidad o torpeza en sus acciones."
+      }
+    }
+  },
+  {
+    "modismo": "canal",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canal",
+      "output": {
+        "definicion": "Vía o medio para la transmisión de información o recursos."
+      }
+    }
+  },
+  {
+    "modismo": "canalear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canalear",
+      "output": {
+        "definicion": "Dirigir el curso de los eventos de forma astuta."
+      }
+    }
+  },
+  {
+    "modismo": "canalero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canalero",
+      "output": {
+        "definicion": "Individuo originario de Canalete, Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "canaleta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canaleta",
+      "output": {
+        "definicion": "Canaleta indica una condición de extrema dificultad o pobreza."
+      }
+    }
+  },
+  {
+    "modismo": "canalete",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canalete",
+      "output": {
+        "definicion": "Faja utilizada para ajustar y modelar la figura corporal."
+      }
+    }
+  },
+  {
+    "modismo": "canalón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canalón",
+      "output": {
+        "definicion": "Canalón es un conducto para evacuar agua de lluvia de los techos."
+      }
+    }
+  },
+  {
+    "modismo": "cananguchal",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cananguchal",
+      "output": {
+        "definicion": "Zona rural caracterizada por abundante caña de azúcar."
+      }
+    }
+  },
+  {
+    "modismo": "canangucho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canangucho",
+      "output": {
+        "definicion": "Canangucho designa a una persona charlatana e indiscreta."
+      }
+    }
+  },
+  {
+    "modismo": "canar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canar",
+      "output": {
+        "definicion": "Acción de delatar o revelar información reservada."
+      }
+    }
+  },
+  {
+    "modismo": "canasta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canasta",
+      "output": {
+        "definicion": "Conjunto de productos básicos esenciales para el consumo cotidiano."
+      }
+    }
+  },
+  {
+    "modismo": "cancanear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cancanear",
+      "output": {
+        "definicion": "Charlar de manera confidencial sobre temas escandalosos."
+      }
+    }
+  },
+  {
+    "modismo": "cancañá",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cancañá",
+      "output": {
+        "definicion": "Denota un estado de embriaguez o euforia excesiva."
+      }
+    }
+  },
+  {
+    "modismo": "cancha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cancha",
+      "output": {
+        "definicion": "Lugar destinado a actividades deportivas o competencias."
+      }
+    }
+  },
+  {
+    "modismo": "cancharana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cancharana",
+      "output": {
+        "definicion": "Persona astuta e ingeniosa en contextos cotidianos."
+      }
+    }
+  },
+  {
+    "modismo": "cancharina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cancharina",
+      "output": {
+        "definicion": "Persona que muestra irritabilidad y susceptibilidad en el comportamiento cotidiano."
+      }
+    }
+  },
+  {
+    "modismo": "canchero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canchero",
+      "output": {
+        "definicion": "Persona astuta y hábil en el manejo de situaciones cotidianas."
+      }
+    }
+  },
+  {
+    "modismo": "candado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "candado",
+      "output": {
+        "definicion": "Barrera inquebrantable que protege o limita el acceso."
+      }
+    }
+  },
+  {
+    "modismo": "candelilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "candelilla",
+      "output": {
+        "definicion": "Persona notablemente delgada."
+      }
+    }
+  },
+  {
+    "modismo": "candidatizar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "candidatizar",
+      "output": {
+        "definicion": "Designar a una persona como candidato en un proceso electoral."
+      }
+    }
+  },
+  {
+    "modismo": "candirú",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "candirú",
+      "output": {
+        "definicion": "Pez parásito de ríos amazónicos que invade el cuerpo humano."
+      }
+    }
+  },
+  {
+    "modismo": "candonga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "candonga",
+      "output": {
+        "definicion": "Mercancía de procedencia ilegal o irregular."
+      }
+    }
+  },
+  {
+    "modismo": "caneca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caneca",
+      "output": {
+        "definicion": "Recipiente destinado al almacenamiento de desechos sólidos."
+      }
+    }
+  },
+  {
+    "modismo": "canelazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canelazo",
+      "output": {
+        "definicion": "Bebida caliente con canela, aguardiente y frutas, típica de Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "canequero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canequero",
+      "output": {
+        "definicion": "Persona dedicada al cultivo y cosecha de caña de azúcar."
+      }
+    }
+  },
+  {
+    "modismo": "canero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canero",
+      "output": {
+        "definicion": "Individuo involucrado en el consumo o comercio de cannabis."
+      }
+    }
+  },
+  {
+    "modismo": "caney",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caney",
+      "output": {
+        "definicion": "Estructura habitacional rústica hecha de materiales naturales en regiones tropicales."
+      }
+    }
+  },
+  {
+    "modismo": "canguro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canguro",
+      "output": {
+        "definicion": "Persona dedicada al cuidado de niños pequeños."
+      }
+    }
+  },
+  {
+    "modismo": "canillera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canillera",
+      "output": {
+        "definicion": "Protector utilizado en deportes para salvaguardar las espinillas."
+      }
+    }
+  },
+  {
+    "modismo": "canillón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canillón",
+      "output": {
+        "definicion": "Individuo que se destaca por su velocidad y agilidad en carreras."
+      }
+    }
+  },
+  {
+    "modismo": "canoera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canoera",
+      "output": {
+        "definicion": "Individuo que utiliza una canoa para transportarse."
+      }
+    }
+  },
+  {
+    "modismo": "canopy",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canopy",
+      "output": {
+        "definicion": "Recorrido aéreo por las copas de los árboles en entornos selváticos."
+      }
+    }
+  },
+  {
+    "modismo": "cansón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cansón",
+      "output": {
+        "definicion": "Individuo que aburre o fatiga a los demás con su comportamiento."
+      }
+    }
+  },
+  {
+    "modismo": "cantada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cantada",
+      "output": {
+        "definicion": "Revelación involuntaria de un secreto o error de forma evidente."
+      }
+    }
+  },
+  {
+    "modismo": "cantador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cantador",
+      "output": {
+        "definicion": "Persona que interpreta canciones tradicionales o improvisa versos en contextos culturales."
+      }
+    }
+  },
+  {
+    "modismo": "cantagallo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cantagallo",
+      "output": {
+        "definicion": "Consiste en alardear de manera ostentosa."
+      }
+    }
+  },
+  {
+    "modismo": "cantaleta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cantaleta",
+      "output": {
+        "definicion": "Queja o advertencia repetida insistentemente."
+      }
+    }
+  },
+  {
+    "modismo": "cantaletear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cantaletear",
+      "output": {
+        "definicion": "Quejarse de forma continua."
+      }
+    }
+  },
+  {
+    "modismo": "cantaletoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cantaletoso",
+      "output": {
+        "definicion": "Inclinado a expresar quejas de forma persistente."
+      }
+    }
+  },
+  {
+    "modismo": "cantarilla",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cantarilla",
+      "output": {
+        "definicion": "Conducto subterráneo para el drenaje de aguas residuales."
+      }
+    }
+  },
+  {
+    "modismo": "cantinero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cantinero",
+      "output": {
+        "definicion": "Persona que atiende y sirve bebidas en una cantina."
+      }
+    }
+  },
+  {
+    "modismo": "canto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canto",
+      "output": {
+        "definicion": "Expresión musical tradicional de Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "canturrón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canturrón",
+      "output": {
+        "definicion": "Persona que se queja de manera persistente."
+      }
+    }
+  },
+  {
+    "modismo": "cantúa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cantúa",
+      "output": {
+        "definicion": "Actividad realizada de forma aficionada e improvisada."
+      }
+    }
+  },
+  {
+    "modismo": "capaz",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capaz",
+      "output": {
+        "definicion": "Adjetivo que indica posesión de habilidad o aptitud para una tarea."
+      }
+    }
+  },
+  {
+    "modismo": "capi",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capi",
+      "output": {
+        "definicion": "Individuo que ejerce el liderazgo en un conjunto de personas."
+      }
+    }
+  },
+  {
+    "modismo": "capia",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capia",
+      "output": {
+        "definicion": "Copia o imitación burda de una idea o objeto."
+      }
+    }
+  },
+  {
+    "modismo": "capibara",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capibara",
+      "output": {
+        "definicion": "Persona tranquila y sociable, inspirada en el roedor sudamericano."
+      }
+    }
+  },
+  {
+    "modismo": "capio",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capio",
+      "output": {
+        "definicion": "Apoderarse de un objeto mediante engaño."
+      }
+    }
+  },
+  {
+    "modismo": "capisayo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capisayo",
+      "output": {
+        "definicion": "Individuo caracterizado por astucia e ingenio."
+      }
+    }
+  },
+  {
+    "modismo": "capital",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capital",
+      "output": {
+        "definicion": "La ciudad principal que alberga el gobierno de un país."
+      }
+    }
+  },
+  {
+    "modismo": "capo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capo",
+      "output": {
+        "definicion": "Persona con destacada habilidad o liderazgo en su ámbito."
+      }
+    }
+  },
+  {
+    "modismo": "caporal",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caporal",
+      "output": {
+        "definicion": "Individuo que ejerce autoridad y supervisa labores en un grupo."
+      }
+    }
+  },
+  {
+    "modismo": "caporo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caporo",
+      "output": {
+        "definicion": "Designa a una persona ingenua o poco astuta."
+      }
+    }
+  },
+  {
+    "modismo": "capri",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capri",
+      "output": {
+        "definicion": "Comportamiento impulsivo guiado por deseos momentáneos."
+      }
+    }
+  },
+  {
+    "modismo": "capul",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capul",
+      "output": {
+        "definicion": "Persona ingenua o torpe en el contexto coloquial."
+      }
+    }
+  },
+  {
+    "modismo": "capón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capón",
+      "output": {
+        "definicion": "Golpe leve en la cabeza con los nudillos."
+      }
+    }
+  },
+  {
+    "modismo": "cara",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cara",
+      "output": {
+        "definicion": "Rostro humano que expresa emociones y estados de ánimo."
+      }
+    }
+  },
+  {
+    "modismo": "caracha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caracha",
+      "output": {
+        "definicion": "Un automóvil en estado de deterioro y mal conservado."
+      }
+    }
+  },
+  {
+    "modismo": "carachama",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carachama",
+      "output": {
+        "definicion": "Persona caracterizada por ser locuaz e intrometida en asuntos ajenos."
+      }
+    }
+  },
+  {
+    "modismo": "carajada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carajada",
+      "output": {
+        "definicion": "Estado de gran enojo o frustración."
+      }
+    }
+  },
+  {
+    "modismo": "carajear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carajear",
+      "output": {
+        "definicion": "Emplear lenguaje vulgar o insultante de manera habitual."
+      }
+    }
+  },
+  {
+    "modismo": "carajito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carajito",
+      "output": {
+        "definicion": "Término que designa a un niño o joven en contextos informales."
+      }
+    }
+  },
+  {
+    "modismo": "carajo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carajo",
+      "output": {
+        "definicion": "Interjección vulgar que expresa irritación, sorpresa o énfasis."
+      }
+    }
+  },
+  {
+    "modismo": "caramañola",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caramañola",
+      "output": {
+        "definicion": "Un recipiente portátil para líquidos durante viajes."
+      }
+    }
+  },
+  {
+    "modismo": "carambolo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carambolo",
+      "output": {
+        "definicion": "Intersección accidental de sucesos."
+      }
+    }
+  },
+  {
+    "modismo": "caramelear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caramelear",
+      "output": {
+        "definicion": "Acción de persuadir a alguien mediante halagos exagerados."
+      }
+    }
+  },
+  {
+    "modismo": "caramelita",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caramelita",
+      "output": {
+        "definicion": "Individuo que resulta agradable y atractivo por su dulzura."
+      }
+    }
+  },
+  {
+    "modismo": "caramelo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caramelo",
+      "output": {
+        "definicion": "Algo o alguien de gran atractivo."
+      }
+    }
+  },
+  {
+    "modismo": "carantanta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carantanta",
+      "output": {
+        "definicion": "Individuo de facciones ridículas."
+      }
+    }
+  },
+  {
+    "modismo": "carapacho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carapacho",
+      "output": {
+        "definicion": "Caparazón protector de animales como tortugas, usado metafóricamente para la cabeza humana."
+      }
+    }
+  },
+  {
+    "modismo": "caratejo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caratejo",
+      "output": {
+        "definicion": "Interjección que expresa enojo o sorpresa."
+      }
+    }
+  },
+  {
+    "modismo": "carauazú",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carauazú",
+      "output": {
+        "definicion": "Admiración por algo de gran tamaño o impacto."
+      }
+    }
+  },
+  {
+    "modismo": "carbonear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carbonear",
+      "output": {
+        "definicion": "Extracción de carbón en minas subterráneas."
+      }
+    }
+  },
+  {
+    "modismo": "carbonero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carbonero",
+      "output": {
+        "definicion": "Trabajador dedicado a la extracción o venta de carbón."
+      }
+    }
+  },
+  {
+    "modismo": "carbonero, ra",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carbonero, ra",
+      "output": {
+        "definicion": "Persona dedicada a la venta o extracción de carbón."
+      }
+    }
+  },
+  {
+    "modismo": "carcacha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carcacha",
+      "output": {
+        "definicion": "Automóvil viejo y en mal estado."
+      }
+    }
+  },
+  {
+    "modismo": "carcamán",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carcamán",
+      "output": {
+        "definicion": "Individuo conservador opuesto al cambio social y político."
+      }
+    }
+  },
+  {
+    "modismo": "cardón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cardón",
+      "output": {
+        "definicion": "Individuo corpulento y de carácter áspero."
+      }
+    }
+  },
+  {
+    "modismo": "caresanto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caresanto",
+      "output": {
+        "definicion": "Individuo que aparenta una expresión de santidad o inocencia."
+      }
+    }
+  },
+  {
+    "modismo": "carga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carga",
+      "output": {
+        "definicion": "Obligación gravosa que se debe soportar."
+      }
+    }
+  },
+  {
+    "modismo": "cargado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cargado",
+      "output": {
+        "definicion": "Describe a una persona en estado de enojo o irritabilidad."
+      }
+    }
+  },
+  {
+    "modismo": "cargador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cargador",
+      "output": {
+        "definicion": "Persona dedicada a transportar y cargar mercancías."
+      }
+    }
+  },
+  {
+    "modismo": "cargar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cargar",
+      "output": {
+        "definicion": "Soportar una carga física o metafórica."
+      }
+    }
+  },
+  {
+    "modismo": "carguero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carguero",
+      "output": {
+        "definicion": "Individuo responsable de transportar cargas pesadas."
+      }
+    }
+  },
+  {
+    "modismo": "cari",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cari",
+      "output": {
+        "definicion": "Manera cariñosa de expresar afecto en el lenguaje cotidiano."
+      }
+    }
+  },
+  {
+    "modismo": "caribe",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caribe",
+      "output": {
+        "definicion": "Región costera del norte de Colombia con influencias culturales caribeñas."
+      }
+    }
+  },
+  {
+    "modismo": "carilargo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carilargo",
+      "output": {
+        "definicion": "Expresión facial que indica tristeza o descontento."
+      }
+    }
+  },
+  {
+    "modismo": "carimañola",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carimañola",
+      "output": {
+        "definicion": "Carimañola es un bollito frito de yuca relleno de ingredientes como carne o queso."
+      }
+    }
+  },
+  {
+    "modismo": "carioco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carioco",
+      "output": {
+        "definicion": "Designa a una persona astuta y de gran ingenio."
+      }
+    }
+  },
+  {
+    "modismo": "caripatúa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caripatúa",
+      "output": {
+        "definicion": "Persona con gran tendencia a hablar en exceso."
+      }
+    }
+  },
+  {
+    "modismo": "carisellazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carisellazo",
+      "output": {
+        "definicion": "Defraudación astuta y sorpresiva."
+      }
+    }
+  },
+  {
+    "modismo": "carisina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carisina",
+      "output": {
+        "definicion": "Expresión de ternura y afecto en el lenguaje cotidiano."
+      }
+    }
+  },
+  {
+    "modismo": "carmelito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carmelito",
+      "output": {
+        "definicion": "Persona que finge ingenuidad o inocencia."
+      }
+    }
+  },
+  {
+    "modismo": "carne",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carne",
+      "output": {
+        "definicion": "Porción comestible del cuerpo de los animales."
+      }
+    }
+  },
+  {
+    "modismo": "carnetizar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carnetizar",
+      "output": {
+        "definicion": "Registrar oficialmente a alguien mediante la emisión de un carnet."
+      }
+    }
+  },
+  {
+    "modismo": "carpa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carpa",
+      "output": {
+        "definicion": "Instalación temporal para eventos al aire libre."
+      }
+    }
+  },
+  {
+    "modismo": "carpeta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carpeta",
+      "output": {
+        "definicion": "Carpeta es un expediente que contiene documentos organizados oficialmente."
+      }
+    }
+  },
+  {
+    "modismo": "carraca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carraca",
+      "output": {
+        "definicion": "Vehículo en estado de deterioro avanzado."
+      }
+    }
+  },
+  {
+    "modismo": "carramañudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carramañudo",
+      "output": {
+        "definicion": "Una situación o cosa extremadamente complicada e intrincada."
+      }
+    }
+  },
+  {
+    "modismo": "carramán",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carramán",
+      "output": {
+        "definicion": "Un enredo complicado y sorpresivo."
+      }
+    }
+  },
+  {
+    "modismo": "carranchín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carranchín",
+      "output": {
+        "definicion": "Individuo o artefacto que emite sonidos persistentes de manera característica."
+      }
+    }
+  },
+  {
+    "modismo": "carrancio",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carrancio",
+      "output": {
+        "definicion": "Gesto facial que indica enfado o descontento."
+      }
+    }
+  },
+  {
+    "modismo": "carrandanga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carrandanga",
+      "output": {
+        "definicion": "Carrandanga representa una fiesta popular y animada."
+      }
+    }
+  },
+  {
+    "modismo": "carranguero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carranguero",
+      "output": {
+        "definicion": "Individuo que realiza reparaciones improvisadas en automóviles."
+      }
+    }
+  },
+  {
+    "modismo": "carraquear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carraquear",
+      "output": {
+        "definicion": "Manejar un vehículo de forma imprudente."
+      }
+    }
+  },
+  {
+    "modismo": "carrasposo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carrasposo",
+      "output": {
+        "definicion": "Voz ronca y áspera por irritación en la garganta."
+      }
+    }
+  },
+  {
+    "modismo": "carrera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carrera",
+      "output": {
+        "definicion": "Vía principal en el sistema de direcciones urbanas de Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "carreriado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carreriado",
+      "output": {
+        "definicion": "Condición de extrema prisa y aceleración."
+      }
+    }
+  },
+  {
+    "modismo": "carreta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carreta",
+      "output": {
+        "definicion": "Conversación informal y prolongada en contextos cotidianos."
+      }
+    }
+  },
+  {
+    "modismo": "carreteable",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carreteable",
+      "output": {
+        "definicion": "Camino transitable en vehículos motorizados."
+      }
+    }
+  },
+  {
+    "modismo": "carretel",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carretel",
+      "output": {
+        "definicion": "Fiesta popular y animada con música y baile en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "carretudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carretudo",
+      "output": {
+        "definicion": "Individuo con gran suerte en sus actividades."
+      }
+    }
+  },
+  {
+    "modismo": "carriel",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carriel",
+      "output": {
+        "definicion": "Bolsa de cuero tradicional usada en Colombia para transportar objetos."
+      }
+    }
+  },
+  {
+    "modismo": "carrilera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carrilera",
+      "output": {
+        "definicion": "Persona que habla de manera incesante y excesiva."
+      }
+    }
+  },
+  {
+    "modismo": "carriquí",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carriquí",
+      "output": {
+        "definicion": "Persona astuta que resuelve problemas con ingenio."
+      }
+    }
+  },
+  {
+    "modismo": "carrizo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carrizo",
+      "output": {
+        "definicion": "Interjección que expresa asombro o irritación."
+      }
+    }
+  },
+  {
+    "modismo": "carro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carro",
+      "output": {
+        "definicion": "Vehículo motorizado de cuatro ruedas para transporte."
+      }
+    }
+  },
+  {
+    "modismo": "carromato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carromato",
+      "output": {
+        "definicion": "Vehículo de ruedas tirado por animales para el transporte de mercancías."
+      }
+    }
+  },
+  {
+    "modismo": "carrotanque",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carrotanque",
+      "output": {
+        "definicion": "Vehículo cisterna diseñado para transportar líquidos en grandes cantidades."
+      }
+    }
+  },
+  {
+    "modismo": "carrucha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carrucha",
+      "output": {
+        "definicion": "Un vehículo automotor antiguo y deteriorado."
+      }
+    }
+  },
+  {
+    "modismo": "carrumba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carrumba",
+      "output": {
+        "definicion": "Interjección que expresa sorpresa o asombro en el habla colombiana."
+      }
+    }
+  },
+  {
+    "modismo": "cartelear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cartelear",
+      "output": {
+        "definicion": "Manipular situaciones mediante acuerdos ocultos."
+      }
+    }
+  },
+  {
+    "modismo": "cartelera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cartelera",
+      "output": {
+        "definicion": "Publicación que anuncia eventos culturales o cinematográficos."
+      }
+    }
+  },
+  {
+    "modismo": "cartera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cartera",
+      "output": {
+        "definicion": "Objeto para almacenar billetes, monedas y documentos personales."
+      }
+    }
+  },
+  {
+    "modismo": "cartuchera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cartuchera",
+      "output": {
+        "definicion": "Estuche diseñado para almacenar cartuchos de munición."
+      }
+    }
+  },
+  {
+    "modismo": "cartón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cartón",
+      "output": {
+        "definicion": "Objeto económico y resistente usado en empaques cotidianos."
+      }
+    }
+  },
+  {
+    "modismo": "carura",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carura",
+      "output": {
+        "definicion": "Interjección que denota irritación o sorpresa."
+      }
+    }
+  },
+  {
+    "modismo": "carurú",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carurú",
+      "output": {
+        "definicion": "Carurú es una sopa espesa de maíz y vegetales típica de la cocina colombiana."
+      }
+    }
+  },
+  {
+    "modismo": "carón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carón",
+      "output": {
+        "definicion": "Persona con descaro y audacia extrema."
+      }
+    }
+  },
+  {
+    "modismo": "casa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casa",
+      "output": {
+        "definicion": "Edificio destinado a la vivienda y residencia familiar."
+      }
+    }
+  },
+  {
+    "modismo": "casaca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casaca",
+      "output": {
+        "definicion": "Exageración o mentira dicha con humor."
+      }
+    }
+  },
+  {
+    "modismo": "casar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casar",
+      "output": {
+        "definicion": "Unir a dos personas mediante el matrimonio formal."
+      }
+    }
+  },
+  {
+    "modismo": "casaramá",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casaramá",
+      "output": {
+        "definicion": "Situación enredada y complicada."
+      }
+    }
+  },
+  {
+    "modismo": "cascabelear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cascabelear",
+      "output": {
+        "definicion": "Hablar de manera apresurada y superficial."
+      }
+    }
+  },
+  {
+    "modismo": "cascabeleo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cascabeleo",
+      "output": {
+        "definicion": "Alboroto ruidoso causado por agitación intensa."
+      }
+    }
+  },
+  {
+    "modismo": "cascarero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cascarero",
+      "output": {
+        "definicion": "Individuo que divulga chismes o rumores."
+      }
+    }
+  },
+  {
+    "modismo": "casco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casco",
+      "output": {
+        "definicion": "El centro principal de una ciudad."
+      }
+    }
+  },
+  {
+    "modismo": "cascorvo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cascorvo",
+      "output": {
+        "definicion": "Persona o cosa en mal estado y deteriorada."
+      }
+    }
+  },
+  {
+    "modismo": "cascúo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cascúo",
+      "output": {
+        "definicion": "Persona de carácter irritable y gruñón."
+      }
+    }
+  },
+  {
+    "modismo": "case",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "case",
+      "output": {
+        "definicion": "Poblado rural de escasa población."
+      }
+    }
+  },
+  {
+    "modismo": "caseta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caseta",
+      "output": {
+        "definicion": "Estructura pequeña utilizada como vivienda provisional o puesto de control."
+      }
+    }
+  },
+  {
+    "modismo": "casito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casito",
+      "output": {
+        "definicion": "Asunto menor o incidente de escasa relevancia."
+      }
+    }
+  },
+  {
+    "modismo": "caspa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caspa",
+      "output": {
+        "definicion": "Caspa denota la descamación del cuero cabelludo."
+      }
+    }
+  },
+  {
+    "modismo": "caspi",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caspi",
+      "output": {
+        "definicion": "Individuo ingenuo y fácilmente manipulable."
+      }
+    }
+  },
+  {
+    "modismo": "caspiroleta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caspiroleta",
+      "output": {
+        "definicion": "Juego de azar que involucra elementos aleatorios y apuestas."
+      }
+    }
+  },
+  {
+    "modismo": "casposo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casposo",
+      "output": {
+        "definicion": "De aspecto descuidado y de mal gusto."
+      }
+    }
+  },
+  {
+    "modismo": "casquifloja",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casquifloja",
+      "output": {
+        "definicion": "Individuo caracterizado por su pereza y falta de compromiso."
+      }
+    }
+  },
+  {
+    "modismo": "casquillero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casquillero",
+      "output": {
+        "definicion": "Individuo que se dedica a la reventa de boletos para eventos."
+      }
+    }
+  },
+  {
+    "modismo": "casquillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casquillo",
+      "output": {
+        "definicion": "Persona astuta que evade responsabilidades con habilidad."
+      }
+    }
+  },
+  {
+    "modismo": "casquisuelta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "casquisuelta",
+      "output": {
+        "definicion": "Acción impulsiva e irresponsable."
+      }
+    }
+  },
+  {
+    "modismo": "castaña",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "castaña",
+      "output": {
+        "definicion": "Celebración informal que implica el consumo excesivo de alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "castañear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "castañear",
+      "output": {
+        "definicion": "Acción involuntaria de los dientes al chocar por efecto del frío."
+      }
+    }
+  },
+  {
+    "modismo": "catanga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "catanga",
+      "output": {
+        "definicion": "Situación caótica y animada en un contexto social."
+      }
+    }
+  },
+  {
+    "modismo": "catano",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "catano",
+      "output": {
+        "definicion": "Interjección para expresar enfado o sorpresa en contextos coloquiales."
+      }
+    }
+  },
+  {
+    "modismo": "catara",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "catara",
+      "output": {
+        "definicion": "Multitud desordenada de personas."
+      }
+    }
+  },
+  {
+    "modismo": "cateador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cateador",
+      "output": {
+        "definicion": "Persona que explora y busca recursos minerales en zonas remotas."
+      }
+    }
+  },
+  {
+    "modismo": "catear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "catear",
+      "output": {
+        "definicion": "Reprobar un examen o evaluación académica."
+      }
+    }
+  },
+  {
+    "modismo": "cateo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cateo",
+      "output": {
+        "definicion": "El cateo es el registro policial de un lugar o persona."
+      }
+    }
+  },
+  {
+    "modismo": "catire",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "catire",
+      "output": {
+        "definicion": "Persona de piel clara y cabello rubio."
+      }
+    }
+  },
+  {
+    "modismo": "catorce",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "catorce",
+      "output": {
+        "definicion": "Catorce denota una acción rápida y decidida en momentos de crisis."
+      }
+    }
+  },
+  {
+    "modismo": "catramanada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "catramanada",
+      "output": {
+        "definicion": "Acción desordenada e impulsiva."
+      }
+    }
+  },
+  {
+    "modismo": "caucha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caucha",
+      "output": {
+        "definicion": "Sopa humilde elaborada con ingredientes básicos."
+      }
+    }
+  },
+  {
+    "modismo": "cauchera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cauchera",
+      "output": {
+        "definicion": "Persona que se dedica a la reparación o venta de cauchos."
+      }
+    }
+  },
+  {
+    "modismo": "cauchería",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cauchería",
+      "output": {
+        "definicion": "Establecimiento dedicado a la venta o reparación de productos de caucho."
+      }
+    }
+  },
+  {
+    "modismo": "causa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "causa",
+      "output": {
+        "definicion": "En Colombia, 'causa' designa a un amigo informal."
+      }
+    }
+  },
+  {
+    "modismo": "causal",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "causal",
+      "output": {
+        "definicion": "Fenómeno que se produce de manera accidental."
+      }
+    }
+  },
+  {
+    "modismo": "caviloso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caviloso",
+      "output": {
+        "definicion": "Individuo propenso a la desconfianza y el escepticismo."
+      }
+    }
+  },
+  {
+    "modismo": "cayeno",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cayeno",
+      "output": {
+        "definicion": "Designa a una persona que ha experimentado una caída o fracaso repentino."
+      }
+    }
+  },
+  {
+    "modismo": "cazabe",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cazabe",
+      "output": {
+        "definicion": "Alimento derivado de la yuca, preparado como pan plano."
+      }
+    }
+  },
+  {
+    "modismo": "caído",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caído",
+      "output": {
+        "definicion": "Condición de estar abatido emocionalmente."
+      }
+    }
+  },
+  {
+    "modismo": "cañabrava",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañabrava",
+      "output": {
+        "definicion": "Denota una resistencia y fortaleza notables."
+      }
+    }
+  },
+  {
+    "modismo": "cañada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañada",
+      "output": {
+        "definicion": "Terreno bajo y estrecho entre elevaciones naturales."
+      }
+    }
+  },
+  {
+    "modismo": "cañaguate",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañaguate",
+      "output": {
+        "definicion": "Persona caracterizada por su comportamiento travieso y juguetón."
+      }
+    }
+  },
+  {
+    "modismo": "cañandonga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañandonga",
+      "output": {
+        "definicion": "Denota un engaño astuto en contextos cotidianos."
+      }
+    }
+  },
+  {
+    "modismo": "cañar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañar",
+      "output": {
+        "definicion": "Estado de embriaguez causado por el consumo de alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "cañaveral",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañaveral",
+      "output": {
+        "definicion": "Terreno dedicado al cultivo de caña de azúcar."
+      }
+    }
+  },
+  {
+    "modismo": "cañazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañazo",
+      "output": {
+        "definicion": "Trago de bebida alcohólica fuerte."
+      }
+    }
+  },
+  {
+    "modismo": "cañaña",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañaña",
+      "output": {
+        "definicion": "Bebida alcohólica proveniente de la caña de azúcar."
+      }
+    }
+  },
+  {
+    "modismo": "cañengo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañengo",
+      "output": {
+        "definicion": "Persona que cojea debido a una deficiencia física."
+      }
+    }
+  },
+  {
+    "modismo": "cañicultor",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañicultor",
+      "output": {
+        "definicion": "Persona dedicada al cultivo de caña de azúcar."
+      }
+    }
+  },
+  {
+    "modismo": "caño",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caño",
+      "output": {
+        "definicion": "Movimiento en fútbol que pasa el balón entre las piernas del oponente."
+      }
+    }
+  },
+  {
+    "modismo": "cañón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cañón",
+      "output": {
+        "definicion": "Denota algo de excelente calidad o muy impresionante."
+      }
+    }
+  },
+  {
+    "modismo": "ceba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ceba",
+      "output": {
+        "definicion": "La ceba es el proceso de engordar animales mediante alimentación especial."
+      }
+    }
+  },
+  {
+    "modismo": "cebado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cebado",
+      "output": {
+        "definicion": "Estado de irritación o excitación intensa."
+      }
+    }
+  },
+  {
+    "modismo": "cebra",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cebra",
+      "output": {
+        "definicion": "Zona de la carretera destinada al cruce seguro de peatones, marcada con franjas."
+      }
+    }
+  },
+  {
+    "modismo": "cedulación",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cedulación",
+      "output": {
+        "definicion": "Proceso oficial de obtención o renovación de la cédula de identidad."
+      }
+    }
+  },
+  {
+    "modismo": "ceiba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ceiba",
+      "output": {
+        "definicion": "Ceiba representa un árbol majestuoso y resistente en la vegetación tropical."
+      }
+    }
+  },
+  {
+    "modismo": "cejón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cejón",
+      "output": {
+        "definicion": "Individuo caracterizado por cejas gruesas y notables."
+      }
+    }
+  },
+  {
+    "modismo": "celoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "celoso",
+      "output": {
+        "definicion": "El celoso experimenta un fuerte deseo de posesión exclusiva."
+      }
+    }
+  },
+  {
+    "modismo": "cenegal",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cenegal",
+      "output": {
+        "definicion": "Área natural con aguas estancadas y suelo fangoso."
+      }
+    }
+  },
+  {
+    "modismo": "cenegoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cenegoso",
+      "output": {
+        "definicion": "Adjetivo que describe algo cubierto de fango o característico de un pantano."
+      }
+    }
+  },
+  {
+    "modismo": "centro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "centro",
+      "output": {
+        "definicion": "La zona principal y central de una ciudad."
+      }
+    }
+  },
+  {
+    "modismo": "cepillar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cepillar",
+      "output": {
+        "definicion": "Eliminar violentamente a alguien."
+      }
+    }
+  },
+  {
+    "modismo": "cepillero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cepillero",
+      "output": {
+        "definicion": "Individuo que mantiene múltiples relaciones amorosas de manera casual."
+      }
+    }
+  },
+  {
+    "modismo": "cepillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cepillo",
+      "output": {
+        "definicion": "Soborno menor para obtener un favor o beneficio."
+      }
+    }
+  },
+  {
+    "modismo": "cerca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cerca",
+      "output": {
+        "definicion": "Separación mínima entre objetos o lugares."
+      }
+    }
+  },
+  {
+    "modismo": "cerrado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cerrado",
+      "output": {
+        "definicion": "Persona reservada que evita compartir sus emociones o pensamientos."
+      }
+    }
+  },
+  {
+    "modismo": "cerrero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cerrero",
+      "output": {
+        "definicion": "Persona o animal de naturaleza indómita y bravía."
+      }
+    }
+  },
+  {
+    "modismo": "cerrillo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cerrillo",
+      "output": {
+        "definicion": "Una persona caracterizada por nerviosismo e inquietud extrema."
+      }
+    }
+  },
+  {
+    "modismo": "cerro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cerro",
+      "output": {
+        "definicion": "Elevación natural del terreno que se destaca por su altura en el paisaje."
+      }
+    }
+  },
+  {
+    "modismo": "cervecear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cervecear",
+      "output": {
+        "definicion": "Beber cerveza de forma social y recreativa."
+      }
+    }
+  },
+  {
+    "modismo": "cesante",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cesante",
+      "output": {
+        "definicion": "Persona que ha sido despedida de su empleo."
+      }
+    }
+  },
+  {
+    "modismo": "chacero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chacero",
+      "output": {
+        "definicion": "Persona que consume marihuana de manera habitual."
+      }
+    }
+  },
+  {
+    "modismo": "chachajo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chachajo",
+      "output": {
+        "definicion": "Objeto o situación carente de valor o importancia."
+      }
+    }
+  },
+  {
+    "modismo": "chacho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chacho",
+      "output": {
+        "definicion": "Interjección que expresa sorpresa o admiración."
+      }
+    }
+  },
+  {
+    "modismo": "chafarote",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chafarote",
+      "output": {
+        "definicion": "Objeto o persona de calidad inferior y defectuosa."
+      }
+    }
+  },
+  {
+    "modismo": "chagüeto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chagüeto",
+      "output": {
+        "definicion": "Individuo astuto y travieso."
+      }
+    }
+  },
+  {
+    "modismo": "chalupa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chalupa",
+      "output": {
+        "definicion": "Embarcación ligera y pequeña utilizada en ríos o lagos."
+      }
+    }
+  },
+  {
+    "modismo": "chamba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chamba",
+      "output": {
+        "definicion": "Labor remunerada que una persona realiza."
+      }
+    }
+  },
+  {
+    "modismo": "chambero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chambero",
+      "output": {
+        "definicion": "Persona que adula para obtener favores o beneficios personales."
+      }
+    }
+  },
+  {
+    "modismo": "chambonada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chambonada",
+      "output": {
+        "definicion": "Acción realizada de manera torpe e incompetente."
+      }
+    }
+  },
+  {
+    "modismo": "chambrana",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chambrana",
+      "output": {
+        "definicion": "Indica flojedad o descuido en el comportamiento."
+      }
+    }
+  },
+  {
+    "modismo": "chamburo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chamburo",
+      "output": {
+        "definicion": "Actividad laboral informal y temporal."
+      }
+    }
+  },
+  {
+    "modismo": "chambón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chambón",
+      "output": {
+        "definicion": "Individuo que actúa con torpeza o incompetencia en sus actividades."
+      }
+    }
+  },
+  {
+    "modismo": "chamizo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chamizo",
+      "output": {
+        "definicion": "Apodo cariñoso para un joven en contextos informales."
+      }
+    }
+  },
+  {
+    "modismo": "chamo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chamo",
+      "output": {
+        "definicion": "Expresión para un amigo o persona joven en contexto informal."
+      }
+    }
+  },
+  {
+    "modismo": "champa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "champa",
+      "output": {
+        "definicion": "Objeto que es una falsificación o imitación."
+      }
+    }
+  },
+  {
+    "modismo": "champeta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "champeta",
+      "output": {
+        "definicion": "Champeta es un género musical afrocaribeño originario de la costa colombiana."
+      }
+    }
+  },
+  {
+    "modismo": "champurrear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "champurrear",
+      "output": {
+        "definicion": "Mezcla de idiomas en el habla cotidiana."
+      }
+    }
+  },
+  {
+    "modismo": "champú",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "champú",
+      "output": {
+        "definicion": "Sustancia utilizada para el lavado del cabello."
+      }
+    }
+  },
+  {
+    "modismo": "champús",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "champús",
+      "output": {
+        "definicion": "Bebida espesa y tradicional a base de maíz en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "chamuscón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chamuscón",
+      "output": {
+        "definicion": "Persona que actúa de manera impulsiva y enfrenta consecuencias negativas."
+      }
+    }
+  },
+  {
+    "modismo": "chamón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chamón",
+      "output": {
+        "definicion": "Individuo varón de gran atractivo físico."
+      }
+    }
+  },
+  {
+    "modismo": "chamón, na",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chamón, na",
+      "output": {
+        "definicion": "Designa a una persona con gran atractivo físico."
+      }
+    }
+  },
+  {
+    "modismo": "chancaca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chancaca",
+      "output": {
+        "definicion": "Persona que actúa con ingenuidad o falta de astucia."
+      }
+    }
+  },
+  {
+    "modismo": "chancancarina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chancancarina",
+      "output": {
+        "definicion": "Genera confusión y desorden en un entorno."
+      }
+    }
+  },
+  {
+    "modismo": "chance",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chance",
+      "output": {
+        "definicion": "Juego de lotería que consiste en apostar números para ganar premios."
+      }
+    }
+  },
+  {
+    "modismo": "chancero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chancero",
+      "output": {
+        "definicion": "Persona que posee buena suerte o aprovecha oportunidades de forma astuta."
+      }
+    }
+  },
+  {
+    "modismo": "chancleta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chancleta",
+      "output": {
+        "definicion": "Calzado informal utilizado en situaciones de reprimenda."
+      }
+    }
+  },
+  {
+    "modismo": "chancuco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chancuco",
+      "output": {
+        "definicion": "Una pequeña oportunidad o apuesta informal."
+      }
+    }
+  },
+  {
+    "modismo": "chancuquear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chancuquear",
+      "output": {
+        "definicion": "Chancuquear alude al coqueteo ligero y juguetón."
+      }
+    }
+  },
+  {
+    "modismo": "chancuquero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chancuquero",
+      "output": {
+        "definicion": "Individuo astuto dedicado a la venta informal de mercancías."
+      }
+    }
+  },
+  {
+    "modismo": "chandoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chandoso",
+      "output": {
+        "definicion": "Hombre que muestra comportamientos o rasgos afeminados de manera evidente."
+      }
+    }
+  },
+  {
+    "modismo": "chandé",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chandé",
+      "output": {
+        "definicion": "Actitud caracterizada por pereza y ocio prolongados."
+      }
+    }
+  },
+  {
+    "modismo": "chanfle",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chanfle",
+      "output": {
+        "definicion": "Interjección que expresa sorpresa o asombro."
+      }
+    }
+  },
+  {
+    "modismo": "changonguería",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "changonguería",
+      "output": {
+        "definicion": "Ejercicio de astucia fraudulenta en transacciones comerciales."
+      }
+    }
+  },
+  {
+    "modismo": "changón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "changón",
+      "output": {
+        "definicion": "Individuo perezoso que evade responsabilidades y esfuerzo."
+      }
+    }
+  },
+  {
+    "modismo": "chapa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapa",
+      "output": {
+        "definicion": "Reunión festiva informal típica en contextos colombianos."
+      }
+    }
+  },
+  {
+    "modismo": "chapalear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapalear",
+      "output": {
+        "definicion": "Acción de golpear el agua con los pies generando salpicaduras."
+      }
+    }
+  },
+  {
+    "modismo": "chaparro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chaparro",
+      "output": {
+        "definicion": "Persona de estatura baja."
+      }
+    }
+  },
+  {
+    "modismo": "chapeado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapeado",
+      "output": {
+        "definicion": "Estado de intoxicación inducido por sustancias psicoactivas."
+      }
+    }
+  },
+  {
+    "modismo": "chaperón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chaperón",
+      "output": {
+        "definicion": "Persona que acompaña y supervisa a otra en actividades sociales para garantizar el decoro."
+      }
+    }
+  },
+  {
+    "modismo": "chapetera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapetera",
+      "output": {
+        "definicion": "Individuo que ha modificado su nariz mediante cirugía estética."
+      }
+    }
+  },
+  {
+    "modismo": "chapeto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapeto",
+      "output": {
+        "definicion": "Individuo astuto y experimentado en diversas circunstancias."
+      }
+    }
+  },
+  {
+    "modismo": "chapil",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapil",
+      "output": {
+        "definicion": "Individuo de baja estatura."
+      }
+    }
+  },
+  {
+    "modismo": "chapolera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapolera",
+      "output": {
+        "definicion": "Mujer que vende mercancía en las calles de manera activa."
+      }
+    }
+  },
+  {
+    "modismo": "chapucear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapucear",
+      "output": {
+        "definicion": "Realizar una tarea de manera deficiente e improvisada."
+      }
+    }
+  },
+  {
+    "modismo": "chapulín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapulín",
+      "output": {
+        "definicion": "Persona ágil que cambia de situación con rapidez y astucia."
+      }
+    }
+  },
+  {
+    "modismo": "chapín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chapín",
+      "output": {
+        "definicion": "Calzado con suela elevada utilizado en contextos tradicionales."
+      }
+    }
+  },
+  {
+    "modismo": "chaquira",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chaquira",
+      "output": {
+        "definicion": "Adorno pequeño y decorativo de bajo valor utilizado en joyería."
+      }
+    }
+  },
+  {
+    "modismo": "chara",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chara",
+      "output": {
+        "definicion": "Individuo que se caracteriza por su pereza habitual."
+      }
+    }
+  },
+  {
+    "modismo": "charamba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charamba",
+      "output": {
+        "definicion": "Celebración festiva y animada propia de la cultura colombiana."
+      }
+    }
+  },
+  {
+    "modismo": "charanga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charanga",
+      "output": {
+        "definicion": "Alboroto festivo y ruidoso en celebraciones públicas."
+      }
+    }
+  },
+  {
+    "modismo": "charango",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charango",
+      "output": {
+        "definicion": "Instrumento musical de cuerdas originario de los Andes."
+      }
+    }
+  },
+  {
+    "modismo": "charapa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charapa",
+      "output": {
+        "definicion": "Habitante de los Llanos Orientales de Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "charco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charco",
+      "output": {
+        "definicion": "Situación problemática e inesperada."
+      }
+    }
+  },
+  {
+    "modismo": "charola",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charola",
+      "output": {
+        "definicion": "Bandeja utilizada en Colombia para recolectar donaciones en eventos públicos."
+      }
+    }
+  },
+  {
+    "modismo": "charoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charoso",
+      "output": {
+        "definicion": "Persona con tendencia a hablar de manera excesiva y locuaz."
+      }
+    }
+  },
+  {
+    "modismo": "charrasquear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charrasquear",
+      "output": {
+        "definicion": "Realizar un ruido seco y áspero al frotar superficies."
+      }
+    }
+  },
+  {
+    "modismo": "charre",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charre",
+      "output": {
+        "definicion": "Demostración ostentosa y superflua de riqueza o estatus."
+      }
+    }
+  },
+  {
+    "modismo": "charuco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "charuco",
+      "output": {
+        "definicion": "Charuco designa a un individuo astuto y travieso."
+      }
+    }
+  },
+  {
+    "modismo": "chasquear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chasquear",
+      "output": {
+        "definicion": "Producir un sonido agudo con los dedos o la boca."
+      }
+    }
+  },
+  {
+    "modismo": "chasís",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chasís",
+      "output": {
+        "definicion": "Estructura metálica base que sostiene las partes principales de un vehículo."
+      }
+    }
+  },
+  {
+    "modismo": "chatarrización",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chatarrización",
+      "output": {
+        "definicion": "Proceso de desecho oficial de vehículos en desuso."
+      }
+    }
+  },
+  {
+    "modismo": "chatas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chatas",
+      "output": {
+        "definicion": "Denota mujeres atractivas en el lenguaje coloquial colombiano."
+      }
+    }
+  },
+  {
+    "modismo": "chato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chato",
+      "output": {
+        "definicion": "Adj-etivo que describe a una persona con nariz achatada."
+      }
+    }
+  },
+  {
+    "modismo": "chaza",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chaza",
+      "output": {
+        "definicion": "Designa un objeto en mal estado o de escasa calidad."
+      }
+    }
+  },
+  {
+    "modismo": "checa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "checa",
+      "output": {
+        "definicion": "Examinar cuidadosamente un asunto o objeto."
+      }
+    }
+  },
+  {
+    "modismo": "cheese cake",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cheese cake",
+      "output": {
+        "definicion": "Postre cremoso preparado con queso, azúcar y una base de galleta."
+      }
+    }
+  },
+  {
+    "modismo": "chela",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chela",
+      "output": {
+        "definicion": "Chela es una cerveza."
+      }
+    }
+  },
+  {
+    "modismo": "chencha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chencha",
+      "output": {
+        "definicion": "Estado de embriaguez resultante del consumo excesivo de alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "chengo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chengo",
+      "output": {
+        "definicion": "Un individuo astuto e ingenioso."
+      }
+    }
+  },
+  {
+    "modismo": "cheo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cheo",
+      "output": {
+        "definicion": "Alude a algo excelente o de gran calidad."
+      }
+    }
+  },
+  {
+    "modismo": "chepa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chepa",
+      "output": {
+        "definicion": "Chepa designa la espalda humana."
+      }
+    }
+  },
+  {
+    "modismo": "chepacorina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chepacorina",
+      "output": {
+        "definicion": "Un ardid ingenioso para evitar compromisos."
+      }
+    }
+  },
+  {
+    "modismo": "chepazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chepazo",
+      "output": {
+        "definicion": "Golpe fuerte e intenso administrado con un objeto."
+      }
+    }
+  },
+  {
+    "modismo": "chepito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chepito",
+      "output": {
+        "definicion": "Chepito es un diminutivo afectuoso del nombre José."
+      }
+    }
+  },
+  {
+    "modismo": "chepudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chepudo",
+      "output": {
+        "definicion": "Individuo que muestra descaro o falta de vergüenza."
+      }
+    }
+  },
+  {
+    "modismo": "cheque",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cheque",
+      "output": {
+        "definicion": "Documento escrito que ordena a un banco pagar una suma de dinero al portador."
+      }
+    }
+  },
+  {
+    "modismo": "chequear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chequear",
+      "output": {
+        "definicion": "Verificar o inspeccionar algo cuidadosamente."
+      }
+    }
+  },
+  {
+    "modismo": "chequita",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chequita",
+      "output": {
+        "definicion": "Expresión que denota algo excelente o positivo."
+      }
+    }
+  },
+  {
+    "modismo": "chere",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chere",
+      "output": {
+        "definicion": "Denota algo excelente o placentero."
+      }
+    }
+  },
+  {
+    "modismo": "cheto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cheto",
+      "output": {
+        "definicion": "Un cheto es una persona que muestra ostentación y superioridad social."
+      }
+    }
+  },
+  {
+    "modismo": "chibugá",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chibugá",
+      "output": {
+        "definicion": "Situación de confusión y complicaciones inesperadas."
+      }
+    }
+  },
+  {
+    "modismo": "chicanear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicanear",
+      "output": {
+        "definicion": "Discutir empleando argucias para obtener ventaja en el debate."
+      }
+    }
+  },
+  {
+    "modismo": "chicanero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicanero",
+      "output": {
+        "definicion": "Individuo aficionado a discusiones triviales y persistentes."
+      }
+    }
+  },
+  {
+    "modismo": "chicha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicha",
+      "output": {
+        "definicion": "Bebida alcohólica tradicional elaborada a partir de maíz fermentado."
+      }
+    }
+  },
+  {
+    "modismo": "chichazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chichazo",
+      "output": {
+        "definicion": "Golpe fuerte dado con la mano."
+      }
+    }
+  },
+  {
+    "modismo": "chicheme",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicheme",
+      "output": {
+        "definicion": "Propagación de rumores o informaciones no verificadas."
+      }
+    }
+  },
+  {
+    "modismo": "chichero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chichero",
+      "output": {
+        "definicion": "Individuo dedicado a la venta o producción de chicha."
+      }
+    }
+  },
+  {
+    "modismo": "chichigua",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chichigua",
+      "output": {
+        "definicion": "Persona perezosa y sin motivación."
+      }
+    }
+  },
+  {
+    "modismo": "chichipa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chichipa",
+      "output": {
+        "definicion": "Estado de embriaguez intensa."
+      }
+    }
+  },
+  {
+    "modismo": "chichipato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chichipato",
+      "output": {
+        "definicion": "Objeto de imitación o mala calidad."
+      }
+    }
+  },
+  {
+    "modismo": "chicho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicho",
+      "output": {
+        "definicion": "Un objeto o persona que resulta falso o imitado."
+      }
+    }
+  },
+  {
+    "modismo": "chichonera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chichonera",
+      "output": {
+        "definicion": "Persona o cosa que genera chichones con frecuencia."
+      }
+    }
+  },
+  {
+    "modismo": "chicludo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicludo",
+      "output": {
+        "definicion": "Persona o cosa que destaca por su elegancia y calidad."
+      }
+    }
+  },
+  {
+    "modismo": "chico",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chico",
+      "output": {
+        "definicion": "Designa a las personas jóvenes o a los objetos de tamaño reducido."
+      }
+    }
+  },
+  {
+    "modismo": "chicoria",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicoria",
+      "output": {
+        "definicion": "Estado de abatimiento emocional o desánimo profundo."
+      }
+    }
+  },
+  {
+    "modismo": "chicorio, ria",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicorio, ria",
+      "output": {
+        "definicion": "Multitud que genera gran ruido y actividad."
+      }
+    }
+  },
+  {
+    "modismo": "chicote",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicote",
+      "output": {
+        "definicion": "Instrumento de cuero para azotar o disciplinar."
+      }
+    }
+  },
+  {
+    "modismo": "chicuaco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chicuaco",
+      "output": {
+        "definicion": "Individuo de baja estatura o edad temprana."
+      }
+    }
+  },
+  {
+    "modismo": "chifladera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chifladera",
+      "output": {
+        "definicion": "Alteración mental caracterizada por excitación desmedida."
+      }
+    }
+  },
+  {
+    "modismo": "chiflamicas",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiflamicas",
+      "output": {
+        "definicion": "Individuo que practica el engaño con astucia y habilidad."
+      }
+    }
+  },
+  {
+    "modismo": "chifloreto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "chiflón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "error": "status=503",
+      "response": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.52 (Ubuntu) Server at api.straico.com Port 443</address>\n</body></html>\n"
+    }
+  },
+  {
+    "modismo": "chigualo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chigualo",
+      "output": {
+        "definicion": "El chigualo es una celebración musical tradicional de la región pacífica colombiana."
+      }
+    }
+  },
+  {
+    "modismo": "chilacuán",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chilacuán",
+      "output": {
+        "definicion": "Alboroto repentino y caótico."
+      }
+    }
+  },
+  {
+    "modismo": "chilapo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chilapo",
+      "output": {
+        "definicion": "Individuo proveniente de áreas rurales en contexto coloquial."
+      }
+    }
+  },
+  {
+    "modismo": "chile",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chile",
+      "output": {
+        "definicion": "Condimento picante empleado en la gastronomía colombiana."
+      }
+    }
+  },
+  {
+    "modismo": "chilena",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chilena",
+      "output": {
+        "definicion": "Técnica futbolística que implica un remate aéreo con los pies."
+      }
+    }
+  },
+  {
+    "modismo": "chilindroso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chilindroso",
+      "output": {
+        "definicion": "Presenta un aspecto sucio y desordenado."
+      }
+    }
+  },
+  {
+    "modismo": "chilingueado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chilingueado",
+      "output": {
+        "definicion": "Estado de relajación profunda y descanso."
+      }
+    }
+  },
+  {
+    "modismo": "chilinguear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chilinguear",
+      "output": {
+        "definicion": "Pasar el tiempo de manera relajada y ociosa."
+      }
+    }
+  },
+  {
+    "modismo": "chillar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chillar",
+      "output": {
+        "definicion": "Llorar o gemir en voz alta."
+      }
+    }
+  },
+  {
+    "modismo": "chimba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chimba",
+      "output": {
+        "definicion": "Denota algo de gran calidad."
+      }
+    }
+  },
+  {
+    "modismo": "chimbe",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chimbe",
+      "output": {
+        "definicion": "Beneficio extra obtenido de manera gratuita."
+      }
+    }
+  },
+  {
+    "modismo": "chimbo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chimbo",
+      "output": {
+        "definicion": "Algo de mala calidad o decepcionante."
+      }
+    }
+  },
+  {
+    "modismo": "chimó",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chimó",
+      "output": {
+        "definicion": "Preparación de cal y hierbas para el mascado tradicional de coca."
+      }
+    }
+  },
+  {
+    "modismo": "china",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "china",
+      "output": {
+        "definicion": "Designa a una mujer joven y atractiva."
+      }
+    }
+  },
+  {
+    "modismo": "chinche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chinche",
+      "output": {
+        "definicion": "Individuo o cosa que genera molestia persistente."
+      }
+    }
+  },
+  {
+    "modismo": "chinchinchín",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chinchinchín",
+      "output": {
+        "definicion": "Representa el tintineo de vasos en un brindis."
+      }
+    }
+  },
+  {
+    "modismo": "chinchorro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chinchorro",
+      "output": {
+        "definicion": "Un chinchorro es un establecimiento informal para consumir bebidas y alimentos en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "chingo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chingo",
+      "output": {
+        "definicion": "Denota una gran cantidad de elementos."
+      }
+    }
+  },
+  {
+    "modismo": "chingue",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chingue",
+      "output": {
+        "definicion": "Indica irritación o enfado profundo"
+      }
+    }
+  },
+  {
+    "modismo": "chino",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chino",
+      "output": {
+        "definicion": "Enredo complicado en una situación cotidiana."
+      }
+    }
+  },
+  {
+    "modismo": "chipa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chipa",
+      "output": {
+        "definicion": "Panecillo elaborado con almidón de yuca."
+      }
+    }
+  },
+  {
+    "modismo": "chipaca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chipaca",
+      "output": {
+        "definicion": "Persona, comúnmente mujer, de costumbres disolutas."
+      }
+    }
+  },
+  {
+    "modismo": "chipolo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chipolo",
+      "output": {
+        "definicion": "Designa a un niño o joven en el vocabulario popular colombiano."
+      }
+    }
+  },
+  {
+    "modismo": "chiporro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiporro",
+      "output": {
+        "definicion": "Persona extremadamente avara que evita gastar dinero innecesariamente."
+      }
+    }
+  },
+  {
+    "modismo": "chiquero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiquero",
+      "output": {
+        "definicion": "Lugar sucio y desordenado."
+      }
+    }
+  },
+  {
+    "modismo": "chiquito",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiquito",
+      "output": {
+        "definicion": "Adjetivo que indica pequeñez o menor tamaño."
+      }
+    }
+  },
+  {
+    "modismo": "chiraco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiraco",
+      "output": {
+        "definicion": "Un individuo que actúa de manera atolondrada e impulsiva."
+      }
+    }
+  },
+  {
+    "modismo": "chirario",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chirario",
+      "output": {
+        "definicion": "Individuo que actúa con torpeza y falta de seriedad."
+      }
+    }
+  },
+  {
+    "modismo": "chiras",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiras",
+      "output": {
+        "definicion": "Prendas de vestir utilizadas en el contexto cotidiano."
+      }
+    }
+  },
+  {
+    "modismo": "chiribico",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiribico",
+      "output": {
+        "definicion": "Un elemento o situación de escasa importancia."
+      }
+    }
+  },
+  {
+    "modismo": "chiripiado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiripiado",
+      "output": {
+        "definicion": "Estado de embriaguez leve."
+      }
+    }
+  },
+  {
+    "modismo": "chiripiador",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiripiador",
+      "output": {
+        "definicion": "Persona que emite sonidos estridentes de manera habitual."
+      }
+    }
+  },
+  {
+    "modismo": "chiripiolca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiripiolca",
+      "output": {
+        "definicion": "Objeto diminuto e insignificante."
+      }
+    }
+  },
+  {
+    "modismo": "chiripudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiripudo",
+      "output": {
+        "definicion": "Evento afortunado que ocurre por casualidad."
+      }
+    }
+  },
+  {
+    "modismo": "chiroso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiroso",
+      "output": {
+        "definicion": "Persona con gran destreza en trabajos manuales."
+      }
+    }
+  },
+  {
+    "modismo": "chirriadera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chirriadera",
+      "output": {
+        "definicion": "Alboroto o confusión por ruido excesivo."
+      }
+    }
+  },
+  {
+    "modismo": "chirriado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chirriado",
+      "output": {
+        "definicion": "Individuo bajo los efectos de la embriaguez por alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "chirrinche",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chirrinche",
+      "output": {
+        "definicion": "Objeto de baja calidad o en mal estado."
+      }
+    }
+  },
+  {
+    "modismo": "chirriquitico",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chirriquitico",
+      "output": {
+        "definicion": "Un elemento de dimensiones extremadamente reducidas."
+      }
+    }
+  },
+  {
+    "modismo": "chisacá",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chisacá",
+      "output": {
+        "definicion": "Designa una nimiedad o asunto trivial."
+      }
+    }
+  },
+  {
+    "modismo": "chisga",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chisga",
+      "output": {
+        "definicion": "Estado de embriaguez resultante del consumo de alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "chisguete",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chisguete",
+      "output": {
+        "definicion": "Emisión rápida y breve de un chorro de líquido."
+      }
+    }
+  },
+  {
+    "modismo": "chisguetear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chisguetear",
+      "output": {
+        "definicion": "Es una lluvia fina y persistente."
+      }
+    }
+  },
+  {
+    "modismo": "chismosear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chismosear",
+      "output": {
+        "definicion": "Chismosear es difundir o interesarse en rumores sobre la vida privada de otras personas."
+      }
+    }
+  },
+  {
+    "modismo": "chismoso",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chismoso",
+      "output": {
+        "definicion": "Individuo que habitualmente difunde rumores o interfiere en asuntos ajenos."
+      }
+    }
+  },
+  {
+    "modismo": "chispa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chispa",
+      "output": {
+        "definicion": "Estado de embriaguez ligera."
+      }
+    }
+  },
+  {
+    "modismo": "chispazo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chispazo",
+      "output": {
+        "definicion": "Una idea brillante que surge de manera repentina e inesperada."
+      }
+    }
+  },
+  {
+    "modismo": "chispero",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chispero",
+      "output": {
+        "definicion": "Vendedor ambulante de artículos de bajo costo."
+      }
+    }
+  },
+  {
+    "modismo": "chispiar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chispiar",
+      "output": {
+        "definicion": "Acción de llover con gotas muy finas e intermitentes."
+      }
+    }
+  },
+  {
+    "modismo": "chisporrotiar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chisporrotiar",
+      "output": {
+        "definicion": "Realizar actividades con gran vitalidad y alegría."
+      }
+    }
+  },
+  {
+    "modismo": "chispotear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chispotear",
+      "output": {
+        "definicion": "Precipitación atmosférica de gotas minúsculas."
+      }
+    }
+  },
+  {
+    "modismo": "chispón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chispón",
+      "output": {
+        "definicion": "Persona astuta y hábil."
+      }
+    }
+  },
+  {
+    "modismo": "chiste",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiste",
+      "output": {
+        "definicion": "Narración breve con contenido humorístico para provocar risa."
+      }
+    }
+  },
+  {
+    "modismo": "chistear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chistear",
+      "output": {
+        "definicion": "La acción de hacer chistes o bromas."
+      }
+    }
+  },
+  {
+    "modismo": "chita",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chita",
+      "output": {
+        "definicion": "Individuo caracterizado por su rapidez y astucia."
+      }
+    }
+  },
+  {
+    "modismo": "chitearse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chitearse",
+      "output": {
+        "definicion": "Alterarse emocionalmente de manera repentina."
+      }
+    }
+  },
+  {
+    "modismo": "chitiado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chitiado",
+      "output": {
+        "definicion": "Afectado por el consumo de alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "chiva",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiva",
+      "output": {
+        "definicion": "Autobús de transporte público utilizado en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "chivatear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chivatear",
+      "output": {
+        "definicion": "Chivatear consiste en delatar o revelar información confidencial."
+      }
+    }
+  },
+  {
+    "modismo": "chivato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chivato",
+      "output": {
+        "definicion": "Individuo que delata información confidencial a autoridades."
+      }
+    }
+  },
+  {
+    "modismo": "chiveado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiveado",
+      "output": {
+        "definicion": "Estado de enojo o irritación."
+      }
+    }
+  },
+  {
+    "modismo": "chivear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chivear",
+      "output": {
+        "definicion": "Estar en un estado de enojo o irritación."
+      }
+    }
+  },
+  {
+    "modismo": "chivera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chivera",
+      "output": {
+        "definicion": "Persona que propaga chismes o rumores."
+      }
+    }
+  },
+  {
+    "modismo": "chivo,",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chivo,",
+      "output": {
+        "definicion": "Denota algo de excelente calidad."
+      }
+    }
+  },
+  {
+    "modismo": "chivé",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chivé",
+      "output": {
+        "definicion": "Divulgación secreta de información confidencial."
+      }
+    }
+  },
+  {
+    "modismo": "chiyón",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chiyón",
+      "output": {
+        "definicion": "Persona que delata o revela información confidencial."
+      }
+    }
+  },
+  {
+    "modismo": "choca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "choca",
+      "output": {
+        "definicion": "Gesto de saludo mediante el choque de manos."
+      }
+    }
+  },
+  {
+    "modismo": "chocado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocado",
+      "output": {
+        "definicion": "Estado de conmoción provocado por una sorpresa."
+      }
+    }
+  },
+  {
+    "modismo": "chocante",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocante",
+      "output": {
+        "definicion": "Algo que genera conflicto o malestar por su rudeza o intensidad."
+      }
+    }
+  },
+  {
+    "modismo": "chocar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocar",
+      "output": {
+        "definicion": "Chocar es el acto de saludarse mediante el contacto de manos."
+      }
+    }
+  },
+  {
+    "modismo": "chocato",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocato",
+      "output": {
+        "definicion": "Persona con rasgos faciales aplanados o achatados."
+      }
+    }
+  },
+  {
+    "modismo": "chocha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocha",
+      "output": {
+        "definicion": "Término coloquial que designa los órganos genitales femeninos."
+      }
+    }
+  },
+  {
+    "modismo": "chochera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chochera",
+      "output": {
+        "definicion": "Individuo que demuestra ingenuidad o credulidad excesiva."
+      }
+    }
+  },
+  {
+    "modismo": "chocho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocho",
+      "output": {
+        "definicion": "Estado de intensa alegría y entusiasmo."
+      }
+    }
+  },
+  {
+    "modismo": "chocholear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocholear",
+      "output": {
+        "definicion": "Pérdida de facultades mentales por la vejez."
+      }
+    }
+  },
+  {
+    "modismo": "chochora",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chochora",
+      "output": {
+        "definicion": "Persona caracterizada por su pereza y falta de iniciativa."
+      }
+    }
+  },
+  {
+    "modismo": "chocolear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocolear",
+      "output": {
+        "definicion": "Coqueteo juguetón y ligero en interacciones sociales."
+      }
+    }
+  },
+  {
+    "modismo": "chocorear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocorear",
+      "output": {
+        "definicion": "Actuar de manera descuidada e improvisada."
+      }
+    }
+  },
+  {
+    "modismo": "chocozuela",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chocozuela",
+      "output": {
+        "definicion": "Una expresión para una combinación informal y poco convencional de elementos."
+      }
+    }
+  },
+  {
+    "modismo": "chofer",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chofer",
+      "output": {
+        "definicion": "Individuo responsable de conducir un vehículo motorizado."
+      }
+    }
+  },
+  {
+    "modismo": "choferear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "choferear",
+      "output": {
+        "definicion": "Designa la acción de conducir un vehículo."
+      }
+    }
+  },
+  {
+    "modismo": "chola",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chola",
+      "output": {
+        "definicion": "Una mujer atractiva y de gran carisma en el contexto cultural colombiano."
+      }
+    }
+  },
+  {
+    "modismo": "cholado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cholado",
+      "output": {
+        "definicion": "Bebida refrescante elaborada con hielo rallado, frutas y leche, originaria de Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "cholula",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cholula",
+      "output": {
+        "definicion": "Persona que tiende a hablar en exceso y con exageración."
+      }
+    }
+  },
+  {
+    "modismo": "chompa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chompa",
+      "output": {
+        "definicion": "Chompa es una prenda de vestir abrigada, similar a un suéter."
+      }
+    }
+  },
+  {
+    "modismo": "chompi",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chompi",
+      "output": {
+        "definicion": "Individuo charlatán e interruptor en conversaciones."
+      }
+    }
+  },
+  {
+    "modismo": "chona",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chona",
+      "output": {
+        "definicion": "Billete de cincuenta mil pesos colombianos."
+      }
+    }
+  },
+  {
+    "modismo": "choneto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "choneto",
+      "output": {
+        "definicion": "Choneto designa a una persona que actúa con presunción social."
+      }
+    }
+  },
+  {
+    "modismo": "chongo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chongo",
+      "output": {
+        "definicion": "Individuo que muestra torpeza e ingenuidad en sus acciones."
+      }
+    }
+  },
+  {
+    "modismo": "chonta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chonta",
+      "output": {
+        "definicion": "Objeto o persona extremadamente dura."
+      }
+    }
+  },
+  {
+    "modismo": "chontear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chontear",
+      "output": {
+        "definicion": "Actuar de manera torpe e incompetente."
+      }
+    }
+  },
+  {
+    "modismo": "chontiado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chontiado",
+      "output": {
+        "definicion": "Embriaguez ocasionada por el consumo de bebidas alcohólicas."
+      }
+    }
+  },
+  {
+    "modismo": "chontudo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chontudo",
+      "output": {
+        "definicion": "Adjetivo que describe a una persona con cabello rizado o ensortijado."
+      }
+    }
+  },
+  {
+    "modismo": "chorear",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chorear",
+      "output": {
+        "definicion": "Sustraer bienes ajenos de manera ilegal."
+      }
+    }
+  },
+  {
+    "modismo": "choripan",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "choripan",
+      "output": {
+        "definicion": "Choripan es un sándwich de chorizo asado en pan."
+      }
+    }
+  },
+  {
+    "modismo": "choriperro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "choriperro",
+      "output": {
+        "definicion": "Individuo astuto y oportunista."
+      }
+    }
+  },
+  {
+    "modismo": "chorizo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chorizo",
+      "output": {
+        "definicion": "Persona que comete robos o actos deshonestos."
+      }
+    }
+  },
+  {
+    "modismo": "chorola",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chorola",
+      "output": {
+        "definicion": "Designa una persona astuta o engañosa."
+      }
+    }
+  },
+  {
+    "modismo": "chorote",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chorote",
+      "output": {
+        "definicion": "Persona que emplea astucia para engañar."
+      }
+    }
+  },
+  {
+    "modismo": "choroto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "choroto",
+      "output": {
+        "definicion": "Persona considerada de escasa inteligencia o torpeza."
+      }
+    }
+  },
+  {
+    "modismo": "chorreada",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chorreada",
+      "output": {
+        "definicion": "Porción abundante de líquido servido en forma generosa."
+      }
+    }
+  },
+  {
+    "modismo": "chorreado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chorreado",
+      "output": {
+        "definicion": "Individuo que ha sido estafado o humillado."
+      }
+    }
+  },
+  {
+    "modismo": "chorrera",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chorrera",
+      "output": {
+        "definicion": "Cascada natural de agua."
+      }
+    }
+  },
+  {
+    "modismo": "choto",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "choto",
+      "output": {
+        "definicion": "Designa algo de escasa calidad o valor."
+      }
+    }
+  },
+  {
+    "modismo": "chucha",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chucha",
+      "output": {
+        "definicion": "Interjección que expresa sorpresa, dolor o irritación."
+      }
+    }
+  },
+  {
+    "modismo": "chucho",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chucho",
+      "output": {
+        "definicion": "Perro callejero o de raza mixta."
+      }
+    }
+  },
+  {
+    "modismo": "chuchuguaza",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chuchuguaza",
+      "output": {
+        "definicion": "Malestar físico resultante del consumo excesivo de alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "chuchumeco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chuchumeco",
+      "output": {
+        "definicion": "Individuo caracterizado por su desorden."
+      }
+    }
+  },
+  {
+    "modismo": "chucuchucu",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chucuchucu",
+      "output": {
+        "definicion": "Estado de extrema suciedad o desorden."
+      }
+    }
+  },
+  {
+    "modismo": "chueco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chueco",
+      "output": {
+        "definicion": "Desviado de lo ético o legal."
+      }
+    }
+  },
+  {
+    "modismo": "chulavita",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chulavita",
+      "output": {
+        "definicion": "Persona caracterizada por su extrema avaricia y reluctance a gastar."
+      }
+    }
+  },
+  {
+    "modismo": "chumado",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chumado",
+      "output": {
+        "definicion": "Es el estado de embriaguez causado por el alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "chumarse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chumarse",
+      "output": {
+        "definicion": "Embriagarse debido al consumo excesivo de alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "chumbar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chumbar",
+      "output": {
+        "definicion": "Reprobar en el ámbito educativo."
+      }
+    }
+  },
+  {
+    "modismo": "chumbe",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chumbe",
+      "output": {
+        "definicion": "Falsificación o imitación de un objeto o situación."
+      }
+    }
+  },
+  {
+    "modismo": "chumbo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chumbo",
+      "output": {
+        "definicion": "Persona que actúa de manera torpe e incompetente."
+      }
+    }
+  },
+  {
+    "modismo": "chumbo, ba",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chumbo, ba",
+      "output": {
+        "definicion": "Individuo caracterizado por su incompetencia y torpeza."
+      }
+    }
+  },
+  {
+    "modismo": "chunchurria",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chunchurria",
+      "output": {
+        "definicion": "Individuo charlatán que exagera en sus narraciones."
+      }
+    }
+  },
+  {
+    "modismo": "chundul",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chundul",
+      "output": {
+        "definicion": "Persona que actúa de manera torpe o desordenada."
+      }
+    }
+  },
+  {
+    "modismo": "chundú",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chundú",
+      "output": {
+        "definicion": "Representa un estado de desorden y suciedad."
+      }
+    }
+  },
+  {
+    "modismo": "chupalina",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chupalina",
+      "output": {
+        "definicion": "Persona que consume bebidas alcohólicas en exceso."
+      }
+    }
+  },
+  {
+    "modismo": "chupamedias",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chupamedias",
+      "output": {
+        "definicion": "Persona que adula excesivamente para obtener favores personales."
+      }
+    }
+  },
+  {
+    "modismo": "chupar",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chupar",
+      "output": {
+        "definicion": "Chupar denota la acción de beber alcohol hasta embriagarse."
+      }
+    }
+  },
+  {
+    "modismo": "chupundún",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chupundún",
+      "output": {
+        "definicion": "Un individuo que consume bebidas alcohólicas en exceso."
+      }
+    }
+  },
+  {
+    "modismo": "chuquio",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chuquio",
+      "output": {
+        "definicion": "Malestar físico tras el exceso de alcohol."
+      }
+    }
+  },
+  {
+    "modismo": "churco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "churco",
+      "output": {
+        "definicion": "Persona perezosa y poco dispuesta a realizar esfuerzos."
+      }
+    }
+  },
+  {
+    "modismo": "churo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "churo",
+      "output": {
+        "definicion": "Persona astuta y habilidosa."
+      }
+    }
+  },
+  {
+    "modismo": "churretearse",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "churretearse",
+      "output": {
+        "definicion": "Embriagarse en exceso."
+      }
+    }
+  },
+  {
+    "modismo": "churro",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "churro",
+      "output": {
+        "definicion": "Objeto o trabajo ejecutado de forma descuidada."
+      }
+    }
+  },
+  {
+    "modismo": "churrusco, ca",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "churrusco, ca",
+      "output": {
+        "definicion": "Carne de vaca asada a la parrilla."
+      }
+    }
+  },
+  {
+    "modismo": "churumbelo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "churumbelo",
+      "output": {
+        "definicion": "Desorden caótico y enredado en situaciones cotidianas."
+      }
+    }
+  },
+  {
+    "modismo": "churupo",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "churupo",
+      "output": {
+        "definicion": "Persona que muestra torpeza y falta de eficacia en sus acciones."
+      }
+    }
+  },
+  {
+    "modismo": "chusco",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chusco",
+      "output": {
+        "definicion": "Calificativo para personas o cosas divertidas y astutas."
+      }
+    }
+  },
+  {
+    "modismo": "chuspa",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chuspa",
+      "output": {
+        "definicion": "Pequeño saco o envoltorio para guardar objetos personales."
+      }
+    }
+  },
+  {
+    "modismo": "chusque",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chusque",
+      "output": {
+        "definicion": "Persona alta y delgada, característica de contextos regionales colombianos."
+      }
+    }
+  },
+  {
+    "modismo": "chuta",
+    "model": "x-ai/grok-3-mini-beta",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chuta",
+      "output": {
+        "definicion": "Chuta se emplea como interjección para expresar sorpresa o frustración."
+      }
+    }
   }
 ]
