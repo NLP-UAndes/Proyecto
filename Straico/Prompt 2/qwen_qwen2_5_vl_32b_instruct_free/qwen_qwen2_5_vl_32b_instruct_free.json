@@ -21295,5 +21295,6173 @@
         "success": false
       }
     }
+  },
+  {
+    "modismo": "chaperón",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chaperón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chapetera",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chapetera\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chapeto",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chapeto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chapil",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chapolera",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chapucear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chapulín",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chapulín\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chapín",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chapín",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chaquira",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chara",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "charamba",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "charanga",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "charanga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "charango",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "charango",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "charapa",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"charapa\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "charco",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "charola",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "charoso",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "charrasquear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "charrasquear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "charre",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "charre",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "charuco",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "charuco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chasquear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chasquear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chasís",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chatarrización",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chatas",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chato",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chato",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chaza",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chaza",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "checa",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"checa\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cheese cake",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"cheese cake\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chela",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chencha",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chengo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cheo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"cheo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chepa",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chepa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chepacorina",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chepacorina",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chepazo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chepazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chepito",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chepudo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cheque",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chequear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"Chequear\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chequita",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chere",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cheto",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chibugá",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chicanear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chicanero",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chicha",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chichazo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chicheme",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chicheme",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chichero",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "HTTPSConnectionPool(host='api.straico.com', port=443): Read timed out. (read timeout=120)"
+    }
+  },
+  {
+    "modismo": "chichigua",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chichipa",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chichipato",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chichipato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chicho",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chicho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chichonera",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chicludo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chico",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chicoria",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chicoria\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chicorio, ria",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chicorio, ria",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chicote",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chicote",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chicuaco",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chifladera",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiflamicas",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chifloreto",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiflón",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chiflón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chigualo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chilacuán",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chilapo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chilapo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chile",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chile",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chilena",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chilena",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chilindroso",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chilingueado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chilinguear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chillar",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chillar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chimba",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chimba\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chimbe",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chimbe",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chimbo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chimbo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chimó",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "china",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chinche",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chinchinchín",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chinchinchín\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chinchorro",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chinchorro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chingo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chingue",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chino",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chino",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chipa",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chipa\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chipaca",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chipolo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiporro",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiquero",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chiquero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chiquito",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chiquito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chiraco",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chiraco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chirario",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chirario",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chiras",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chiras\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chiribico",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chiribico",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chiripiado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiripiador",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiripiolca",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chiripiolca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chiripudo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chiripudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chiroso",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chiroso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chirriadera",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chirriado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chirrinche",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chirrinche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chirriquitico",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chirriquitico\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chisacá",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chisacá\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chisga",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chisguete",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chisguetear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chisguetear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chismosear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chismosear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chismoso",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"chismoso\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chispa",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chispa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chispazo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chispero",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chispiar",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chisporrotiar",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chispotear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chispón",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiste",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chistear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chita",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chitearse",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chitiado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiva",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chivatear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chivato",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiveado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chivear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chivera",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chivo,",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chivé",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chiyón",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "choca",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocante",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocar",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocato",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocha",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chochera",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocho",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocholear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chochora",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocolear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocorear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chocozuela",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chofer",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "choferear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chola",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cholado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "cholula",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chompa",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chompi",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chona",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "choneto",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chongo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chonta",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chontear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chontiado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chontudo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chorear",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "choripan",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "choriperro",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chorizo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chorola",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chorote",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "choroto",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chorreada",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chorreado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chorrera",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "choto",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chucha",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chucho",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chuchuguaza",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chuchumeco",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chucuchucu",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chueco",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chulavita",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chumado",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chumarse",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chumbar",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chumbe",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chumbo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chumbo, ba",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chunchurria",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chundul",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chundú",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chupalina",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chupamedias",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chupar",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chupundún",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chuquio",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "churco",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "churo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "churretearse",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "churro",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "churrusco, ca",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "churumbelo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "churupo",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chusco",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chuspa",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chusque",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
+  },
+  {
+    "modismo": "chuta",
+    "model": "qwen/qwen2.5-vl-32b-instruct:free",
+    "response": {
+      "error": "status=500",
+      "response": {
+        "error": {
+          "overall_price": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "overall_words": {
+            "input": 0,
+            "output": 0,
+            "total": 0
+          },
+          "completions": {
+            "qwen/qwen2.5-vl-32b-instruct:free": {
+              "completion": {
+                "error": "**Warning:** It seems we couldn't process your request this time, and rest assured, no coins were deducted. This might be due to:\n* Moderation of specific content.\n* Excessively large context for the LLM (context length: 33000).\n* High demands on our LLM providers.\n\nOur tip? Switching LLMs might just solve it."
+              },
+              "price": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "words": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              }
+            }
+          }
+        },
+        "success": false
+      }
+    }
   }
 ]

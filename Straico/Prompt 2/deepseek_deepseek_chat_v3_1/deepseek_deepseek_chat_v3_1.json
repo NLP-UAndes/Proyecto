@@ -1,0 +1,8770 @@
+[
+  {
+    "modismo": "abajeño",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abajeño",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abalear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abalear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abaleo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"abaleo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abanicar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanicar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abanico",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abanico",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abarco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abarrotes",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abarrotes",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abeja",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abeja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abejorrear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abejorrear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abismante",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abismante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abombado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abombado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aborrajado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aborrajado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abotar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abotar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abozao",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abozao",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrebocas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrebocas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrigar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrigar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abrirse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrirse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abrochar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abrochar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abuelita",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abuelita",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "abullonado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abullonado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aburria",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aburria",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aburrición",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aburrición",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acabado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acabado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acabarropa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acabarropa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acabose",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acabose",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acartonado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acartonado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acatar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acatar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "accesar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "accesar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aceite",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aceite",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acelerado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acelerado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acelere",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acelere",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acema",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acema",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achacado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achacado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achajuanado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achajuanado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achantado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achantado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achantar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achantar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achante",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achante",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achapado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achapado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achicar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achicharrar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicharrar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achicopalado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicopalado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achicopalar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achicopalar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achilado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achilado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achilar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achilar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achiote",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achiote",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achiquitar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achiquitar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achira",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achira",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "achucado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achucado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achucarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achucarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "achín",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "achín",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acobalar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acobalar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acolitar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acolitar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acomedirse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"acomedirse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "acondicionar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acondicionar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acordeonero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acordeonero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acose",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acose",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acosón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acosón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acotejar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acotejar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acudiente",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acudiente",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acuerpado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acuerpado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aculillarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aculillarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acurrucarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acurrucarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "acusaletas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acusaletas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acusetas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acusetas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "acápite",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "acápite",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aeróbicos",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aeróbicos",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afanar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afanar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afiche",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afiche",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afiebrado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afiebrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afiebrarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afiebrarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afilado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afilado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afilarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afilarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "afirmativo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afirmativo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aflojachocho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aflojachocho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aforar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aforar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afrijolar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afrijolar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "afugias",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "afugias",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agache",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agache",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agalla",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agalla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agalludo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agalludo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agarrar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agarrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agarrón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agarrón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agonía",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agonía",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agrieras",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agrieras",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agringarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agringarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agrio",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agrio",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agripado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agripado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agropecuario",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agropecuario",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "agua",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agua",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguacatado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguacatado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguacatarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguacatarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguacero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguacero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguachento",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguachento",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguaguado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguaguado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguaitacaminos",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguaitacaminos",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguaitar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguaitar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguajina",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguajina",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguallevame",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguallevame",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguamasa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguamasa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguamiel",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguamiel",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguamil",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguamil",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguanoso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguanoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguantador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguantador",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguarapar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguarapar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguardientoso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguardientoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguasal",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguasal",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguatero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguatero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguatudo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguatudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguijar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguijar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aguinaldo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguinaldo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agáchese",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agáchese",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agüerista",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agüerista",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agüero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agüero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ahogado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahogado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ahorcado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahorcado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ahorcar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahorcar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ahorita",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahorita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ahuyama",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahuyama",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ahí",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahí",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aire",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aire",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ajetreo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajetreo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ajiaco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajiaco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ajicie",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajicie",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ajustar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ajustar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ala",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ala",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alabado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alabado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alargue",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alargue",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alarma",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alarma",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alberca",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alberca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "albiriscado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "albiriscado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcabala",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcabala",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcahueta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcahueta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcahuetear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcahuetear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcancía",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcancía",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcanzado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcanzado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcanzamocho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcanzamocho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcaparro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcaparro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alcaraván",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcaraván",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alcayata",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alcayata",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alebrestar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alebrestar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alegadera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alegar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alegato",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alegrías",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegrías",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alegrón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alegrón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alentarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alentarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alepruz",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alepruz",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alerta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alerta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aleta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aleta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aletear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aletear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aletoso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aletoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alevino",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alevino",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alevoso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alevoso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alfabeto",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alfabeto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alfombrar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alfombrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alférez",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alférez",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "algo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "algo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "algotro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "algotro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alicoramiento",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alicoramiento",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alimentador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alimentador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alinderar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alinderar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aliprús",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aliprús",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alistar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alistar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aliñado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aliñado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "allacito",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "allacito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almacén",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almacén",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almidón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almidón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almirajó",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almirajó",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almojábana",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almojábana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "almorzadero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almorzadero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "almuercero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almuercero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "almuerzo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "almuerzo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alocado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alocado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alpargata",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alpargata",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alpargatudo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alpargatudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "altamisa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altamisa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "altanero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altanero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "altanería",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altanería",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "altillo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altillo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alto",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "altoparlante",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "altoparlante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alucema",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alucema",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aluzar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aluzar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "alzado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alzado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amacice",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amacice",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amacizar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amacizar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amagallar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amagallar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amalayarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amalayarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amanecedero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amanecedero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amanecer",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amanecer",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amanecido",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amanecido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amangualarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amangualarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amansar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amansar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amarga",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amarga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amarillearse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amarillearse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amarradijo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amarradijo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amarrar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amarrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amartelado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amartelado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amañador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amañador",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amañarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amañarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ambil",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ambil",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "americano",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "americano",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ameritar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ameritar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amigovio",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amigovio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amiguero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amiguero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amojonarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amojonarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amonado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amonado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "anaco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anaco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "anamú",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anamú",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "anchar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anchar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "anche",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anche",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ancheta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ancheta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ancho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ancho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "anchovero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anchovero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "andado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "andado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "andareguear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "andareguear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "andén",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "andén",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "angelito",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "angelito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "angeo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "angeo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "angurriento",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "angurriento",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "angurrioso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "angurrioso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "anillado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "anillado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "animalero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "animalero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "antejardín",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antejardín",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antimotines",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antimotines",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antisocial",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antisocial",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antojado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antojado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "antojarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antojarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "antojoso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antojoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "antualito",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "antualito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apachurrado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apachurrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apachurrar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apachurrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apalastrado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apalastrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apaleado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apaleado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apanado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apanado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apapachar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apapachar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aparatejo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aparatejo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aparatiado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aparatiado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aparecido",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aparecido",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apartamento",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apartamento",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apechichar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apechichar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apelotardar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apelotardar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apenado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apenado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apenarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apenarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aperar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aperar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apercollar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apercollar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aperezarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aperezarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apestar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apestar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apeto",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apeto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apeñuscado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apeñuscado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apicharse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apicharse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apilonar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apilonar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aplanchado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplanchado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aplanchado, da",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplanchado, da",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aplanchar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplanchar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aplastarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplastarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aplicar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplicar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aporreada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aporreada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aporrión",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aporrión",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aportante",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aportante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apostador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apostador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apretar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apretar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apuntarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apuntarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "apurarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apurarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aquisito",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aquisito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "araguato",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "araguato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arandela",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arandela",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arapaima",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arapaima",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arawuana",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arawuana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arazá",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arazá",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arbolear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arbolear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arboloco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arboloco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arborización",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arborización",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arborizar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arborizar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arción",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arción",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ardencia",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ardencia",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ardido",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ardido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arenera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arenera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arenga",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arenga",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arepazo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arepazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arepear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arepear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arequipe",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"arequipe\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "areta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "areta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "argolla",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "argolla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "argollar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "argollar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arisco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arisco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arizá",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arizá",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arma",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arma",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "armatroste",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "armatroste",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arniada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arniada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arracachada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arracachada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrancadas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrancadas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrancado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrancado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrancamuelas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrancamuelas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arranque",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arranque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrastraderas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrastraderas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrastrado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrastrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrastrar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrastrar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrau",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrau",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrecho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrecho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrechón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrechón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arregionado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arregionado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arreglar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arreglar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arremedar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arremedar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrempujar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrempujar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arremuesco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arremuesco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arreo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arreo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arriado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arriado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arribar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arribar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arriero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arriero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arriesgada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arriesgada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrimadero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrimadero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrimado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrimado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrimar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrimar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arriscar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arriscar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrodillado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrodillado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "arrozudo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrozudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrugarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrugarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrumar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrumar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrume",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrume",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arruncharse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arruncharse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrunche",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrunche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "arrutanao",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "arrutanao",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "artillero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "artillero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aruñar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aruñar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aruñón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aruñón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "as",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "as",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asado, da",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asado, da",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asaí",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asaí",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aseador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aseador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asocio",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asocio",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asolapado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asolapado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asoleada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asoleada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asolear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asolear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asomadera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asomadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "asquiento",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asquiento",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "asumir",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asumir",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atacado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atacado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atafagar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atafagar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atajada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atajada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atajar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atajar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atalayero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atalayero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ataque",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ataque",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atarantado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarantado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atarantarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarantarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atarragarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarragarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atarraya",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarraya",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atarrosarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarrosarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atarván",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarván",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atarzanar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atarzanar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ataviar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ataviar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atembado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atembado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atenerse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atenerse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atenido",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atenido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atol",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atol",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "atorador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atorador",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atorarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atorarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atortolado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atortolado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atrabancado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atrabancado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atracacunas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atracacunas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atravesado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atravesado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atronado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atronado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atufado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atufado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atulampado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atulampado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atulampar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "raw_response": "{\n```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"atulampar\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aturugarse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aturugarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atutado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atutado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "auca",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "auca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "auchar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "auchar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aulagas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aulagas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aullar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aullar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ausentismo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ausentismo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "autoferro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "autoferro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "autopartes",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "autopartes",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avaluador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avaluador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avemaría",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avemaría",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aventado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aventado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "averaguado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "averaguado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "averiguadera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "averiguadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "averigüetas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "averigüeñas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "avichucho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avichucho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "avionada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avionada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "avispa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avispa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "avispero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avispero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "avivato",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avivato",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "avión, na",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avión, na",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "avío",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avío",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ayahuasca",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ayahuasca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ayayais",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ayayais",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azafrán",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azafrán",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azarado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azarado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "azarar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azarar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "azare",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azare",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azaroso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azaroso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azorada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azorada",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azotea",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azotea",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "azul",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azul",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azulejo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azulejo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "añales",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "añales",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "añejo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "añejo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "año",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "año",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baba",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baba",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "babilla",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "babilla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "babosada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "babosada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "baby",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baby",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bacaba",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacaba",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bacanería",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacanería",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bacano",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacano",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bacao",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacao",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bacenilla",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacenilla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bachaco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bachaco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bache",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bache",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bacán",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bacán",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "badea",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "badea",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bagazo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bagazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bagre",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bagre",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bahareque",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bahareque",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bahía",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bahía",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bailador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bailador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baile",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baile",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baja",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bajalenguas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bajalenguas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bajonear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bajonear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bala",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bala",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balaca",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balaca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "balacera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balacera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "balache",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balache",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "balancear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balancear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balanza",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balanza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balastro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balastro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balay",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balay",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "balcón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balcón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baldado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baldado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "balde",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balde",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baldosa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baldosa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baldío",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baldío",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "balero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balneario",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balneario",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balota",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balota",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balsámica",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balsámica",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "balurdo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "balurdo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bamba",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bamba",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bambazú",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bambazú",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bambinazo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bambinazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bambuco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bambuco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "banana",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banana",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bananero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bananero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bananiar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bananiar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "banano",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banano",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banca",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banda",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banda",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bandeja",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bandeja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bandera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bandera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "banderazo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banderazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "banderear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banderear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bandido",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bandido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bandola",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bandola",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bangaña",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bangaña",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "banquear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banquear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "banquetero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banquetero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "banquitas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banquitas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bao",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bao",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "baquiano",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baquiano",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barajar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barajar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barajustar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barajustar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barajuste",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barajuste",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "baratero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baratero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barato",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbachato",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbachato",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barbasco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"barbasco\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "barbasqueado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbasqueado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbasquear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbasquear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barbecue",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbecue",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbiancho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbiancho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barbuchas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbuchas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barbudo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barbudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barequear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barequear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barequeo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barequeo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barequero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barequero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bareto",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bareto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barquilla",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barquilla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barra",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barrera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barretón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barretón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "barrial",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrial",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barrida",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrida",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barril",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barril",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barrilete",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrilete",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barrio",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barrio",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "barulaque",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "barulaque",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "base",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "base",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "basquetbol",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "basquetbol",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "basquetbolista",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "basquetbolista",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bastimento",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bastimento",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bastonero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bastonero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bastón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bastón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bata",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bata",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bataclana",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bataclana",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "batanear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batanear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "batea",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batea",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "batir",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batir",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "batola",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batola",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "batuso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "batuso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bayetilla",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bayetilla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bazar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bazar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bazo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bazuco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bazuco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bazuquero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bazuquero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bañar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bañar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bañera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bañera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baño",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baño",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "baúl",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "baúl",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "be",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "be",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bebeco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bebeco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bebedero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bebedero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bebeta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bebeta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "beich",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "beich",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bejuco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bejuco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "belfo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "belfo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "belleza",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "belleza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bellísima",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bellísima",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bemba",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"bemba\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "bembear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bembear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bembón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bembón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bendición",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bendición",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "beneficiadero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "beneficiadero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "beriberi",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "beriberi",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "berma",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berma",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "berraquillo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berraquillo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "berreadera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berreadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "berrietas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berrietas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "berrinche",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berrinche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "berroche",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "berroche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "biao",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "biao",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "biblia",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "biblia",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "biche",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "biche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bicho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bicho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bichuraco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bichuraco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bichuría",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bichuría",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bicicletero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bicicletero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bien",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bien",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bifamiliar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bifamiliar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bifé",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bifé",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bijao",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bijao",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "billar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "billar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "billete",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "billete",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "billuyo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "billuyo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bilocho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bilocho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bimbo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bimbo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "birimbí",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "birimbí",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "birra",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "birra",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "birria",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "birria",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "birrioso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "birrioso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bitute",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bitute",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bizcochería",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bizcochería",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bizcocho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bizcocho",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bizcorneto",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bizcorneto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "biósfera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "biósfera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blablablá",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blablablá",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blanqueada",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blanqueada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "blanqueado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blanqueado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "blanqueador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blanqueador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blanquear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blanquear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blindar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blindar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "blof",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blof",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bloqueador",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bloqueador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blower",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blower",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "blumas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blumas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bluyín",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bluyín",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bobo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bobo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bocachico",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocachico",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocadillo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocadillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocana",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocana",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bocel",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocel",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocina",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocina",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocín",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocín",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bocón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bocón, a",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bocón, a",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boda",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boda",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bodega",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bodega",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bodoque",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bodoque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bogadera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bogadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bogar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bogar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bojote",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bojote",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bola",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bola",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bolañero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolañero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bolera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boleta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boleta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boletear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boletear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boleteo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boleteo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boletería",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boletería",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boli",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boli",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bolillo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolillo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bolinillo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolinillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bolita",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bolión",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolión",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bollo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bollo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bolo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bololó",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bololó",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bolsillo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolsillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bomba",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bomba",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bombacho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bombacho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bombero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bombero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bombillo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bombillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bon bon bum",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bon bon bum",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bongo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bongo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bonitico",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bonitico",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bonitico, ca",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bonitico, ca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bono",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bono",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquiancha",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquiancha",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boquiar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquiar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquiduro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquiduro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquiflojo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquiflojo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boquineto",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquineto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "boquisabroso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquisabroso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "boquisucio",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "boquisucio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bordón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bordón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bordón, na",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bordón, na",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bore",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bore",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "borona",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "borona",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "borondo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "borondo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "borrachero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "borrachero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "borugo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "borugo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bota",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bota",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botadero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botadero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "botado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "botalón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botalón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "botaratas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botaratas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bote",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bote",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botella",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botella",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "botilito",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botilito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bracero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bracero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bramadero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bramadero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brasier",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brasier",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bravero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bravero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "braviar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "braviar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bravo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bravo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "brazo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brazo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "breva",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "breva",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "breve",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "breve",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brevo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brevo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "brilladora",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brilladora",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "brincar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brincar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brinconear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brinconear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "brincón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brincón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "briqué",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "briqué",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "brisar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brisar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "brocha",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brocha",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bronquinoso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bronquinoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "brotado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brotado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "brotar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brotar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bruja",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bruja",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "brujear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "brujear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buchaca",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchaca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buchipluma",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchipluma",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buchácara",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchácara",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buchón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buchón, na",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buchón, na",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "budare",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "budare",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buenamente",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buenamente",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buenamoza",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buenamoza",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buenavida",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buenavida",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bueno",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bueno",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buenón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buenón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bufeo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bufeo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buganvil",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buganvil",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buitrón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buitrón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bulla",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bulla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bullaranga",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bullaranga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bullerengue",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bullerengue",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bulloso",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"bulloso\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "bullugo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bullugo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bulto",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bulto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "burletero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burletero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "burra",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "burrero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burrero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "burro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "burundanga",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burundanga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "burusa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "burusa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bus",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bus",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buscaniguas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buscaniguas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buscapiés",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buscapiés",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buscapleitos",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buscapleitos",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buseta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buseta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buseto",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buseto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bustona",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bustona",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "butaca",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "butaca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "butatón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "butatón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "butifarra",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "butifarra",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buziraco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buziraco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "buzo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buzo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "buñuelo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "buñuelo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "béisbol",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "béisbol",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bómper",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bómper",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bóveda",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bóveda",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bóxer",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bóxer",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "búcaro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "búcaro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabalidad",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabalidad",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caballete",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caballete",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caballito",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caballito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caballote",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caballote",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabecear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabecera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabecinegro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecinegro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabecipelado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecipelado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabecizoco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabecizoco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabello",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabello",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabestrear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabestrear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabestrillo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabestrillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabestro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabestro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabeza",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabeza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabezal",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabezal",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabezazo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabezazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabezón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabezón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabildo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabildo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabinero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabinero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabra",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cabreado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabreado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabrearse",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabrearse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabrito",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabrito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabuco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabuco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabuya",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabuya",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacao",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacao",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacha",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacha",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachacero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachacero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachaco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachaco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachaloa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachaloa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachapa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachapa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacharrear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacharrear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacharrero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacharrero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacharro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacharro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachaza",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachaza",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachazo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachetear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachetear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachetero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachetero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachezudo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachezudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachicado",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachicado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachicamo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachicamo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachicar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachicar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachichí",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachichí",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachifa",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachifa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachifo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachifo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachiporro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachiporro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachirre",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachirre",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachitanta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachitanta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachivera",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachivera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacho",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachona",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachona",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachonear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachonear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachucha",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachucha",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachumbo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachumbo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caché",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caché",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachín",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachín",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacorro",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacorro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cacota",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacota",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cacreco",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cacreco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cadena",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cadena",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caderón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caderón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cadillo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cadillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cadmia",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cadmia",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caedizo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caedizo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caer",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caer",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cafetero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cafetero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cafongo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cafongo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cafuche",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cafuche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "café",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "café",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caga",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caga",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cagadero",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagadero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cagar",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cagarruta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagarruta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caguana",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caguana",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caguetas",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caguetas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cagá",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagá",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cagón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cagüinga",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagüinga",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cagüingo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cagüingo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caimacán",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caimacán",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caimanear",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caimanear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caimarón",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caimarón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caimo",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caimo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "caja",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caja",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cajeta",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"cajeta\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cajeto",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cajeto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cajonero, ra",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cajonero, ra",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  }
+]

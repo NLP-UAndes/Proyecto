@@ -41756,5 +41756,8977 @@
         "es_modismo": "No"
       }
     }
+  },
+  {
+    "modismo": "saludes",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "saludes",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "saludo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "saludo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "salvar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "salvar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "salvavidas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "salvavidas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sanagua",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sanagua",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sanandresito",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sanandresito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sancochado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sancochado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sancochar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sancochar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sancochería",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sancochería",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sancocho",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sancocho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sandi",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sandi",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sango",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sango",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sangrerío",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sangrerío",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sanjuanero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sanjuanero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sano",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sano",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "santo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "santo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sapeada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sapeada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sapear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sapear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sapo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sapo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "saporrito",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "saporrito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sapotear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sapotear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "saque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "saque",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sarapa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sarapa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sarapaté",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sarapaté",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "saratano",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "saratano",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "saraviado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "saraviado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sardinel",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sardinel",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sardino",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sardino",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sastre",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sastre",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "satelital",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "satelital",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sayayín",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sayayín",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sebo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sebo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sebucán",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sebucán",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "seco, ca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "seco, ca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "secretos",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "secretos",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "secuestro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "secuestro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "seguido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "seguido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "seguir",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "seguir",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "segundillas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "segundillas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "seje",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "seje",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "seleccionado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "seleccionado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "semaforización",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "semaforización",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "semillero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "semillero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sencillo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sencillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sentenciar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sentenciar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sentirse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sentirse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "separador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "separador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "separar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "separar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "septimazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "septimazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ser",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ser",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "serenarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "serenarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "serenatero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "serenatero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "serrucho",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "serrucho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "servicentro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "servicentro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "servicio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "servicio",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "serviteca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "serviteca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "severo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "severo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sexapiloso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sexapiloso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "seño",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "seño",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "señorero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "señorero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sicariato",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sicariato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sicosearse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sicosearse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sicosiado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sicosiado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "siempre",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "siempre",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sietecueros",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sietecueros",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sifón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sifón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "silbada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "silbada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "silbador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "silbador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "silbatina",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "silbatina",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "silbón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "silbón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "silleta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "silleta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "silletero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "silletero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "silletería",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "silletería",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "simple",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "simple",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "simpático",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "simpático",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sindicado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sindicado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sinvergüenzada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sinvergüenzada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sinvergüenzón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sinvergüenzón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "siquiera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "siquiera",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sismatiquería",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sismatiquería",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sobadera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sobandero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobandero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sobar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sobradez",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobradez",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sobrado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sobrado, da",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobrado, da",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sobrador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobrador",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sobre",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobre",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sobreaguar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobreaguar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sobrebarriga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobrebarriga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sobrecupo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobrecupo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sobremesa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobremesa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sobrepoblación",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobrepoblación",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sociega",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sociega",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "soco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "soco, ca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soco, ca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "socolar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "socolar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "soda",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soda",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sol",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sol",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "solar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "solar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "soledad",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soledad",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "solito",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "solito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sollado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sollado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "solterita",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "solterita",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "solterón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "solterón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "soltura",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soltura",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sombrilla",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sombrilla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "son",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "son",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sonar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sonar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "songo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "songo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sopero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sopero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sopetear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sopetear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sopladera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sopladera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "soplado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soplado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "soponcio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soponcio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sorlevar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sorlevar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sornero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sornero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "soroche",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soroche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "soroco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soroco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sorpresa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sorpresa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sortija",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sortija",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "soye",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "soye",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "strapless",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "strapless",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "suave",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "suave",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sube y baja",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sube y baja",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "subido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "subido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "subienda",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "subienda",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "submarino",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "submarino",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sucio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sucio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "suelazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "suelazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "suero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "suero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sueñera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sueñera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sufragante",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sufragante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sufragar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sufragar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sufridera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sufridera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sufrido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sufrido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sumercé",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sumercé",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sumir",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sumir",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sungo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sungo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "surrungiar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "surrungiar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "surullo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "surullo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "surumba",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "surumba",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "suspiro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "suspiro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sute",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sute",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sábalo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sábalo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sánduche",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sánduche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "súpito",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "súpito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tabaquero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tabaquero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tabla",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tabla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tablúo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tablúo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tacacho",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tacacho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tacada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tacada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tacado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tacado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tacar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tacar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taita",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taitapuro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taitapuro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tal",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tal",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "talambuque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "talambuque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "talego",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "talego",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tallar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tallar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taller",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taller",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tallerista",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tallerista",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tamal",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tamal",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tambo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tambo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tanda",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tanda",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tanga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tanga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tanganazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tanganazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tangarana",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tangarana",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tanto",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tanto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tapado, da",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tapado, da",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tapar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tapar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tapiado, da",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tapiado, da",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tapiar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tapiar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taponamiento",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taponamiento",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "taque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taqueada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taqueada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taqueado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taqueado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taquear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taquear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taquito",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taquito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tarabita",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tarabita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taranta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taranta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tarascazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tarascazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tardear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tardear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tarea",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tarea",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "taricaya",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taricaya",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tarra",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tarra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tarrado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tarrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tatabro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tatabro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tatequieto",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tatequieto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "taud",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taud",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "taya",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "taya",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "teatro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "teatro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tegua",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tegua",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tela",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tela",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "teletón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "teletón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "televidencia",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "televidencia",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "temblador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "temblador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "temblón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "temblón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "temperar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "temperar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "templado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "templado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "templarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "templarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "temple",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "temple",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "templeta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "templeta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tenaz",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tenaz",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tendido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tendido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tener",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tener",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tensionar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tensionar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "terciarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "terciarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "terecay",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "terecay",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "terreno",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "terreno",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "terronera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "terronera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "teso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "teso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "teta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "teta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tetear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tetear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tetiado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tetiado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "textilero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "textilero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tibio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tibio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tiempo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tiempo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tigre",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tigre",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tilinga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tilinga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tilín",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tilín",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "timbico",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "timbico",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "timbo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "timbo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tinajo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tinajo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tinieblo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tinieblo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tinta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tinta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tinterillo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tinterillo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tintero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tintero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tintín",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tintín",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tintín corre corre",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tintín corre corre",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tipití",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tipití",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tipo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tipo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tiquete",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tiquete",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tiradera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tiradera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tirado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tirado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tiranta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tiranta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tiranuelo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tiranuelo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tirar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tirar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tiritingo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tiritingo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tirito",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tirito",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tiro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tiro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "titino",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "titino",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tití",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tití",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tiza",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tiza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tobo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tobo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tocadera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tocadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tocado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tocado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tocar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tocar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tocata",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tocata",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "toche",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "toda",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toda",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "todero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "todero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "toitico",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toitico",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "toldillo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toldillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "toldo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toldo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tole",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tole",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "toloncho",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toloncho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tomacorriente",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tomacorriente",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tomadera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tomadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tomador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tomador",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tomar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tomar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tomata",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tomata",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tomatrago",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tomatrago",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tombo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tombo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tonchalero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tonchalero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tonina",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tonina",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "topa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "topa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "topar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "topar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "topo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "topo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "toposo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toposo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "toque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "torbellino",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "torbellino",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "torcaza",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "torcaza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "torcido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "torcido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "torear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "torear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "torreja",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "torreja",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "torta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "torta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tortero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tortero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "toruro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toruro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tostada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tostada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tostado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tostado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "totazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "totazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tote",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tote",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "totear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "totear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "totumada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "totumada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "Toño",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "Toño",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "traba",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "traba",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trabajoso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trabajoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tracalada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tracalada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tracción",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tracción",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tractomula",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tractomula",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "traga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "traga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tragadera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tragadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tragamonedas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tragamonedas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tragantina",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tragantina",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tragar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tragar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trago",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trago",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "traje",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "traje",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tramacazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tramacazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tramada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tramada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tramar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tramar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trambucar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trambucar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tramitología",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tramitología",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tramoyero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tramoyero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trancado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trancado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trancar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trancar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trancón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trancón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "transar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "transar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "transporte",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "transporte",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "trapeador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trapeador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "trapeadora",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trapeadora",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "trapear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trapear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trapera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trapera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trapero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trapero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trapiche",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trapiche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "traqueteado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "traqueteado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "traquetear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "traquetear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "traqueto",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "traqueto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trasbocar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trasbocar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trasnocharse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trasnocharse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "trasteo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trasteo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trasto",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trasto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trastornar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trastornar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "trebejos",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trebejos",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tren",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tren",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "trifásico",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trifásico",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "trilla",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trilla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trillar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trillar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trimotiles",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trimotiles",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trinche",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trinche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trincho",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trincho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trinitaria",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trinitaria",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tripa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tripa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tripazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tripazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tripudo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tripudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "triqui",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "triqui",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trochador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trochador",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "troilo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "troilo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "trompa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trompa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trompear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trompear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trompo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trompo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trompón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trompón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tronador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tronador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "troncal",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "troncal",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tronchar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tronchar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tronco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tronco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tropel",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tropel",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tropelero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tropelero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trotar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trotar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trote",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trote",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trozuda",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trozuda",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "trueques",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trueques",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "trupillo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "trupillo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tuca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tuche",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tuco, ca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuco, ca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tucunaré",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tucunaré",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tucupí",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tucupí",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tucusito",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tucusito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tulpa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tulpa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tumaqueño",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tumaqueño",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tumbada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tumbada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tumbar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tumbar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tumbilis",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tumbilis",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tume",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tume",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tuna",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuna",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tungo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tungo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tungo, ga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tungo, ga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tunjo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tunjo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tuno",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuno",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tuntuniento",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuntuniento",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tuntún",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuntún",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tupirse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tupirse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tuplú",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuplú",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tuquio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuquio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "turistear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "turistear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "turmequé",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "turmequé",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "turpial",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "turpial",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "turro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "turro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "turuleto",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "turuleto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "turumama",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "turumama",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "turupe",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "turupe",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tusada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tusada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tusar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tusar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tuste",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tuste",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tángara",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tángara",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "táparo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "táparo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "término",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "término",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tío",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tío",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "tóxico",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tóxico",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "túmbilo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "túmbilo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "u",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "u",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ubicar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ubicar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ultimorrial",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ultimorrial",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "umarí",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "umarí",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "umpire",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "umpire",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "una",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "una",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ungir",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ungir",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "unidad",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "unidad",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "uniformado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "uniformado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "uniforme",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "uniforme",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "untada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "untada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "untar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "untar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "urgido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "urgido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "utilero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "utilero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "uva",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "uva",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "uña",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "uña",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "útiles",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "útiles",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vaca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vaca",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vacacionar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vacacionar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vaciada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vaciada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vaciado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vaciado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vaciar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vaciar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vacilar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vacilar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vacilón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vacilón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vacuna",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vacuna",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vagabundería",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vagabundería",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vagabundo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vagabundo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vaina",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vaina",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vainazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vainazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vale",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vale",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "valla",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "valla",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vallenato",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vallenato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "valor",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "van",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "van",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "varado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "varado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "varar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "varar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "varasanta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "varasanta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "variante",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "variante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "varilla",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "varilla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "varón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "varón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vasado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vasado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vastagosa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vastagosa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ve",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ve",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "veinticuatro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "veinticuatro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "veintiúnico",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "veintiúnico",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vejestorio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vejestorio",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "velar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "velar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "velón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "velón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vena",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vena",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vencerse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vencerse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vencido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vencido",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vendaje",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vendaje",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ventajoso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ventajoso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ventanear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ventanear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "venteado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "venteado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ventiado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ventiado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ventiar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ventiar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "veranera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "veranera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vereda",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vereda",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "verga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "verga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vergajada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vergajada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vergajo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vergajo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "verguero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "verguero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "verraco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "verraco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "verraquera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "verraquera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "verriondera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "verriondera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "verriondo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "verriondo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "verrugosa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "verrugosa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vertical",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vertical",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vestido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vestido",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vestidor",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vestidor",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vestier",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vestier",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "veterano",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "veterano",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "viajado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viajado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vianda",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vianda",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "viaticar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viaticar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vibra",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vibra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vida",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vida",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vidrioso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vidrioso",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vieja",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vieja",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "viejera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viejera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "viejerío",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viejerío",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "viernes",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viernes",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "viga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viga",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vikingo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vikingo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "villamarquín",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "villamarquín",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vincha",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vincha",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vinete",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vinete",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "violento",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "violento",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "violinista",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "violinista",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "violín",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "violín",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "viringo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viringo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "viruta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viruta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "visa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "visa",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "visaje",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "visaje",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "visajoso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "visajoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "visita",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "visita",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vistas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vistas",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vitrina",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vitrina",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vitrinear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vitrinear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "viudo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viudo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "viáticos",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "viáticos",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "voceador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "voceador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "voladero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "voladero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "volado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "volado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "volado, da",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "volado, da",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "voladora",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "voladora",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "volandas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "volandas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "volante",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "volante",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "volarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "volarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "volate",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "volate",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "voleo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "voleo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "volqueta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "volqueta",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "voltaje",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "voltaje",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "voltiarepas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "voltiarepas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vos",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vos",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "voz",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "voz",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vuelo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vuelo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vuelta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vuelta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vueltón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vueltón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "várzea",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "várzea",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "váucher",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "váucher",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "vía",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vía",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "waffle",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "waffle",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yanabe",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yanabe",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yare",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yare",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yarumo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yarumo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yaré",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yaré",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yata",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yata",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yax",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yax",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ye",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ye",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yerbatero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yerbatero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yermis",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yermis",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yerto",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yerto",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yesquero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yesquero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yeyo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yeyo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yipao",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yipao",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yopo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yopo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yota",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yota",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yuco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yuco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yucuta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yucuta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yulo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yulo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yunga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yunga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yunta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yunta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yuquero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yuquero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yuruparí",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yuruparí",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "yátaro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yátaro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zafado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zafado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zafarrancho",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zafarrancho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zafarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zafarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zafo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zafo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zamarros",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zamarros",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zambapalo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zambapalo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zambo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zambo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zambumbia",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zambumbia",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zamuro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zamuro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zanahorio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zanahorio",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "zancudero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zancudero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zancudo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zancudo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "zancón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zancón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zangolotear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zangolotear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zapallo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zapallo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zapato",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zapato",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "zaperoco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zaperoco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zapote",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zapote",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zaragoza",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zaragoza",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "zarapa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zarapa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zarazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zarazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zarco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zarco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "zarzo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zarzo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "zoca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zoca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zona",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zona",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "zopenco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zopenco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zorra",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zorra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zorrero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zorrero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zorrongo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zorrongo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zumbador",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zumbador",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "zumbambico",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zumbambico",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zumbar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zumbar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zuncho",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zuncho",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zunga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zunga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zuro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zuro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zurrapa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zurrapa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zurrumbo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zurrumbo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zurrón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zurrón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "zurumbático",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zurumbático",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zángano",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zángano",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñacaroso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñacaroso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñame",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñame",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñango",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñango",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñapa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñapa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñapanga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñapanga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñapango",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñapango",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñatas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñatas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñato",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñato",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñeque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñeque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñervo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñervo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ñingrí",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñingrí",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñoco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñoco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñonco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñonco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñongado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñongado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñoño",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñoño",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñuco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñuco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ñurido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ñurido",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "a cabalidad",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "a cabalidad",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "a juro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "a juro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "a lo bien",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "a lo bien",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "a lo que dé el tejo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "a lo que dé el tejo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "a mansalva",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "a mansalva",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "a todo taco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "a todo taco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "abagó",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "abagó",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agallinado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agallinado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "agallinar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "agallinar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aguadijiar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aguadijiar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ahoritica",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ahoritica",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "alpargatón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "alpargatón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "amañado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amañado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ambicia",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ambicia",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "amenito",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "amenito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "andadera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "andadera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "andar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "andar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "aperado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aperado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aperezado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aperezado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aplatanado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aplatanado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "apuntalar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "apuntalar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "argollado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "argollado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "argollero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "argollero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "asentar los cascos",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asentar los cascos",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "asentarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asentarse",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "asistir",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "asistir",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "ataúd de las ánimas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ataúd de las ánimas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atembar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atembar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "aterrizar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "aterrizar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atisbón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atisbón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atortolarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atortolarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "atrincar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "atrincar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "avivatada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "avivatada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ayudado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ayudado",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "azogado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azogado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "azucararse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "azucararse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "badulaque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "badulaque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bajareque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bajareque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "banderearse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "banderearse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bareque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bareque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bichirón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bichirón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "biscorneto",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "biscorneto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bitoque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bitoque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "blanco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "blanco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "bolate",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bolate",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "bombada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "bombada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "botar corriente",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "botar corriente",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caballo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caballo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cabalmente",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cabalmente",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cachilapo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachilapo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachimonis",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachimonis",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cachorro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cachorro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caerse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caerse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "candelero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "candelero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "canillero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "canillero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "capamicos",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "capamicos",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "capellanía",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "capellanía",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "carachoso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "carachoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "carameliar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "carameliar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caratoso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caratoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caraza",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caraza",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cargue",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cargue",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cascarilla",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cascarilla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "caspetudo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "caspetudo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "centaviar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "centaviar",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chanchiro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chanchiro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chanfa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chanfa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chipola",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chipola",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chirringo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chirringo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chisgua",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chisgua",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chispeadura",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chispeadura",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "chispear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chispear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chorrearse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chorrearse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chuchingo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chuchingo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chulla",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chulla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chumba",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chumba",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chunchoso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chunchoso",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chusmero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chusmero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chéchere",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chéchere",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "chúpame las cáscaras",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "chúpame las cáscaras",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cocha",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cocha",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "conejero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "conejero",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cosca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cosca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cositero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cositero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "costaleo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "costaleo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "coyabra",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "coyabra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "crem",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "crem",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cuadrado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cuadrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cucarrearse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cucarrearse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cucharearse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cucharearse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cuco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cuco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cuido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cuido",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "cunga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cunga",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "cuítiva",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "cuítiva",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "célebre",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "célebre",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "decolaje",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "decolaje",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "deje",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "deje",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "demónchiros",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "demónchiros",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "derechura",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "derechura",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "desabrochado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "desabrochado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "desafortunadamente",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "desafortunadamente",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "desarrancharse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "desarrancharse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "descuerada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "descuerada",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "desgonzado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "desgonzado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "deshuevarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "deshuevarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "despepado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "despepado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "dolor de cabeza",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "dolor de cabeza",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "dígame",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "dígame",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "echar clavija",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "echar clavija",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "echar ojo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "echar ojo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "el algo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "el algo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "embarrarla",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "embarrarla",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "embarruntar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "embarruntar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "empandorgarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "empandorgarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "emparamado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "emparamado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "en chaquess de",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "en chaquess de",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "enfuertar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "enfuertar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "engerido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "engerido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "engomado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "engomado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "enquimbarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "enquimbarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "escachalandrado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "escachalandrado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "escapito",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "escapito",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "estar bien parado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "estar bien parado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "estartazo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "estartazo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "estrellón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "estrellón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "fajarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "fajarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "fifirichas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "fifirichas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "fucha",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "fucha",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "furuminga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "furuminga",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "guapirrear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "guapirrear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "güevón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "güevón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "güinche",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "güinche",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "hacer cuarto",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "hacer cuarto",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "hacer cucarrón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "hacer cucarrón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "hacer hasta para vender",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "hacer hasta para vender",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "hacerse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "hacerse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "hermanolo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "hermanolo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "horcón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "horcón",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "iji",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "iji",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "intervenir",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "intervenir",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "itaña",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "itaña",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "jalarle",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "jalarle",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "jipata",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "jipata",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "jojoro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "jojoro",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "juaica",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "juaica",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "jurumba",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "jurumba",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "jurungo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "jurungo",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "la quinta porra",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "la quinta porra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "lagartería",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "lagartería",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "lancha",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "lancha",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "las viejas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "las viejas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "leído",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "leído",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "loca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "loca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "locha",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "locha",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "lunarejo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "lunarejo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "lupias",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "lupias",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "machucarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "machucarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "madremonte",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "madremonte",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "magué",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "magué",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "mamar gallo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "mamar gallo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "mana",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "mana",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "manfifio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "manfifio",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "manosear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "manosear",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "marramucia",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "marramucia",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "matiné",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "matiné",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "mejengue",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "mejengue",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "meterle julepe",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "meterle julepe",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "miquingo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "miquingo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "mire a ver",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "mire a ver",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "mogote",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "mogote",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "moridera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "moridera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "mosco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "mosco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "míster",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "míster",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "nave",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "nave",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "necear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "necear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "niguatero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "niguatero",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "no estar el palo para hacer cucharas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "no estar el palo para hacer cucharas",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "no saber o entender ni papa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "no saber o entender ni papa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "no tener pierde",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "no tener pierde",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ojos brotados",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ojos brotados",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "pachocha",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "pachocha",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "pachorrear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "pachorrear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "papa caliente",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "papa caliente",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "pasar aceite",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "pasar aceite",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "patirrajado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "patirrajado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "petaquearse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "petaquearse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "picar el ojo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "picar el ojo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "pingua",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "pingua",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "piste",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "piste",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "plebe",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "plebe",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "poner conejo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "poner conejo",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "popora",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "popora",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "pordebajear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "pordebajear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "quedar pálido",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "quedar pálido",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "quisque",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "quisque",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "quién quita",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "quién quita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "regarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "regarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "riego",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "riego",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "runchera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "runchera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "saber",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "saber",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sacar la piedra",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sacar la piedra",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "salir pitado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "salir pitado",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sanjuanear",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sanjuanear",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ser pinta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ser pinta",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ser un número",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ser un número",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ser una fiera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ser una fiera",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "ser una tusa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "ser una tusa",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "siembro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "siembro",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "sobar la pita",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sobar la pita",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "sudor",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "sudor",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "surumangué",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "surumangué",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tampoco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tampoco",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "te conozco mosco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "te conozco mosco",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tenerle azar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tenerle azar",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "tirarse",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "tirarse",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "toca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "toca",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "vespertina",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "vespertina",
+      "output": {
+        "es_modismo": "No"
+      }
+    }
+  },
+  {
+    "modismo": "yegua",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "yegua",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
+  },
+  {
+    "modismo": "zumbón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P2",
+      "input": "zumbón",
+      "output": {
+        "es_modismo": "Sí"
+      }
+    }
   }
 ]

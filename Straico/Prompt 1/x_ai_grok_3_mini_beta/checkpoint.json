@@ -14268,1311 +14268,7307 @@
           "definicion": "Chuta se emplea como interjección para expresar sorpresa o frustración."
         }
       }
+    },
+    {
+      "modismo": "chutar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "chutar",
+        "output": {
+          "definicion": "Dar un puntapié con el pie."
+        }
+      }
+    },
+    {
+      "modismo": "chuzón",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "chuzón",
+        "output": {
+          "definicion": "Dispositivo utilizado para la escucha secreta de conversaciones."
+        }
+      }
+    },
+    {
+      "modismo": "chácara",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "chácara",
+        "output": {
+          "definicion": "Finca rural destinada al descanso y cultivo."
+        }
+      }
+    },
+    {
+      "modismo": "cháncharos",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cháncharos",
+        "output": {
+          "definicion": "Charla informal y prolongada sin contenido relevante."
+        }
+      }
+    },
+    {
+      "modismo": "chécheres",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "chéscheres",
+        "output": {
+          "definicion": "Objetos variados de bajo valor, como dulces o artículos menores."
+        }
+      }
+    },
+    {
+      "modismo": "chévere",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "chévere",
+        "output": {
+          "definicion": "Denota algo excelente o placentero."
+        }
+      }
+    },
+    {
+      "modismo": "chócolo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "chócolo",
+        "output": {
+          "definicion": "El chócolo es una mazorca de maíz."
+        }
+      }
+    },
+    {
+      "modismo": "chócoro",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "chócoro",
+        "output": {
+          "definicion": "Persona que muestra ingenuidad o falta de astucia."
+        }
+      }
+    },
+    {
+      "modismo": "cigarrería",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cigarrería",
+        "output": {
+          "definicion": "Establecimiento dedicado a la venta de cigarros y productos de tabaco."
+        }
+      }
+    },
+    {
+      "modismo": "cigarrillera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cigarrillera",
+        "output": {
+          "definicion": "Mujer dedicada a la fabricación o venta de cigarrillos."
+        }
+      }
+    },
+    {
+      "modismo": "cilantro",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cilantro",
+        "output": {
+          "definicion": "Elemento que añade un matiz alterador en situaciones cotidianas."
+        }
+      }
+    },
+    {
+      "modismo": "cilindradora",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cilindradora",
+        "output": {
+          "definicion": "Acción ruidosa que demuestra potencia en un vehículo motorizado."
+        }
+      }
+    },
+    {
+      "modismo": "cimarrón",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cimarrón",
+        "output": {
+          "definicion": "Designa a una persona o animal salvaje e indomable."
+        }
+      }
+    },
+    {
+      "modismo": "cimbronazo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cimbronazo",
+        "output": {
+          "definicion": "Sacudida fuerte e inesperada que genera gran impacto."
+        }
+      }
+    },
+    {
+      "modismo": "cinco",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cinco",
+        "output": {
+          "definicion": "Gesto de felicitación mediante el choque de manos."
+        }
+      }
+    },
+    {
+      "modismo": "cincuenta",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cincuenta",
+        "output": {
+          "definicion": "Denota una mujer con una figura corporal atractiva y curvilínea."
+        }
+      }
+    },
+    {
+      "modismo": "cineasta",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cineasta",
+        "output": {
+          "definicion": "Persona dedicada a la creación y dirección de películas cinematográficas."
+        }
+      }
+    },
+    {
+      "modismo": "cinta",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cinta",
+        "output": {
+          "definicion": "Vía rápida o carretera principal."
+        }
+      }
+    },
+    {
+      "modismo": "cintillo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cintillo",
+        "output": {
+          "definicion": "Elemento gráfico superior en publicaciones que indica el título del medio."
+        }
+      }
+    },
+    {
+      "modismo": "cipote",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cipote",
+        "output": {
+          "definicion": "Cipote designa a un niño pequeño."
+        }
+      }
+    },
+    {
+      "modismo": "cipotudo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cipotudo",
+        "output": {
+          "definicion": "Individuo que muestra vanidad y presunción excesivas."
+        }
+      }
+    },
+    {
+      "modismo": "cismático",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cismático",
+        "output": {
+          "definicion": "Individuo que promueve divisiones en un grupo o comunidad."
+        }
+      }
+    },
+    {
+      "modismo": "citadino",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "citadino",
+        "output": {
+          "definicion": "Relacionado con la vida o los aspectos de la ciudad."
+        }
+      }
+    },
+    {
+      "modismo": "ciudad",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "ciudad",
+        "output": {
+          "definicion": "Entidad geográfica urbana con alta concentración de población y servicios organizados."
+        }
+      }
+    },
+    {
+      "modismo": "ciudadano",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "ciudadano",
+        "output": {
+          "definicion": "Persona con nacionalidad de un estado y derechos inherentes a esa condición."
+        }
+      }
+    },
+    {
+      "modismo": "claridoso",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "claridoso",
+        "output": {
+          "definicion": "Atributo de una claridad excepcional."
+        }
+      }
+    },
+    {
+      "modismo": "clase",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "clase",
+        "output": {
+          "definicion": "Conjunto de elementos o personas con características comunes."
+        }
+      }
+    },
+    {
+      "modismo": "clavarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "clavarse",
+        "output": {
+          "definicion": "Cometer un error involuntario."
+        }
+      }
+    },
+    {
+      "modismo": "clavija",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "clavija",
+        "output": {
+          "definicion": "Medio para lograr una conexión o ajuste preciso."
+        }
+      }
+    },
+    {
+      "modismo": "clavijero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "clavijero",
+        "output": {
+          "definicion": "Persona que ajusta o resuelve problemas con precisión y habilidad."
+        }
+      }
+    },
+    {
+      "modismo": "cliente",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cliente",
+        "output": {
+          "definicion": "Persona que adquiere bienes o servicios de un vendedor o empresa."
+        }
+      }
+    },
+    {
+      "modismo": "clima",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "clima",
+        "output": {
+          "definicion": "El clima denota el conjunto de condiciones atmosféricas persistentes en una región."
+        }
+      }
+    },
+    {
+      "modismo": "clonar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "clonar",
+        "output": {
+          "definicion": "Realizar una reproducción idéntica de un elemento original."
+        }
+      }
+    },
+    {
+      "modismo": "clóset",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "clóset",
+        "output": {
+          "definicion": "Mueble o espacio cerrado para almacenar ropa y objetos personales."
+        }
+      }
+    },
+    {
+      "modismo": "coatí",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coatí",
+        "output": {
+          "definicion": "Individuo astuto y travieso."
+        }
+      }
+    },
+    {
+      "modismo": "coba",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coba",
+        "output": {
+          "definicion": "Adulación excesiva con fines de obtener beneficios personales."
+        }
+      }
+    },
+    {
+      "modismo": "cobao",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cobao",
+        "output": {
+          "definicion": "Adulación insincera con fines manipuladores."
+        }
+      }
+    },
+    {
+      "modismo": "cobija",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cobija",
+        "output": {
+          "definicion": "Cobija representa un elemento que proporciona abrigo y calidez."
+        }
+      }
+    },
+    {
+      "modismo": "cobre",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cobre",
+        "output": {
+          "definicion": "Manifestación de atracción romántica."
+        }
+      }
+    },
+    {
+      "modismo": "coca",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coca",
+        "output": {
+          "definicion": "Hoja de la planta Erythroxylum coca empleada en tradiciones andinas."
+        }
+      }
+    },
+    {
+      "modismo": "cocacolo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocacolo",
+        "output": {
+          "definicion": "Bebida gaseosa azucarada y efervescente de consumo masivo."
+        }
+      }
+    },
+    {
+      "modismo": "cocada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocada",
+        "output": {
+          "definicion": "Dulce tradicional colombiano elaborado con coco y azúcar."
+        }
+      }
+    },
+    {
+      "modismo": "cocainero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocainero",
+        "output": {
+          "definicion": "Individuo involucrado en el tráfico o consumo de cocaína."
+        }
+      }
+    },
+    {
+      "modismo": "cocayo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocayo",
+        "output": {
+          "definicion": "Individuo que asiste en el paso clandestino de personas o bienes."
+        }
+      }
+    },
+    {
+      "modismo": "cochada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cochada",
+        "output": {
+          "definicion": "Una abundante cantidad de personas o cosas."
+        }
+      }
+    },
+    {
+      "modismo": "coche",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coche",
+        "output": {
+          "definicion": "Vehículo motorizado utilizado para el transporte de personas o bienes."
+        }
+      }
+    },
+    {
+      "modismo": "cochera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cochera",
+        "output": {
+          "definicion": "Lugar destinado al estacionamiento de vehículos automotores."
+        }
+      }
+    },
+    {
+      "modismo": "cocheteo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocheteo",
+        "output": {
+          "definicion": "Actividad de coqueteo mediante gestos y palabras sutiles."
+        }
+      }
+    },
+    {
+      "modismo": "cochoso",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cochoso",
+        "output": {
+          "definicion": "Aquello sucio, desordenado y de baja calidad."
+        }
+      }
+    },
+    {
+      "modismo": "cocido",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocido",
+        "output": {
+          "definicion": "Persona en estado de embriaguez por consumo de alcohol."
+        }
+      }
+    },
+    {
+      "modismo": "cocina",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocina",
+        "output": {
+          "definicion": "Espacio del hogar destinado a preparar comidas."
+        }
+      }
+    },
+    {
+      "modismo": "cocineta",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocineta",
+        "output": {
+          "definicion": "Espacio reducido equipado para la preparación de alimentos."
+        }
+      }
+    },
+    {
+      "modismo": "coco",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coco",
+        "output": {
+          "definicion": "Coco designa la inteligencia o capacidad mental en el lenguaje coloquial."
+        }
+      }
+    },
+    {
+      "modismo": "cocona",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocona",
+        "output": {
+          "definicion": "Individuo ingenuo y fácilmente influenciable."
+        }
+      }
+    },
+    {
+      "modismo": "cocorota",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocorota",
+        "output": {
+          "definicion": "Estado de confusión mental o desequilibrio psicológico."
+        }
+      }
+    },
+    {
+      "modismo": "cocotazo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocotazo",
+        "output": {
+          "definicion": "Golpe leve en la cabeza con la mano abierta."
+        }
+      }
+    },
+    {
+      "modismo": "cocote",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocote",
+        "output": {
+          "definicion": "La parte superior del cuerpo que contiene el cerebro."
+        }
+      }
+    },
+    {
+      "modismo": "cocotear",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocotear",
+        "output": {
+          "definicion": "Entrometerse indiscretamente en asuntos ajenos."
+        }
+      }
+    },
+    {
+      "modismo": "cocá",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocá",
+        "output": {
+          "definicion": "Planta sudamericana de la cual se extrae una droga estimulante."
+        }
+      }
+    },
+    {
+      "modismo": "cocó",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cocó",
+        "output": {
+          "definicion": "Residuo sólido expulsado por el aparato digestivo."
+        }
+      }
+    },
+    {
+      "modismo": "codo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "codo",
+        "output": {
+          "definicion": "Persona caracterizada por su extrema avaricia."
+        }
+      }
+    },
+    {
+      "modismo": "cofio",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cofio",
+        "output": {
+          "definicion": "Acción de tomar algo con rapidez y destreza."
+        }
+      }
+    },
+    {
+      "modismo": "cogeollas",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cogeollas",
+        "output": {
+          "definicion": "Persona entrometida que interfiere en asuntos ajenos."
+        }
+      }
+    },
+    {
+      "modismo": "cogepuerca",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cogepuerca",
+        "output": {
+          "definicion": "Persona astuta que roba o engaña a otros de manera hábil."
+        }
+      }
+    },
+    {
+      "modismo": "coger",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coger",
+        "output": {
+          "definicion": "Tomar o agarrar un objeto."
+        }
+      }
+    },
+    {
+      "modismo": "cogienda",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cogienda",
+        "output": {
+          "definicion": "Acción de tomar o capturar algo con rapidez."
+        }
+      }
+    },
+    {
+      "modismo": "cojinúa",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cojinúa",
+        "output": {
+          "definicion": "Expresa una falsedad o exageración en el lenguaje cotidiano."
+        }
+      }
+    },
+    {
+      "modismo": "cojongo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cojongo",
+        "output": {
+          "definicion": "Estado de intensa irritación o enojo."
+        }
+      }
+    },
+    {
+      "modismo": "cojosa",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cojosa",
+        "output": {
+          "definicion": "Mujer astuta y con gran ingenio."
+        }
+      }
+    },
+    {
+      "modismo": "cojón",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cojón",
+        "output": {
+          "definicion": "Vocablo vulgar que designa los testículos y se usa como interjección para expresar enfado o sorpresa."
+        }
+      }
+    },
+    {
+      "modismo": "cola",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cola",
+        "output": {
+          "definicion": "Fila ordenada de personas en espera."
+        }
+      }
+    },
+    {
+      "modismo": "colación",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colación",
+        "output": {
+          "definicion": "Colación designa un refrigerio ligero entre las comidas principales."
+        }
+      }
+    },
+    {
+      "modismo": "colada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colada",
+        "output": {
+          "definicion": "Divulgación accidental de información confidencial."
+        }
+      }
+    },
+    {
+      "modismo": "colado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colado",
+        "output": {
+          "definicion": "Persona que se infiltra en un lugar o evento sin permiso."
+        }
+      }
+    },
+    {
+      "modismo": "colear",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colear",
+        "output": {
+          "definicion": "Perseguir a alguien de manera insistente."
+        }
+      }
+    },
+    {
+      "modismo": "colectivo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colectivo",
+        "output": {
+          "definicion": "Vehículo de transporte público compartido por múltiples pasajeros."
+        }
+      }
+    },
+    {
+      "modismo": "coleo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coleo",
+        "output": {
+          "definicion": "Deporte tradicional colombiano que involucra derribar toros en competencias rurales."
+        }
+      }
+    },
+    {
+      "modismo": "colero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colero",
+        "output": {
+          "definicion": "Persona que se sitúa al final de una fila."
+        }
+      }
+    },
+    {
+      "modismo": "colgado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colgado",
+        "output": {
+          "definicion": "Individuo que depende de otros sin aportar esfuerzo propio."
+        }
+      }
+    },
+    {
+      "modismo": "colgandejo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colgandejo",
+        "output": {
+          "definicion": "Estado de distracción pasajera en una persona."
+        }
+      }
+    },
+    {
+      "modismo": "colgar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colgar",
+        "output": {
+          "definicion": "Acción de finalizar una comunicación telefónica de manera abrupta."
+        }
+      }
+    },
+    {
+      "modismo": "colincharse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colincharse",
+        "output": {
+          "definicion": "Enfadarse de manera intensa y repentina."
+        }
+      }
+    },
+    {
+      "modismo": "colino",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colino",
+        "output": {
+          "definicion": "Persona que muestra gran ingenuidad y torpeza en sus acciones."
+        }
+      }
+    },
+    {
+      "modismo": "colino, na",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colino, na",
+        "output": {
+          "definicion": "Expresión que indica sorpresa en contextos coloquiales."
+        }
+      }
+    },
+    {
+      "modismo": "colita",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colita",
+        "output": {
+          "definicion": "Botella pequeña de cerveza."
+        }
+      }
+    },
+    {
+      "modismo": "colmena",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colmena",
+        "output": {
+          "definicion": "Ambiente de intensa actividad y movimiento constante."
+        }
+      }
+    },
+    {
+      "modismo": "colmo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colmo",
+        "output": {
+          "definicion": "El colmo representa el extremo máximo de una situación."
+        }
+      }
+    },
+    {
+      "modismo": "coloradito",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "raw_response": "{\n  \"prompt_id\": \"P1\",\n  \"input\": \"coloradito\",\n  \"output"
+      }
+    },
+    {
+      "modismo": "colorete",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colorete",
+        "output": {
+          "definicion": "Cosmético utilizado para añadir color a las mejillas."
+        }
+      }
+    },
+    {
+      "modismo": "colorinche",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colorinche",
+        "output": {
+          "definicion": "Algo o alguien que exhibe colores intensos y llamativos."
+        }
+      }
+    },
+    {
+      "modismo": "colí",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "colí",
+        "output": {
+          "definicion": "Representa una cantidad reducida de dinero."
+        }
+      }
+    },
+    {
+      "modismo": "combinada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "combinada",
+        "output": {
+          "definicion": "Apuesta que une múltiples selecciones en un evento de azar."
+        }
+      }
+    },
+    {
+      "modismo": "combo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "combo",
+        "output": {
+          "definicion": "Grupo de personas asociadas para actividades compartidas."
+        }
+      }
+    },
+    {
+      "modismo": "comedero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "comedero",
+        "output": {
+          "definicion": "Un comedero es algo que consume recursos, como dinero, de forma excesiva."
+        }
+      }
+    },
+    {
+      "modismo": "comedido",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "comedido",
+        "output": {
+          "definicion": "Caracterizado por moderación, discreción y cautela en el comportamiento."
+        }
+      }
+    },
+    {
+      "modismo": "comején",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "comején",
+        "output": {
+          "definicion": "Comején es un insecto que destruye gradualmente la madera."
+        }
+      }
+    },
+    {
+      "modismo": "comelón",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "comelón",
+        "output": {
+          "definicion": "Persona con gran apetito que come en exceso."
+        }
+      }
+    },
+    {
+      "modismo": "comercial",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "comercial",
+        "output": {
+          "definicion": "Relacionado con actividades económicas de compra y venta."
+        }
+      }
+    },
+    {
+      "modismo": "comeviejo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "comeviejo",
+        "output": {
+          "definicion": "Persona que se adhiere a costumbres tradicionales y anticuadas."
+        }
+      }
+    },
+    {
+      "modismo": "comida",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "comida",
+        "output": {
+          "definicion": "Sustancia comestible preparada para el consumo humano y la nutrición."
+        }
+      }
+    },
+    {
+      "modismo": "comiso",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "comiso",
+        "output": {
+          "definicion": "Confiscación de bienes por autoridades competentes."
+        }
+      }
+    },
+    {
+      "modismo": "como",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "como",
+        "output": {
+          "definicion": "Palabra que sirve para establecer comparaciones o indicar modos."
+        }
+      }
+    },
+    {
+      "modismo": "compañera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "compañera",
+        "output": {
+          "definicion": "Mujer que acompaña a otra persona en actividades o relaciones."
+        }
+      }
+    },
+    {
+      "modismo": "competencia",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "competencia",
+        "output": {
+          "definicion": "Rivalidad entre personas o entidades por un mismo objetivo."
+        }
+      }
+    },
+    {
+      "modismo": "compinchería",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "compinchería",
+        "output": {
+          "definicion": "Relación de complicidad y amistad entre individuos."
+        }
+      }
+    },
+    {
+      "modismo": "componer",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "componer",
+        "output": {
+          "definicion": "La acción de arreglar o recomponer algo alterado."
+        }
+      }
+    },
+    {
+      "modismo": "compraventa",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "compraventa",
+        "output": {
+          "definicion": "Transacción de adquisición y venta de bienes o servicios."
+        }
+      }
+    },
+    {
+      "modismo": "comprimido",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "comprimido",
+        "output": {
+          "definicion": "Condición de estar sometido a intensa presión."
+        }
+      }
+    },
+    {
+      "modismo": "compuesto",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "compuesto",
+        "output": {
+          "definicion": "Estado de calma y serenidad tras una alteración emocional."
+        }
+      }
+    },
+    {
+      "modismo": "computación",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "computación",
+        "output": {
+          "definicion": "Procesamiento de datos mediante dispositivos electrónicos."
+        }
+      }
+    },
+    {
+      "modismo": "común",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "común",
+        "output": {
+          "definicion": "Aquello que se presenta con regularidad y no es excepcional."
+        }
+      }
+    },
+    {
+      "modismo": "concertada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "concertada",
+        "output": {
+          "definicion": "Instituciones educativas privadas con financiamiento parcial del Estado."
+        }
+      }
+    },
+    {
+      "modismo": "concha",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "concha",
+        "output": {
+          "definicion": "Concha es una interjección vulgar utilizada para expresar irritación o sorpresa."
+        }
+      }
+    },
+    {
+      "modismo": "conchudez",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conchudez",
+        "output": {
+          "definicion": "La conchudez es la astucia y descaro para obtener ventajas personales."
+        }
+      }
+    },
+    {
+      "modismo": "conchudo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conchudo",
+        "output": {
+          "definicion": "Persona caracterizada por su astucia y comportamiento deshonesto."
+        }
+      }
+    },
+    {
+      "modismo": "concientización",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "concientización",
+        "output": {
+          "definicion": "Proceso de generar conciencia en personas sobre un tema específico."
+        }
+      }
+    },
+    {
+      "modismo": "concientizar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "concientizar",
+        "output": {
+          "definicion": "Hacer que alguien tome conciencia de una situación o problema."
+        }
+      }
+    },
+    {
+      "modismo": "concolón",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "concolón",
+        "output": {
+          "definicion": "Persona que consume comida en exceso."
+        }
+      }
+    },
+    {
+      "modismo": "concreto",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "concreto",
+        "output": {
+          "definicion": "Característica de ser tangible y preciso."
+        }
+      }
+    },
+    {
+      "modismo": "condominio",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "condominio",
+        "output": {
+          "definicion": "Edificio con múltiples unidades residenciales y áreas comunes."
+        }
+      }
+    },
+    {
+      "modismo": "conectarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conectarse",
+        "output": {
+          "definicion": "Establecer una unión o enlace, especialmente en contextos digitales o sociales."
+        }
+      }
+    },
+    {
+      "modismo": "conejo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conejo",
+        "output": {
+          "definicion": "Individuo que actúa con cobardía en contextos de peligro."
+        }
+      }
+    },
+    {
+      "modismo": "conferencista",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conferencista",
+        "output": {
+          "definicion": "Individuo que imparte conferencias sobre diversos temas."
+        }
+      }
+    },
+    {
+      "modismo": "confrontamiento",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "confrontamiento",
+        "output": {
+          "definicion": "Conflicto armado o verbal entre personas o grupos."
+        }
+      }
+    },
+    {
+      "modismo": "conga",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conga",
+        "output": {
+          "definicion": "Procesión festiva de personas en fila bailando al ritmo de música."
+        }
+      }
+    },
+    {
+      "modismo": "congeniar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "congeniar",
+        "output": {
+          "definicion": "Experimentar mutua simpatía y compatibilidad con otra persona."
+        }
+      }
+    },
+    {
+      "modismo": "conjunto",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conjunto",
+        "output": {
+          "definicion": "Agrupación de elementos que forman una unidad."
+        }
+      }
+    },
+    {
+      "modismo": "connotado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "connotado",
+        "output": {
+          "definicion": "Algo connotado es reconocido por su mérito."
+        }
+      }
+    },
+    {
+      "modismo": "cono",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cono",
+        "output": {
+          "definicion": "Expresión interjectiva que denota asombro o irritación."
+        }
+      }
+    },
+    {
+      "modismo": "consignación",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "consignación",
+        "output": {
+          "definicion": "Entrega formal de dinero o bienes a una entidad autorizada."
+        }
+      }
+    },
+    {
+      "modismo": "consignar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "consignar",
+        "output": {
+          "definicion": "Acción de depositar dinero en una cuenta bancaria."
+        }
+      }
+    },
+    {
+      "modismo": "contador",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contador",
+        "output": {
+          "definicion": "Profesional que maneja y registra cuentas financieras en una organización."
+        }
+      }
+    },
+    {
+      "modismo": "contemplado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contemplado",
+        "output": {
+          "definicion": "Algo que ha sido previsto o incluido en un plan."
+        }
+      }
+    },
+    {
+      "modismo": "contendor",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contendor",
+        "output": {
+          "definicion": "Objeto diseñado para almacenar o transportar materiales."
+        }
+      }
+    },
+    {
+      "modismo": "contener",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contener",
+        "output": {
+          "definicion": "Retener o controlar algo dentro de límites establecidos."
+        }
+      }
+    },
+    {
+      "modismo": "contentar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contentar",
+        "output": {
+          "definicion": "Satisfacer o complacer a alguien."
+        }
+      }
+    },
+    {
+      "modismo": "contentillo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contentillo",
+        "output": {
+          "definicion": "Estado de satisfacción leve o moderada."
+        }
+      }
+    },
+    {
+      "modismo": "conteo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conteo",
+        "output": {
+          "definicion": "Acción sistemática de enumerar elementos de manera ordenada."
+        }
+      }
+    },
+    {
+      "modismo": "contimás",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contimás",
+        "output": {
+          "definicion": "Incorporación adicional de elementos o personas."
+        }
+      }
+    },
+    {
+      "modismo": "contracarátula",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contracarátula",
+        "output": {
+          "definicion": "El aspecto opuesto o interno de una situación o objeto."
+        }
+      }
+    },
+    {
+      "modismo": "contraflujo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contraflujo",
+        "output": {
+          "definicion": "Movimiento en dirección opuesta al flujo principal en contextos de tránsito."
+        }
+      }
+    },
+    {
+      "modismo": "contralor",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contralor",
+        "output": {
+          "definicion": "Funcionario público encargado de auditar y supervisar el uso de recursos estatales."
+        }
+      }
+    },
+    {
+      "modismo": "contraloría",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contraloría",
+        "output": {
+          "definicion": "Institución estatal encargada de supervisar y auditar las finanzas públicas."
+        }
+      }
+    },
+    {
+      "modismo": "contrapunteo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contrapunteo",
+        "output": {
+          "definicion": "Contrapunteo es una improvisación musical y poética en duelo, típica de la costa caribeña colombiana."
+        }
+      }
+    },
+    {
+      "modismo": "contraria",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "contraria",
+        "output": {
+          "definicion": "Oposición a lo esperado o deseado."
+        }
+      }
+    },
+    {
+      "modismo": "control",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "control",
+        "output": {
+          "definicion": "El control representa el dominio y supervisión de situaciones o personas."
+        }
+      }
+    },
+    {
+      "modismo": "conuco",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conuco",
+        "output": {
+          "definicion": "Pequeña parcela de tierra destinada al cultivo agrícola de subsistencia."
+        }
+      }
+    },
+    {
+      "modismo": "conversadera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "conversadera",
+        "output": {
+          "definicion": "Es una charla extensa e informal."
+        }
+      }
+    },
+    {
+      "modismo": "copado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copado",
+        "output": {
+          "definicion": "Designa algo de excelente calidad."
+        }
+      }
+    },
+    {
+      "modismo": "copago",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copago",
+        "output": {
+          "definicion": "Es el pago adicional que realiza el paciente por servicios médicos cubiertos por el seguro."
+        }
+      }
+    },
+    {
+      "modismo": "copar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copar",
+        "output": {
+          "definicion": "Control total y exclusivo de un mercado o situación."
+        }
+      }
+    },
+    {
+      "modismo": "copera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copera",
+        "output": {
+          "definicion": "Persona que disfruta de bebidas alcohólicas en eventos sociales."
+        }
+      }
+    },
+    {
+      "modismo": "copetón, na",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copetón, na",
+        "output": {
+          "definicion": "Persona que exhibe actitudes de superioridad y ostentación."
+        }
+      }
+    },
+    {
+      "modismo": "copia",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copia",
+        "output": {
+          "definicion": "Reproducción idéntica de un original."
+        }
+      }
+    },
+    {
+      "modismo": "copialina",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copialina",
+        "output": {
+          "definicion": "Persona que imita o copia de manera habitual."
+        }
+      }
+    },
+    {
+      "modismo": "copiar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copiar",
+        "output": {
+          "definicion": "Imitación exacta de acciones, ideas o objetos ajenos."
+        }
+      }
+    },
+    {
+      "modismo": "copietas",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copietas",
+        "output": {
+          "definicion": "Copietas son porciones pequeñas de bebidas alcohólicas."
+        }
+      }
+    },
+    {
+      "modismo": "copito",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copito",
+        "output": {
+          "definicion": "Expresa una pequeña porción de bebida alcohólica."
+        }
+      }
+    },
+    {
+      "modismo": "coporo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coporo",
+        "output": {
+          "definicion": "Persona caracterizada por ingenuidad o torpeza."
+        }
+      }
+    },
+    {
+      "modismo": "copón",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "copón",
+        "output": {
+          "definicion": "Interjección que expresa sorpresa o enfado."
+        }
+      }
+    },
+    {
+      "modismo": "coquero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coquero",
+        "output": {
+          "definicion": "Persona originaria de Boyacá en Colombia."
+        }
+      }
+    },
+    {
+      "modismo": "coquito",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coquito",
+        "output": {
+          "definicion": "Diminutivo cariñoso que designa a un niño pequeño."
+        }
+      }
+    },
+    {
+      "modismo": "coralibe",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coralibe",
+        "output": {
+          "definicion": "Individuo que actúa con total desenfado y libertad."
+        }
+      }
+    },
+    {
+      "modismo": "coraza",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coraza",
+        "output": {
+          "definicion": "Protección dura y resistente que se adopta para salvaguardar emociones."
+        }
+      }
+    },
+    {
+      "modismo": "corbata",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corbata",
+        "output": {
+          "definicion": "Accesorio de vestir que se anuda alrededor del cuello en contextos formales."
+        }
+      }
+    },
+    {
+      "modismo": "corchado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corchado",
+        "output": {
+          "definicion": "Persona que se encuentra embriagada o bajo los efectos del alcohol."
+        }
+      }
+    },
+    {
+      "modismo": "corchar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corchar",
+        "output": {
+          "definicion": "Actuar con astucia para evadir o engañar."
+        }
+      }
+    },
+    {
+      "modismo": "corocora",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corocora",
+        "output": {
+          "definicion": "Persona o cosa sin interés ni dinamismo."
+        }
+      }
+    },
+    {
+      "modismo": "coronar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coronar",
+        "output": {
+          "definicion": "Culminar exitosamente una acción o logro."
+        }
+      }
+    },
+    {
+      "modismo": "coroncoro",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coroncoro",
+        "output": {
+          "definicion": "Objeto o situación de baja calidad y aspecto descuidado."
+        }
+      }
+    },
+    {
+      "modismo": "coronilla",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coronilla",
+        "output": {
+          "definicion": "El punto máximo de capacidad o tolerancia."
+        }
+      }
+    },
+    {
+      "modismo": "corotearse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corotearse",
+        "output": {
+          "definicion": "Acción de deambular sin dirección definida."
+        }
+      }
+    },
+    {
+      "modismo": "coroteo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coroteo",
+        "output": {
+          "definicion": "Celebración social que incluye consumo de bebidas alcohólicas."
+        }
+      }
+    },
+    {
+      "modismo": "corral",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corral",
+        "output": {
+          "definicion": "Espacio cerrado destinado al encierro de animales o personas en un contexto restringido."
+        }
+      }
+    },
+    {
+      "modismo": "corredera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corredera",
+        "output": {
+          "definicion": "Huir rápidamente en una situación de peligro o urgencia."
+        }
+      }
+    },
+    {
+      "modismo": "correrse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "correrse",
+        "output": {
+          "definicion": "Desplazamiento rápido de un lugar a otro."
+        }
+      }
+    },
+    {
+      "modismo": "corrido, da",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corrido, da",
+        "output": {
+          "definicion": "Indica un estado de vergüenza o rubor en una persona."
+        }
+      }
+    },
+    {
+      "modismo": "corrientazo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corrientazo",
+        "output": {
+          "definicion": "Descarga eléctrica súbita e intensa"
+        }
+      }
+    },
+    {
+      "modismo": "corriente",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corriente",
+        "output": {
+          "definicion": "Algo común o de baja calidad."
+        }
+      }
+    },
+    {
+      "modismo": "corrinche",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corrinche",
+        "output": {
+          "definicion": "Objeto de baja calidad o improvisado."
+        }
+      }
+    },
+    {
+      "modismo": "corrinchero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corrinchero",
+        "output": {
+          "definicion": "Persona astuta que evade situaciones con rapidez y habilidad."
+        }
+      }
+    },
+    {
+      "modismo": "cortada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cortada",
+        "output": {
+          "definicion": "Interrupción abrupta en una actividad o conversación."
+        }
+      }
+    },
+    {
+      "modismo": "cortado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cortado",
+        "output": {
+          "definicion": "Interrupción abrupta en una conversación."
+        }
+      }
+    },
+    {
+      "modismo": "cortero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cortero",
+        "output": {
+          "definicion": "Persona que habla de manera directa y brusca."
+        }
+      }
+    },
+    {
+      "modismo": "corto",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corto",
+        "output": {
+          "definicion": "Persona que actúa con avaricia y escasez en sus gastos."
+        }
+      }
+    },
+    {
+      "modismo": "cortopunzante",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cortopunzante",
+        "output": {
+          "definicion": "Característica de ser breve y punzante en su impacto."
+        }
+      }
+    },
+    {
+      "modismo": "corvina",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "corvina",
+        "output": {
+          "definicion": "Individuo astuto y elusivo en contextos desafiantes."
+        }
+      }
+    },
+    {
+      "modismo": "cosa",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cosa",
+        "output": {
+          "definicion": "Objeto material o concepto abstracto."
+        }
+      }
+    },
+    {
+      "modismo": "coscojo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coscojo",
+        "output": {
+          "definicion": "Individuo extremadamente ahorrador y reacio a gastar dinero."
+        }
+      }
+    },
+    {
+      "modismo": "cosiaca",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cosiaca",
+        "output": {
+          "definicion": "Objeto de dimensiones reducidas y escasa importancia."
+        }
+      }
+    },
+    {
+      "modismo": "cosmetiquera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cosmetiquera",
+        "output": {
+          "definicion": "Un recipiente diseñado para almacenar cosméticos."
+        }
+      }
+    },
+    {
+      "modismo": "cosquilleo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cosquilleo",
+        "output": {
+          "definicion": "El cosquilleo es una sensación de hormigueo en la piel provocada por un estímulo leve."
+        }
+      }
+    },
+    {
+      "modismo": "costalado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "costalado",
+        "output": {
+          "definicion": "Estado de estar extremadamente lleno o abarrotado."
+        }
+      }
+    },
+    {
+      "modismo": "costalearse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "costalearse",
+        "output": {
+          "definicion": "Perder el equilibrio o enfadarse de manera repentina."
+        }
+      }
+    },
+    {
+      "modismo": "costilla",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "costilla",
+        "output": {
+          "definicion": "La costilla alude a la mujer como compañera esencial del hombre en la tradición bíblica."
+        }
+      }
+    },
+    {
+      "modismo": "costra",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "costra",
+        "output": {
+          "definicion": "Capa dura que se forma sobre una superficie lesionada."
+        }
+      }
+    },
+    {
+      "modismo": "costura",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "costura",
+        "output": {
+          "definicion": "Unión de elementos dispares para lograr un objetivo común."
+        }
+      }
+    },
+    {
+      "modismo": "coteja",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coteja",
+        "output": {
+          "definicion": "Comparación minuciosa de datos o documentos para asegurar su exactitud."
+        }
+      }
+    },
+    {
+      "modismo": "cotejo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cotejo",
+        "output": {
+          "definicion": "Encuentro deportivo entre contrincantes."
+        }
+      }
+    },
+    {
+      "modismo": "cotero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cotero",
+        "output": {
+          "definicion": "Persona que se entromete en asuntos ajenos o difunde chismes."
+        }
+      }
+    },
+    {
+      "modismo": "cotiza",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cotiza",
+        "output": {
+          "definicion": "Precio de una moneda o activo en el mercado financiero."
+        }
+      }
+    },
+    {
+      "modismo": "cotizar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cotizar",
+        "output": {
+          "definicion": "Acción de calcular el precio de un bien o servicio."
+        }
+      }
+    },
+    {
+      "modismo": "cover",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cover",
+        "output": {
+          "definicion": "Interpretación de una canción ya existente por otro artista."
+        }
+      }
+    },
+    {
+      "modismo": "coñazo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "coñazo",
+        "output": {
+          "definicion": "Coñazo es una cosa extremadamente tediosa e insoportable."
+        }
+      }
+    },
+    {
+      "modismo": "cranear",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cranear",
+        "output": {
+          "definicion": "Realizar un esfuerzo mental intensivo para resolver problemas."
+        }
+      }
+    },
+    {
+      "modismo": "crema",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "crema",
+        "output": {
+          "definicion": "Designa lo mejor o más selecto de un grupo o categoría."
+        }
+      }
+    },
+    {
+      "modismo": "crespo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "crespo",
+        "output": {
+          "definicion": "Adjetivo que denota cabello rizado y con textura marcada."
+        }
+      }
+    },
+    {
+      "modismo": "criaturo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "criaturo",
+        "output": {
+          "definicion": "Niño o bebé en sus primeros años de vida."
+        }
+      }
+    },
+    {
+      "modismo": "criollo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "criollo",
+        "output": {
+          "definicion": "Persona nacida en las Américas de padres europeos."
+        }
+      }
+    },
+    {
+      "modismo": "cromos",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cromos",
+        "output": {
+          "definicion": "Tarjetas ilustradas destinadas a la colección personal."
+        }
+      }
+    },
+    {
+      "modismo": "cronograma",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cronograma",
+        "output": {
+          "definicion": "Plan detallado de actividades ordenadas cronológicamente."
+        }
+      }
+    },
+    {
+      "modismo": "cruce",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cruce",
+        "output": {
+          "definicion": "Intersección de caminos o rutas."
+        }
+      }
+    },
+    {
+      "modismo": "cuaderno",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuaderno",
+        "output": {
+          "definicion": "Registro contable de deudas y compromisos pendientes."
+        }
+      }
+    },
+    {
+      "modismo": "cuadra",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuadra",
+        "output": {
+          "definicion": "Una sección de calle entre dos intersecciones consecutivas."
+        }
+      }
+    },
+    {
+      "modismo": "cuadrar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuadrar",
+        "output": {
+          "definicion": "Ajustar o resolver una situación para que funcione correctamente."
+        }
+      }
+    },
+    {
+      "modismo": "cuadre",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuadre",
+        "output": {
+          "definicion": "Arreglo informal para resolver un asunto de manera no oficial."
+        }
+      }
+    },
+    {
+      "modismo": "cuajado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuajado",
+        "output": {
+          "definicion": "Consolidación exitosa de un plan o idea."
+        }
+      }
+    },
+    {
+      "modismo": "cuarto",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuarto",
+        "output": {
+          "definicion": "Habitación en una vivienda."
+        }
+      }
+    },
+    {
+      "modismo": "cuatrimoto",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuatrimoto",
+        "output": {
+          "definicion": "Vehículo motorizado con cuatro ruedas diseñado para terrenos irregulares."
+        }
+      }
+    },
+    {
+      "modismo": "cuatro",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuatro",
+        "output": {
+          "definicion": "Designa una cantidad escasa."
+        }
+      }
+    },
+    {
+      "modismo": "cubiertería",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cubiertería",
+        "output": {
+          "definicion": "Conjunto de utensilios para el servicio de mesa."
+        }
+      }
+    },
+    {
+      "modismo": "cubrimiento",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cubrimiento",
+        "output": {
+          "definicion": "Acto de encubrir o ocultar información intencionalmente."
+        }
+      }
+    },
+    {
+      "modismo": "cucamba",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cucamba",
+        "output": {
+          "definicion": "Persona que actúa con astucia e improvisación en contextos cotidianos."
+        }
+      }
+    },
+    {
+      "modismo": "cucarachero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cucarachero",
+        "output": {
+          "definicion": "Persona que actúa con astucia para evitar dificultades."
+        }
+      }
+    },
+    {
+      "modismo": "cucarrón",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cucarrón",
+        "output": {
+          "definicion": "El cucarrón designa a una persona caracterizada por su extrema avaricia."
+        }
+      }
+    },
+    {
+      "modismo": "cuchacho",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuchacho",
+        "output": {
+          "definicion": "Persona que interviene indebidamente en la privacidad de otros."
+        }
+      }
+    },
+    {
+      "modismo": "cuchara",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuchara",
+        "output": {
+          "definicion": "Intervención indeseada en temas ajenos."
+        }
+      }
+    },
+    {
+      "modismo": "cucharear",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cucharear",
+        "output": {
+          "definicion": "Inmiscuirse en asuntos ajenos con curiosidad indiscreta."
+        }
+      }
+    },
+    {
+      "modismo": "cuchibarbie",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuchibarbie",
+        "output": {
+          "definicion": "Chisme con apariencia atractiva e intenciones dañinas."
+        }
+      }
+    },
+    {
+      "modismo": "cuchilla",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuchilla",
+        "output": {
+          "definicion": "Elevación del terreno con forma alargada y afilada."
+        }
+      }
+    },
+    {
+      "modismo": "cucho",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cucho",
+        "output": {
+          "definicion": "Hombre de avanzada edad."
+        }
+      }
+    },
+    {
+      "modismo": "cucho, cha",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cucho, cha",
+        "output": {
+          "definicion": "Designa una despedida informal en el contexto colombiano."
+        }
+      }
+    },
+    {
+      "modismo": "cuchuflí",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuchuflí",
+        "output": {
+          "definicion": "Un chisme o rumor propagado en secreto."
+        }
+      }
+    },
+    {
+      "modismo": "cucos",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cucos",
+        "output": {
+          "definicion": "Entidades sobrenaturales del folclore que asustan a las personas."
+        }
+      }
+    },
+    {
+      "modismo": "cucurucho",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cucurucho",
+        "output": {
+          "definicion": "Persona ingenua y fácilmente engañable."
+        }
+      }
+    },
+    {
+      "modismo": "cueche",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cueche",
+        "output": {
+          "definicion": "Vehículo automotor utilizado para el transporte de personas."
+        }
+      }
+    },
+    {
+      "modismo": "cuelga",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuelga",
+        "output": {
+          "definicion": "Condición en que algo permanece pendiente o suspendido."
+        }
+      }
+    },
+    {
+      "modismo": "cuello",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuello",
+        "output": {
+          "definicion": "La región del cuerpo que une la cabeza al torso y simboliza vulnerabilidad."
+        }
+      }
+    },
+    {
+      "modismo": "cuenta",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuenta",
+        "output": {
+          "definicion": "Obligación financiera que debe ser saldada."
+        }
+      }
+    },
+    {
+      "modismo": "cuentahabiente",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuentahabiente",
+        "output": {
+          "definicion": "Persona que posee una cuenta en una entidad bancaria."
+        }
+      }
+    },
+    {
+      "modismo": "cuentear",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuentear",
+        "output": {
+          "definicion": "Narrar historias o anécdotas de manera entretenida y humorística."
+        }
+      }
+    },
+    {
+      "modismo": "cuentero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuentero",
+        "output": {
+          "definicion": "Persona que relata mentiras o historias inventadas."
+        }
+      }
+    },
+    {
+      "modismo": "cuento",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuento",
+        "output": {
+          "definicion": "Narración inventada que no corresponde a hechos reales."
+        }
+      }
+    },
+    {
+      "modismo": "cuerazo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuerazo",
+        "output": {
+          "definicion": "Persona con un físico atrayente y robusto."
+        }
+      }
+    },
+    {
+      "modismo": "cuerda",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuerda",
+        "output": {
+          "definicion": "Situación de tensión y riesgo inminente."
+        }
+      }
+    },
+    {
+      "modismo": "cuerear",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuerear",
+        "output": {
+          "definicion": "Coqueteo destinado a establecer lazos sentimentales."
+        }
+      }
+    },
+    {
+      "modismo": "cueriada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cueriada",
+        "output": {
+          "definicion": "Conjunto de golpes propinados con fuerza."
+        }
+      }
+    },
+    {
+      "modismo": "cuerina",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuerina",
+        "output": {
+          "definicion": "Cuerina designa una piel sintética que imita el cuero."
+        }
+      }
+    },
+    {
+      "modismo": "cueriza",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cueriza",
+        "output": {
+          "definicion": "Castigo físico aplicado mediante golpes reiterados."
+        }
+      }
+    },
+    {
+      "modismo": "cuerpero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuerpero",
+        "output": {
+          "definicion": "Un individuo con una contextura física robusta."
+        }
+      }
+    },
+    {
+      "modismo": "cuerpo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuerpo",
+        "output": {
+          "definicion": "El cuerpo es la estructura física integral de un ser vivo."
+        }
+      }
+    },
+    {
+      "modismo": "cuidapalos",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuidapalos",
+        "output": {
+          "definicion": "Jugador que defiende la portería en el fútbol."
+        }
+      }
+    },
+    {
+      "modismo": "culada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culada",
+        "output": {
+          "definicion": "Abundante cantidad de elementos o personas."
+        }
+      }
+    },
+    {
+      "modismo": "culantro",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culantro",
+        "output": {
+          "definicion": "Culantro es una hierba aromática empleada en la gastronomía colombiana."
+        }
+      }
+    },
+    {
+      "modismo": "culebra",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culebra",
+        "output": {
+          "definicion": "Persona traicionera o de carácter falso y engañoso."
+        }
+      }
+    },
+    {
+      "modismo": "culeco",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culeco",
+        "output": {
+          "definicion": "Individuo que actúa con astucia y engaño en contextos informales."
+        }
+      }
+    },
+    {
+      "modismo": "culequear",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culequear",
+        "output": {
+          "definicion": "Culequear es un movimiento seductor de las caderas en contextos sociales."
+        }
+      }
+    },
+    {
+      "modismo": "culequera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culequera",
+        "output": {
+          "definicion": "Situación de persecución o conflicto inminente."
+        }
+      }
+    },
+    {
+      "modismo": "culicagado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culicagado",
+        "output": {
+          "definicion": "Indica cobardía extrema en una persona."
+        }
+      }
+    },
+    {
+      "modismo": "culifalda",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culifalda",
+        "output": {
+          "definicion": "Prenda de vestir que resalta la figura posterior."
+        }
+      }
+    },
+    {
+      "modismo": "culillo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culillo",
+        "output": {
+          "definicion": "Cobardía o temor intenso en personas."
+        }
+      }
+    },
+    {
+      "modismo": "culimbo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culimbo",
+        "output": {
+          "definicion": "Individuo que muestra apatía y descuido en sus acciones."
+        }
+      }
+    },
+    {
+      "modismo": "culiso",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culiso",
+        "output": {
+          "definicion": "Designa a una persona cobarde o timorata."
+        }
+      }
+    },
+    {
+      "modismo": "culito",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culito",
+        "output": {
+          "definicion": "Denota la región posterior del cuerpo humano de manera diminutiva."
+        }
+      }
+    },
+    {
+      "modismo": "culumpiarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culumpiarse",
+        "output": {
+          "definicion": "Oscilar o mecerse repetidamente en un punto fijo."
+        }
+      }
+    },
+    {
+      "modismo": "culumpio",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "culumpio",
+        "output": {
+          "definicion": "Movimiento oscilante en un dispositivo suspendido."
+        }
+      }
+    },
+    {
+      "modismo": "cumbamba",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cumbamba",
+        "output": {
+          "definicion": "Fiesta tradicional colombiana con música y baile animados."
+        }
+      }
+    },
+    {
+      "modismo": "cumbia",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cumbia",
+        "output": {
+          "definicion": "La cumbia es un género musical y baile folklórico originario de Colombia."
+        }
+      }
+    },
+    {
+      "modismo": "cumbiamba",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cumbiamba",
+        "output": {
+          "definicion": "Baile festivo tradicional de origen afrocolombiano."
+        }
+      }
+    },
+    {
+      "modismo": "cumbiambero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cumbiambero",
+        "output": {
+          "definicion": "Persona que muestra gran entusiasmo por la cumbia y el baile."
+        }
+      }
+    },
+    {
+      "modismo": "cumbión",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cumbión",
+        "output": {
+          "definicion": "Fiesta tradicional con música y baile de cumbia."
+        }
+      }
+    },
+    {
+      "modismo": "cumplido",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cumplido",
+        "output": {
+          "definicion": "Comportamiento caballeroso y atento en las interacciones sociales."
+        }
+      }
+    },
+    {
+      "modismo": "cuncho",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuncho",
+        "output": {
+          "definicion": "Persona que muestra extrema avaricia al evitar gastar dinero."
+        }
+      }
+    },
+    {
+      "modismo": "cundido",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cundido",
+        "output": {
+          "definicion": "Propagación extensa de un hecho o idea en una comunidad."
+        }
+      }
+    },
+    {
+      "modismo": "cundirse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cundirse",
+        "output": {
+          "definicion": "Propagación rápida y extensa de un elemento."
+        }
+      }
+    },
+    {
+      "modismo": "cununo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cununo",
+        "output": {
+          "definicion": "Tambor de percusión tradicional en la música afrocolombiana."
+        }
+      }
+    },
+    {
+      "modismo": "cupo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cupo",
+        "output": {
+          "definicion": "El cupo es el límite máximo establecido para una cantidad o valor."
+        }
+      }
+    },
+    {
+      "modismo": "cuquera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuquera",
+        "output": {
+          "definicion": "Adjetivo que designa personas o cosas de Bucaramanga, Colombia."
+        }
+      }
+    },
+    {
+      "modismo": "cura",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cura",
+        "output": {
+          "definicion": "Sacerdote católico encargado de oficiar misas y sacramentos."
+        }
+      }
+    },
+    {
+      "modismo": "curaca",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curaca",
+        "output": {
+          "definicion": "Curaca designa a un jefe o líder en culturas indígenas americanas."
+        }
+      }
+    },
+    {
+      "modismo": "curado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curado",
+        "output": {
+          "definicion": "Estado de embriaguez por consumo excesivo de alcohol."
+        }
+      }
+    },
+    {
+      "modismo": "curandero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curandero",
+        "output": {
+          "definicion": "Persona que practica la sanación mediante métodos tradicionales."
+        }
+      }
+    },
+    {
+      "modismo": "curazao",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curazao",
+        "output": {
+          "definicion": "Curazao es un licor dulce y aromático preparado con cáscaras de naranja."
+        }
+      }
+    },
+    {
+      "modismo": "curiara",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curiara",
+        "output": {
+          "definicion": "Embarcación indígena hecha de un tronco de árbol para navegación fluvial."
+        }
+      }
+    },
+    {
+      "modismo": "curita",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curita",
+        "output": {
+          "definicion": "Pequeño vendaje adhesivo utilizado para cubrir heridas leves."
+        }
+      }
+    },
+    {
+      "modismo": "currucutú",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "currucutú",
+        "output": {
+          "definicion": "Indica una acción realizada de manera apresurada y desordenada."
+        }
+      }
+    },
+    {
+      "modismo": "currutaco",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "currutaco",
+        "output": {
+          "definicion": "Individuo que se viste de manera ostentosa y vanidosa."
+        }
+      }
+    },
+    {
+      "modismo": "curtido",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curtido",
+        "output": {
+          "definicion": "Adjetivo que denota experiencia y resistencia adquiridas por adversidades."
+        }
+      }
+    },
+    {
+      "modismo": "curubito",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curubito",
+        "output": {
+          "definicion": "Pequeño ejemplar de la curuba."
+        }
+      }
+    },
+    {
+      "modismo": "curucutear",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curucutear",
+        "output": {
+          "definicion": "Observación discreta y curiosa de algo con sigilo."
+        }
+      }
+    },
+    {
+      "modismo": "curul",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "curul",
+        "output": {
+          "definicion": "Curul es el escaño que ocupa un legislador en el Congreso de Colombia."
+        }
+      }
+    },
+    {
+      "modismo": "cusca",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cusca",
+        "output": {
+          "definicion": "Persona que observa o espía de manera indiscreta."
+        }
+      }
+    },
+    {
+      "modismo": "cuscungo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuscungo",
+        "output": {
+          "definicion": "Designa a una persona o cosa de escasa utilidad o calidad."
+        }
+      }
+    },
+    {
+      "modismo": "cuscungo, ga",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuscungo, ga",
+        "output": {
+          "definicion": "Expresión de burla y desdén hacia alguien."
+        }
+      }
+    },
+    {
+      "modismo": "cusma",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cusma",
+        "output": {
+          "definicion": "Individuo con aspecto desaliñado y humilde."
+        }
+      }
+    },
+    {
+      "modismo": "cuspe",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuspe",
+        "output": {
+          "definicion": "Expulsión de saliva por la boca."
+        }
+      }
+    },
+    {
+      "modismo": "cusumbo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cusumbo",
+        "output": {
+          "definicion": "Descripción de una persona ingenua y fácilmente engañada en contextos cotidianos."
+        }
+      }
+    },
+    {
+      "modismo": "cusumbosolo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cusumbosolo",
+        "output": {
+          "definicion": "Designa el estado de completa soledad individual."
+        }
+      }
+    },
+    {
+      "modismo": "cute",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cute",
+        "output": {
+          "definicion": "Describe personas o cosas encantadoras y atractivas por su ternura."
+        }
+      }
+    },
+    {
+      "modismo": "cutipado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cutipado",
+        "output": {
+          "definicion": "Estado de confusión mental o enredo en actividades."
+        }
+      }
+    },
+    {
+      "modismo": "cutipar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cutipar",
+        "output": {
+          "definicion": "Hablar en voz baja de manera confidencial."
+        }
+      }
+    },
+    {
+      "modismo": "cutucutu",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cutucutu",
+        "output": {
+          "definicion": "Conversación susurrada y confidencial."
+        }
+      }
+    },
+    {
+      "modismo": "cuyabro",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuyabro",
+        "output": {
+          "definicion": "Persona caracterizada por astucia e ingenio."
+        }
+      }
+    },
+    {
+      "modismo": "cuñado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cuñado",
+        "output": {
+          "definicion": "Persona que interviene en discusiones ajenas con opiniones infundadas."
+        }
+      }
+    },
+    {
+      "modismo": "cábano",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cábano",
+        "output": {
+          "definicion": "Individuo excesivamente tacaño y ahorrador."
+        }
+      }
+    },
+    {
+      "modismo": "cámbulo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cámbulo",
+        "output": {
+          "definicion": "Intercambio informal de bienes."
+        }
+      }
+    },
+    {
+      "modismo": "cáscara",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cáscara",
+        "output": {
+          "definicion": "La apariencia externa sin valor intrínseco."
+        }
+      }
+    },
+    {
+      "modismo": "cátedra",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cátedra",
+        "output": {
+          "definicion": "Exposición detallada y autoritativa de un tema."
+        }
+      }
+    },
+    {
+      "modismo": "cédula",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "cédula",
+        "output": {
+          "definicion": "Documento oficial de identificación personal emitido por el Estado colombiano."
+        }
+      }
+    },
+    {
+      "modismo": "dama",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dama",
+        "output": {
+          "definicion": "Mujer distinguida y refinada."
+        }
+      }
+    },
+    {
+      "modismo": "damagua",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "damagua",
+        "output": {
+          "definicion": "Individuo propenso a lamentaciones frecuentes."
+        }
+      }
+    },
+    {
+      "modismo": "danta",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "danta",
+        "output": {
+          "definicion": "Mamífero grande y herbívoro nativo de los bosques tropicales americanos."
+        }
+      }
+    },
+    {
+      "modismo": "danza",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "danza",
+        "output": {
+          "definicion": "Manifestación artística que combina movimientos corporales con ritmo y música."
+        }
+      }
+    },
+    {
+      "modismo": "dar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dar",
+        "output": {
+          "definicion": "Proporcionar o entregar algo a otra persona."
+        }
+      }
+    },
+    {
+      "modismo": "data",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "data",
+        "output": {
+          "definicion": "Conjunto de informaciones organizadas y registradas para su utilización."
+        }
+      }
+    },
+    {
+      "modismo": "dañado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dañado",
+        "output": {
+          "definicion": "Persona con alteraciones mentales o comportamiento excéntrico."
+        }
+      }
+    },
+    {
+      "modismo": "dañar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dañar",
+        "output": {
+          "definicion": "Provocar la destrucción o el deterioro de algo o alguien."
+        }
+      }
+    },
+    {
+      "modismo": "dañino",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dañino",
+        "output": {
+          "definicion": "Provoca perjuicio o deterioro en lo que afecta."
+        }
+      }
+    },
+    {
+      "modismo": "daño",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "daño",
+        "output": {
+          "definicion": "Perjuicio o deterioro causado a personas, objetos o situaciones."
+        }
+      }
+    },
+    {
+      "modismo": "deber",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "deber",
+        "output": {
+          "definicion": "Obligación moral o legal de cumplir con una acción determinada."
+        }
+      }
+    },
+    {
+      "modismo": "decimero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "decimero",
+        "output": {
+          "definicion": "Estrofa poética compuesta por diez versos."
+        }
+      }
+    },
+    {
+      "modismo": "declaratoria",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "declaratoria",
+        "output": {
+          "definicion": "Acto formal mediante el cual se emite una declaración oficial."
+        }
+      }
+    },
+    {
+      "modismo": "decol",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "decol",
+        "output": {
+          "definicion": "Describe algo de gran valor o excelencia."
+        }
+      }
+    },
+    {
+      "modismo": "decolar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "decolar",
+        "output": {
+          "definicion": "Iniciar un rápido ascenso hacia el éxito."
+        }
+      }
+    },
+    {
+      "modismo": "dedicar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dedicar",
+        "output": {
+          "definicion": "Asignar tiempo o esfuerzo a una actividad o persona específica."
+        }
+      }
+    },
+    {
+      "modismo": "dedo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dedo",
+        "output": {
+          "definicion": "Señalar con el dedo para obtener un automóvil de paso."
+        }
+      }
+    },
+    {
+      "modismo": "defensa",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "defensa",
+        "output": {
+          "definicion": "Protección o resistencia contra amenazas externas."
+        }
+      }
+    },
+    {
+      "modismo": "defensoría",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "defensoría",
+        "output": {
+          "definicion": "Organismo estatal encargado de proteger y defender los derechos humanos."
+        }
+      }
+    },
+    {
+      "modismo": "dejar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dejar",
+        "output": {
+          "definicion": "Acción de abandonar o cesar en el uso de algo."
+        }
+      }
+    },
+    {
+      "modismo": "delegatario",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "delegatario",
+        "output": {
+          "definicion": "Persona que recibe una delegación de autoridad o funciones."
+        }
+      }
+    },
+    {
+      "modismo": "delicarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "delicarse",
+        "output": {
+          "definicion": "Adoptar una actitud refinada y exigente."
+        }
+      }
+    },
+    {
+      "modismo": "demeritar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "demeritar",
+        "output": {
+          "definicion": "Disminuir el valor o el mérito de algo o alguien."
+        }
+      }
+    },
+    {
+      "modismo": "demorar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "demorar",
+        "output": {
+          "definicion": "Tardar más de lo esperado en una acción."
+        }
+      }
+    },
+    {
+      "modismo": "dengue",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dengue",
+        "output": {
+          "definicion": "Encanto especial que posee una persona o cosa atractiva."
+        }
+      }
+    },
+    {
+      "modismo": "dentistería",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dentistería",
+        "output": {
+          "definicion": "La especialidad médica que se enfoca en el cuidado y tratamiento de los dientes."
+        }
+      }
+    },
+    {
+      "modismo": "dentrodera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dentrodera",
+        "output": {
+          "definicion": "Molestia intestinal caracterizada por deposiciones líquidas frecuentes."
+        }
+      }
+    },
+    {
+      "modismo": "denuncio",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "denuncio",
+        "output": {
+          "definicion": "Acción de reportar formalmente un delito o irregularidad."
+        }
+      }
+    },
+    {
+      "modismo": "departamento",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "departamento",
+        "output": {
+          "definicion": "División territorial administrativa en Colombia."
+        }
+      }
+    },
+    {
+      "modismo": "deprimido",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "deprimido",
+        "output": {
+          "definicion": "Adjetivo que indica un estado de tristeza profunda y desaliento emocional."
+        }
+      }
+    },
+    {
+      "modismo": "desacomodar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desacomodar",
+        "output": {
+          "definicion": "Alterar el acomodo o la comodidad de algo o alguien."
+        }
+      }
+    },
+    {
+      "modismo": "desactualizarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desactualizarse",
+        "output": {
+          "definicion": "Perder vigencia en conocimientos o tecnologías actuales."
+        }
+      }
+    },
+    {
+      "modismo": "desaguado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desaguado",
+        "output": {
+          "definicion": "Alimento que carece de sabor y sazón."
+        }
+      }
+    },
+    {
+      "modismo": "desamargado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desamargado",
+        "output": {
+          "definicion": "Característica de quien no siente amargura ni mal humor."
+        }
+      }
+    },
+    {
+      "modismo": "desamargar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desamargar",
+        "output": {
+          "definicion": "Eliminar el amargor de sustancias o emociones."
+        }
+      }
+    },
+    {
+      "modismo": "desamarrar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desamarrar",
+        "output": {
+          "definicion": "Soltar o desatar algo que se encuentra amarrado."
+        }
+      }
+    },
+    {
+      "modismo": "desamerar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desamerar",
+        "output": {
+          "definicion": "Deshacer un amarre o atadura."
+        }
+      }
+    },
+    {
+      "modismo": "desangrar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desangrar",
+        "output": {
+          "definicion": "Extracción abusiva de recursos económicos hasta el agotamiento total."
+        }
+      }
+    },
+    {
+      "modismo": "desangre",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desangre",
+        "output": {
+          "definicion": "Pérdida abundante de sangre o recursos esenciales."
+        }
+      }
+    },
+    {
+      "modismo": "desayunadero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desayunadero",
+        "output": {
+          "definicion": "Lugar donde se sirve el desayuno."
+        }
+      }
+    },
+    {
+      "modismo": "desbarrancadero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desbarrancadero",
+        "output": {
+          "definicion": "Lugar propenso a caídas abruptas en terrenos escarpados."
+        }
+      }
+    },
+    {
+      "modismo": "desbarrancarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desbarrancarse",
+        "output": {
+          "definicion": "Perder el control y caer en un fracaso abrupto."
+        }
+      }
+    },
+    {
+      "modismo": "descachado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descachado",
+        "output": {
+          "definicion": "Designa el estado de algo desprovisto de su envoltura o protección."
+        }
+      }
+    },
+    {
+      "modismo": "descachalandrado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descachalandrado",
+        "output": {
+          "definicion": "Estado de desorden o informalidad en el comportamiento."
+        }
+      }
+    },
+    {
+      "modismo": "descalzurriado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descalzurriado",
+        "output": {
+          "definicion": "Persona que se encuentra sin calzado."
+        }
+      }
+    },
+    {
+      "modismo": "descambiar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descambiar",
+        "output": {
+          "definicion": "Deshacer un intercambio de bienes o servicios."
+        }
+      }
+    },
+    {
+      "modismo": "descapuruzado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descapuruzado",
+        "output": {
+          "definicion": "Estado de desorden o falta de control."
+        }
+      }
+    },
+    {
+      "modismo": "descarachar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descarachar",
+        "output": {
+          "definicion": "Arruinamiento completo de un objeto o situación."
+        }
+      }
+    },
+    {
+      "modismo": "descerezar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descerezar",
+        "output": {
+          "definicion": "Desprender las cerezas de su pedúnculo."
+        }
+      }
+    },
+    {
+      "modismo": "deschavetarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "deschavetarse",
+        "output": {
+          "definicion": "Enloquecer o perder la cordura."
+        }
+      }
+    },
+    {
+      "modismo": "descobalar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descobalar",
+        "output": {
+          "definicion": "Revelar la verdad sin adornos superfluos."
+        }
+      }
+    },
+    {
+      "modismo": "descompletar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descompletar",
+        "output": {
+          "definicion": "Acción de hacer incompleto lo que estaba completo."
+        }
+      }
+    },
+    {
+      "modismo": "desconchinflado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desconchinflado",
+        "output": {
+          "definicion": "El estado de algo gravemente deteriorado o en ruinas."
+        }
+      }
+    },
+    {
+      "modismo": "desconectar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desconectar",
+        "output": {
+          "definicion": "Acción de interrumpir una conexión física o mental para descansar brevemente."
+        }
+      }
+    },
+    {
+      "modismo": "descontinuar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descontinuar",
+        "output": {
+          "definicion": "Interrumpir la continuidad de una acción o proceso."
+        }
+      }
+    },
+    {
+      "modismo": "descorche",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descorche",
+        "output": {
+          "definicion": "Acción de abrir una botella para iniciar una celebración."
+        }
+      }
+    },
+    {
+      "modismo": "descrestador",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descrestador",
+        "output": {
+          "definicion": "Algo que provoca gran sorpresa o asombro."
+        }
+      }
+    },
+    {
+      "modismo": "descrestar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descrestar",
+        "output": {
+          "definicion": "Provocar una impresión abrumadora en una persona."
+        }
+      }
+    },
+    {
+      "modismo": "descreste",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descreste",
+        "output": {
+          "definicion": "Acción que desanima o sorprende intensamente a una persona."
+        }
+      }
+    },
+    {
+      "modismo": "descuajado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descuajado",
+        "output": {
+          "definicion": "Estado de agotamiento físico o desorganización total en una persona o cosa."
+        }
+      }
+    },
+    {
+      "modismo": "descuajaringado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descuajaringado",
+        "output": {
+          "definicion": "Un objeto que se encuentra en completo desorden o descomposición."
+        }
+      }
+    },
+    {
+      "modismo": "descularse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "descularse",
+        "output": {
+          "definicion": "Sufrir una estafa o engaño financiero."
+        }
+      }
+    },
+    {
+      "modismo": "desechable",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desechable",
+        "output": {
+          "definicion": "Objeto o persona que se utiliza una vez y se descarta posteriormente."
+        }
+      }
+    },
+    {
+      "modismo": "desembolsillar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desembolsillar",
+        "output": {
+          "definicion": "Acción de extraer dinero de un bolsillo."
+        }
+      }
+    },
+    {
+      "modismo": "desempacar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desempacar",
+        "output": {
+          "definicion": "Acción de extraer y ordenar los contenidos de un paquete o maleta."
+        }
+      }
+    },
+    {
+      "modismo": "desempastar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desempastar",
+        "output": {
+          "definicion": "Acción de desatascar o separar lo previamente unido."
+        }
+      }
+    },
+    {
+      "modismo": "desempeñarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desempeñarse",
+        "output": {
+          "definicion": "Realizar una función o tarea con eficiencia y competencia."
+        }
+      }
+    },
+    {
+      "modismo": "desencabar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desencabar",
+        "output": {
+          "definicion": "Acción de liberar o extraer de una situación complicada."
+        }
+      }
+    },
+    {
+      "modismo": "desencarrar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desencarrar",
+        "output": {
+          "definicion": "Acto de desviarse de un camino o plan establecido."
+        }
+      }
+    },
+    {
+      "modismo": "desencartar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desencartar",
+        "output": {
+          "definicion": "Perder el encanto o ilusión hacia algo o alguien."
+        }
+      }
+    },
+    {
+      "modismo": "desenchuflar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desenchuflar",
+        "output": {
+          "definicion": "Remover de un puesto a quien lo consiguió por influencias o favoritismo."
+        }
+      }
+    },
+    {
+      "modismo": "desenguayabar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desenguayabar",
+        "output": {
+          "definicion": "Liberarse de una situación enredada."
+        }
+      }
+    },
+    {
+      "modismo": "desenhuesar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desenhuesar",
+        "output": {
+          "definicion": "Acción de extraer los huesos de un cuerpo o alimento."
+        }
+      }
+    },
+    {
+      "modismo": "desenmochilar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desenmochilar",
+        "output": {
+          "definicion": "Desenmochilar es la acción de quitar o deshacer una mochila."
+        }
+      }
+    },
+    {
+      "modismo": "desentejarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desentejarse",
+        "output": {
+          "definicion": "Liberarse de un enredo o situación complicada."
+        }
+      }
+    },
+    {
+      "modismo": "desentorchar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desentorchar",
+        "output": {
+          "definicion": "Deshacer o resolver un enredo o complicación."
+        }
+      }
+    },
+    {
+      "modismo": "desestresar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desestresar",
+        "output": {
+          "definicion": "Eliminar o aliviar el estrés acumulado mediante relajación."
+        }
+      }
+    },
+    {
+      "modismo": "desgalamido",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desgalamido",
+        "output": {
+          "definicion": "Aspecto descuidado o desordenado en la vestimenta y apariencia personal."
+        }
+      }
+    },
+    {
+      "modismo": "desgarrar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desgarrar",
+        "output": {
+          "definicion": "Acción de romper o rasgar algo con fuerza."
+        }
+      }
+    },
+    {
+      "modismo": "desgarre",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desgarre",
+        "output": {
+          "definicion": "Esfuerzo físico intenso que provoca una rotura muscular."
+        }
+      }
+    },
+    {
+      "modismo": "desgastante",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desgastante",
+        "output": {
+          "definicion": "Causa agotamiento físico y emocional progresivo."
+        }
+      }
+    },
+    {
+      "modismo": "desgonzar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desgonzar",
+        "output": {
+          "definicion": "Cansancio extremo por exceso de esfuerzo físico."
+        }
+      }
+    },
+    {
+      "modismo": "desgualetado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desgualetado",
+        "output": {
+          "definicion": "Mal vestido y descuidado en la apariencia."
+        }
+      }
+    },
+    {
+      "modismo": "desguarambilado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desguarambilado",
+        "output": {
+          "definicion": "Caracterizado por un desorden extremo e incontrolable."
+        }
+      }
+    },
+    {
+      "modismo": "desguañañar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desguañañar",
+        "output": {
+          "definicion": "Esforzarse inútilmente de manera extrema."
+        }
+      }
+    },
+    {
+      "modismo": "deshijar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "deshijar",
+        "output": {
+          "definicion": "Remover los brotes innecesarios de una planta."
+        }
+      }
+    },
+    {
+      "modismo": "deshuesadero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "deshuesadero",
+        "output": {
+          "definicion": "Lugar donde se desarman vehículos para extraer y vender sus componentes."
+        }
+      }
+    },
+    {
+      "modismo": "desinflamatorio",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desinflamatorio",
+        "output": {
+          "definicion": "Sustancia que reduce la inflamación en el organismo."
+        }
+      }
+    },
+    {
+      "modismo": "desjetar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desjetar",
+        "output": {
+          "definicion": "Revelar información confidencial de manera imprudente."
+        }
+      }
+    },
+    {
+      "modismo": "deslizadero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "deslizadero",
+        "output": {
+          "definicion": "Lugar o mecanismo diseñado para facilitar el deslizamiento."
+        }
+      }
+    },
+    {
+      "modismo": "desmanchador",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desmanchador",
+        "output": {
+          "definicion": "Elemento que elimina manchas o corrige errores."
+        }
+      }
+    },
+    {
+      "modismo": "desmandarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desmandarse",
+        "output": {
+          "definicion": "Comportarse de manera descontrolada e impulsiva."
+        }
+      }
+    },
+    {
+      "modismo": "desmatonar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desmatonar",
+        "output": {
+          "definicion": "Cesar en comportamientos agresivos e intimidantes."
+        }
+      }
+    },
+    {
+      "modismo": "desmechar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desmechar",
+        "output": {
+          "definicion": "Deshacer o separar elementos entrelazados."
+        }
+      }
+    },
+    {
+      "modismo": "desmonte",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desmonte",
+        "output": {
+          "definicion": "Remoción de la vegetación en un terreno para su aprovechamiento."
+        }
+      }
+    },
+    {
+      "modismo": "desmovilización",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desmovilización",
+        "output": {
+          "definicion": "Proceso por el cual grupos armados dejan las armas y se reintegran a la sociedad."
+        }
+      }
+    },
+    {
+      "modismo": "desmovilizado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desmovilizado",
+        "output": {
+          "definicion": "Persona que ha dejado un grupo armado irregular y se reintegra a la sociedad civil."
+        }
+      }
+    },
+    {
+      "modismo": "desocupación",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desocupación",
+        "output": {
+          "definicion": "Falta de empleo o actividad laboral."
+        }
+      }
+    },
+    {
+      "modismo": "despachado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despachado",
+        "output": {
+          "definicion": "Estado de ebriedad causado por el consumo excesivo de alcohol."
+        }
+      }
+    },
+    {
+      "modismo": "despachar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despachar",
+        "output": {
+          "definicion": "Tramitar o resolver asuntos de manera eficiente y rápida."
+        }
+      }
+    },
+    {
+      "modismo": "despalomado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despalomado",
+        "output": {
+          "definicion": "Condición de agotamiento físico extremo."
+        }
+      }
+    },
+    {
+      "modismo": "desparchado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desparchado",
+        "output": {
+          "definicion": "Estado de no tener obligaciones ni actividades programadas."
+        }
+      }
+    },
+    {
+      "modismo": "desparche",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desparche",
+        "output": {
+          "definicion": "Encuentro informal para socializar y divertirse."
+        }
+      }
+    },
+    {
+      "modismo": "desparpajar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desparpajar",
+        "output": {
+          "definicion": "Demostrar actitud informal y osada."
+        }
+      }
+    },
+    {
+      "modismo": "despelote",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despelote",
+        "output": {
+          "definicion": "Situación de gran desorden y alboroto."
+        }
+      }
+    },
+    {
+      "modismo": "despelucar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despelucar",
+        "output": {
+          "definicion": "Revolver o desordenar algo de manera caótica."
+        }
+      }
+    },
+    {
+      "modismo": "despensionarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despensionarse",
+        "output": {
+          "definicion": "Dejar de recibir la pensión correspondiente."
+        }
+      }
+    },
+    {
+      "modismo": "despepar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despepar",
+        "output": {
+          "definicion": "Acción de separarse abruptamente de una situación o relación."
+        }
+      }
+    },
+    {
+      "modismo": "despernancado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despernancado",
+        "output": {
+          "definicion": "Estado de agotamiento físico intenso."
+        }
+      }
+    },
+    {
+      "modismo": "despescuezar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despescuezar",
+        "output": {
+          "definicion": "Romper o desarticular el cuello de un ser vivo."
+        }
+      }
+    },
+    {
+      "modismo": "despistada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despistada",
+        "output": {
+          "definicion": "Individuo que exhibe distracción constante."
+        }
+      }
+    },
+    {
+      "modismo": "desplatado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desplatado",
+        "output": {
+          "definicion": "Individuo que actúa con falta de control y decoro en su conducta."
+        }
+      }
+    },
+    {
+      "modismo": "desprendible",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desprendible",
+        "output": {
+          "definicion": "Cualidad de quien muestra generosidad y desapego hacia lo material."
+        }
+      }
+    },
+    {
+      "modismo": "despresar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despresar",
+        "output": {
+          "definicion": "Manifestación de desprecio hacia personas o cosas."
+        }
+      }
+    },
+    {
+      "modismo": "desprolijo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desprolijo",
+        "output": {
+          "definicion": "Ausencia de orden o pulcritud en la presentación o arreglo."
+        }
+      }
+    },
+    {
+      "modismo": "despulgar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despulgar",
+        "output": {
+          "definicion": "Examen exhaustivo de un asunto."
+        }
+      }
+    },
+    {
+      "modismo": "despulpar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "despulpar",
+        "output": {
+          "definicion": "Quitar la pulpa de los frutos en procesos agrícolas."
+        }
+      }
+    },
+    {
+      "modismo": "desrengado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desrengado",
+        "output": {
+          "definicion": "Describe a alguien o algo en estado de extrema fatiga o deterioro."
+        }
+      }
+    },
+    {
+      "modismo": "desrengar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desrengar",
+        "output": {
+          "definicion": "Ejercer un esfuerzo excesivo que provoca agotamiento físico."
+        }
+      }
+    },
+    {
+      "modismo": "destapado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "destapado",
+        "output": {
+          "definicion": "Persona que actúa con franqueza extrema y sin disimulos."
+        }
+      }
+    },
+    {
+      "modismo": "destapador",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "destapador",
+        "output": {
+          "definicion": "Individuo que revela informaciones ocultas."
+        }
+      }
+    },
+    {
+      "modismo": "destapar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "destapar",
+        "output": {
+          "definicion": "Revelar o descubrir algo oculto."
+        }
+      }
+    },
+    {
+      "modismo": "destartalado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "destartalado",
+        "output": {
+          "definicion": "Algo en mal estado de conservación o deteriorado."
+        }
+      }
+    },
+    {
+      "modismo": "destartalar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "destartalar",
+        "output": {
+          "definicion": "Desarmar o estropear un objeto o mecanismo."
+        }
+      }
+    },
+    {
+      "modismo": "destemplar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "destemplar",
+        "output": {
+          "definicion": "Alterar el temple o el estado de ánimo de alguien."
+        }
+      }
+    },
+    {
+      "modismo": "destender",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "destender",
+        "output": {
+          "definicion": "Acción de recolectar o aflojar lo previamente extendido."
+        }
+      }
+    },
+    {
+      "modismo": "destutanarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "destutanarse",
+        "output": {
+          "definicion": "Manifestar abiertamente lo que se oculta."
+        }
+      }
+    },
+    {
+      "modismo": "desubicado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desubicado",
+        "output": {
+          "definicion": "Individuo que se comporta de forma inadecuada en contextos sociales."
+        }
+      }
+    },
+    {
+      "modismo": "desvarar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desvarar",
+        "output": {
+          "definicion": "Hablar de manera incoherente e irracional."
+        }
+      }
+    },
+    {
+      "modismo": "desviringuiar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "desviringuiar",
+        "output": {
+          "definicion": "Desviringuiar consiste en eliminar un enredo o desorden específico."
+        }
+      }
+    },
+    {
+      "modismo": "detal",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "detal",
+        "output": {
+          "definicion": "Atención minuciosa a los detalles específicos."
+        }
+      }
+    },
+    {
+      "modismo": "detallar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "detallar",
+        "output": {
+          "definicion": "Exponer con precisión los elementos o aspectos de un tema."
+        }
+      }
+    },
+    {
+      "modismo": "devolverse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "devolverse",
+        "output": {
+          "definicion": "Regresar a un lugar de origen previamente dejado."
+        }
+      }
+    },
+    {
+      "modismo": "devuelta",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "devuelta",
+        "output": {
+          "definicion": "Cantidad de dinero entregada como cambio en una transacción comercial."
+        }
+      }
+    },
+    {
+      "modismo": "diabolín",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "diabolín",
+        "output": {
+          "definicion": "Carrito pequeño improvisado para transportar bienes en contextos informales."
+        }
+      }
+    },
+    {
+      "modismo": "diamante",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "diamante",
+        "output": {
+          "definicion": "Objeto precioso de gran valor y dureza excepcional."
+        }
+      }
+    },
+    {
+      "modismo": "diario",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "diario",
+        "output": {
+          "definicion": "Algo que se realiza o ocurre todos los días."
+        }
+      }
+    },
+    {
+      "modismo": "diciente",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "diciente",
+        "output": {
+          "definicion": "Individuo con tendencia a hablar excesivamente."
+        }
+      }
+    },
+    {
+      "modismo": "diente",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "diente",
+        "output": {
+          "definicion": "Astucia y determinación en acciones cotidianas."
+        }
+      }
+    },
+    {
+      "modismo": "dientón",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dientón",
+        "output": {
+          "definicion": "Persona con dientes grandes y prominentes."
+        }
+      }
+    },
+    {
+      "modismo": "dieta",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dieta",
+        "output": {
+          "definicion": "Régimen alimenticio controlado para preservar la salud o reducir el peso corporal."
+        }
+      }
+    },
+    {
+      "modismo": "diferendo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "diferendo",
+        "output": {
+          "definicion": "Diferendo es una disputa o conflicto entre partes involucradas."
+        }
+      }
+    },
+    {
+      "modismo": "digitador",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "digitador",
+        "output": {
+          "definicion": "Persona que introduce datos en sistemas informáticos mediante teclado."
+        }
+      }
+    },
+    {
+      "modismo": "digitar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "digitar",
+        "output": {
+          "definicion": "Acción de escribir texto mediante un teclado."
+        }
+      }
+    },
+    {
+      "modismo": "diligencia",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "diligencia",
+        "output": {
+          "definicion": "Celeridad y eficiencia en la ejecución de tareas."
+        }
+      }
+    },
+    {
+      "modismo": "dinero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dinero",
+        "output": {
+          "definicion": "Instrumento monetario para intercambios económicos."
+        }
+      }
+    },
+    {
+      "modismo": "diostedé",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "diostedé",
+        "output": {
+          "definicion": "Interjección que expresa sorpresa o asombro."
+        }
+      }
+    },
+    {
+      "modismo": "direccional",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "direccional",
+        "output": {
+          "definicion": "Habilidad para orientarse y manejar direcciones espaciales."
+        }
+      }
+    },
+    {
+      "modismo": "dirección",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dirección",
+        "output": {
+          "definicion": "Señalamiento del trayecto hacia un destino específico."
+        }
+      }
+    },
+    {
+      "modismo": "disparado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "disparado",
+        "output": {
+          "definicion": "Precio o valor excesivamente alto"
+        }
+      }
+    },
+    {
+      "modismo": "disquera",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "disquera",
+        "output": {
+          "definicion": "Empresa dedicada a la producción y distribución de discos musicales."
+        }
+      }
+    },
+    {
+      "modismo": "distrital",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "distrital",
+        "output": {
+          "definicion": "Designa lo relativo al gobierno o administración de un distrito en Colombia."
+        }
+      }
+    },
+    {
+      "modismo": "dividivi",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dividivi",
+        "output": {
+          "definicion": "Estado de división o indecisión en situaciones cotidianas."
+        }
+      }
+    },
+    {
+      "modismo": "divisa",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "divisa",
+        "output": {
+          "definicion": "Moneda extranjera utilizada en transacciones internacionales."
+        }
+      }
+    },
+    {
+      "modismo": "dizque",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dizque",
+        "output": {
+          "definicion": "Expresión que denota una afirmación supuesta o no verificada."
+        }
+      }
+    },
+    {
+      "modismo": "dobletroque",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dobletroque",
+        "output": {
+          "definicion": "Intercambio recíproco de bienes o servicios entre partes."
+        }
+      }
+    },
+    {
+      "modismo": "dominguero",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dominguero",
+        "output": {
+          "definicion": "Persona que realiza una actividad de forma amateur o recreativa."
+        }
+      }
+    },
+    {
+      "modismo": "don",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "don",
+        "output": {
+          "definicion": "Título de respeto utilizado ante el nombre de un hombre mayor o distinguido."
+        }
+      }
+    },
+    {
+      "modismo": "dona",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dona",
+        "output": {
+          "definicion": "Tratamiento honorífico para una mujer mayor o de autoridad social."
+        }
+      }
+    },
+    {
+      "modismo": "dorado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dorado",
+        "output": {
+          "definicion": "Condición de prosperidad y abundancia material."
+        }
+      }
+    },
+    {
+      "modismo": "dormilón",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dormilón",
+        "output": {
+          "definicion": "Persona que tiende a dormir en exceso."
+        }
+      }
+    },
+    {
+      "modismo": "dragoneante",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dragoneante",
+        "output": {
+          "definicion": "Individuo que actúa con actitud dominante e intimidante."
+        }
+      }
+    },
+    {
+      "modismo": "droguería",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "droguería",
+        "output": {
+          "definicion": "Establecimiento comercial que vende medicamentos y artículos de salud."
+        }
+      }
+    },
+    {
+      "modismo": "duda",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "duda",
+        "output": {
+          "definicion": "Incertidumbre o vacilación en la mente ante una decisión."
+        }
+      }
+    },
+    {
+      "modismo": "dueño",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dueño",
+        "output": {
+          "definicion": "Individuo que ejerce la propiedad o control sobre algo específico."
+        }
+      }
+    },
+    {
+      "modismo": "dulce",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dulce",
+        "output": {
+          "definicion": "Adjetivo que designa un sabor o cualidad agradable."
+        }
+      }
+    },
+    {
+      "modismo": "dulceabrigo",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dulceabrigo",
+        "output": {
+          "definicion": "Protección cálida y reconfortante."
+        }
+      }
+    },
+    {
+      "modismo": "dulzaina",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "dulzaina",
+        "output": {
+          "definicion": "Instrumento musical de viento utilizado en danzas tradicionales colombianas."
+        }
+      }
+    },
+    {
+      "modismo": "durmiente",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "durmiente",
+        "output": {
+          "definicion": "Persona con tendencia a la somnolencia excesiva."
+        }
+      }
+    },
+    {
+      "modismo": "duro",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "duro",
+        "output": {
+          "definicion": "Designa algo o alguien de gran firmeza y resistencia."
+        }
+      }
+    },
+    {
+      "modismo": "duro, ra",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "duro, ra",
+        "output": {
+          "definicion": "Adjetivo que denota firmeza y resistencia en personas o cosas."
+        }
+      }
+    },
+    {
+      "modismo": "día",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "día",
+        "output": {
+          "definicion": "El día representa el intervalo de veinticuatro horas que compone un ciclo completo de la rotación terrestre."
+        }
+      }
+    },
+    {
+      "modismo": "echado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "echado",
+        "output": {
+          "definicion": "Individuo caracterizado por la pereza y la ociosidad."
+        }
+      }
+    },
+    {
+      "modismo": "echarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "echarse",
+        "output": {
+          "definicion": "Acostarse en posición horizontal para descansar."
+        }
+      }
+    },
+    {
+      "modismo": "egresado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "egresado",
+        "output": {
+          "definicion": "Persona que ha completado sus estudios en una institución educativa."
+        }
+      }
+    },
+    {
+      "modismo": "egresar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "egresar",
+        "output": {
+          "definicion": "Completar estudios en una institución y obtener el título respectivo."
+        }
+      }
+    },
+    {
+      "modismo": "egreso",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "egreso",
+        "output": {
+          "definicion": "Finalización de estudios académicos y obtención de un título."
+        }
+      }
+    },
+    {
+      "modismo": "elegante",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "elegante",
+        "output": {
+          "definicion": "Atributo de quien o lo que muestra gracia, refinamiento y buen gusto en su presentación."
+        }
+      }
+    },
+    {
+      "modismo": "elegantoso",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "elegantoso",
+        "output": {
+          "definicion": "Individuo que exhibe una elegancia forzada y exagerada."
+        }
+      }
+    },
+    {
+      "modismo": "eleno",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "eleno",
+        "output": {
+          "definicion": "Individuo con temperamento irascible y dominante."
+        }
+      }
+    },
+    {
+      "modismo": "elevado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "elevado",
+        "output": {
+          "definicion": "Demostración de superioridad o arrogancia en el comportamiento."
+        }
+      }
+    },
+    {
+      "modismo": "elevarse",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "elevarse",
+        "output": {
+          "definicion": "Ascenso en la posición social."
+        }
+      }
+    },
+    {
+      "modismo": "embalado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "embalado",
+        "output": {
+          "definicion": "Estado de euforia o alteración intensa."
+        }
+      }
+    },
+    {
+      "modismo": "embalar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "embalar",
+        "output": {
+          "definicion": "Enamorarse de manera intensa y repentina."
+        }
+      }
+    },
+    {
+      "modismo": "embaldosinar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "embaldosinar",
+        "output": {
+          "definicion": "Acción de cubrir una superficie con baldosas."
+        }
+      }
+    },
+    {
+      "modismo": "embambado",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "embambado",
+        "output": {
+          "definicion": "Estado de aturdimiento o fascinación provocado por algo impactante."
+        }
+      }
+    },
+    {
+      "modismo": "embarrada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "embarrada",
+        "output": {
+          "definicion": "Situación confusa y problemática causada por errores."
+        }
+      }
+    },
+    {
+      "modismo": "embarrar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "embarrar",
+        "output": {
+          "definicion": "Complicar o enredar una situación."
+        }
+      }
+    },
+    {
+      "modismo": "embarrilar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "embarrilar",
+        "output": {
+          "definicion": "Complicar o enredar una situación de forma innecesaria."
+        }
+      }
+    },
+    {
+      "modismo": "embarrutar",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "embarrutar",
+        "output": {
+          "definicion": "Enredar o complicar una situación deliberadamente."
+        }
+      }
+    },
+    {
+      "modismo": "embaucada",
+      "model": "x-ai/grok-3-mini-beta",
+      "response": {
+        "prompt_id": "P1",
+        "input": "embaucada",
+        "output": {
+          "definicion": "Persona que sufre un engaño mediante astucia"
+        }
+      }
     }
   ],
   "processed_modismos": [
-    "argolla",
-    "cachucha",
-    "chola",
-    "baño",
-    "alcaparro",
-    "cheo",
-    "chueco",
-    "añejo",
-    "chapeado",
-    "chirriado",
-    "cargar",
-    "azarar",
-    "champurrear",
-    "chispón",
-    "batea",
-    "campo",
-    "calvazo",
-    "budare",
-    "abrirse",
-    "antimotines",
-    "afilarse",
-    "cerro",
-    "cervecear",
-    "aruñón",
-    "buchaca",
-    "cachichí",
-    "baba",
-    "caseta",
-    "alto",
-    "chambero",
-    "baratero",
-    "cascúo",
-    "asoleada",
-    "asaí",
-    "baby",
-    "bustona",
-    "batanear",
-    "chicludo",
-    "cagá",
-    "apapachar",
-    "avivato",
-    "bacaba",
-    "arepazo",
-    "chacero",
-    "chinchinchín",
-    "burro",
-    "cañazo",
-    "carramañudo",
-    "aplastarse",
-    "carretudo",
-    "balurdo",
-    "churumbelo",
-    "arrozudo",
-    "carrizo",
-    "boletear",
-    "arawuana",
-    "cansón",
-    "bolo",
-    "buchácara",
-    "apilonar",
-    "bache",
-    "boli",
-    "bololó",
-    "almorzadero",
-    "bañera",
-    "arreglar",
-    "chichazo",
-    "abanicar",
-    "avispero",
-    "camostre",
-    "alebrestar",
-    "ayayais",
-    "aporrión",
-    "atulampado",
-    "bojote",
-    "albiriscado",
-    "amonado",
-    "arrau",
-    "afirmativo",
-    "chiribico",
-    "arrancado",
-    "carrucha",
-    "cabecinegro",
-    "asomadera",
-    "acordeonero",
-    "bilocho",
-    "acartonado",
-    "cabra",
-    "bobo",
-    "caramelita",
-    "catorce",
-    "ataque",
-    "bolinillo",
-    "carón",
-    "chocha",
-    "bonitico",
-    "cadena",
-    "cabezal",
-    "acondicionar",
-    "chisacá",
-    "altanería",
-    "amagallar",
-    "caballito",
-    "abajeño",
-    "barajustar",
-    "aguaitacaminos",
-    "bastimento",
-    "buenamoza",
-    "abejorrear",
-    "caballote",
-    "arrastrado",
-    "averiguadera",
-    "carreta",
-    "camaján",
-    "brincar",
-    "centro",
-    "carmelito",
-    "calza",
-    "chingue",
-    "bronquinoso",
-    "cholado",
-    "bogadera",
-    "banquitas",
-    "chiquito",
-    "bocadillo",
-    "charamba",
-    "candirú",
-    "atalayero",
-    "beneficiadero",
-    "chivo,",
-    "atarrosarse",
-    "bómper",
-    "ambil",
-    "banquear",
-    "baúl",
-    "apachurrado",
-    "arrechón",
-    "arenera",
-    "atortolado",
-    "chorote",
-    "chela",
-    "atarantarse",
-    "cantarilla",
-    "buchipluma",
-    "chontear",
-    "ajicie",
-    "chocado",
-    "atutado",
-    "cesante",
-    "apestar",
-    "aguamil",
-    "caldo",
-    "calado",
-    "botella",
-    "carro",
-    "chundú",
-    "calentano, na",
-    "canaleta",
-    "chona",
-    "buscapiés",
-    "chambón",
-    "berraquillo",
-    "boda",
-    "bimbo",
-    "bastón",
-    "churro",
-    "bullugo",
-    "avionada",
-    "chicho",
-    "blof",
-    "almirajó",
-    "bombillo",
-    "almuerzo",
-    "chistear",
-    "chumbe",
-    "aguamiel",
-    "basquetbol",
-    "burra",
-    "acusetas",
-    "berrinche",
-    "birra",
-    "arción",
-    "agüero",
-    "canguro",
-    "bachaco",
-    "cantaletoso",
-    "cepillero",
-    "anaco",
-    "bullerengue",
-    "arrutanao",
-    "agarrón",
-    "chilena",
-    "arizá",
-    "bahía",
-    "capio",
-    "aguarse",
-    "champa",
-    "arriscar",
-    "achucado",
-    "billete",
-    "bacao",
-    "cazabe",
-    "achantar",
-    "anche",
-    "chonta",
-    "anchovero",
-    "calavera",
-    "aguasal",
-    "bocachico",
-    "bifamiliar",
-    "balsámica",
-    "carpeta",
-    "aguacatarse",
-    "cholula",
-    "chumbo",
-    "bizcocho",
-    "cagar",
-    "chicha",
-    "chicoria",
-    "banquetero",
-    "araguato",
-    "buziraco",
-    "bellísima",
-    "cayeno",
-    "chepito",
-    "canoera",
-    "casito",
-    "chisga",
-    "arrimar",
-    "aguallevame",
-    "cachiporro",
-    "bufeo",
-    "aculillarse",
-    "capo",
-    "carajear",
-    "bambinazo",
-    "camandulero",
-    "briqué",
-    "bacanería",
-    "cañicultor",
-    "bejuco",
-    "calentillo",
-    "brocha",
-    "caminado",
-    "bananiar",
-    "chumado",
-    "bono",
-    "calentado",
-    "chencha",
-    "burletero",
-    "cartelera",
-    "aquisito",
-    "amanecer",
-    "cañón",
-    "carajada",
-    "calcetear",
-    "aforar",
-    "botado",
-    "arador",
-    "buscapleitos",
-    "butifarra",
-    "cabestrear",
-    "azaroso",
-    "bocón",
-    "charoso",
-    "cachicamo",
-    "alabado",
-    "carambolo",
-    "bambazú",
-    "birria",
-    "baldío",
-    "chorola",
-    "argollar",
-    "cebra",
-    "cachaco",
-    "chapulín",
-    "calvear",
-    "amanecido",
-    "americano",
-    "chanfle",
-    "agrio",
-    "bien",
-    "cachacero",
-    "banderazo",
-    "antejardín",
-    "buchón",
-    "aletoso",
-    "bazuco",
-    "ahorita",
-    "achante",
-    "cachezudo",
-    "babilla",
-    "chocho",
-    "charco",
-    "barequear",
-    "abeja",
-    "chiroso",
-    "berroche",
-    "chapil",
-    "afanar",
-    "cantagallo",
-    "chichigua",
-    "acabarropa",
-    "cama",
-    "bolillo",
-    "arrunche",
-    "atulampar",
-    "aluzar",
-    "cancharina",
-    "carapacho",
-    "chirrinche",
-    "chocholear",
-    "chaperón",
-    "burusa",
-    "chilinguear",
-    "chuquio",
-    "alzado",
-    "abaleo",
-    "chequita",
-    "balso",
-    "ataviar",
-    "aburrición",
-    "chontudo",
-    "boletería",
-    "abrochar",
-    "bulloso",
-    "bola",
-    "cacha",
-    "borondo",
-    "choriperro",
-    "buseto",
-    "caramelear",
-    "chispiar",
-    "canalear",
-    "bahareque",
-    "azorada",
-    "chumbo, ba",
-    "buenavida",
-    "arepear",
-    "banda",
-    "chepacorina",
-    "cenegal",
-    "brasier",
-    "carachama",
-    "biósfera",
-    "amartelado",
-    "banano",
-    "atajar",
-    "chaquira",
-    "cajonero, ra",
-    "cabello",
-    "cachitanta",
-    "arremedar",
-    "causal",
-    "butaca",
-    "chuchumeco",
-    "atarantado",
-    "bayetilla",
-    "chorreada",
-    "botilito",
-    "cerca",
-    "chimba",
-    "angelito",
-    "caminar",
-    "carcacha",
-    "balanza",
-    "bon bon bum",
-    "basquetbolista",
-    "charapa",
-    "bongo",
-    "cheese cake",
-    "chochera",
-    "apostador",
-    "achiquitar",
-    "chance",
-    "barrida",
-    "aguardientoso",
-    "aletear",
-    "chiras",
-    "atarzanar",
-    "boquisabroso",
-    "cheque",
-    "bagazo",
-    "botadero",
-    "chiste",
-    "catear",
-    "cachifa",
-    "algotro",
-    "barajar",
-    "asquiento",
-    "boa",
-    "aliprús",
-    "bichuraco",
-    "bamba",
-    "caratejo",
-    "birimbí",
-    "cabrito",
-    "chicanero",
-    "alinderar",
-    "atol",
-    "alepruz",
-    "castañear",
-    "alférez",
-    "cabecizoco",
+    "comprimido",
     "chilapo",
-    "chaparro",
-    "alicoramiento",
-    "alegrías",
-    "andén",
-    "camello",
-    "arrimadero",
-    "azafrán",
-    "cabezón",
-    "avión, na",
-    "aparatiado",
-    "animalero",
-    "apeñuscado",
-    "capibara",
-    "aturugarse",
-    "apechichar",
-    "apeto",
-    "cabildo",
-    "chambrana",
-    "acose",
-    "bambuco",
-    "churo",
-    "chiraco",
-    "blanqueado",
-    "amañarse",
-    "asolear",
-    "buenón",
-    "aseador",
-    "chicuaco",
-    "bicho",
-    "caneca",
-    "carguero",
-    "ahorcado",
-    "apaleado",
-    "bocel",
-    "aburria",
-    "cardón",
-    "barulaque",
-    "amarillearse",
-    "ahorcar",
-    "ausentismo",
-    "agüerista",
-    "buchón, na",
-    "breva",
-    "avichucho",
-    "arequipe",
-    "acosón",
-    "cafuche",
-    "cacota",
-    "aguatudo",
-    "apartamento",
-    "cañaña",
-    "arbolear",
-    "amero",
-    "chorrera",
-    "catara",
-    "canillera",
-    "champeta",
-    "buseta",
-    "alevino",
-    "cacharrear",
-    "cacreco",
-    "chocar",
-    "bruja",
-    "alocado",
-    "charola",
-    "bata",
-    "aborrajado",
-    "caga",
-    "canalón",
-    "canequero",
-    "arrempujar",
-    "bala",
-    "chivera",
-    "butatón",
-    "arriado",
-    "as",
-    "chiyón",
-    "afro",
-    "calicanto",
-    "atenido",
-    "cartera",
-    "barril",
-    "acuerpado",
-    "ancheta",
-    "abarrotes",
-    "balneario",
-    "bulto",
-    "balastro",
-    "beriberi",
-    "birrioso",
-    "amarrar",
-    "cenegoso",
-    "aleta",
-    "camellón",
-    "alfabeto",
-    "chuta",
-    "choneto",
-    "catramanada",
-    "carreriado",
-    "bataclana",
-    "casar",
-    "bazo",
-    "bailador",
-    "base",
-    "cambuche",
-    "bordón, na",
-    "carrilera",
-    "cachar",
-    "barquilla",
-    "carimañola",
-    "chatas",
-    "balancear",
-    "apurarse",
-    "ceiba",
-    "checa",
-    "canero",
-    "callana",
-    "agache",
+    "cuenta",
     "cacho",
-    "bolita",
-    "bore",
-    "capital",
-    "cadillo",
-    "cateador",
-    "balache",
-    "carranchín",
-    "barrera",
-    "canelazo",
-    "calabazo",
-    "atracacunas",
-    "caporo",
-    "bebeco",
-    "acudiente",
-    "beich",
-    "azarado",
-    "caguana",
-    "chismosear",
-    "cagadero",
-    "be",
-    "calentano",
-    "anillado",
-    "agrieras",
-    "afrijolar",
-    "barbasquear",
-    "cachetear",
-    "choferear",
-    "calzar",
-    "bebeta",
-    "chatarrización",
-    "borrachero",
-    "brinconear",
-    "casquillero",
-    "aplanchar",
-    "bendición",
-    "aguijar",
-    "canillón",
-    "chupundún",
-    "alegato",
-    "ala",
-    "arborización",
-    "cachín",
-    "balay",
-    "ceba",
-    "atrabancado",
-    "cascarero",
-    "barretón",
-    "aguacatado",
-    "cartelear",
-    "carrancio",
-    "caimanear",
-    "cacharrero",
-    "cabeza",
-    "autoferro",
-    "chicanear",
-    "cananguchal",
-    "cancha",
-    "angeo",
-    "burundanga",
-    "chamizo",
-    "chitearse",
-    "carcamán",
-    "ajetreo",
-    "cachicado",
-    "chorear",
-    "cantada",
-    "chongo",
-    "chisporrotiar",
-    "chucha",
-    "cañengo",
-    "balacera",
-    "aporreada",
-    "boquisucio",
-    "acotejar",
-    "canalero",
-    "chivato",
-    "carrotanque",
-    "cerrero",
-    "cañar",
-    "chapeto",
-    "carreteable",
-    "chagüeto",
-    "achajuanado",
-    "bodoque",
-    "baldosa",
-    "altillo",
-    "chancuquear",
-    "badea",
-    "campero",
-    "caja",
-    "amañador",
-    "bulla",
-    "amansar",
-    "cachaza",
-    "ayahuasca",
-    "aguantador",
-    "ameritar",
-    "agonía",
-    "callo",
-    "atajada",
-    "aire",
-    "aguajina",
-    "agropecuario",
-    "choto",
-    "bote",
-    "banca",
-    "cañaveral",
-    "canasta",
-    "caporal",
-    "areta",
-    "acatar",
-    "belleza",
-    "agáchese",
-    "aco",
     "boquiancha",
-    "balde",
-    "abombado",
-    "bóxer",
-    "campechana",
-    "arrumar",
-    "caedizo",
-    "chucuchucu",
-    "armatroste",
-    "choca",
-    "cargador",
-    "bota",
-    "buenamente",
-    "chiva",
-    "chile",
-    "cantaleta",
-    "chismoso",
-    "bembear",
-    "calor",
-    "caspi",
-    "bazar",
-    "cabecipelado",
-    "amalayarse",
-    "boquiduro",
-    "antojarse",
-    "bacano",
-    "babosada",
-    "casquisuelta",
-    "arruncharse",
-    "cejón",
-    "alcancía",
-    "apanado",
-    "aparatejo",
-    "calentarse",
-    "amacice",
-    "cargado",
-    "canangucho",
-    "chilindroso",
-    "amojonarse",
-    "bijao",
-    "bomba",
-    "alegrón",
-    "balear",
-    "achucarse",
-    "almidón",
-    "añales",
-    "bogar",
-    "caviloso",
-    "carrumba",
-    "bonitico, ca",
-    "barbecue",
-    "carretel",
-    "cancañá",
-    "banderear",
-    "brincón",
-    "autopartes",
-    "camu",
-    "chico",
-    "balota",
-    "acema",
-    "achicopalado",
-    "cabecear",
-    "cañada",
-    "cabreado",
-    "cabalidad",
-    "carriel",
-    "chivear",
-    "alevoso",
-    "chillar",
-    "béisbol",
-    "chocolear",
+    "bronquinoso",
+    "descerezar",
     "asumir",
-    "ahuyama",
-    "chicote",
-    "ahogado",
-    "carura",
-    "balaca",
-    "alcayata",
-    "caderón",
-    "chisguete",
-    "chigualo",
-    "auchar",
-    "candidatizar",
-    "carajito",
-    "carbonero, ra",
-    "arriesgada",
-    "charanga",
-    "brilladora",
-    "alcanzado",
-    "chinchorro",
-    "arracachada",
-    "casposo",
-    "churco",
-    "chancuco",
-    "berreadera",
-    "arrume",
-    "castaña",
-    "bocina",
-    "cañandonga",
-    "chingo",
-    "ancho",
-    "chamburo",
-    "barequero",
-    "barajuste",
-    "cajón",
-    "bloqueador",
-    "asado",
-    "bazuquero",
-    "chequear",
-    "chipaca",
-    "apicharse",
-    "casco",
-    "camada",
-    "averaguado",
-    "algo",
-    "calanchín",
-    "cajeta",
-    "aguarapar",
-    "amangualarse",
-    "bagre",
-    "cepillar",
-    "caminadora",
-    "candelilla",
-    "casaramá",
-    "caracha",
-    "cateo",
-    "cachirre",
-    "borugo",
-    "chamón, na",
-    "calar",
-    "bandera",
-    "carranguero",
-    "boquiflojo",
-    "arriero",
-    "cañaguate",
-    "chancuquero",
-    "chancancarina",
-    "chichonera",
-    "chochora",
-    "churretearse",
-    "chivatear",
-    "chirriquitico",
-    "balero",
-    "chato",
-    "cajeto",
-    "asocio",
-    "acápite",
-    "bolsillo",
-    "arazá",
-    "cafetero",
-    "bastonero",
-    "agringarse",
-    "chipolo",
-    "carraquear",
-    "achantado",
-    "capisayo",
-    "chumbar",
-    "cachaloa",
-    "capaz",
-    "cara",
-    "angurriento",
-    "afiebrado",
-    "chifloreto",
-    "chilingueado",
-    "caimacán",
-    "atorador",
-    "aguado",
-    "baldado",
+    "agáchese",
+    "cepillero",
+    "abanico",
+    "aplanchado, da",
+    "divisa",
+    "be",
+    "comeviejo",
+    "chaparro",
+    "destapador",
+    "cháncharos",
+    "cateador",
+    "despachar",
+    "capón",
+    "canelazo",
+    "bicho",
+    "baldosa",
+    "culito",
     "acomedirse",
-    "caripatúa",
-    "chepudo",
-    "afiebrarse",
-    "billar",
-    "aguanoso",
-    "brevo",
-    "bareto",
-    "atarván",
-    "azotea",
-    "cagón",
-    "achapado",
-    "carriquí",
-    "cachona",
-    "caballete",
-    "almojábana",
-    "calentura",
-    "chispa",
-    "chita",
-    "aperar",
-    "aparecido",
-    "china",
-    "cachón",
-    "chipa",
-    "cantúa",
-    "caney",
-    "bangaña",
-    "candonga",
-    "andado",
-    "campanero",
-    "atenerse",
-    "cachetero",
-    "acolitar",
-    "artillero",
-    "agua",
-    "abismante",
-    "cabinero",
-    "chimbo",
-    "cascorvo",
-    "aguaitar",
-    "chapolera",
-    "achacado",
-    "chamo",
-    "chere",
-    "aeróbicos",
-    "abrebocas",
-    "agripado",
-    "choroto",
-    "abozao",
-    "barrilete",
-    "anamú",
-    "acelerado",
-    "charuco",
-    "biche",
-    "barbudo",
-    "camionado",
-    "alpargata",
-    "altoparlante",
-    "aguaguado",
-    "bravo",
-    "altanero",
-    "alcabala",
-    "bandola",
-    "bramadero",
-    "chocorear",
-    "cancharana",
-    "apelotardar",
-    "antojoso",
-    "cantador",
-    "berrietas",
-    "chompi",
-    "búcaro",
-    "case",
-    "catano",
-    "chamba",
-    "canal",
-    "bacenilla",
-    "alcaraván",
-    "botar",
-    "camiseta",
-    "casquillo",
-    "carbonear",
-    "abuelita",
-    "chapa",
-    "camoruco",
-    "carga",
-    "choripan",
-    "chicorio, ria",
-    "capri",
+    "arriscar",
+    "charango",
+    "costalearse",
+    "criollo",
+    "catorce",
+    "desparpajar",
+    "colgandejo",
+    "congeniar",
+    "chatas",
+    "calicanto",
+    "budare",
+    "cervecear",
+    "cineasta",
+    "arruncharse",
+    "desconchinflado",
+    "cañazo",
+    "aguinaldo",
+    "asolapado",
+    "aporreada",
+    "cuidapalos",
+    "deber",
+    "camada",
+    "buñuelo",
+    "despelucar",
+    "cebado",
+    "cochada",
+    "blanquear",
+    "desmovilizado",
+    "ataque",
+    "atulampado",
+    "agringarse",
+    "chilinguear",
+    "banana",
+    "dona",
+    "ahuyama",
+    "autoferro",
+    "azulejo",
+    "arción",
+    "asolear",
+    "dominguero",
+    "amartelado",
+    "aculillarse",
+    "devolverse",
+    "clonar",
     "arreo",
-    "baja",
-    "aplanchado",
-    "champú",
-    "amigovio",
-    "cagüingo",
-    "barato",
-    "chancaca",
-    "calilla",
-    "atacado",
-    "carioco",
-    "chandé",
-    "barbasco",
-    "chacho",
-    "bocín",
-    "biao",
-    "caño",
-    "bueno",
-    "chucho",
-    "biblia",
-    "afiche",
-    "arandela",
-    "cagüinga",
-    "charre",
-    "barbiancho",
-    "cauchería",
-    "chispotear",
-    "bicicletero",
-    "arrastrar",
-    "aulagas",
-    "chinche",
-    "caresanto",
-    "carrandanga",
-    "chivé",
-    "chara",
-    "achicopalar",
-    "billuyo",
-    "aplicar",
-    "barbachato",
-    "aguachento",
-    "chupalina",
-    "azare",
-    "chapetera",
-    "carrasposo",
-    "carisina",
-    "brotado",
-    "cacorro",
-    "borona",
-    "casaca",
-    "bemba",
-    "agarrar",
-    "carne",
-    "baile",
-    "alón",
-    "bebedero",
-    "chandoso",
-    "carbonero",
-    "chichero",
-    "cerrado",
-    "antojado",
-    "chaza",
-    "chorreado",
-    "caguetas",
-    "cantaletear",
-    "chancleta",
-    "amiguero",
-    "avemaría",
-    "barbuchas",
-    "bocón, a",
-    "amarradijo",
-    "canchero",
-    "afilado",
-    "bao",
-    "charrasquear",
-    "belfo",
-    "chibugá",
-    "asado, da",
-    "acurrucarse",
-    "candado",
-    "chiripiado",
-    "balcón",
-    "catanga",
-    "changonguería",
-    "barro",
-    "chepa",
-    "chiripiolca",
-    "achicharrar",
-    "brujear",
-    "abalear",
-    "calle",
-    "atarraya",
-    "caliente",
-    "canalete",
-    "aperezarse",
     "agalla",
-    "carauazú",
-    "arremuesco",
-    "ajustar",
-    "barbasqueado",
-    "aventado",
-    "caramelo",
-    "chancero",
-    "baquiano",
-    "altamisa",
-    "chiflón",
-    "blower",
-    "bóveda",
-    "blablablá",
-    "bombacho",
-    "alegar",
-    "cepillo",
-    "chapalear",
-    "chiflamicas",
-    "brisar",
-    "chispazo",
-    "braviar",
+    "aperar",
+    "arrecho",
+    "desmatonar",
+    "cabezón",
+    "cocineta",
+    "damagua",
+    "bambazú",
+    "daño",
     "atorarse",
-    "alimentador",
-    "cacharro",
+    "balso",
+    "arrunche",
+    "canal",
+    "bazar",
+    "data",
+    "cueche",
+    "chichazo",
+    "almuercero",
+    "cardón",
     "bullaranga",
     "apretar",
-    "apercollar",
-    "chapín",
-    "bichuría",
-    "apalastrado",
-    "atafagar",
-    "carajo",
-    "arniada",
-    "calidoso",
-    "bocana",
-    "abanico",
-    "aliñado",
-    "cabezazo",
-    "chimbe",
-    "cachifo",
-    "chimó",
-    "caucha",
-    "buzo",
-    "amarga",
-    "boquineto",
-    "alistar",
-    "cachumbo",
-    "carpa",
-    "breve",
-    "buganvil",
-    "blumas",
-    "caribe",
-    "barrial",
-    "cascabelear",
-    "alcanzamocho",
+    "cenegal",
+    "carrilera",
+    "corchado",
+    "culantro",
+    "chivatear",
+    "azarado",
+    "bataclana",
+    "chicuaco",
+    "cama",
+    "avemaría",
+    "comelón",
+    "aguacatarse",
+    "billuyo",
     "alarma",
-    "bandido",
-    "camellar",
-    "chocato",
-    "buscaniguas",
-    "churupo",
-    "acelere",
-    "chuchuguaza",
-    "apuntarse",
-    "cambiazo",
-    "antualito",
-    "arrastraderas",
-    "calceto",
-    "chichipa",
-    "alpargatudo",
-    "botaratas",
-    "capia",
-    "cascabeleo",
-    "arregionado",
-    "chirario",
-    "carurú",
-    "aguatero",
-    "avaluador",
-    "cañabrava",
-    "brazo",
-    "barrio",
-    "chiripiador",
-    "changón",
-    "cadmia",
-    "alcahuetear",
-    "chalupa",
-    "chino",
-    "camonina",
-    "canopy",
-    "chusco",
-    "chofer",
-    "arrancamuelas",
-    "chocozuela",
-    "acobalar",
-    "carantanta",
-    "bananero",
-    "boleteo",
-    "caleto",
-    "bifé",
-    "caer",
-    "causa",
-    "boquiar",
-    "bombero",
-    "chambonada",
-    "chocante",
-    "cheto",
-    "aportante",
-    "chifladera",
-    "cantinero",
-    "arenga",
-    "aruñar",
-    "blanqueador",
-    "camuro",
-    "arrecho",
-    "alberca",
-    "atembado",
-    "alcahueta",
-    "cedulación",
-    "arranque",
-    "chumarse",
-    "arrugarse",
-    "aceite",
-    "chitiado",
-    "carrera",
-    "bembón",
-    "arborizar",
-    "batola",
-    "bracero",
-    "allacito",
-    "apachurrar",
-    "capón",
-    "bordón",
-    "chachajo",
-    "botalón",
-    "capul",
-    "chompa",
-    "cagarruta",
-    "calzonarias",
-    "caminata",
-    "cabestrillo",
-    "cachazo",
-    "acabado",
-    "bolión",
-    "abullonado",
-    "canto",
-    "chirriadera",
-    "carromato",
-    "avío",
-    "café",
-    "buitrón",
-    "cartuchera",
-    "cachicar",
-    "achiote",
-    "celoso",
-    "caimarón",
-    "chapucear",
-    "carilargo",
-    "bollo",
-    "carraca",
-    "caramañola",
-    "amacizar",
-    "aguamasa",
-    "batir",
-    "atarragarse",
-    "calificar",
-    "chiquero",
-    "cancanear",
-    "camastrón",
-    "bajonear",
-    "chiripudo",
-    "casa",
-    "bodega",
-    "ardencia",
-    "carramán",
-    "chontiado",
-    "aflojachocho",
-    "chepazo",
-    "blindar",
-    "antisocial",
-    "cambambero",
-    "chasquear",
-    "aplanchado, da",
-    "aguinaldo",
-    "churrusco, ca",
-    "alargue",
-    "arisco",
-    "arboloco",
-    "blanquear",
-    "azul",
-    "burrero",
-    "bandeja",
-    "banana",
-    "arrodillado",
-    "atronado",
-    "chundul",
-    "bizcochería",
-    "chupar",
-    "chorizo",
-    "canar",
-    "almuercero",
-    "achilado",
-    "caspa",
-    "apenado",
-    "caché",
-    "cabrearse",
-    "cabecera",
-    "champús",
-    "cachapa",
-    "caspiroleta",
-    "barra",
-    "aullar",
-    "abarco",
-    "cabuco",
-    "chicheme",
-    "averigüetas",
-    "aguacero",
-    "bolañero",
-    "chiporro",
-    "charango",
-    "chilacuán",
-    "chispero",
-    "ardido",
-    "chunchurria",
-    "alegadera",
-    "bajalenguas",
-    "chusque",
-    "achicar",
-    "auca",
-    "cartón",
-    "alentarse",
-    "chuspa",
-    "angurrioso",
-    "bravero",
-    "bluyín",
-    "andareguear",
-    "agalludo",
-    "acabose",
-    "almacén",
-    "canturrón",
-    "chiveado",
-    "cari",
-    "barequeo",
-    "caído",
-    "achín",
-    "año",
-    "blanqueada",
-    "chichipato",
-    "bolera",
-    "arrancadas",
-    "capi",
-    "cerrillo",
-    "cauchera",
-    "anchar",
-    "azulejo",
-    "caminadera",
-    "bus",
-    "acusaletas",
-    "berma",
-    "achira",
-    "brotar",
-    "cafongo",
-    "ahí",
-    "chamón",
-    "bizcorneto",
-    "avispa",
-    "bañar",
-    "boleta",
-    "calceta",
-    "ajiaco",
-    "chulavita",
+    "cacha",
+    "bicicletero",
+    "alerta",
+    "banderear",
+    "choriperro",
+    "curita",
+    "contralor",
+    "apapachar",
+    "cachiporro",
+    "brincar",
+    "destapar",
+    "barbasco",
+    "compinchería",
+    "chichigua",
+    "cucos",
+    "baile",
+    "cañaña",
+    "cajeta",
+    "cañengo",
     "abotar",
-    "atravesado",
-    "cachonear",
-    "arapaima",
-    "cacao",
-    "chasís",
-    "chupamedias",
-    "alfombrar",
-    "bacán",
-    "asolapado",
-    "apenarse",
-    "carisellazo",
-    "cajulo",
-    "bitute",
-    "amanecedero",
-    "arribar",
-    "chamuscón",
-    "cebado",
-    "alucema",
-    "abrigar",
-    "cachivera",
-    "arma",
-    "chengo",
-    "accesar",
-    "casquifloja",
-    "atufado",
-    "caimo",
-    "buñuelo",
-    "achilar",
-    "afugias",
-    "alero",
-    "carnetizar",
+    "ayahuasca",
+    "carantanta",
+    "achiote",
+    "caspiroleta",
+    "clóset",
+    "atarantado",
+    "cimarrón",
+    "balota",
+    "chapa",
+    "altamisa",
+    "chipa",
+    "atembado",
+    "bazo",
+    "cabrearse",
+    "cortopunzante",
+    "cabestrear",
+    "cucharear",
+    "chicha",
+    "bareto",
+    "descobalar",
+    "alegar",
+    "cuerpo",
+    "achajuanado",
+    "cacharro",
+    "chamba",
+    "cedulación",
+    "correrse",
+    "deslizadero",
+    "arrau",
+    "bahareque",
+    "botella",
+    "carura",
+    "calor",
+    "colincharse",
+    "burletero",
+    "chatarrización",
+    "desubicado",
+    "caramañola",
+    "baúl",
+    "avispa",
+    "capi",
+    "buitrón",
+    "confrontamiento",
+    "dorado",
+    "baba",
+    "altanería",
+    "camionado",
+    "chancleta",
+    "caramelo",
+    "barequeo",
+    "conversadera",
+    "concreto",
+    "diabolín",
+    "ajicie",
+    "cabecinegro",
+    "causa",
+    "chicanero",
+    "cojongo",
+    "cauchera",
     "batuso",
-    "chisguetear",
-    "catire",
-    "arrimado",
+    "ahogado",
+    "chamizo",
+    "cara",
+    "alebrestar",
+    "chimba",
+    "badea",
+    "balacera",
+    "cuelga",
+    "deprimido",
+    "asquiento",
+    "batanear",
+    "arandela",
+    "alegrías",
+    "calceta",
+    "albiriscado",
+    "bóxer",
+    "barra",
+    "decimero",
+    "bazuco",
+    "abrochar",
+    "casposo",
+    "achira",
+    "coloradito",
+    "despulgar",
+    "capo",
+    "aparatejo",
+    "chapetera",
+    "contador",
+    "arrastraderas",
+    "cuadrar",
+    "barro",
+    "brinconear",
+    "chusque",
+    "carriquí",
+    "boleteo",
+    "carrasposo",
+    "cabecera",
+    "bongo",
+    "bulla",
+    "charoso",
+    "cabeza",
+    "calado",
+    "connotado",
+    "carro",
+    "cotero",
+    "costra",
+    "cholula",
+    "agrieras",
+    "bote",
+    "cabinero",
+    "caleto",
+    "aguaitacaminos",
+    "desestresar",
+    "coba",
+    "acusetas",
+    "ceba",
+    "chocolear",
+    "ajetreo",
+    "chorola",
+    "cachitanta",
+    "chiflón",
+    "carrucha",
+    "bandeja",
+    "alto",
+    "burra",
+    "cusumbosolo",
+    "canalear",
+    "arribar",
+    "copago",
+    "baquiano",
+    "changonguería",
+    "afugias",
+    "berraquillo",
+    "chiripiador",
+    "cebra",
+    "bocachico",
+    "aeróbicos",
+    "bon bon bum",
+    "apeto",
+    "bocadillo",
+    "arrancadas",
+    "dizque",
+    "champús",
+    "cusca",
+    "calvazo",
+    "cranear",
+    "bomba",
+    "cocá",
+    "barrera",
+    "conuco",
+    "banquear",
+    "bocín",
+    "bellísima",
+    "calentillo",
+    "cimbronazo",
+    "bómper",
+    "capibara",
+    "cabalidad",
+    "cuchilla",
+    "brazo",
+    "culumpiarse",
+    "alcabala",
+    "aguado",
+    "campechana",
+    "aliprús",
+    "cliente",
+    "curul",
+    "campero",
+    "cachicado",
+    "atufado",
+    "acelere",
+    "caneca",
+    "caguana",
+    "bailador",
+    "colorinche",
+    "chequita",
+    "atracacunas",
+    "aco",
+    "atronado",
+    "cacao",
+    "arniada",
+    "cusma",
+    "embarrar",
+    "charapa",
+    "capri",
+    "cambuche",
+    "curucutear",
+    "chingue",
+    "bizcocho",
+    "destender",
+    "despernancado",
+    "candonga",
+    "cachona",
+    "cheo",
+    "aburria",
+    "colino",
+    "bocana",
+    "carambolo",
+    "arrumar",
+    "alcahueta",
+    "balurdo",
+    "ajiaco",
+    "calanchín",
+    "desenhuesar",
+    "ajustar",
+    "curandero",
+    "bagazo",
+    "banda",
+    "cachín",
+    "bizcochería",
+    "colgado",
+    "despensionarse",
+    "alevoso",
+    "bitute",
+    "artillero",
+    "cuento",
+    "arrimadero",
+    "camastrón",
+    "banquetero",
+    "caney",
+    "chutar",
+    "catanga",
+    "champeta",
+    "carón",
+    "cañaveral",
+    "charrasquear",
+    "descambiar",
+    "dirección",
+    "comiso",
+    "boquineto",
+    "cutucutu",
+    "cocido",
+    "chispero",
+    "coquito",
+    "amanecido",
+    "cerro",
+    "cátedra",
+    "alcanzamocho",
+    "cuscungo, ga",
+    "cheque",
+    "cartuchera",
+    "desocupación",
+    "aguallevame",
+    "cuentear",
+    "desrengar",
+    "cueriada",
+    "bloqueador",
+    "chapolera",
+    "aseador",
+    "amacizar",
+    "deshijar",
+    "chepito",
+    "desprendible",
+    "apicharse",
+    "búcaro",
+    "desguañañar",
+    "chitiado",
+    "billar",
+    "bogar",
+    "chere",
+    "barrilete",
+    "briqué",
+    "currutaco",
+    "apestar",
+    "crespo",
+    "chambonada",
+    "coco",
+    "consignación",
+    "barbiancho",
+    "arrastrado",
+    "aguaitar",
+    "chocho",
+    "copar",
+    "chiripudo",
+    "bandola",
+    "cismático",
+    "colmo",
+    "curado",
+    "danza",
+    "cacharrero",
+    "copetón, na",
+    "descrestar",
+    "duda",
+    "aguajina",
+    "buscaniguas",
+    "amigovio",
+    "chiyón",
+    "colmena",
+    "copialina",
+    "bacao",
+    "autopartes",
+    "caballete",
+    "chengo",
+    "banano",
+    "amagallar",
+    "chicanear",
+    "aguaguado",
+    "carajada",
+    "desgalamido",
+    "aporrión",
+    "cuyabro",
+    "cutipado",
+    "anche",
+    "aventado",
+    "desjetar",
+    "detallar",
+    "casquillero",
+    "cantarilla",
+    "alfabeto",
+    "chepacorina",
+    "arizá",
+    "bodoque",
+    "colear",
+    "cepillo",
+    "cuquera",
+    "catramanada",
+    "dedo",
+    "cargar",
+    "azarar",
+    "brincón",
+    "aguamil",
+    "antualito",
+    "chocado",
+    "arreglar",
+    "deschavetarse",
+    "chambrana",
+    "alimentador",
+    "aturugarse",
+    "bulto",
+    "cutipar",
+    "araguato",
+    "distrital",
+    "concertada",
+    "condominio",
+    "chispón",
+    "coroncoro",
+    "despescuezar",
+    "aguarse",
+    "bololó",
+    "coroteo",
+    "canguro",
+    "chona",
+    "chato",
+    "cuerpero",
+    "bulloso",
+    "desmechar",
+    "chipaca",
+    "abalear",
+    "champú",
+    "ardencia",
+    "computación",
+    "buchón",
+    "boquisabroso",
+    "buzo",
+    "carreta",
+    "chiflamicas",
+    "aletoso",
+    "día",
+    "chepudo",
+    "arawuana",
+    "alcaraván",
+    "cascarero",
+    "carbonear",
+    "corredera",
+    "aguamiel",
+    "cueriza",
+    "bota",
+    "cayeno",
+    "chistear",
+    "afiebrado",
+    "boleta",
+    "clase",
+    "barbasquear",
+    "acosón",
+    "cubiertería",
+    "destemplar",
+    "cachezudo",
+    "desenchuflar",
+    "cura",
+    "chamón",
     "cabestro",
+    "carrotanque",
+    "buseto",
+    "brisar",
+    "cotiza",
+    "agache",
+    "chuchuguaza",
+    "cocayo",
+    "ahorcado",
+    "cagüingo",
+    "diostedé",
+    "bravero",
+    "carreteable",
+    "aparatiado",
+    "desgarrar",
+    "aguijar",
+    "acurrucarse",
+    "bacán",
+    "agarrón",
+    "canaleta",
+    "chontear",
+    "diligencia",
+    "desaguado",
+    "achicar",
+    "chupalina",
+    "blower",
+    "caguetas",
+    "beich",
+    "chichero",
+    "cartón",
+    "camello",
+    "barretón",
+    "canalón",
+    "belfo",
+    "cachifa",
+    "carrera",
+    "argolla",
+    "bata",
+    "almuerzo",
+    "alcanzado",
+    "desangre",
+    "cuatro",
+    "barulaque",
+    "egreso",
+    "cagar",
+    "chibugá",
+    "brujear",
+    "corchar",
+    "chisporrotiar",
+    "ahorcar",
+    "cocona",
+    "cabecear",
+    "arborización",
+    "afirmativo",
+    "embalado",
+    "carromato",
+    "canillón",
+    "alón",
+    "dama",
+    "descalzurriado",
+    "bollo",
+    "abismante",
+    "chancaca",
+    "cruce",
+    "antisocial",
+    "desempacar",
+    "ahí",
+    "bonitico, ca",
+    "corral",
+    "camuro",
+    "descorche",
+    "componer",
+    "cañada",
+    "botado",
+    "charco",
+    "arapaima",
+    "acema",
+    "charola",
+    "chandoso",
+    "desvarar",
+    "birimbí",
+    "chismoso",
+    "elegante",
+    "casar",
+    "desplatado",
+    "embarrutar",
+    "chapucear",
+    "changón",
+    "bichuraco",
+    "bolión",
+    "cancañá",
+    "bombacho",
+    "buscapiés",
+    "cartera",
+    "acelerado",
+    "cantúa",
+    "chimbe",
+    "chicho",
+    "achapado",
+    "bandera",
+    "cascabelear",
+    "cumbiambero",
+    "cadena",
+    "bizcorneto",
+    "angelito",
+    "castaña",
+    "bramadero",
+    "agrio",
+    "calza",
+    "arregionado",
+    "capital",
+    "canturrón",
+    "achicopalar",
+    "alcancía",
+    "chicheme",
+    "cachetero",
+    "averigüetas",
+    "culumpio",
+    "buenamente",
+    "cachifo",
+    "caliente",
+    "aliñado",
+    "chasquear",
+    "decol",
+    "clavarse",
+    "cola",
+    "cuerda",
+    "checa",
+    "dulce",
+    "caché",
+    "abejorrear",
+    "capia",
+    "carilargo",
+    "acatar",
+    "carachama",
+    "cananguchal",
+    "embarrilar",
+    "avaluador",
+    "destutanarse",
+    "bojote",
+    "chachajo",
+    "costura",
+    "abeja",
+    "cundido",
+    "castañear",
+    "arrugarse",
+    "borrachero",
+    "aplicar",
+    "balaca",
+    "cotizar",
+    "calceto",
+    "capio",
+    "agripado",
+    "arma",
+    "biche",
+    "aletear",
+    "chocato",
+    "atravesado",
+    "calificar",
+    "cerrillo",
+    "dormilón",
+    "casaca",
+    "añejo",
+    "caporo",
+    "cuello",
+    "cuchuflí",
+    "bola",
+    "cuentahabiente",
+    "descrestador",
+    "atenido",
+    "coscojo",
+    "candado",
+    "cabello",
+    "calle",
+    "chiroso",
+    "carne",
+    "breve",
+    "chongo",
+    "chisacá",
+    "acartonado",
+    "ataviar",
+    "copado",
+    "chivo,",
+    "bayetilla",
+    "chichipa",
+    "coronar",
+    "cabra",
+    "carraquear",
+    "callo",
+    "atarantarse",
+    "afanar",
+    "dulceabrigo",
+    "cucho, cha",
+    "churumbelo",
+    "alistar",
+    "año",
+    "egresado",
+    "cosiaca",
+    "aplanchar",
+    "chifladera",
+    "bastimento",
+    "chochora",
+    "atenerse",
+    "capul",
+    "beneficiadero",
+    "bono",
+    "calcetear",
+    "choferear",
+    "barbasqueado",
+    "desempastar",
+    "cojinúa",
+    "chivato",
+    "case",
+    "asomadera",
+    "bendición",
+    "barbachato",
+    "dañino",
+    "calavera",
+    "acondicionar",
+    "arboloco",
+    "chumbo, ba",
+    "apechichar",
+    "almojábana",
+    "bolita",
+    "afrijolar",
+    "aguamasa",
+    "desguarambilado",
+    "cucho",
+    "chicludo",
+    "choneto",
+    "colgar",
+    "afilarse",
+    "balde",
+    "cuajado",
+    "cocorota",
+    "carcacha",
+    "descapuruzado",
+    "arrozudo",
+    "caucha",
+    "chorrera",
+    "babosada",
+    "coñazo",
+    "abajeño",
+    "atutado",
+    "contraria",
+    "cábano",
+    "aguachento",
+    "butatón",
+    "buchón, na",
+    "desempeñarse",
+    "atol",
+    "cocheteo",
+    "balero",
+    "descompletar",
+    "alegadera",
+    "bocón, a",
+    "calzar",
+    "cuerina",
+    "banderazo",
+    "chagüeto",
+    "buchaca",
+    "anamú",
+    "bacanería",
+    "bocón",
+    "bebeta",
+    "borondo",
+    "cachonear",
+    "chupamedias",
+    "barrial",
+    "conteo",
+    "cucarachero",
+    "chirario",
+    "costalado",
+    "achicharrar",
+    "desmanchador",
+    "chaquira",
+    "arriado",
+    "achucado",
+    "baja",
+    "chuquio",
+    "bombillo",
+    "caminadera",
+    "culebra",
+    "barbuchas",
+    "chorear",
+    "bocel",
+    "celoso",
+    "bacaba",
+    "arremedar",
+    "caldo",
+    "barato",
+    "carrizo",
+    "abuelita",
+    "cuerear",
+    "cagarruta",
+    "común",
+    "destartalado",
+    "chácara",
+    "caminadora",
+    "cono",
+    "clavijero",
+    "ayayais",
+    "chochera",
+    "chinchorro",
+    "chasís",
+    "abrigar",
+    "cajulo",
+    "copia",
+    "cachicamo",
+    "calzonarias",
+    "burrero",
+    "alevino",
+    "cocainero",
     "chafarote",
+    "almidón",
+    "burusa",
+    "canalete",
+    "aguatudo",
+    "chandé",
+    "cachar",
+    "avionada",
+    "bien",
+    "curtido",
+    "barajustar",
+    "cumbamba",
+    "berma",
+    "desparchado",
+    "arador",
+    "cotejo",
+    "amojonarse",
+    "corvina",
+    "cigarrillera",
+    "casquillo",
+    "chencha",
+    "caripatúa",
+    "culequear",
+    "baldío",
+    "cipote",
+    "chinchinchín",
+    "desinflamatorio",
+    "chancero",
+    "cateo",
+    "diente",
+    "choto",
+    "botaratas",
+    "alfombrar",
+    "burundanga",
+    "casa",
+    "diario",
+    "cabecizoco",
+    "despresar",
+    "culillo",
+    "cuspe",
+    "anchovero",
+    "corrinche",
+    "bobo",
+    "dañar",
+    "boli",
+    "chivear",
+    "duro, ra",
+    "alpargatudo",
+    "churro",
+    "bustona",
+    "desviringuiar",
+    "cagadero",
+    "boquiduro",
+    "abrebocas",
+    "danta",
+    "elevarse",
+    "brotado",
+    "cejón",
+    "compraventa",
+    "barrio",
+    "cucamba",
+    "bembear",
+    "canangucho",
+    "cronograma",
+    "carpeta",
+    "arepazo",
+    "chuzón",
+    "barequero",
+    "avichucho",
+    "apachurrar",
+    "cover",
+    "despalomado",
+    "campanero",
+    "cobre",
+    "cadmia",
+    "chilingueado",
+    "buziraco",
+    "acolitar",
+    "alocado",
+    "caminata",
+    "caminar",
+    "chamburo",
+    "chocholear",
+    "chontiado",
+    "borugo",
+    "cojón",
+    "chapeado",
+    "defensoría",
+    "chilindroso",
+    "chumbe",
+    "chequear",
+    "chaperón",
+    "chocha",
+    "arenga",
+    "atalayero",
+    "blanqueado",
+    "apanado",
+    "desactualizarse",
+    "compañera",
+    "charuco",
+    "antojado",
+    "dueño",
+    "aguacero",
+    "codo",
+    "dulzaina",
+    "carajito",
+    "chucha",
+    "chancuco",
+    "azare",
+    "breva",
+    "desacomodar",
+    "biblia",
+    "biao",
+    "cargador",
+    "chaza",
+    "dentistería",
+    "argollar",
+    "caribe",
+    "buchipluma",
+    "chucho",
+    "amanecer",
+    "chipolo",
+    "chicorio, ria",
+    "charre",
+    "caer",
+    "embarrada",
+    "chiquero",
+    "denuncio",
+    "consignar",
+    "cuchara",
+    "atarván",
+    "aguantador",
+    "culequera",
+    "conga",
+    "diamante",
+    "camaján",
+    "desembolsillar",
+    "dragoneante",
+    "cuatrimoto",
+    "carimañola",
+    "basquetbol",
+    "contrapunteo",
+    "butaca",
+    "arisco",
+    "alicoramiento",
+    "cachaza",
+    "burro",
+    "ausentismo",
+    "chinche",
+    "calvear",
+    "bahía",
+    "agonía",
+    "coraza",
+    "caratejo",
+    "arracachada",
+    "chirriquitico",
+    "barajar",
+    "corriente",
+    "declaratoria",
+    "combinada",
+    "botalón",
+    "baby",
+    "alepruz",
+    "comercial",
+    "bemba",
+    "descontinuar",
+    "angurriento",
+    "cobija",
+    "bacenilla",
+    "dengue",
+    "descachalandrado",
+    "cacreco",
+    "abozao",
+    "buenón",
+    "boquiflojo",
+    "desencarrar",
+    "boquisucio",
+    "caedizo",
+    "averiguadera",
+    "canasta",
+    "amonado",
+    "conjunto",
+    "arrechón",
+    "cuñado",
+    "chapulín",
+    "cargado",
+    "cantagallo",
+    "chichipato",
+    "bimbo",
+    "batola",
+    "aportante",
+    "chundú",
+    "cogepuerca",
+    "chancancarina",
+    "cuarto",
+    "carga",
+    "blumas",
+    "destapado",
+    "atarzanar",
+    "cartelear",
+    "chécheres",
+    "corrinchero",
+    "ameritar",
+    "chepa",
+    "cachucha",
+    "catano",
+    "bordón",
+    "chirriadera",
+    "chiste",
+    "chisguete",
+    "china",
+    "chiraco",
+    "carreriado",
+    "atarrosarse",
+    "achantar",
+    "acudiente",
+    "baldado",
+    "clavija",
+    "digitar",
+    "cocotazo",
+    "coteja",
+    "birra",
+    "amarillearse",
+    "embaldosinar",
+    "ancheta",
+    "bodega",
+    "caresanto",
+    "churrusco, ca",
+    "camellón",
+    "andado",
+    "chacho",
+    "babilla",
+    "desamargar",
+    "deshuesadero",
+    "desentejarse",
+    "chocozuela",
+    "conchudez",
+    "chimó",
+    "bilocho",
+    "bravo",
+    "as",
+    "berreadera",
+    "catire",
+    "cipotudo",
+    "chumarse",
+    "apalastrado",
+    "bejuco",
+    "champa",
+    "cancanear",
+    "bóveda",
+    "cari",
+    "bambuco",
+    "angurrioso",
+    "chuchumeco",
+    "canoera",
+    "dañado",
+    "boletear",
+    "chispiar",
+    "coca",
+    "amangualarse",
+    "béisbol",
+    "bracero",
+    "bombero",
+    "caballote",
+    "colorete",
+    "copiar",
+    "atulampar",
+    "dejar",
+    "calentano",
+    "armatroste",
+    "durmiente",
+    "cucurucho",
+    "casquifloja",
+    "blablablá",
+    "contraflujo",
+    "alucema",
+    "cromos",
+    "cuchibarbie",
+    "chueco",
+    "choroto",
+    "algotro",
+    "comején",
+    "chino",
+    "chiporro",
+    "berrinche",
+    "brasier",
+    "bore",
+    "cerrado",
+    "cantaletoso",
+    "cachón",
+    "carguero",
+    "base",
+    "andareguear",
+    "chapín",
+    "braviar",
+    "acabado",
+    "cambambero",
+    "catara",
+    "caído",
+    "bagre",
+    "almacén",
+    "como",
+    "auchar",
+    "achucarse",
+    "cantaleta",
+    "capaz",
+    "casito",
+    "aguardientoso",
+    "chorizo",
+    "cambiazo",
+    "chivé",
+    "berrietas",
+    "batir",
+    "apostador",
+    "agalludo",
+    "carajear",
+    "bonitico",
+    "cuerazo",
+    "apilonar",
+    "alpargata",
+    "chiras",
+    "destartalar",
+    "chiva",
+    "apuntarse",
+    "cachichí",
+    "boletería",
+    "agüerista",
+    "bolo",
+    "cumbión",
+    "candirú",
+    "despepar",
+    "arriesgada",
+    "arazá",
+    "carnetizar",
+    "chorreada",
+    "chifloreto",
+    "boa",
+    "brilladora",
+    "canalero",
+    "chofer",
+    "cafuche",
+    "cuentero",
+    "avivato",
+    "bala",
+    "chupundún",
+    "chambón",
+    "abarrotes",
+    "currucutú",
+    "cañaguate",
+    "carurú",
+    "coleo",
+    "ancho",
+    "azafrán",
+    "chepazo",
     "cabuya",
-    "alerta"
+    "calidoso",
+    "bachaco",
+    "anchar",
+    "azaroso",
+    "acobalar",
+    "banca",
+    "chillar",
+    "conejo",
+    "cascabeleo",
+    "carisellazo",
+    "colí",
+    "abrirse",
+    "barbecue",
+    "desgastante",
+    "amarrar",
+    "cachivera",
+    "chocar",
+    "chola",
+    "chundul",
+    "arrimado",
+    "alinderar",
+    "carraca",
+    "chingo",
+    "belleza",
+    "almorzadero",
+    "atrabancado",
+    "balastro",
+    "cuchacho",
+    "cubrimiento",
+    "canequero",
+    "champurrear",
+    "cazabe",
+    "aquisito",
+    "arrimar",
+    "cabreado",
+    "cocote",
+    "cachaco",
+    "aruñar",
+    "atorador",
+    "dedicar",
+    "culifalda",
+    "caño",
+    "bazuquero",
+    "cojosa",
+    "bullerengue",
+    "batea",
+    "caseta",
+    "chanfle",
+    "abombado",
+    "contracarátula",
+    "coquero",
+    "agropecuario",
+    "desenmochilar",
+    "caimacán",
+    "chispa",
+    "descreste",
+    "bangaña",
+    "angeo",
+    "aflojachocho",
+    "embalar",
+    "desconectar",
+    "chévere",
+    "camoruco",
+    "ardido",
+    "allacito",
+    "colectivo",
+    "arequipe",
+    "alegato",
+    "cobao",
+    "cincuenta",
+    "butifarra",
+    "bandido",
+    "calabazo",
+    "droguería",
+    "apachurrado",
+    "chilacuán",
+    "cucarrón",
+    "churco",
+    "acuerpado",
+    "control",
+    "aullar",
+    "blanqueador",
+    "chiripiolca",
+    "asocio",
+    "copera",
+    "cosa",
+    "apelotardar",
+    "asado, da",
+    "afro",
+    "cansón",
+    "bogadera",
+    "buganvil",
+    "cochoso",
+    "carpa",
+    "azorada",
+    "atafagar",
+    "caporal",
+    "aguarapar",
+    "cortero",
+    "desgualetado",
+    "chara",
+    "caja",
+    "bueno",
+    "bocina",
+    "carbonero",
+    "cocacolo",
+    "asoleada",
+    "anillado",
+    "chumbo",
+    "bolera",
+    "choripan",
+    "desamargado",
+    "cafongo",
+    "chontudo",
+    "cupo",
+    "buenamoza",
+    "coatí",
+    "alférez",
+    "beriberi",
+    "chiquito",
+    "chacero",
+    "chamuscón",
+    "concha",
+    "ciudad",
+    "conferencista",
+    "citadino",
+    "arrempujar",
+    "camostre",
+    "casco",
+    "caimanear",
+    "brevo",
+    "compuesto",
+    "chapil",
+    "arremuesco",
+    "desencartar",
+    "camu",
+    "coche",
+    "embambado",
+    "desenguayabar",
+    "bus",
+    "camonina",
+    "cosmetiquera",
+    "basquetbolista",
+    "cañabrava",
+    "detal",
+    "comida",
+    "departamento",
+    "amiguero",
+    "berroche",
+    "churretearse",
+    "cilindradora",
+    "bamba",
+    "despistada",
+    "aguacatado",
+    "bambinazo",
+    "atarraya",
+    "choca",
+    "chumado",
+    "contener",
+    "achín",
+    "cosquilleo",
+    "contimás",
+    "campo",
+    "abanicar",
+    "chócoro",
+    "charamba",
+    "cacorro",
+    "cuadra",
+    "calar",
+    "cañar",
+    "arrume",
+    "chumbar",
+    "desgonzar",
+    "dentrodera",
+    "acápite",
+    "balanza",
+    "dinero",
+    "chiribico",
+    "cajón",
+    "carrumba",
+    "delegatario",
+    "calentado",
+    "cajonero, ra",
+    "cumbiamba",
+    "alcaparro",
+    "cañicultor",
+    "culicagado",
+    "aguatero",
+    "billete",
+    "cajeto",
+    "bajalenguas",
+    "cabuco",
+    "antejardín",
+    "comedido",
+    "altillo",
+    "chirriado",
+    "chunchurria",
+    "charanga",
+    "chitearse",
+    "cantaletear",
+    "ceiba",
+    "amacice",
+    "chuspa",
+    "coralibe",
+    "corocora",
+    "chocante",
+    "chisguetear",
+    "chambero",
+    "barajuste",
+    "carisina",
+    "cheese cake",
+    "caramelear",
+    "cantada",
+    "chalupa",
+    "botadero",
+    "borona",
+    "balancear",
+    "altanero",
+    "descuajaringado",
+    "combo",
+    "desmovilización",
+    "caramelita",
+    "eleno",
+    "bananiar",
+    "carbonero, ra",
+    "despachado",
+    "balsámica",
+    "animalero",
+    "aplastarse",
+    "avío",
+    "centro",
+    "carajo",
+    "corto",
+    "abullonado",
+    "chimbo",
+    "amalayarse",
+    "chiveado",
+    "caminado",
+    "egresar",
+    "desamerar",
+    "café",
+    "apercollar",
+    "chorreado",
+    "balache",
+    "carcamán",
+    "cagá",
+    "cerca",
+    "culada",
+    "casaramá",
+    "cancha",
+    "botar",
+    "arriero",
+    "copito",
+    "calentura",
+    "calilla",
+    "apenarse",
+    "defensa",
+    "chigualo",
+    "carrandanga",
+    "chicoria",
+    "camandulero",
+    "devuelta",
+    "cagüinga",
+    "acabarropa",
+    "culiso",
+    "achilado",
+    "chispotear",
+    "apartamento",
+    "blindar",
+    "chancuquear",
+    "achicopalado",
+    "don",
+    "cocotear",
+    "barbudo",
+    "cabildo",
+    "corrido, da",
+    "cumbia",
+    "aruñón",
+    "copietas",
+    "agua",
+    "cinco",
+    "colado",
+    "acose",
+    "atajada",
+    "chusco",
+    "curubito",
+    "alberca",
+    "elegantoso",
+    "birrioso",
+    "biósfera",
+    "alcayata",
+    "brocha",
+    "contraloría",
+    "duro",
+    "cañón",
+    "cenegoso",
+    "bolinillo",
+    "cantador",
+    "cantinero",
+    "competencia",
+    "cachacero",
+    "carauazú",
+    "amarga",
+    "cartelera",
+    "capisayo",
+    "camiseta",
+    "bolsillo",
+    "bullugo",
+    "bananero",
+    "chorote",
+    "aulagas",
+    "canero",
+    "dientón",
+    "aguasal",
+    "antojoso",
+    "diferendo",
+    "colino, na",
+    "echarse",
+    "cintillo",
+    "canar",
+    "asaí",
+    "costilla",
+    "amanecedero",
+    "chela",
+    "dar",
+    "carramañudo",
+    "curiara",
+    "cute",
+    "baño",
+    "causal",
+    "dobletroque",
+    "apeñuscado",
+    "amansar",
+    "bañera",
+    "abaleo",
+    "desparche",
+    "balay",
+    "contendor",
+    "atajar",
+    "alargue",
+    "cabecipelado",
+    "achilar",
+    "arepear",
+    "cofio",
+    "carmelito",
+    "boquiar",
+    "alentarse",
+    "achante",
+    "crema",
+    "chonta",
+    "dividivi",
+    "cachaloa",
+    "agarrar",
+    "colada",
+    "bifé",
+    "abarco",
+    "despulpar",
+    "chirrinche",
+    "chicote",
+    "bolillo",
+    "candidatizar",
+    "amero",
+    "canopy",
+    "bañar",
+    "botilito",
+    "descachado",
+    "ala",
+    "blanqueada",
+    "conectarse",
+    "concientizar",
+    "demorar",
+    "cochera",
+    "carranguero",
+    "acusaletas",
+    "ambil",
+    "corbata",
+    "desrengado",
+    "bufeo",
+    "casquisuelta",
+    "apenado",
+    "alabado",
+    "amarradijo",
+    "cuscungo",
+    "cabezazo",
+    "cortado",
+    "culimbo",
+    "chompa",
+    "anaco",
+    "caspa",
+    "aforar",
+    "arenera",
+    "baratero",
+    "colero",
+    "chispazo",
+    "desbarrancadero",
+    "despelote",
+    "clima",
+    "accesar",
+    "canto",
+    "caballito",
+    "caga",
+    "culeco",
+    "arrutanao",
+    "cheto",
+    "descularse",
+    "direccional",
+    "cilantro",
+    "buseta",
+    "cabezal",
+    "bastonero",
+    "apurarse",
+    "cortada",
+    "chapalear",
+    "balcón",
+    "antojarse",
+    "alzado",
+    "barrida",
+    "asado",
+    "atacado",
+    "chismosear",
+    "agüero",
+    "desayunadero",
+    "cabestrillo",
+    "buscapleitos",
+    "arrancado",
+    "chiripiado",
+    "curaca",
+    "chivera",
+    "areta",
+    "banquitas",
+    "corotearse",
+    "cogeollas",
+    "andén",
+    "barril",
+    "cesante",
+    "chance",
+    "cepillar",
+    "cuncho",
+    "chilena",
+    "cuaderno",
+    "chamo",
+    "contemplado",
+    "cañandonga",
+    "caviloso",
+    "chompi",
+    "acordeonero",
+    "cascorvo",
+    "carranchín",
+    "cuadre",
+    "chapeto",
+    "decolar",
+    "blof",
+    "ciudadano",
+    "cocó",
+    "corrientazo",
+    "avión, na",
+    "descuajado",
+    "carriel",
+    "cumplido",
+    "aluzar",
+    "cachapa",
+    "desmonte",
+    "delicarse",
+    "arborizar",
+    "caderón",
+    "alegrón",
+    "diciente",
+    "acotejar",
+    "amañador",
+    "criaturo",
+    "chamón, na",
+    "cigarrería",
+    "coronilla",
+    "desencabar",
+    "aparecido",
+    "balear",
+    "algo",
+    "cununo",
+    "chocorear",
+    "colación",
+    "carretudo",
+    "disparado",
+    "cachumbo",
+    "carretel",
+    "amañarse",
+    "cachetear",
+    "birria",
+    "cabrito",
+    "cocada",
+    "desbarrancarse",
+    "contentillo",
+    "achiquitar",
+    "cadillo",
+    "achacado",
+    "cédula",
+    "cámbulo",
+    "aborrajado",
+    "candelilla",
+    "chupar",
+    "bacano",
+    "aleta",
+    "carapacho",
+    "bembón",
+    "balneario",
+    "chulavita",
+    "buenavida",
+    "bruja",
+    "boda",
+    "apaleado",
+    "claridoso",
+    "chuta",
+    "cogienda",
+    "chancuquero",
+    "aguanoso",
+    "afilado",
+    "churo",
+    "chita",
+    "caimo",
+    "carrancio",
+    "conchudo",
+    "afiche",
+    "demeritar",
+    "afiebrarse",
+    "aplanchado",
+    "chócolo",
+    "elevado",
+    "arbolear",
+    "bajonear",
+    "cundirse",
+    "callana",
+    "arrancamuelas",
+    "auca",
+    "barequear",
+    "dieta",
+    "concientización",
+    "copón",
+    "bijao",
+    "americano",
+    "caracha",
+    "aburrición",
+    "cachirre",
+    "cancharana",
+    "calentano, na",
+    "alcahuetear",
+    "cacota",
+    "desmandarse",
+    "cachicar",
+    "cancharina",
+    "canillera",
+    "acabose",
+    "atarragarse",
+    "cinta",
+    "arrastrar",
+    "coger",
+    "cáscara",
+    "cholado",
+    "bordón, na",
+    "desechable",
+    "bluyín",
+    "churupo",
+    "curazao",
+    "caspi",
+    "comedero",
+    "cachazo",
+    "desangrar",
+    "cagón",
+    "alero",
+    "cusumbo",
+    "descarachar",
+    "almirajó",
+    "achantado",
+    "aceite",
+    "bichuría",
+    "arranque",
+    "cauchería",
+    "cascúo",
+    "calentarse",
+    "cerrero",
+    "azul",
+    "carramán",
+    "chucuchucu",
+    "cacharrear",
+    "avispero",
+    "disquera",
+    "catear",
+    "desprolijo",
+    "chico",
+    "brotar",
+    "carioco",
+    "desentorchar",
+    "bastón",
+    "barquilla",
+    "digitador",
+    "contentar",
+    "bifamiliar",
+    "azotea",
+    "caimarón",
+    "bolañero",
+    "averaguado",
+    "atortolado",
+    "aperezarse",
+    "camellar",
+    "canchero",
+    "buchácara",
+    "antimotines",
+    "bache",
+    "chile",
+    "arrodillado",
+    "chichonera",
+    "colita",
+    "echado",
+    "aire",
+    "desamarrar",
+    "coporo",
+    "chisga",
+    "cafetero",
+    "desgarre",
+    "embaucada",
+    "ahorita",
+    "cocina",
+    "bebeco",
+    "añales",
+    "altoparlante",
+    "concolón",
+    "bao",
+    "bebedero"
   ],
-  "last_updated": "2025-11-18T21:41:59.968934",
-  "items_completed": 1300,
-  "errors_count": 2
+  "last_updated": "2025-11-19T20:21:43.176564",
+  "items_completed": 1800,
+  "errors_count": 0
 }
