@@ -37113,5 +37113,989 @@
     "response": {
       "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"descuerada\",\n    \"ejemplo\": \"la descuerada se prolongó hasta las tantas de la noche, entre las delicias de armonía\"\n  },\n  \"output\": {\n    \"literal\": \"fiesta sin control\",\n    \"definicion\": \"reunión social con baile y diversión intensa y prolongada\"\n  }\n}\n```"
     }
+  },
+  {
+    "modismo": "desgonzado",
+    "ejemplo": "lo levantaron del suelo sin sentido y desgonzado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"desgonzado\",\n    \"ejemplo\": \"lo levantaron del suelo sin sentido y desgonzado\"\n  },\n  \"output\": {\n    \"literal\": \"desarticulado\",\n    \"definicion\": \"Persona con huesos o articulaciones desplazadas o fuera de su posición normal\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "deshuevarse",
+    "ejemplo": "me voy a deshuevar por terminar eso pronto",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"deshuevarse\",\n    \"ejemplo\": \"me voy a deshuevar por terminar eso pronto\"\n  },\n  \"output\": {\n    \"literal\": \"esforzarme mucho\",\n    \"definicion\": \"realizar un gran esfuerzo físico o mental\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "despepado",
+    "ejemplo": "salió despepado de la oficina",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"despepado\",\n    \"ejemplo\": \"salió despepado de la oficina\"\n  },\n  \"output\": {\n    \"literal\": \"muy rápido\",\n    \"definicion\": \"Persona que actúa con gran velocidad o prisa extrema\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "dolor de cabeza",
+    "ejemplo": "por la firma de ese documento tuve un dolor de cabeza. ese muchacho es un dolor de cabeza",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"dolor de cabeza\",\n    \"ejemplo\": \"por la firma de ese documento tuve un dolor de cabeza. ese muchacho es un dolor de cabeza\"\n  },\n  \"output\": {\n    \"literal\": \"problema grande\",\n    \"definicion\": \"situación o persona que causa molestia o preocupación constante\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "dígame",
+    "ejemplo": "vendrá la señora",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"dígame\",\n    \"ejemplo\": \"vendrá la señora\"\n  },\n  \"output\": {\n    \"literal\": \"escúcheme\",\n    \"definicion\": \"expresión para solicitar atención\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "echar clavija",
+    "ejemplo": "en ese negocio me echó clavija",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"echar clavija\",\n    \"ejemplo\": \"en ese negocio me echó clavija\"\n  },\n  \"output\": {\n    \"literal\": \"me engañó\",\n    \"definicion\": \"persona que induce a error o engaño a otra\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "echar ojo",
+    "ejemplo": "échele ojo a los niños",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "echar ojo",
+        "ejemplo": "échele ojo a los niños"
+      },
+      "output": {
+        "literal": "vigilar atentamente",
+        "definicion": "observar con cuidado y atención"
+      }
+    }
+  },
+  {
+    "modismo": "el algo",
+    "ejemplo": "llegó el algo. llegaron las cucas, el churro, los buñuelos",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"el algo\",\n    \"ejemplo\": \"llegó el algo. llegaron las cucas, el churro, los buñuelos\"\n  },\n  \"output\": {\n    \"literal\": \"comida adicional\",\n    \"definicion\": \"Alimentos consumidos fuera de las comidas principales\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "embarrarla",
+    "ejemplo": "la embarraste con ese chiste tan vulgar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"embarrarla\",\n    \"ejemplo\": \"la embarraste con ese chiste tan vulgar\"\n  },\n  \"output\": {\n    \"literal\": \"cometer un error grave\",\n    \"definicion\": \"acción de equivocarse de manera significativa\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "embarruntar",
+    "ejemplo": "se embarrutó en la caballeriza",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"embarruntar\",\n    \"ejemplo\": \"se embarrutó en la caballeriza\"\n  },\n  \"output\": {\n    \"literal\": \"ensuciar con barro\",\n    \"definicion\": \"Cubrir algo con barro o lodo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "empandorgarse",
+    "ejemplo": "cuide de que el negocio no se vaya a empandorgar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"empandorgarse\",\n    \"ejemplo\": \"cuide de que el negocio no se vaya a empandorgar\"\n  },\n  \"output\": {\n    \"literal\": \"complicarse demasiado\",\n    \"definicion\": \"situación que se vuelve muy compleja o difícil de manejar\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "emparamado",
+    "ejemplo": "no llevé el paraguas y llegué emparamado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"emparamado\",\n    \"ejemplo\": \"no llevé el paraguas y llegué emparamado\"\n  },\n  \"output\": {\n    \"literal\": \"muy mojado\",\n    \"definicion\": \"persona con ropa y cabello empapados por lluvia\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "en chaquess de",
+    "ejemplo": "en chaques de ir a misa, me veré con mi novio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"en chaquess de\",\n    \"ejemplo\": \"en chaques de ir a misa, me veré con mi novio\"\n  },\n  \"output\": {\n    \"literal\": \"con el pretexto de\",\n    \"definicion\": \"usar una excusa para ocultar el verdadero motivo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "enfuertar",
+    "ejemplo": "enfuertar guarapo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"enfuertar\",\n    \"ejemplo\": \"enfuertar guarapo\"\n  },\n  \"output\": {\n    \"literal\": \"añadir licor\",\n    \"definicion\": \"Agregar bebida alcohólica a una bebida no alcohólica\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "engerido",
+    "ejemplo": "el pollo está engerido porque está enfermo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"engerido\",\n    \"ejemplo\": \"el pollo está engerido porque está enfermo\"\n  },\n  \"output\": {\n    \"literal\": \"débil y flaco\",\n    \"definicion\": \"estado de debilidad y falta de vigor físico\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "engomado",
+    "ejemplo": "está engomado con el último libro que compró",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"engomado\",\n    \"ejemplo\": \"está engomado con el último libro que compró\"\n  },\n  \"output\": {\n    \"literal\": \"muy interesado\",\n    \"definicion\": \"persona con gran atracción o curiosidad hacia algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "enquimbarse",
+    "ejemplo": "ve que si dejás a este muchacho bien enquimbao, vos sos el primero que tenés que responder!",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"enquimbarse\",\n    \"ejemplo\": \"ve que si dejás a este muchacho bien enquimbao, vos sos el primero que tenés que responder!\"\n  },\n  \"output\": {\n    \"literal\": \"muy enojado\",\n    \"definicion\": \"persona con alto grado de irritación o enfado\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "escachalandrado",
+    "ejemplo": "esa vigüela que suena/tiene la boca rasgada y también el que la toca/tiene su escachalandrada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"escachalandrado\",\n    \"ejemplo\": \"esa vigüela que suena/tiene la boca rasgada y también el que la toca/tiene su escachalandrada\"\n  },\n  \"output\": {\n    \"literal\": \"vida desordenada\",\n    \"definicion\": \"Persona con comportamientos o hábitos irregulares y descontrolados.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "escapito",
+    "ejemplo": "escapito me caigo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "escapito",
+        "ejemplo": "escapito me caigo"
+      },
+      "output": {
+        "literal": "por poco",
+        "definicion": "indica que algo estuvo a punto de suceder"
+      }
+    }
+  },
+  {
+    "modismo": "estar bien parado",
+    "ejemplo": "pedro está bien parado en el ministerio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"estar bien parado\",\n    \"ejemplo\": \"pedro está bien parado en el ministerio\"\n  },\n  \"output\": {\n    \"literal\": \"tener buena posición\",\n    \"definicion\": \"persona con cargo o situación laboral favorable\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "estartazo",
+    "ejemplo": "expertos sostienen que debería hacerse una emisión para darle un estartazo a la economía",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"estartazo\",\n    \"ejemplo\": \"expertos sostienen que debería hacerse una emisión para darle un estartazo a la economía\"\n  },\n  \"output\": {\n    \"literal\": \"impulso inicial fuerte\",\n    \"definicion\": \"acción o medida que inicia o acelera un proceso o actividad económica\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "estrellón",
+    "ejemplo": "hubo un estrellón terrible en la autopista",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"estrellón\",\n    \"ejemplo\": \"hubo un estrellón terrible en la autopista\"\n  },\n  \"output\": {\n    \"literal\": \"choque muy fuerte\",\n    \"definicion\": \"colisión violenta de vehículos\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fajarse",
+    "ejemplo": "se fajó con ese discurso",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"fajarse\",\n    \"ejemplo\": \"se fajó con ese discurso\"\n  },\n  \"output\": {\n    \"literal\": \"se esforzó mucho\",\n    \"definicion\": \"hacer gran esfuerzo para lograr algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fifirichas",
+    "ejemplo": "no es gracioso; es apenas un fifirichas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"fifirichas\",\n    \"ejemplo\": \"no es gracioso; es apenas un fifirichas\"\n  },\n  \"output\": {\n    \"literal\": \"persona sin gracia\",\n    \"definicion\": \"individuo que carece de humor o atractivo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fucha",
+    "ejemplo": "se armó la fucha",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"fucha\",\n    \"ejemplo\": \"se armó la fucha\"\n  },\n  \"output\": {\n    \"literal\": \"gran problema\",\n    \"definicion\": \"situación de gran conflicto o desorden\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "furuminga",
+    "ejemplo": "en la plaza de mercado se formó la furuminga",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"furuminga\",\n    \"ejemplo\": \"en la plaza de mercado se formó la furuminga\"\n  },\n  \"output\": {\n    \"literal\": \"gran desorden\",\n    \"definicion\": \"situación caótica y desorganizada\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "guapirrear",
+    "ejemplo": "en córdoba, guapirrear es la máxima expresión de la felicidad",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"guapirrear\",\n    \"ejemplo\": \"en córdoba, guapirrear es la máxima expresión de la felicidad\"\n  },\n  \"output\": {\n    \"literal\": \"sentir mucha alegría\",\n    \"definicion\": \"estado emocional de gran placer y satisfacción\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "güevón",
+    "ejemplo": "qué hubo, güevón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"güevón\",\n    \"ejemplo\": \"qué hubo, güevón\"\n  },\n  \"output\": {\n    \"literal\": \"amigo\",\n    \"definicion\": \"persona con la que se tiene familiaridad o amistad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "güinche",
+    "ejemplo": "la yuca está güinche",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "güinche",
+        "ejemplo": "la yuca está güinche"
+      },
+      "output": {
+        "literal": "muy dañada",
+        "definicion": "yuca en mal estado"
+      }
+    }
+  },
+  {
+    "modismo": "hacer cuarto",
+    "ejemplo": "mis amigos me hicieron cuarto para poder salir antes de clase",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"hacer cuarto\",\n    \"ejemplo\": \"mis amigos me hicieron cuarto para poder salir antes de clase\"\n  },\n  \"output\": {\n    \"literal\": \"acompañar a alguien\",\n    \"definicion\": \"Persona que acompaña a otra para hacer algo juntos\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacer cucarrón",
+    "ejemplo": "los hombres hacen el cucarrón que se estila en nuestros colegios",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "hacer cucarrón",
+        "ejemplo": "los hombres hacen el cucarrón que se estila en nuestros colegios"
+      },
+      "output": {
+        "literal": "hacer el ridículo",
+        "definicion": "realizar acciones o comportamientos absurdos"
+      }
+    }
+  },
+  {
+    "modismo": "hacer hasta para vender",
+    "ejemplo": "en la fiesta pedro hizo hasta para vender",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"hacer hasta para vender\",\n    \"ejemplo\": \"en la fiesta pedro hizo hasta para vender\"\n  },\n  \"output\": {\n    \"literal\": \"bailar muy bien\",\n    \"definicion\": \"persona que ejecuta movimientos de baile con gran habilidad y gracia\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacerse",
+    "ejemplo": "dónde me haré yo? –hágase ahí",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"hacerse\",\n    \"ejemplo\": \"dónde me haré yo? –hágase ahí\"\n  },\n  \"output\": {\n    \"literal\": \"sentarse o ubicarse\",\n    \"definicion\": \"Persona que ocupa un lugar o posición en algún sitio.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hermanolo",
+    "ejemplo": "qué hubo, hermanolo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"hermanolo\",\n    \"ejemplo\": \"qué hubo, hermanolo\"\n  },\n  \"output\": {\n    \"literal\": \"amigo cercano\",\n    \"definicion\": \"persona con la que se tiene una relación de amistad estrecha\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "horcón",
+    "ejemplo": "para los blancos, mogolla;/pa' los negros, mojicones;/para los recién casados/cama con güenos horcones",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"horcón\",\n    \"ejemplo\": \"para los blancos, mogolla;/pa' los negros, mojicones;/para los recién casados/cama con güenos horcones\"\n  },\n  \"output\": {\n    \"literal\": \"buenos soportes\",\n    \"definicion\": \"Elementos robustos que dan estabilidad a algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "iji",
+    "ejemplo": "iji! si me voy a levantar temprano",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "iji",
+        "ejemplo": "iji! si me voy a levantar temprano"
+      },
+      "output": {
+        "literal": "no creo",
+        "definicion": "expresión de incredulidad o duda"
+      }
+    }
+  },
+  {
+    "modismo": "intervenir",
+    "ejemplo": "él no quiso intervenir en la discusión",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"intervenir\",\n    \"ejemplo\": \"él no quiso intervenir en la discusión\"\n  },\n  \"output\": {\n    \"literal\": \"participar en la charla\",\n    \"definicion\": \"tomar parte en una conversación o debate\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "itaña",
+    "ejemplo": "pobrecita guacamaya,/mucha lástima me da:/se acabaron las itañas,/y ahora ¿qué comerá",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"itaña\",\n    \"ejemplo\": \"pobrecita guacamaya,/mucha lástima me da:/se acabaron las itañas,/y ahora ¿qué comerá\"\n  },\n  \"output\": {\n    \"literal\": \"comida disponible\",\n    \"definicion\": \"Alimento accesible para consumir\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jalarle",
+    "ejemplo": "le jala bastante a la mecánica",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"jalarle\",\n    \"ejemplo\": \"le jala bastante a la mecánica\"\n  },\n  \"output\": {\n    \"literal\": \"le gusta mucho\",\n    \"definicion\": \"persona con gran interés o afición\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jipata",
+    "ejemplo": "en honda me tienen preso/y en la ciudad de la plata/porque no quise querer/una que andaba jipata",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"jipata\",\n    \"ejemplo\": \"en honda me tienen preso/y en la ciudad de la plata/porque no quise querer/una que andaba jipata\"\n  },\n  \"output\": {\n    \"literal\": \"loca o ebria\",\n    \"definicion\": \"persona que actúa de manera descontrolada o irracional\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jojoro",
+    "ejemplo": "el maíz no sirve, está jojoro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"jojoro\",\n    \"ejemplo\": \"el maíz no sirve, está jojoro\"\n  },\n  \"output\": {\n    \"literal\": \"malo o de mala calidad\",\n    \"definicion\": \"descripción de algo en mal estado o condición\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "juaica",
+    "ejemplo": "la muchacha que a los quince/no se acueste con sus taitas,/que se tranque bien la puerta/porque se la lleva el juaica",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"juaica\",\n    \"ejemplo\": \"la muchacha que a los quince/no se acueste con sus taitas,/que se tranque bien la puerta/porque se la lleva el juaica\"\n  },\n  \"output\": {\n    \"literal\": \"algo malo o el diablo\",\n    \"definicion\": \"entidad o fuerza negativa que causa daño o peligro\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jurumba",
+    "ejemplo": "por esta bajada abajo/va un conejo que zumba/recogiendo su tabaco/para echarle a su jurumba",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"jurumba\",\n    \"ejemplo\": \"por esta bajada abajo/va un conejo que zumba/recogiendo su tabaco/para echarle a su jurumba\"\n  },\n  \"output\": {\n    \"literal\": \"amante o compañera\",\n    \"definicion\": \"Persona con la que se mantiene una relación sentimental o afectiva\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jurungo",
+    "ejemplo": "habla un jurungo que no se le entiende",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"jurungo\",\n    \"ejemplo\": \"habla un jurungo que no se le entiende\"\n  },\n  \"output\": {\n    \"literal\": \"lenguaje ininteligible\",\n    \"definicion\": \"manera de hablar que no se comprende claramente\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "la quinta porra",
+    "ejemplo": "ese barrio queda en la quinta porra",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"la quinta porra\",\n    \"ejemplo\": \"ese barrio queda en la quinta porra\"\n  },\n  \"output\": {\n    \"literal\": \"muy lejos\",\n    \"definicion\": \"distancia considerable del punto de referencia\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lagartería",
+    "ejemplo": "me choca la lagartería de ese señor",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"lagartería\",\n    \"ejemplo\": \"me choca la lagartería de ese señor\"\n  },\n  \"output\": {\n    \"literal\": \"adulación excesiva\",\n    \"definicion\": \"comportamiento de halagar o adular a alguien de manera exagerada\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lancha",
+    "ejemplo": "juan es una lancha",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "lancha",
+        "ejemplo": "juan es una lancha"
+      },
+      "output": {
+        "literal": "persona muy rápida",
+        "definicion": "alguien que ejecuta acciones con velocidad"
+      }
+    }
+  },
+  {
+    "modismo": "las viejas",
+    "ejemplo": "ir donde las viejas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"las viejas\",\n    \"ejemplo\": \"ir donde las viejas\"\n  },\n  \"output\": {\n    \"literal\": \"ir al baño\",\n    \"definicion\": \"Acción de dirigirse al lugar para hacer necesidades fisiológicas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "leído",
+    "ejemplo": "garcía márquez es muy leído en latinoamérica",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"leído\",\n    \"ejemplo\": \"garcía márquez es muy leído en latinoamérica\"\n  },\n  \"output\": {\n    \"literal\": \"muy conocido\",\n    \"definicion\": \"persona cuyas obras son ampliamente estudiadas y apreciadas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "loca",
+    "ejemplo": "juan es una loca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"loca\",\n    \"ejemplo\": \"juan es una loca\"\n  },\n  \"output\": {\n    \"literal\": \"persona muy divertida\",\n    \"definicion\": \"alguien que causa mucha risa o entretenimiento\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "locha",
+    "ejemplo": "a pedro le gusta echar su locha",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"locha\",\n    \"ejemplo\": \"a pedro le gusta echar su locha\"\n  },\n  \"output\": {\n    \"literal\": \"hablar mucho\",\n    \"definicion\": \"expresar opiniones o comentarios de manera excesiva\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lunarejo",
+    "ejemplo": "hombre lunarejo. vaca lunareja",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"lunarejo\",\n    \"ejemplo\": \"hombre lunarejo. vaca lunareja\"\n  },\n  \"output\": {\n    \"literal\": \"con lunares\",\n    \"definicion\": \"animal o persona que tiene manchas en la piel\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lupias",
+    "ejemplo": "me gané unas lupias",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "prompt_id": "P4",
+      "input": {
+        "modismo": "lupias",
+        "ejemplo": "me gané unas lupias"
+      },
+      "output": {
+        "literal": "golpes fuertes",
+        "definicion": "Golpes o heridas físicas severas recibidas"
+      }
+    }
+  },
+  {
+    "modismo": "machucarse",
+    "ejemplo": "me machuqué el dedo con la puerta del carro",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"machucarse\",\n    \"ejemplo\": \"me machuqué el dedo con la puerta del carro\"\n  },\n  \"output\": {\n    \"literal\": \"lastimarse mucho\",\n    \"definicion\": \"sufrir daño o lesión física intensa\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "madremonte",
+    "ejemplo": "aquí, la madremonte, musgosa y putrefacta, que, al bañarse en las cabeceras de los ríos, envenena sus aguas y ocasiona calenturas y tuntún, llagas y carate, ronchas y enconos",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"madremonte\",\n    \"ejemplo\": \"aquí, la madremonte, musgosa y putrefacta, que, al bañarse en las cabeceras de los ríos, envenena sus aguas y ocasiona calenturas y tuntún, llagas y carate, ronchas y enconos\"\n  },\n  \"output\": {\n    \"literal\": \"vegetación en descomposición\",\n    \"definicion\": \"Materia orgánica vegetal en estado de putrefacción que contamina el entorno.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "magué",
+    "ejemplo": "allá'rriba viene el diablo/con una cruz de magué/pa'decir a las mujeres/que apuren con el cajé",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"magué\",\n    \"ejemplo\": \"allá'rriba viene el diablo/con una cruz de magué/pa'decir a las mujeres/que apuren con el cajé\"\n  },\n  \"output\": {\n    \"literal\": \"pita o fique\",\n    \"definicion\": \"Planta fibrosa usada para hacer cuerdas y sogas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mamar gallo",
+    "ejemplo": "me está mamando gallo con el pago del arriendo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"mamar gallo\",\n    \"ejemplo\": \"me está mamando gallo con el pago del arriendo\"\n  },\n  \"output\": {\n    \"literal\": \"tomar el pelo\",\n    \"definicion\": \"burlarse de alguien sin intención de cumplir lo prometido\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mana",
+    "ejemplo": "lo qu'hemos de hacer es buscale al niño un compañerito, pa que s'entretenga con él y jueguen ai en el platanal y en la manguita de la mana",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"mana\",\n    \"ejemplo\": \"lo qu'hemos de hacer es buscale al niño un compañerito, pa que s'entretenga con él y jueguen ai en el platanal y en la manguita de la mana\"\n  },\n  \"output\": {\n    \"literal\": \"madre o mujer adulta\",\n    \"definicion\": \"Persona adulta femenina que cuida o está relacionada con alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "manfifio",
+    "ejemplo": "quedó manfifio con tanto chisme",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"manfifio\",\n    \"ejemplo\": \"quedó manfifio con tanto chisme\"\n  },\n  \"output\": {\n    \"literal\": \"muy confundido\",\n    \"definicion\": \"persona desorientada o aturdida\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "manosear",
+    "ejemplo": "se molestó porque pensó que lo estaban manoseando",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"manosear\",\n    \"ejemplo\": \"se molestó porque pensó que lo estaban manoseando\"\n  },\n  \"output\": {\n    \"literal\": \"tocar indebidamente\",\n    \"definicion\": \"Acción de tocar a alguien de manera inapropiada o invasiva\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "marramucia",
+    "ejemplo": "no venga usted con marramucias para que firme el contrato",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"marramucia\",\n    \"ejemplo\": \"no venga usted con marramucias para que firme el contrato\"\n  },\n  \"output\": {\n    \"literal\": \"excusas o evasivas\",\n    \"definicion\": \"razones o pretextos para evitar algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "matiné",
+    "ejemplo": "la invité a matiné",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"matiné\",\n    \"ejemplo\": \"la invité a matiné\"\n  },\n  \"output\": {\n    \"literal\": \"desayunar juntos\",\n    \"definicion\": \"comer alimentos matutinos en compañía\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mejengue",
+    "ejemplo": "este joven es de mucho mejengue",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"mejengue\",\n    \"ejemplo\": \"este joven es de mucho mejengue\"\n  },\n  \"output\": {\n    \"literal\": \"mucha fiesta\",\n    \"definicion\": \"Persona que disfruta de diversión y celebraciones\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "meterle julepe",
+    "ejemplo": "dele julepe/amigo don chepe./dele a don chepe/amigo julepe",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"meterle julepe\",\n    \"ejemplo\": \"dele julepe/amigo don chepe./dele a don chepe/amigo julepe\"\n  },\n  \"output\": {\n    \"literal\": \"darle presión\",\n    \"definicion\": \"acción de insistir o presionar a alguien para lograr algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "miquingo",
+    "ejemplo": "juan se mostró miquingo con su regalo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"miquingo\",\n    \"ejemplo\": \"juan se mostró miquingo con su regalo\"\n  },\n  \"output\": {\n    \"literal\": \"muy generoso\",\n    \"definicion\": \"persona que da con abundancia y sin esperar recompensa\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mire a ver",
+    "ejemplo": "mire a ver si hace lo que debe",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"mire a ver\",\n    \"ejemplo\": \"mire a ver si hace lo que debe\"\n  },\n  \"output\": {\n    \"literal\": \"tenga cuidado\",\n    \"definicion\": \"actuar con precaución y atención\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mogote",
+    "ejemplo": "anoche dormí en l'arena,/ de cabecera un mogote;/¡cómo me estarán pensando/las mocitas de tribote",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"mogote\",\n    \"ejemplo\": \"anoche dormí en l'arena,/ de cabecera un mogote;/¡cómo me estarán pensando/las mocitas de tribote\"\n  },\n  \"output\": {\n    \"literal\": \"montículo de arena\",\n    \"definicion\": \"Elevación pequeña de arena o tierra\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "moridera",
+    "ejemplo": "de pronto me da una moridera, distinta y peor que la de el morro: el sudor se me vuelve granizo por la frente, por la nuca, por todo el cuerpo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"moridera\",\n    \"ejemplo\": \"de pronto me da una moridera, distinta y peor que la de el morro: el sudor se me vuelve granizo por la frente, por la nuca, por todo el cuerpo\"\n  },\n  \"output\": {\n    \"literal\": \"crisis de ansiedad\",\n    \"definicion\": \"estado de agitación y angustia intensa\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mosco",
+    "ejemplo": "con sus medias no le pica mosco ni zancudo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"mosco\",\n    \"ejemplo\": \"con sus medias no le pica mosco ni zancudo\"\n  },\n  \"output\": {\n    \"literal\": \"no le pasa nada\",\n    \"definicion\": \"estado de no ser afectado negativamente\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "míster",
+    "ejemplo": "un míster preguntó por la señorita",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"míster\",\n    \"ejemplo\": \"un míster preguntó por la señorita\"\n  },\n  \"output\": {\n    \"literal\": \"hombre extranjero\",\n    \"definicion\": \"Persona de sexo masculino no originaria del país o región.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "nave",
+    "ejemplo": "qué nave la que te compraste",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"nave\",\n    \"ejemplo\": \"qué nave la que te compraste\"\n  },\n  \"output\": {\n    \"literal\": \"muy bueno\",\n    \"definicion\": \"algo o alguien destacado por su calidad o excelencia\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "necear",
+    "ejemplo": "han neceado todo el día",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"necear\",\n    \"ejemplo\": \"han neceado todo el día\"\n  },\n  \"output\": {\n    \"literal\": \"perder el tiempo\",\n    \"definicion\": \"no realizar actividades productivas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "niguatero",
+    "ejemplo": "ese es un pobre niguatero",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"niguatero\",\n    \"ejemplo\": \"ese es un pobre niguatero\"\n  },\n  \"output\": {\n    \"literal\": \"persona insignificante\",\n    \"definicion\": \"Individuo de poca importancia o relevancia social\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no estar el palo para hacer cucharas",
+    "ejemplo": "no todos los días está el palo para hacer cucharas",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"no estar el palo para hacer cucharas\",\n    \"ejemplo\": \"no todos los días está el palo para hacer cucharas\"\n  },\n  \"output\": {\n    \"literal\": \"no estar dadas las cosas\",\n    \"definicion\": \"circunstancias no favorables para realizar algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no saber o entender ni papa",
+    "ejemplo": "no sé ni papa de francés",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"no saber o entender ni papa\",\n    \"ejemplo\": \"no sé ni papa de francés\"\n  },\n  \"output\": {\n    \"literal\": \"no saber nada\",\n    \"definicion\": \"desconocimiento total de un tema o asunto específico\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no tener pierde",
+    "ejemplo": "ese negocio no tiene pierde",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"no tener pierde\",\n    \"ejemplo\": \"ese negocio no tiene pierde\"\n  },\n  \"output\": {\n    \"literal\": \"es muy seguro\",\n    \"definicion\": \"Oportunidad o situación con alta probabilidad de éxito\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ojos brotados",
+    "ejemplo": "berreó él",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ojos brotados\",\n    \"ejemplo\": \"berreó él\"\n  },\n  \"output\": {\n    \"literal\": \"lloró con fuerza\",\n    \"definicion\": \"acción de llorar intensamente\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pachocha",
+    "ejemplo": "no hagas más pachocha y ponte a estudiar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"pachocha\",\n    \"ejemplo\": \"no hagas más pachocha y ponte a estudiar\"\n  },\n  \"output\": {\n    \"literal\": \"cosa sin sentido\",\n    \"definicion\": \"acción o situación carente de propósito o significado\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pachorrear",
+    "ejemplo": "ese peón pachorrea demasiado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"pachorrear\",\n    \"ejemplo\": \"ese peón pachorrea demasiado\"\n  },\n  \"output\": {\n    \"literal\": \"trabajar muy despacio\",\n    \"definicion\": \"realizar actividades con lentitud excesiva\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "papa caliente",
+    "ejemplo": "el reemplazo de juan manuel santos en la u se volvió una papa caliente",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"papa caliente\",\n    \"ejemplo\": \"el reemplazo de juan manuel santos en la u se volvió una papa caliente\"\n  },\n  \"output\": {\n    \"literal\": \"problema difícil\",\n    \"definicion\": \"asunto complicado y delicado que genera controversia\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pasar aceite",
+    "ejemplo": "mi abuelo ya está pasando aceite",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"pasar aceite\",\n    \"ejemplo\": \"mi abuelo ya está pasando aceite\"\n  },\n  \"output\": {\n    \"literal\": \"está muriendo\",\n    \"definicion\": \"Persona en estado de agonía o fallecimiento inminente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "patirrajado",
+    "ejemplo": "ese es un pobre patirrajado",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"patirrajado\",\n    \"ejemplo\": \"ese es un pobre patirrajado\"\n  },\n  \"output\": {\n    \"literal\": \"muy pobre\",\n    \"definicion\": \"persona con extrema carencia de recursos económicos\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "petaquearse",
+    "ejemplo": "se petaqueó la máquina",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"petaquearse\",\n    \"ejemplo\": \"se petaqueó la máquina\"\n  },\n  \"output\": {\n    \"literal\": \"se dañó la máquina\",\n    \"definicion\": \"Máquina dejó de funcionar correctamente\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "picar el ojo",
+    "ejemplo": "le picó el ojo para coquetearle",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"picar el ojo\",\n    \"ejemplo\": \"le picó el ojo para coquetearle\"\n  },\n  \"output\": {\n    \"literal\": \"guiñar el ojo\",\n    \"definicion\": \"acción de cerrar y abrir un ojo rápidamente para enviar una señal\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pingua",
+    "ejemplo": "carlitos es una pingua de dos años",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"pingua\",\n    \"ejemplo\": \"carlitos es una pingua de dos años\"\n  },\n  \"output\": {\n    \"literal\": \"niño travieso\",\n    \"definicion\": \"persona joven que se comporta de manera inquieta o desobediente\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "piste",
+    "ejemplo": "de esta tierra me destierran/por no darme mazamorra;/ que el gallo les coma el piste/y el puerco les rompa l'olla",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"piste\",\n    \"ejemplo\": \"de esta tierra me destierran/por no darme mazamorra;/ que el gallo les coma el piste/y el puerco les rompa l'olla\"\n  },\n  \"output\": {\n    \"literal\": \"comida para gallinas\",\n    \"definicion\": \"alimento destinado a aves de corral\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "plebe",
+    "ejemplo": "pedro es muy plebe",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"plebe\",\n    \"ejemplo\": \"pedro es muy plebe\"\n  },\n  \"output\": {\n    \"literal\": \"persona de clase baja\",\n    \"definicion\": \"individuo de estrato socioeconómico bajo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "poner conejo",
+    "ejemplo": "en la reunión informal de las comisiones séptimas, maría cristina ocampo dijo que el gobierno le puso conejo al congreso con las reformas a la seguridad social. el congresista alberto cano le reprochó diciéndole que si no le daba pena usar esas palabras tan feas en la casa de las leyes. más penoso es que el gobierno nos ponga conejo y no se ponga colorado, insistió ella",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"poner conejo\",\n    \"ejemplo\": \"en la reunión informal de las comisiones séptimas, maría cristina ocampo dijo que el gobierno le puso conejo al congreso con las reformas a la seguridad social. el congresista alberto cano le reprochó diciéndole que si no le daba pena usar esas palabras tan feas en la casa de las leyes. más penoso es que el gobierno nos ponga conejo y no se ponga colorado, insistió ella\"\n  },\n  \"output\": {\n    \"literal\": \"engañar con astucia\",\n    \"definicion\": \"acción de engañar de manera hábil e inteligente\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "popora",
+    "ejemplo": "juan tiene una popora en la pierna",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"popora\",\n    \"ejemplo\": \"juan tiene una popora en la pierna\"\n  },\n  \"output\": {\n    \"literal\": \"llaga o herida grande\",\n    \"definicion\": \"lesión cutánea extensa y profunda\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pordebajear",
+    "ejemplo": "nieves consiente en la venta, porque ve la conveniencia . ¡mas luego vos estás sola y pordebajiada",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"pordebajear\",\n    \"ejemplo\": \"nieves consiente en la venta, porque ve la conveniencia . ¡mas luego vos estás sola y pordebajiada\"\n  },\n  \"output\": {\n    \"literal\": \"engañada y perjudicada\",\n    \"definicion\": \"persona que ha sido objeto de manipulación o engaño con consecuencias negativas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "quedar pálido",
+    "ejemplo": "quedaron pálidos con la noticia",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"quedar pálido\",\n    \"ejemplo\": \"quedaron pálidos con la noticia\"\n  },\n  \"output\": {\n    \"literal\": \"sentir mucho miedo\",\n    \"definicion\": \"estado de gran temor o susto\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "quisque",
+    "ejemplo": "me dijeron quesque va a venir el obispo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"quisque\",\n    \"ejemplo\": \"me dijeron quesque va a venir el obispo\"\n  },\n  \"output\": {\n    \"literal\": \"dicen que\",\n    \"definicion\": \"expresión que indica que algo se dice sin confirmación\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "quién quita",
+    "ejemplo": "quién quita que se casen",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"quién quita\",\n    \"ejemplo\": \"quién quita que se casen\"\n  },\n  \"output\": {\n    \"literal\": \"es posible que\",\n    \"definicion\": \"posibilidad de un evento futuro\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "regarse",
+    "ejemplo": "se regó en críticas y acusaciones",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"regarse\",\n    \"ejemplo\": \"se regó en críticas y acusaciones\"\n  },\n  \"output\": {\n    \"literal\": \"desbordarse en improperios\",\n    \"definicion\": \"expresar intensas críticas o insultos de manera descontrolada\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "riego",
+    "ejemplo": "tengo un riego de papa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"riego\",\n    \"ejemplo\": \"tengo un riego de papa\"\n  },\n  \"output\": {\n    \"literal\": \"cultivo de papa\",\n    \"definicion\": \"terreno sembrado con papas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "runchera",
+    "ejemplo": "ese hotel es una runchera",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"runchera\",\n    \"ejemplo\": \"ese hotel es una runchera\"\n  },\n  \"output\": {\n    \"literal\": \"lugar sucio y desordenado\",\n    \"definicion\": \"espacio con falta de limpieza y organización\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "saber",
+    "ejemplo": "este amigo sabe madrugar todos los días",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"saber\",\n    \"ejemplo\": \"este amigo sabe madrugar todos los días\"\n  },\n  \"output\": {\n    \"literal\": \"suele levantarse temprano\",\n    \"definicion\": \"acción habitual de levantarse a una hora temprana\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sacar la piedra",
+    "ejemplo": "me sacó la piedra con todos sus chismes",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"sacar la piedra\",\n    \"ejemplo\": \"me sacó la piedra con todos sus chismes\"\n  },\n  \"output\": {\n    \"literal\": \"me enfadó mucho\",\n    \"definicion\": \"Causar gran enojo o molestia a alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "salir pitado",
+    "ejemplo": "salieron pitados para la casa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"salir pitado\",\n    \"ejemplo\": \"salieron pitados para la casa\"\n  },\n  \"output\": {\n    \"literal\": \"salir muy rápido\",\n    \"definicion\": \"acción de abandonar un lugar con prontitud y velocidad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sanjuanear",
+    "ejemplo": "san juan y la magdalena/se jueron a sanjuaniar;/san juan le pegó un moquete/que la hizo patiboliar",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"sanjuanear\",\n    \"ejemplo\": \"san juan y la magdalena/se jueron a sanjuaniar;/san juan le pegó un moquete/que la hizo patiboliar\"\n  },\n  \"output\": {\n    \"literal\": \"hacer el amor\",\n    \"definicion\": \"relación sexual entre dos personas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser pinta",
+    "ejemplo": "nuestro vecino es pinta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ser pinta\",\n    \"ejemplo\": \"nuestro vecino es pinta\"\n  },\n  \"output\": {\n    \"literal\": \"persona de mala fama\",\n    \"definicion\": \"individuo con mala reputación o comportamiento cuestionable\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser un número",
+    "ejemplo": "juan con tragos es un número",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ser un número\",\n    \"ejemplo\": \"juan con tragos es un número\"\n  },\n  \"output\": {\n    \"literal\": \"muy divertido\",\n    \"definicion\": \"persona que causa gran entretenimiento o diversión\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser una fiera",
+    "ejemplo": "antonio es una fiera para el negocio",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ser una fiera\",\n    \"ejemplo\": \"antonio es una fiera para el negocio\"\n  },\n  \"output\": {\n    \"literal\": \"muy agresivo y tenaz\",\n    \"definicion\": \"persona que actúa con mucha fuerza y determinación\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser una tusa",
+    "ejemplo": "carlos es una tusa como profesional. ¡pa casarse con una tusa [ .] tiempo sobra",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"ser una tusa\",\n    \"ejemplo\": \"carlos es una tusa como profesional. ¡pa casarse con una tusa [ .] tiempo sobra\"\n  },\n  \"output\": {\n    \"literal\": \"persona sin valor\",\n    \"definicion\": \"individuo considerado inútil o de poco mérito\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "siembro",
+    "ejemplo": "un siembro de papa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"siembro\",\n    \"ejemplo\": \"un siembro de papa\"\n  },\n  \"output\": {\n    \"literal\": \"cultivo de papas\",\n    \"definicion\": \"terreno donde se cultivan papas\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sobar la pita",
+    "ejemplo": "no sobe la pita",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"sobar la pita\",\n    \"ejemplo\": \"no sobe la pita\"\n  },\n  \"output\": {\n    \"literal\": \"no molestar\",\n    \"definicion\": \"abstenerse de causar disturbios o perturbaciones\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sudor",
+    "ejemplo": "me tomé un sudor, para esta gripa",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"sudor\",\n    \"ejemplo\": \"me tomé un sudor, para esta gripa\"\n  },\n  \"output\": {\n    \"literal\": \"transpiración intensa\",\n    \"definicion\": \"acción de sudar abundantemente para aliviar síntomas de enfermedad\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "surumangué",
+    "ejemplo": "este es el surumanguito/y este es el surumanguito/y este es el surumangué,/que lo bailan con la mano,/que lo bailan con el pie",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"surumangué\",\n    \"ejemplo\": \"este es el surumanguito/y este es el surumanguito/y este es el surumangué,/que lo bailan con la mano,/que lo bailan con el pie\"\n  },\n  \"output\": {\n    \"literal\": \"baile divertido\",\n    \"definicion\": \"actividad de diversión con movimientos corporales rítmicos\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tampoco",
+    "ejemplo": "presentaste entonces tu renuncia? ¡no , tampoco! tampoco es que le quitemos el saludo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"tampoco\",\n    \"ejemplo\": \"presentaste entonces tu renuncia? ¡no , tampoco! tampoco es que le quitemos el saludo\"\n  },\n  \"output\": {\n    \"literal\": \"no lo hago\",\n    \"definicion\": \"negativa a realizar una acción específica\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "te conozco mosco",
+    "ejemplo": "no me digas mentiras que te conozco mosco",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"te conozco mosco\",\n    \"ejemplo\": \"no me digas mentiras que te conozco mosco\"\n  },\n  \"output\": {\n    \"literal\": \"te conozco bien\",\n    \"definicion\": \"Persona que conoce a fondo a otra\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tenerle azar",
+    "ejemplo": "como a yo me parecía cosa diabólica siempre les tenía azar y recelo",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"tenerle azar\",\n    \"ejemplo\": \"como a yo me parecía cosa diabólica siempre les tenía azar y recelo\"\n  },\n  \"output\": {\n    \"literal\": \"sentir desconfianza\",\n    \"definicion\": \"percepción de riesgo o peligro en alguien o algo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tirarse",
+    "ejemplo": "se tiró el negocio; se tiró la fiesta",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"tirarse\",\n    \"ejemplo\": \"se tiró el negocio; se tiró la fiesta\"\n  },\n  \"output\": {\n    \"literal\": \"arruinar algo\",\n    \"definicion\": \"causar el fracaso o deterioro de una situación o evento\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "toca",
+    "ejemplo": "hay que pagar ese impuesto –toca",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"toca\",\n    \"ejemplo\": \"hay que pagar ese impuesto –toca\"\n  },\n  \"output\": {\n    \"literal\": \"es inevitable\",\n    \"definicion\": \"algo que debe suceder o hacerse necesariamente\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vespertina",
+    "ejemplo": "ayer fuimos a vespertina",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"vespertina\",\n    \"ejemplo\": \"ayer fuimos a vespertina\"\n  },\n  \"output\": {\n    \"literal\": \"función de la tarde\",\n    \"definicion\": \"Representación teatral o cinematográfica realizada en horas de la tarde\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yegua",
+    "ejemplo": "ser una yegua",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"yegua\",\n    \"ejemplo\": \"ser una yegua\"\n  },\n  \"output\": {\n    \"literal\": \"persona muy trabajadora\",\n    \"definicion\": \"individuo que realiza múltiples tareas o labores con gran esfuerzo\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zumbón",
+    "ejemplo": "me metió un zumbón",
+    "model": "meta-llama/llama-4-maverick",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P4\",\n  \"input\": {\n    \"modismo\": \"zumbón\",\n    \"ejemplo\": \"me metió un zumbón\"\n  },\n  \"output\": {\n    \"literal\": \"me dio un golpe\",\n    \"definicion\": \"acción de golpear a alguien\"\n  }\n}\n```"
+    }
   }
 ]

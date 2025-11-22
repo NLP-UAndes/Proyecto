@@ -46008,5 +46008,4577 @@
         "definicion": "Cada uno de los elementos que forma parte de un todo"
       }
     }
+  },
+  {
+    "modismo": "uniformado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "uniformado",
+      "output": {
+        "definicion": "Persona que viste un uniforme"
+      }
+    }
+  },
+  {
+    "modismo": "uniforme",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "uniforme",
+      "output": {
+        "definicion": "Ropa idéntica usada por miembros de un grupo o institución."
+      }
+    }
+  },
+  {
+    "modismo": "untada",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "untada",
+      "output": {
+        "definicion": "Estado de algo o alguien que está cubierto con una sustancia pegajosa."
+      }
+    }
+  },
+  {
+    "modismo": "untar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "untar",
+      "output": {
+        "definicion": "Extender o aplicar algo de manera irregular o injusta."
+      }
+    }
+  },
+  {
+    "modismo": "urgido",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "urgido",
+      "output": {
+        "definicion": "Apremiado por la necesidad de actuar rápidamente"
+      }
+    }
+  },
+  {
+    "modismo": "utilero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "utilero",
+      "output": {
+        "definicion": "Persona encargada de cuidar y ordenar el vestuario en un teatro."
+      }
+    }
+  },
+  {
+    "modismo": "uva",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "uva",
+      "output": {
+        "definicion": "Expresión de sorpresa o admiración."
+      }
+    }
+  },
+  {
+    "modismo": "uña",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "uña",
+      "output": {
+        "definicion": "Expresión para referirse a algo fácil de conseguir"
+      }
+    }
+  },
+  {
+    "modismo": "útiles",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "útiles",
+      "output": {
+        "definicion": "herramientas o recursos prácticos"
+      }
+    }
+  },
+  {
+    "modismo": "vaca",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vaca",
+      "output": {
+        "definicion": "Expresión colombiana para referirse a alguien con mucho apetito."
+      }
+    }
+  },
+  {
+    "modismo": "vacacionar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vacacionar",
+      "output": {
+        "definicion": "Tomar un período de descanso o viajar con fines recreativos."
+      }
+    }
+  },
+  {
+    "modismo": "vaciada",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vaciada",
+      "output": {
+        "definicion": "Acción de vaciar o dejar sin contenido."
+      }
+    }
+  },
+  {
+    "modismo": "vaciado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vaciado",
+      "output": {
+        "definicion": "Acción de vaciar o dejar vacío completamente."
+      }
+    }
+  },
+  {
+    "modismo": "vaciar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vaciar",
+      "output": {
+        "definicion": "Dejar sin contenido un recipiente o lugar."
+      }
+    }
+  },
+  {
+    "modismo": "vacilar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vacilar",
+      "output": {
+        "definicion": "titubear o dudar en tomar una decisión"
+      }
+    }
+  },
+  {
+    "modismo": "vacilón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vacilón",
+      "output": {
+        "definicion": "Diversión o broma entre amigos"
+      }
+    }
+  },
+  {
+    "modismo": "vacuna",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vacuna",
+      "output": {
+        "definicion": "Acción de aplicar una vacuna para prevenir enfermedades."
+      }
+    }
+  },
+  {
+    "modismo": "vagabundería",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vagabundería",
+      "output": {
+        "definicion": "Conducta de persona sin hogar o sin oficio fijo"
+      }
+    }
+  },
+  {
+    "modismo": "vagabundo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vagabundo",
+      "output": {
+        "definicion": "Individuo sin hogar ni residencia fija."
+      }
+    }
+  },
+  {
+    "modismo": "vaina",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vaina",
+      "output": {
+        "definicion": "Objeto o situación sin especificar."
+      }
+    }
+  },
+  {
+    "modismo": "vainazo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vainazo",
+      "output": {
+        "definicion": "Golpe dado con el puño, también usado en sentido figurado para indicar un fracaso"
+      }
+    }
+  },
+  {
+    "modismo": "vale",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vale",
+      "output": {
+        "definicion": "Está de acuerdo o acepta."
+      }
+    }
+  },
+  {
+    "modismo": "valla",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "valla",
+      "output": {
+        "definicion": "Expresión que alude a una situación de advertencia o precaución."
+      }
+    }
+  },
+  {
+    "modismo": "vallenato",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vallenato",
+      "output": {
+        "definicion": "Género musical tradicional colombiano del departamento del Cesar."
+      }
+    }
+  },
+  {
+    "modismo": "valor",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "valor",
+      "output": {
+        "definicion": "Concepto o principio moralmente aceptable"
+      }
+    }
+  },
+  {
+    "modismo": "van",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "raw_response": "{\n  \"prompt_id\": \"P1\",\n  \"input\": \"van\",\n  \"output\": {\n    \"definicion\": \"expresión que indica afirmación o disconformidad.\"\n  }\n}\n\nNOTA: El término \"van\" en Colombia es una expresión idiomática que puede significar \"sí\" para indicar afirmación o \"no\" para mostrar disconformidad, dependiendo del tono y contexto en que se use."
+    }
+  },
+  {
+    "modismo": "varado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "varado",
+      "output": {
+        "definicion": "Estancado en una situación difícil sin salida obvia."
+      }
+    }
+  },
+  {
+    "modismo": "varar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "varar",
+      "output": {
+        "definicion": "Quedarse una persona sin dinero o medios de transporte."
+      }
+    }
+  },
+  {
+    "modismo": "varasanta",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "varasanta",
+      "output": {
+        "definicion": "Expresión coloquial para 'muy tarde' o 'fuera de tiempo'"
+      }
+    }
+  },
+  {
+    "modismo": "variante",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "variante",
+      "output": {
+        "definicion": "Cambio o diferencia en algo respecto a lo original."
+      }
+    }
+  },
+  {
+    "modismo": "varilla",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "varilla",
+      "output": {
+        "definicion": "Persona de contextura delgada y alta."
+      }
+    }
+  },
+  {
+    "modismo": "varón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "varón",
+      "output": {
+        "definicion": "Término coloquial para referirse a un hombre."
+      }
+    }
+  },
+  {
+    "modismo": "vasado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vasado",
+      "output": {
+        "definicion": "Expresión para describir una persona descuidada o desaliñada."
+      }
+    }
+  },
+  {
+    "modismo": "vastagosa",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vastagosa",
+      "output": {
+        "definicion": "Persona que viste con exceso o extravagancia"
+      }
+    }
+  },
+  {
+    "modismo": "ve",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ve",
+      "output": {
+        "definicion": "Expresión que indica sorpresa o incredulidad."
+      }
+    }
+  },
+  {
+    "modismo": "veinticuatro",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "veinticuatro",
+      "output": {
+        "definicion": "Expresión que alude a una persona desprevenida o fácil de engañar"
+      }
+    }
+  },
+  {
+    "modismo": "veintiúnico",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "veintiúnico",
+      "output": {
+        "definicion": "Único e insustituible, como el número veintiuno."
+      }
+    }
+  },
+  {
+    "modismo": "vejestorio",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vejestorio",
+      "output": {
+        "definicion": "Persona muy anciana y decrépita"
+      }
+    }
+  },
+  {
+    "modismo": "velar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "velar",
+      "output": {
+        "definicion": "permanecer despierto durante la noche para cuidar o vigilar."
+      }
+    }
+  },
+  {
+    "modismo": "velón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "velón",
+      "output": {
+        "definicion": "Vela larga y gruesa, usada en rituales o conmemoraciones."
+      }
+    }
+  },
+  {
+    "modismo": "vena",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vena",
+      "output": {
+        "definicion": "Expresión de enojo o irritación contenida."
+      }
+    }
+  },
+  {
+    "modismo": "vencerse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vencerse",
+      "output": {
+        "definicion": "lograr dominar una dificultad o tentación"
+      }
+    }
+  },
+  {
+    "modismo": "vencido",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vencido",
+      "output": {
+        "definicion": "Derrotado o superado"
+      }
+    }
+  },
+  {
+    "modismo": "vendaje",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vendaje",
+      "output": {
+        "definicion": "Expresión que alude a una solución temporal o parche a un problema."
+      }
+    }
+  },
+  {
+    "modismo": "ventajoso",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ventajoso",
+      "output": {
+        "definicion": "que ofrece una ventaja o beneficio"
+      }
+    }
+  },
+  {
+    "modismo": "ventanear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ventanear",
+      "output": {
+        "definicion": "Observar o espiar a alguien a través de una ventana."
+      }
+    }
+  },
+  {
+    "modismo": "venteado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "venteado",
+      "output": {
+        "definicion": "Expresión coloquial que alude a tener éxito o sortear obstáculos con facilidad."
+      }
+    }
+  },
+  {
+    "modismo": "ventiado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ventiado",
+      "output": {
+        "definicion": "Algo ventilado o con aire fresco"
+      }
+    }
+  },
+  {
+    "modismo": "ventiar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ventiar",
+      "output": {
+        "definicion": "Airear o desahogar un lugar cerrado"
+      }
+    }
+  },
+  {
+    "modismo": "veranera",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "veranera",
+      "output": {
+        "definicion": "Período de vacaciones escolares durante verano."
+      }
+    }
+  },
+  {
+    "modismo": "vereda",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vereda",
+      "output": {
+        "definicion": "Caminar por un sendero rural en Colombia"
+      }
+    }
+  },
+  {
+    "modismo": "verga",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "verga",
+      "output": {
+        "definicion": "Insulto soez de origen coloquial"
+      }
+    }
+  },
+  {
+    "modismo": "vergajada",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vergajada",
+      "output": {
+        "definicion": "Golpe o castigo con un látigo o vara"
+      }
+    }
+  },
+  {
+    "modismo": "vergajo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vergajo",
+      "output": {
+        "definicion": "Término coloquial para referirse a una paliza o castigo físico"
+      }
+    }
+  },
+  {
+    "modismo": "verguero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "verguero",
+      "output": {
+        "definicion": "Persona que actúa sin vergüenza o vergonzosa."
+      }
+    }
+  },
+  {
+    "modismo": "verraco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "verraco",
+      "output": {
+        "definicion": "Persona muy fuerte y trabajadora."
+      }
+    }
+  },
+  {
+    "modismo": "verraquera",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "verraquera",
+      "output": {
+        "definicion": "Habilidad para conseguir cosas con astucia e insistencia"
+      }
+    }
+  },
+  {
+    "modismo": "verriondera",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "verriondera",
+      "output": {
+        "definicion": "Persona desaliñada o descuidada en el vestir."
+      }
+    }
+  },
+  {
+    "modismo": "verriondo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "verriondo",
+      "output": {
+        "definicion": "Borracho en estado extremo"
+      }
+    }
+  },
+  {
+    "modismo": "verrugosa",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "verrugosa",
+      "output": {
+        "definicion": "Persona de piel áspera o de mala apariencia."
+      }
+    }
+  },
+  {
+    "modismo": "vertical",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vertical",
+      "output": {
+        "definicion": "relativo a lo que está orientado hacia arriba y abajo"
+      }
+    }
+  },
+  {
+    "modismo": "vestido",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vestido",
+      "output": {
+        "definicion": "Prenda de vestir que cubre desde los hombros hasta las piernas."
+      }
+    }
+  },
+  {
+    "modismo": "vestidor",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vestidor",
+      "output": {
+        "definicion": "Armario para guardar ropa interior y accesorios"
+      }
+    }
+  },
+  {
+    "modismo": "vestier",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vestier",
+      "output": {
+        "definicion": "Expresión coloquial que alude a tener éxito o acertar en algo."
+      }
+    }
+  },
+  {
+    "modismo": "veterano",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "veterano",
+      "output": {
+        "definicion": "Persona con experiencia en un área específica"
+      }
+    }
+  },
+  {
+    "modismo": "viajado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viajado",
+      "output": {
+        "definicion": "Se dice de alguien experimentado o con conocimientos amplios."
+      }
+    }
+  },
+  {
+    "modismo": "vianda",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vianda",
+      "output": {
+        "definicion": "Comida preparada para llevar o consumir fuera de casa."
+      }
+    }
+  },
+  {
+    "modismo": "viaticar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viaticar",
+      "output": {
+        "definicion": "Proporcionar dinero o provisiones para un viaje."
+      }
+    }
+  },
+  {
+    "modismo": "vibra",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vibra",
+      "output": {
+        "definicion": "Alguien o algo está lleno de energía o entusiasmo."
+      }
+    }
+  },
+  {
+    "modismo": "vida",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vida",
+      "output": {
+        "definicion": "Estado de existencia de un ser orgánico."
+      }
+    }
+  },
+  {
+    "modismo": "vidrioso",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vidrioso",
+      "output": {
+        "definicion": "Cubierto de escarcha o como el vidrio, muy frío."
+      }
+    }
+  },
+  {
+    "modismo": "vieja",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vieja",
+      "output": {
+        "definicion": "expresión coloquial para referirse a alguien que no está actualizado"
+      }
+    }
+  },
+  {
+    "modismo": "viejera",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viejera",
+      "output": {
+        "definicion": "Mujer de costumbres tradicionales y anticuadas."
+      }
+    }
+  },
+  {
+    "modismo": "viejerío",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viejerío",
+      "output": {
+        "definicion": "Conjunto de personas mayores, a veces con connotación despectiva"
+      }
+    }
+  },
+  {
+    "modismo": "viernes",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viernes",
+      "output": {
+        "definicion": "Día de la semana, generalmente asociado con el fin de la semana laboral."
+      }
+    }
+  },
+  {
+    "modismo": "viga",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viga",
+      "output": {
+        "definicion": "Expresión coloquial para indicar que alguien es fuerte o resistente."
+      }
+    }
+  },
+  {
+    "modismo": "vikingo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vikingo",
+      "output": {
+        "definicion": "Individuo perteneciente a la cultura vikinga nórdica."
+      }
+    }
+  },
+  {
+    "modismo": "villamarquín",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "villamarquín",
+      "output": {
+        "definicion": "Persona que se viste con ropa de segunda mano."
+      }
+    }
+  },
+  {
+    "modismo": "vincha",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vincha",
+      "output": {
+        "definicion": "Diadema o cinta que se usa en la cabeza para sujetar el cabello"
+      }
+    }
+  },
+  {
+    "modismo": "vinete",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vinete",
+      "output": {
+        "definicion": "Breve noticia o comentario periodístico."
+      }
+    }
+  },
+  {
+    "modismo": "violento",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "violento",
+      "output": {
+        "definicion": "Que implica o demuestra fuerza excesiva o agresión."
+      }
+    }
+  },
+  {
+    "modismo": "violinista",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "violinista",
+      "output": {
+        "definicion": "Expresión coloquial para alguien que realiza movimientos extraños."
+      }
+    }
+  },
+  {
+    "modismo": "violín",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "violín",
+      "output": {
+        "definicion": "Se refiere a alguien extremadamente delgado."
+      }
+    }
+  },
+  {
+    "modismo": "viringo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viringo",
+      "output": {
+        "definicion": "Persona de poca monta o sin importancia."
+      }
+    }
+  },
+  {
+    "modismo": "viruta",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viruta",
+      "output": {
+        "definicion": "Pequeño trozo de madera o material similar."
+      }
+    }
+  },
+  {
+    "modismo": "visa",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "visa",
+      "output": {
+        "definicion": "Autorización de entrada o permanencia en un país."
+      }
+    }
+  },
+  {
+    "modismo": "visaje",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "visaje",
+      "output": {
+        "definicion": "Expresión facial que refleja un estado de ánimo o engaño."
+      }
+    }
+  },
+  {
+    "modismo": "visajoso",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "visajoso",
+      "output": {
+        "definicion": "Relativo a una expresión facial notable o llamativa."
+      }
+    }
+  },
+  {
+    "modismo": "visita",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "visita",
+      "output": {
+        "definicion": "Reunión cortesa en un domicilio."
+      }
+    }
+  },
+  {
+    "modismo": "vistas",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vistas",
+      "output": {
+        "definicion": "Expresión utilizada cuando alguien muestra indiferencia o desinterés."
+      }
+    }
+  },
+  {
+    "modismo": "vitrina",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vitrina",
+      "output": {
+        "definicion": " Exhibidor de productos en una tienda."
+      }
+    }
+  },
+  {
+    "modismo": "vitrinear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vitrinear",
+      "output": {
+        "definicion": "Mirar escaparates de tiendas, generalmente sin intención de comprar."
+      }
+    }
+  },
+  {
+    "modismo": "viudo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viudo",
+      "output": {
+        "definicion": "Estar viudo es estar en la condición de haber perdido a la pareja por causa de muerte."
+      }
+    }
+  },
+  {
+    "modismo": "viáticos",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "viáticos",
+      "output": {
+        "definicion": "Dinero o provisiones asignados para gastos durante un viaje"
+      }
+    }
+  },
+  {
+    "modismo": "voceador",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "voceador",
+      "output": {
+        "definicion": "Persona que hace anuncios o propaganda en la vía pública."
+      }
+    }
+  },
+  {
+    "modismo": "voladero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "voladero",
+      "output": {
+        "definicion": "Lugar temporalmente desocupado o disponible."
+      }
+    }
+  },
+  {
+    "modismo": "volado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "volado",
+      "output": {
+        "definicion": "Dicho de una persona, sin rumbo o sin preocupaciones."
+      }
+    }
+  },
+  {
+    "modismo": "volado, da",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "volado, da",
+      "output": {
+        "definicion": "está ebrio o drogado"
+      }
+    }
+  },
+  {
+    "modismo": "voladora",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "voladora",
+      "output": {
+        "definicion": "Dicho de una persona, que se ausenta abruptamente."
+      }
+    }
+  },
+  {
+    "modismo": "volandas",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "volandas",
+      "output": {
+        "definicion": "En movimiento rápido y sin esfuerzo."
+      }
+    }
+  },
+  {
+    "modismo": "volante",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "volante",
+      "output": {
+        "definicion": "Persona que realiza trabajos ocasionales o temporales."
+      }
+    }
+  },
+  {
+    "modismo": "volarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "volarse",
+      "output": {
+        "definicion": "marcharse abrupta e inesperadamente"
+      }
+    }
+  },
+  {
+    "modismo": "volate",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "volate",
+      "output": {
+        "definicion": "Expresión de asombro o sorpresa"
+      }
+    }
+  },
+  {
+    "modismo": "voleo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "voleo",
+      "output": {
+        "definicion": "Gesto de desaprobación o rechazo."
+      }
+    }
+  },
+  {
+    "modismo": "volqueta",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "volqueta",
+      "output": {
+        "definicion": "Camión de volteo para transportar materiales."
+      }
+    }
+  },
+  {
+    "modismo": "voltaje",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "voltaje",
+      "output": {
+        "definicion": "Expresión de sorpresa o admiración repentina."
+      }
+    }
+  },
+  {
+    "modismo": "voltiarepas",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "voltiarepas",
+      "output": {
+        "definicion": "Reconsiderar o repasar una acción o decisión previa."
+      }
+    }
+  },
+  {
+    "modismo": "vos",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vos",
+      "output": {
+        "definicion": "Forma de tratamiento de segunda persona en algunos dialectos del español"
+      }
+    }
+  },
+  {
+    "modismo": "voz",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "voz",
+      "output": {
+        "definicion": "Expresión o sonido que se produce con los órganos vocales."
+      }
+    }
+  },
+  {
+    "modismo": "vuelo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vuelo",
+      "output": {
+        "definicion": "Acción de volar, también usado para expresar sorpresa o emoción."
+      }
+    }
+  },
+  {
+    "modismo": "vuelta",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vuelta",
+      "output": {
+        "definicion": "Acción de regresar o retornar al punto de partida."
+      }
+    }
+  },
+  {
+    "modismo": "vueltón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vueltón",
+      "output": {
+        "definicion": "Giro inesperado de los acontecimientos."
+      }
+    }
+  },
+  {
+    "modismo": "várzea",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "várzea",
+      "output": {
+        "definicion": "zona de tierras bajas y fértiles inundada periódicamente en Brasil"
+      }
+    }
+  },
+  {
+    "modismo": "váucher",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "váucher",
+      "output": {
+        "definicion": "Cupón o bonificación canjeable por un producto o servicio."
+      }
+    }
+  },
+  {
+    "modismo": "vía",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vía",
+      "output": {
+        "definicion": "Medio o camino para alcanzar un fin"
+      }
+    }
+  },
+  {
+    "modismo": "waffle",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "waffle",
+      "output": {
+        "definicion": "Término inglés usado en Colombia para referirse a conversaciones sin sentido o sin progreso."
+      }
+    }
+  },
+  {
+    "modismo": "yanabe",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yanabe",
+      "output": {
+        "definicion": "Exclamación de sorpresa o admiración en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "yare",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yare",
+      "output": {
+        "definicion": "Exclamación de sorpresa o admiración en la costa caribe colombiana."
+      }
+    }
+  },
+  {
+    "modismo": "yarumo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yarumo",
+      "output": {
+        "definicion": "Árbol autóctono de Colombia con un tronco delgado y hojas compuestas."
+      }
+    }
+  },
+  {
+    "modismo": "yaré",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yaré",
+      "output": {
+        "definicion": "Indica futuro cercano o intención de hacer algo."
+      }
+    }
+  },
+  {
+    "modismo": "yata",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yata",
+      "output": {
+        "definicion": "Exclamación de sorpresa o admiración."
+      }
+    }
+  },
+  {
+    "modismo": "yax",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yax",
+      "output": {
+        "definicion": "Exclamación de sorpresa o admiración en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "ye",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ye",
+      "output": {
+        "definicion": "Interjección utilizada para llamar la atención."
+      }
+    }
+  },
+  {
+    "modismo": "yerbatero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yerbatero",
+      "output": {
+        "definicion": "Persona que vende o produce hierbas aromáticas o medicinales."
+      }
+    }
+  },
+  {
+    "modismo": "yermis",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yermis",
+      "output": {
+        "definicion": "Estado de sequía extrema en la tierra"
+      }
+    }
+  },
+  {
+    "modismo": "yerto",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yerto",
+      "output": {
+        "definicion": "Rígido, sin movimiento o alteración."
+      }
+    }
+  },
+  {
+    "modismo": "yesquero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yesquero",
+      "output": {
+        "definicion": "Persona que vende cerillas"
+      }
+    }
+  },
+  {
+    "modismo": "yeyo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yeyo",
+      "output": {
+        "definicion": "Término coloquial para referirse a la marihuana."
+      }
+    }
+  },
+  {
+    "modismo": "yipao",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yipao",
+      "output": {
+        "definicion": "Camión cargado excesivamente en Colombia"
+      }
+    }
+  },
+  {
+    "modismo": "yopo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yopo",
+      "output": {
+        "definicion": "Exclamación colombiana de sorpresa o admiración."
+      }
+    }
+  },
+  {
+    "modismo": "yota",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yota",
+      "output": {
+        "definicion": "Expresión coloquial que representa un valor o cantidad mínima o insignificante."
+      }
+    }
+  },
+  {
+    "modismo": "yuco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yuco",
+      "output": {
+        "definicion": "Expresión coloquial que alude a una persona desaliñada o descuidada."
+      }
+    }
+  },
+  {
+    "modismo": "yucuta",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yucuta",
+      "output": {
+        "definicion": "Persona desaliñada o mal vestida"
+      }
+    }
+  },
+  {
+    "modismo": "yulo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yulo",
+      "output": {
+        "definicion": "Acción de arrojar o tirar algo con fuerza."
+      }
+    }
+  },
+  {
+    "modismo": "yunga",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yunga",
+      "output": {
+        "definicion": "Originario de la región Caribe colombiana, específicamente de la Costa Atlántica."
+      }
+    }
+  },
+  {
+    "modismo": "yunta",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yunta",
+      "output": {
+        "definicion": "Pareja de animales de carga o tracción."
+      }
+    }
+  },
+  {
+    "modismo": "yuquero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yuquero",
+      "output": {
+        "definicion": "Persona que siempre quiere más"
+      }
+    }
+  },
+  {
+    "modismo": "yuruparí",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yuruparí",
+      "output": {
+        "definicion": "Mitología o seres mitológicos según los indígenas colombianos."
+      }
+    }
+  },
+  {
+    "modismo": "yátaro",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yátaro",
+      "output": {
+        "definicion": "Persona ebria o que ha bebido en exceso."
+      }
+    }
+  },
+  {
+    "modismo": "zafado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zafado",
+      "output": {
+        "definicion": "Escapó de una situación difícil"
+      }
+    }
+  },
+  {
+    "modismo": "zafarrancho",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zafarrancho",
+      "output": {
+        "definicion": "Confusión o alboroto desordenado."
+      }
+    }
+  },
+  {
+    "modismo": "zafarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zafarse",
+      "output": {
+        "definicion": "escapar de una situación difícil"
+      }
+    }
+  },
+  {
+    "modismo": "zafo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zafo",
+      "output": {
+        "definicion": "Escape o elusión de una situación difícil"
+      }
+    }
+  },
+  {
+    "modismo": "zamarros",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zamarros",
+      "output": {
+        "definicion": "Ropa vieja y desgastada"
+      }
+    }
+  },
+  {
+    "modismo": "zambapalo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zambapalo",
+      "output": {
+        "definicion": "Golpe seco y rápido con un objeto plano"
+      }
+    }
+  },
+  {
+    "modismo": "zambo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zambo",
+      "output": {
+        "definicion": "Hijo de padre negro y madre indígena en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "zambumbia",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zambumbia",
+      "output": {
+        "definicion": "Baile popular colombiano con música alegre"
+      }
+    }
+  },
+  {
+    "modismo": "zamuro",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zamuro",
+      "output": {
+        "definicion": "Persona o cosa de poco valor o sin importancia."
+      }
+    }
+  },
+  {
+    "modismo": "zanahorio",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zanahorio",
+      "output": {
+        "definicion": "Persona de tez clara con cabello oscuro"
+      }
+    }
+  },
+  {
+    "modismo": "zancudero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zancudero",
+      "output": {
+        "definicion": "Persona que molesta o importuna insistentemente"
+      }
+    }
+  },
+  {
+    "modismo": "zancudo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zancudo",
+      "output": {
+        "definicion": "Persona alta y desgarbada andando con las piernas abiertas"
+      }
+    }
+  },
+  {
+    "modismo": "zancón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zancón",
+      "output": {
+        "definicion": "Persona altanera o engreída"
+      }
+    }
+  },
+  {
+    "modismo": "zangolotear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zangolotear",
+      "output": {
+        "definicion": "Moverse con torpeza o desorden"
+      }
+    }
+  },
+  {
+    "modismo": "zapallo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zapallo",
+      "output": {
+        "definicion": "Término coloquial para referirse a alguien tonto o poco inteligente."
+      }
+    }
+  },
+  {
+    "modismo": "zapato",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zapato",
+      "output": {
+        "definicion": "Calzado que cubre completamente el pie."
+      }
+    }
+  },
+  {
+    "modismo": "zaperoco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zaperoco",
+      "output": {
+        "definicion": "Desorden o confusión inesperada"
+      }
+    }
+  },
+  {
+    "modismo": "zapote",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zapote",
+      "output": {
+        "definicion": "Expresión colombiana para referirse a una situación sin solución o sin sentido."
+      }
+    }
+  },
+  {
+    "modismo": "zaragoza",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zaragoza",
+      "output": {
+        "definicion": "expresión de sorpresa o admiración"
+      }
+    }
+  },
+  {
+    "modismo": "zarapa",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zarapa",
+      "output": {
+        "definicion": "Prenda de trabajo similar a un overol"
+      }
+    }
+  },
+  {
+    "modismo": "zarazo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zarazo",
+      "output": {
+        "definicion": "Golpe o ataque repentino e inesperado."
+      }
+    }
+  },
+  {
+    "modismo": "zarco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zarco",
+      "output": {
+        "definicion": "De ojo vago o desviado."
+      }
+    }
+  },
+  {
+    "modismo": "zarzo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zarzo",
+      "output": {
+        "definicion": "Red de varas entrelazadas utilizada para cercar"
+      }
+    }
+  },
+  {
+    "modismo": "zoca",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zoca",
+      "output": {
+        "definicion": "Acción de colarse o meterse sin permiso."
+      }
+    }
+  },
+  {
+    "modismo": "zona",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zona",
+      "output": {
+        "definicion": "Área o sector específico de interés"
+      }
+    }
+  },
+  {
+    "modismo": "zopenco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zopenco",
+      "output": {
+        "definicion": "Persona descuidada o torpe"
+      }
+    }
+  },
+  {
+    "modismo": "zorra",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zorra",
+      "output": {
+        "definicion": "Mujer astuta y de malas intenciones."
+      }
+    }
+  },
+  {
+    "modismo": "zorrero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zorrero",
+      "output": {
+        "definicion": "Individuo astuto y aprovechador"
+      }
+    }
+  },
+  {
+    "modismo": "zorrongo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zorrongo",
+      "output": {
+        "definicion": "Individuo de malas costumbres o persona desprestigiada"
+      }
+    }
+  },
+  {
+    "modismo": "zumbador",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zumbador",
+      "output": {
+        "definicion": "Persona que siempre está presente en lugares donde hay algún beneficio o provecho"
+      }
+    }
+  },
+  {
+    "modismo": "zumbambico",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zumbambico",
+      "output": {
+        "definicion": "Ritmo o movimiento sin coordinación"
+      }
+    }
+  },
+  {
+    "modismo": "zumbar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zumbar",
+      "output": {
+        "definicion": "Sonar algo con un zumbido"
+      }
+    }
+  },
+  {
+    "modismo": "zuncho",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zuncho",
+      "output": {
+        "definicion": "Expresión coloquial para referirse a un problema o situación difícil."
+      }
+    }
+  },
+  {
+    "modismo": "zunga",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zunga",
+      "output": {
+        "definicion": "Bulto o paquete, generalmente de algo robado."
+      }
+    }
+  },
+  {
+    "modismo": "zuro",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zuro",
+      "output": {
+        "definicion": "Fuerte viento del sur en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "zurrapa",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zurrapa",
+      "output": {
+        "definicion": "Persona o cosa de poca importancia o valor"
+      }
+    }
+  },
+  {
+    "modismo": "zurrumbo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zurrumbo",
+      "output": {
+        "definicion": "Hacer ruido o alboroto"
+      }
+    }
+  },
+  {
+    "modismo": "zurrón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zurrón",
+      "output": {
+        "definicion": "Bolsa grande de tela o cuero para llevar objetos."
+      }
+    }
+  },
+  {
+    "modismo": "zurumbático",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zurumbático",
+      "output": {
+        "definicion": "Relativo a lo desordenado o sin sentido"
+      }
+    }
+  },
+  {
+    "modismo": "zángano",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zángano",
+      "output": {
+        "definicion": "Individuo ocioso y sin méritos propios."
+      }
+    }
+  },
+  {
+    "modismo": "ñacaroso",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñacaroso",
+      "output": {
+        "definicion": "Persona que siempre está de buen humor"
+      }
+    }
+  },
+  {
+    "modismo": "ñame",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñame",
+      "output": {
+        "definicion": "Tubérculo comestible similar a la yuca, ampliamente utilizado en la gastronomía colombiana."
+      }
+    }
+  },
+  {
+    "modismo": "ñango",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñango",
+      "output": {
+        "definicion": "Persona de piel morena o negra"
+      }
+    }
+  },
+  {
+    "modismo": "ñapa",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñapa",
+      "output": {
+        "definicion": "regalo adicional, no esperado"
+      }
+    }
+  },
+  {
+    "modismo": "ñapanga",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñapanga",
+      "output": {
+        "definicion": "Situación o cosa mal hecha o arreglada de manera improvisada."
+      }
+    }
+  },
+  {
+    "modismo": "ñapango",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñapango",
+      "output": {
+        "definicion": "Lugar o situación desorganizada y caótica."
+      }
+    }
+  },
+  {
+    "modismo": "ñatas",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñatas",
+      "output": {
+        "definicion": "Expresión coloquial para referirse a alguien con sobrepeso"
+      }
+    }
+  },
+  {
+    "modismo": "ñato",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñato",
+      "output": {
+        "definicion": "Persona terca y obstinada"
+      }
+    }
+  },
+  {
+    "modismo": "ñeque",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñeque",
+      "output": {
+        "definicion": "Astucia o capacidad para sortear dificultades"
+      }
+    }
+  },
+  {
+    "modismo": "ñero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñero",
+      "output": {
+        "definicion": "Expresión coloquial que se refiere a un amigo cercano o familiar."
+      }
+    }
+  },
+  {
+    "modismo": "ñervo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñervo",
+      "output": {
+        "definicion": "Estado de irritabilidad o nerviosismo"
+      }
+    }
+  },
+  {
+    "modismo": "ñingrí",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñingrí",
+      "output": {
+        "definicion": "Persona de piel morena o negra"
+      }
+    }
+  },
+  {
+    "modismo": "ñoco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñoco",
+      "output": {
+        "definicion": "Exclamación de sorpresa o admiración en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "ñonco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñonco",
+      "output": {
+        "definicion": "Persona descuidada o sin educación"
+      }
+    }
+  },
+  {
+    "modismo": "ñongado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñongado",
+      "output": {
+        "definicion": "Dicho de una persona, en estado de embriaguez extrema."
+      }
+    }
+  },
+  {
+    "modismo": "ñoño",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñoño",
+      "output": {
+        "definicion": "Persona tímida o retraída, poco sociable"
+      }
+    }
+  },
+  {
+    "modismo": "ñuco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñuco",
+      "output": {
+        "definicion": "Pequeño montículo de tierra"
+      }
+    }
+  },
+  {
+    "modismo": "ñurido",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ñurido",
+      "output": {
+        "definicion": "Persona extremadamente delgada o demacrada"
+      }
+    }
+  },
+  {
+    "modismo": "a cabalidad",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "a cabalidad",
+      "output": {
+        "definicion": "De manera completa y perfecta"
+      }
+    }
+  },
+  {
+    "modismo": "a juro",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "a juro",
+      "output": {
+        "definicion": "expresión que se utiliza para dar una garantía o promesa absoluta"
+      }
+    }
+  },
+  {
+    "modismo": "a lo bien",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "a lo bien",
+      "output": {
+        "definicion": "hecho o ejecutado de manera excelente"
+      }
+    }
+  },
+  {
+    "modismo": "a lo que dé el tejo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "a lo que dé el tejo",
+      "output": {
+        "definicion": "según el resultado o éxito que tenga una acción"
+      }
+    }
+  },
+  {
+    "modismo": "a mansalva",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "a mansalva",
+      "output": {
+        "definicion": "De manera abundante o excesiva"
+      }
+    }
+  },
+  {
+    "modismo": "a todo taco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "a todo taco",
+      "output": {
+        "definicion": "En gran cantidad o velocidad."
+      }
+    }
+  },
+  {
+    "modismo": "abagó",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "abagó",
+      "output": {
+        "definicion": "Expresión de sorpresa o admiración."
+      }
+    }
+  },
+  {
+    "modismo": "agallinado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "agallinado",
+      "output": {
+        "definicion": "Arruinado o en bancarrota financieramente"
+      }
+    }
+  },
+  {
+    "modismo": "agallinar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "agallinar",
+      "output": {
+        "definicion": "Endurecerse o ponerse tenso, especialmente en la piel."
+      }
+    }
+  },
+  {
+    "modismo": "aguadijiar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aguadijiar",
+      "output": {
+        "definicion": "Charlar con insistencia para obtener algo."
+      }
+    }
+  },
+  {
+    "modismo": "ahoritica",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ahoritica",
+      "output": {
+        "definicion": "Expresión que alude a un momento cercano en el futuro"
+      }
+    }
+  },
+  {
+    "modismo": "alpargatón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "alpargatón",
+      "output": {
+        "definicion": "Acción de repartir o recibir muchas alpargatas."
+      }
+    }
+  },
+  {
+    "modismo": "amañado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "amañado",
+      "output": {
+        "definicion": "hecho o arreglado previamente"
+      }
+    }
+  },
+  {
+    "modismo": "ambicia",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ambicia",
+      "output": {
+        "definicion": "Deseo excesivo de poder o riqueza."
+      }
+    }
+  },
+  {
+    "modismo": "amenito",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "amenito",
+      "output": {
+        "definicion": "Expresión coloquial que suaviza una petición o orden."
+      }
+    }
+  },
+  {
+    "modismo": "andadera",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "andadera",
+      "output": {
+        "definicion": "Asiento colgante para bebés aprendiendo a caminar."
+      }
+    }
+  },
+  {
+    "modismo": "andar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "andar",
+      "output": {
+        "definicion": "Expresar costumbre o habito de alguien"
+      }
+    }
+  },
+  {
+    "modismo": "aperado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aperado",
+      "output": {
+        "definicion": "Listo para ser usado o abordado."
+      }
+    }
+  },
+  {
+    "modismo": "aperezado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aperezado",
+      "output": {
+        "definicion": "Listo para ser utilizado rápidamente"
+      }
+    }
+  },
+  {
+    "modismo": "aplatanado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aplatanado",
+      "output": {
+        "definicion": "Coloquialmente, significa 'aburrido' o 'sin interés'."
+      }
+    }
+  },
+  {
+    "modismo": "apuntalar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "apuntalar",
+      "output": {
+        "definicion": "Brindar soporte o ayuda adicional"
+      }
+    }
+  },
+  {
+    "modismo": "argollado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "argollado",
+      "output": {
+        "definicion": "Comprometido en matrimonio"
+      }
+    }
+  },
+  {
+    "modismo": "argollero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "argollero",
+      "output": {
+        "definicion": "Persona que utiliza influencias para obtener beneficios"
+      }
+    }
+  },
+  {
+    "modismo": "asentar los cascos",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "asentar los cascos",
+      "output": {
+        "definicion": "Colocarse el casco o sombrero firmemente."
+      }
+    }
+  },
+  {
+    "modismo": "asentarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "asentarse",
+      "output": {
+        "definicion": "establecerse firmemente en un lugar"
+      }
+    }
+  },
+  {
+    "modismo": "asistir",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "asistir",
+      "output": {
+        "definicion": "participar en una actividad o evento"
+      }
+    }
+  },
+  {
+    "modismo": "ataúd de las ánimas",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ataúd de las ánimas",
+      "output": {
+        "definicion": "Caja de cartón utilizada para transportar bebidas alcohólicas."
+      }
+    }
+  },
+  {
+    "modismo": "atembar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "atembar",
+      "output": {
+        "definicion": "Tener dificultad para andar o mantener el equilibrio."
+      }
+    }
+  },
+  {
+    "modismo": "aterrizar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "aterrizar",
+      "output": {
+        "definicion": "Llegar o posarse en tierra después de un vuelo."
+      }
+    }
+  },
+  {
+    "modismo": "atisbón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "atisbón",
+      "output": {
+        "definicion": "Pequeña mirada discreta o espiadilla."
+      }
+    }
+  },
+  {
+    "modismo": "atortolarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "atortolarse",
+      "output": {
+        "definicion": "Colocarse en posición encorvada o encogida."
+      }
+    }
+  },
+  {
+    "modismo": "atrincar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "atrincar",
+      "output": {
+        "definicion": "Colocar o apoyar algo con fuerza"
+      }
+    }
+  },
+  {
+    "modismo": "avivatada",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "avivatada",
+      "output": {
+        "definicion": "Acción astuta o ardidosa"
+      }
+    }
+  },
+  {
+    "modismo": "ayudado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ayudado",
+      "output": {
+        "definicion": "Expresión utilizada cuando alguien ha recibido asistencia o soporte"
+      }
+    }
+  },
+  {
+    "modismo": "azogado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "azogado",
+      "output": {
+        "definicion": "Aturdido o desconcertado por una situación."
+      }
+    }
+  },
+  {
+    "modismo": "azucararse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "azucararse",
+      "output": {
+        "definicion": "Endulzarse la vida con algo agradable."
+      }
+    }
+  },
+  {
+    "modismo": "badulaque",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "badulaque",
+      "output": {
+        "definicion": "Persona o lugar sin importancia o seriedad."
+      }
+    }
+  },
+  {
+    "modismo": "bajareque",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "bajareque",
+      "output": {
+        "definicion": "Cercado de cañas o bambú"
+      }
+    }
+  },
+  {
+    "modismo": "banderearse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "banderearse",
+      "output": {
+        "definicion": "Mostrar apoyo o solidaridad con una causa o equipo."
+      }
+    }
+  },
+  {
+    "modismo": "bareque",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "bareque",
+      "output": {
+        "definicion": "Acción de husmear o buscar con insistencia."
+      }
+    }
+  },
+  {
+    "modismo": "bichirón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "bichirón",
+      "output": {
+        "definicion": "Expresión coloquial para designar a una persona que siempre está presente."
+      }
+    }
+  },
+  {
+    "modismo": "biscorneto",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "biscorneto",
+      "output": {
+        "definicion": "Objeto retorcido o poco usual"
+      }
+    }
+  },
+  {
+    "modismo": "bitoque",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "bitoque",
+      "output": {
+        "definicion": "Golpe dado con fuerza, usualmente en un juego de naipes."
+      }
+    }
+  },
+  {
+    "modismo": "blanco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "blanco",
+      "output": {
+        "definicion": "Persona de piel clara u objetivo sin mancha"
+      }
+    }
+  },
+  {
+    "modismo": "bolate",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "bolate",
+      "output": {
+        "definicion": "Acción de ir sin rumbo fijo o sin control."
+      }
+    }
+  },
+  {
+    "modismo": "bombada",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "bombada",
+      "output": {
+        "definicion": "Acción de inflar o hinchar excesivamente."
+      }
+    }
+  },
+  {
+    "modismo": "botar corriente",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "botar corriente",
+      "output": {
+        "definicion": "interrumpir bruscamente el suministro eléctrico"
+      }
+    }
+  },
+  {
+    "modismo": "caballo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caballo",
+      "output": {
+        "definicion": "Expresión que se utiliza para indicar que alguien es fuerte y trabajador."
+      }
+    }
+  },
+  {
+    "modismo": "cabalmente",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cabalmente",
+      "output": {
+        "definicion": "Exactamente, precisamente o de manera completa."
+      }
+    }
+  },
+  {
+    "modismo": "cachilapo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cachilapo",
+      "output": {
+        "definicion": "Persona descuidada o de mal aspecto"
+      }
+    }
+  },
+  {
+    "modismo": "cachimonis",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cachimonis",
+      "output": {
+        "definicion": "Personas que siguen a una persona famosa o de moda"
+      }
+    }
+  },
+  {
+    "modismo": "cachorro",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cachorro",
+      "output": {
+        "definicion": "Nombre cariñoso para referirse a una persona joven o inexperta."
+      }
+    }
+  },
+  {
+    "modismo": "caerse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caerse",
+      "output": {
+        "definicion": "Perder el equilibrio y caer al suelo"
+      }
+    }
+  },
+  {
+    "modismo": "candelero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "candelero",
+      "output": {
+        "definicion": "Persona que llama la atención públicamente por sus acciones."
+      }
+    }
+  },
+  {
+    "modismo": "canillero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "canillero",
+      "output": {
+        "definicion": "Persona que vende periódicos en la calle."
+      }
+    }
+  },
+  {
+    "modismo": "capamicos",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capamicos",
+      "output": {
+        "definicion": "Personas que viven de lo ajeno"
+      }
+    }
+  },
+  {
+    "modismo": "capellanía",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "capellanía",
+      "output": {
+        "definicion": "Cargo eclesiástico que dirige asuntos religiosos en instituciones."
+      }
+    }
+  },
+  {
+    "modismo": "carachoso",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carachoso",
+      "output": {
+        "definicion": "Persona amigable y jovial"
+      }
+    }
+  },
+  {
+    "modismo": "carameliar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "carameliar",
+      "output": {
+        "definicion": "Convertirse en caramelo al derretirse"
+      }
+    }
+  },
+  {
+    "modismo": "caratoso",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caratoso",
+      "output": {
+        "definicion": "Persona de aspecto sospechoso o desconfiable."
+      }
+    }
+  },
+  {
+    "modismo": "caraza",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caraza",
+      "output": {
+        "definicion": "Persona descuidada o desaliñada"
+      }
+    }
+  },
+  {
+    "modismo": "cargue",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cargue",
+      "output": {
+        "definicion": "Acción de cargar o subir algo, especialmente en un vehículo."
+      }
+    }
+  },
+  {
+    "modismo": "cascarilla",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cascarilla",
+      "output": {
+        "definicion": "Cáscara de algunos frutos secos o semillas"
+      }
+    }
+  },
+  {
+    "modismo": "caspetudo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "caspetudo",
+      "output": {
+        "definicion": "Persona descuidada en el vestir o aspecto personal"
+      }
+    }
+  },
+  {
+    "modismo": "centaviar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "centaviar",
+      "output": {
+        "definicion": "Convertir algo valioso en algo de poco valor"
+      }
+    }
+  },
+  {
+    "modismo": "chanchiro",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chanchiro",
+      "output": {
+        "definicion": "Persona astuta o de dudosa honestidad"
+      }
+    }
+  },
+  {
+    "modismo": "chanfa",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chanfa",
+      "output": {
+        "definicion": "Acción de engañar o estafar a alguien."
+      }
+    }
+  },
+  {
+    "modismo": "chipola",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chipola",
+      "output": {
+        "definicion": "Pequeño remolino o remolino de agua."
+      }
+    }
+  },
+  {
+    "modismo": "chirringo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chirringo",
+      "output": {
+        "definicion": "Persona inexperta o torpe en una tarea específica."
+      }
+    }
+  },
+  {
+    "modismo": "chisgua",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chisgua",
+      "output": {
+        "definicion": "Gota de agua que cae, pequeña porción de algo líquido"
+      }
+    }
+  },
+  {
+    "modismo": "chispeadura",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chispeadura",
+      "output": {
+        "definicion": "Ligera llovizna o salpicadura de agua"
+      }
+    }
+  },
+  {
+    "modismo": "chispear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chispear",
+      "output": {
+        "definicion": "Está comenzando a llover levemente"
+      }
+    }
+  },
+  {
+    "modismo": "chorrearse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chorrearse",
+      "output": {
+        "definicion": "manifestar emociones intensamente"
+      }
+    }
+  },
+  {
+    "modismo": "chuchingo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chuchingo",
+      "output": {
+        "definicion": "Término despectivo para referirse a alguien sin educación"
+      }
+    }
+  },
+  {
+    "modismo": "chulla",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chulla",
+      "output": {
+        "definicion": "Mujer coqueta o de mala reputación en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "chumba",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chumba",
+      "output": {
+        "definicion": "Estado de desorden o confusión"
+      }
+    }
+  },
+  {
+    "modismo": "chunchoso",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chunchoso",
+      "output": {
+        "definicion": "Desaliñado, descuidado en el aspecto personal"
+      }
+    }
+  },
+  {
+    "modismo": "chusmero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chusmero",
+      "output": {
+        "definicion": "Individuo que comete actos sin consideración a los demás."
+      }
+    }
+  },
+  {
+    "modismo": "chéchere",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chéchere",
+      "output": {
+        "definicion": "Expresión de sorpresa o admiración."
+      }
+    }
+  },
+  {
+    "modismo": "chúpame las cáscaras",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "chúpame las cáscaras",
+      "output": {
+        "definicion": "expresión de desafío o reto"
+      }
+    }
+  },
+  {
+    "modismo": "cocha",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cocha",
+      "output": {
+        "definicion": "Bolsa de tela reutilizable para compras"
+      }
+    }
+  },
+  {
+    "modismo": "conejero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "conejero",
+      "output": {
+        "definicion": "Persona que cría conejos"
+      }
+    }
+  },
+  {
+    "modismo": "cosca",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cosca",
+      "output": {
+        "definicion": "Grupo delincuencial organizado"
+      }
+    }
+  },
+  {
+    "modismo": "cositero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cositero",
+      "output": {
+        "definicion": "Persona que imita o sigue modas sin criterio propio."
+      }
+    }
+  },
+  {
+    "modismo": "costaleo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "costaleo",
+      "output": {
+        "definicion": "Acción de cargar o transportar cosas pesadas, asemejando a un costal."
+      }
+    }
+  },
+  {
+    "modismo": "coyabra",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "coyabra",
+      "output": {
+        "definicion": "Persona que cambia constantemente de trabajo."
+      }
+    }
+  },
+  {
+    "modismo": "crem",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "crem",
+      "output": {
+        "definicion": "Dicho de alguien que es muy trabajador y responsable."
+      }
+    }
+  },
+  {
+    "modismo": "cuadrado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cuadrado",
+      "output": {
+        "definicion": "Persona sin habilidades sociales o antipática."
+      }
+    }
+  },
+  {
+    "modismo": "cucarrearse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cucarrearse",
+      "output": {
+        "definicion": "Gastar dinero de manera irresponsable."
+      }
+    }
+  },
+  {
+    "modismo": "cucharearse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cucharearse",
+      "output": {
+        "definicion": "Compartir alimentos de un mismo plato usando cucharas."
+      }
+    }
+  },
+  {
+    "modismo": "cuco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cuco",
+      "output": {
+        "definicion": "Persona crédula o fácil de engañar."
+      }
+    }
+  },
+  {
+    "modismo": "cuido",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cuido",
+      "output": {
+        "definicion": "Expresión coloquial para referirse a la vigilancia o atención cuidadosa."
+      }
+    }
+  },
+  {
+    "modismo": "cunga",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cunga",
+      "output": {
+        "definicion": "Exclamación de sorpresa o admiración en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "cuítiva",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "cuítiva",
+      "output": {
+        "definicion": "Expresión de asombro o sorpresa."
+      }
+    }
+  },
+  {
+    "modismo": "célebre",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "célebre",
+      "output": {
+        "definicion": "Persona o cosa ampliamente conocida y reconocida"
+      }
+    }
+  },
+  {
+    "modismo": "decolaje",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "decolaje",
+      "output": {
+        "definicion": "Acción de despegar, especialmente en referencia a aeronaves."
+      }
+    }
+  },
+  {
+    "modismo": "deje",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "deje",
+      "output": {
+        "definicion": "Expresión de sorpresa o admiración."
+      }
+    }
+  },
+  {
+    "modismo": "demónchiros",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "demónchiros",
+      "output": {
+        "definicion": "Estado de estar muy enojado o irritado."
+      }
+    }
+  },
+  {
+    "modismo": "derechura",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "derechura",
+      "output": {
+        "definicion": "Camina derechura: avanza directa y decididamente hacia adelante"
+      }
+    }
+  },
+  {
+    "modismo": "desabrochado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "desabrochado",
+      "output": {
+        "definicion": "No debidamente cerrado o suelto"
+      }
+    }
+  },
+  {
+    "modismo": "desafortunadamente",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "desafortunadamente",
+      "output": {
+        "definicion": "Con mal timing o resultado negativo"
+      }
+    }
+  },
+  {
+    "modismo": "desarrancharse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "desarrancharse",
+      "output": {
+        "definicion": "Soltar lastre para ganar velocidad"
+      }
+    }
+  },
+  {
+    "modismo": "descuerada",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "descuerada",
+      "output": {
+        "definicion": "Desalineado o desordenado, especialmente en referencia a la ropa."
+      }
+    }
+  },
+  {
+    "modismo": "desgonzado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "desgonzado",
+      "output": {
+        "definicion": "Desprovisto de fuerza o energía."
+      }
+    }
+  },
+  {
+    "modismo": "deshuevarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "deshuevarse",
+      "output": {
+        "definicion": "Quitarle el hueso a algo, especialmente a un pescado"
+      }
+    }
+  },
+  {
+    "modismo": "despepado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "despepado",
+      "output": {
+        "definicion": "Desaliñado o desordenado en el vestir."
+      }
+    }
+  },
+  {
+    "modismo": "dolor de cabeza",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "dolor de cabeza",
+      "output": {
+        "definicion": "Duele la cabeza, puede indicar preocupación o molestia."
+      }
+    }
+  },
+  {
+    "modismo": "dígame",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "dígame",
+      "output": {
+        "definicion": "Expresión para pedir hablar con alguien por teléfono"
+      }
+    }
+  },
+  {
+    "modismo": "echar clavija",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "echar clavija",
+      "output": {
+        "definicion": "Fijar o asegurar firmemente algo"
+      }
+    }
+  },
+  {
+    "modismo": "echar ojo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "echar ojo",
+      "output": {
+        "definicion": "vigilar, prestar atención"
+      }
+    }
+  },
+  {
+    "modismo": "el algo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "el algo",
+      "output": {
+        "definicion": "No se pudo identificar un modismo colombiano válido."
+      }
+    }
+  },
+  {
+    "modismo": "embarrarla",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "embarrarla",
+      "output": {
+        "definicion": "Meterla en un aprieto o dificultad."
+      }
+    }
+  },
+  {
+    "modismo": "embarruntar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "embarruntar",
+      "output": {
+        "definicion": "Pedir prestado sin intención de devolver"
+      }
+    }
+  },
+  {
+    "modismo": "empandorgarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "empandorgarse",
+      "output": {
+        "definicion": "Engordar excesivamente por comer en exceso"
+      }
+    }
+  },
+  {
+    "modismo": "emparamado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "emparamado",
+      "output": {
+        "definicion": "Estado de embriaguez leve."
+      }
+    }
+  },
+  {
+    "modismo": "en chaquess de",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "en chaquess de",
+      "output": {
+        "definicion": "En medio de una situación incómoda o apurada."
+      }
+    }
+  },
+  {
+    "modismo": "enfuertar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "enfuertar",
+      "output": {
+        "definicion": "Reforzar o dar más energía a algo"
+      }
+    }
+  },
+  {
+    "modismo": "engerido",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "engerido",
+      "output": {
+        "definicion": "Persona engreída o demasiado orgullosa"
+      }
+    }
+  },
+  {
+    "modismo": "engomado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "engomado",
+      "output": {
+        "definicion": "Apodo para alguien con sobrepeso"
+      }
+    }
+  },
+  {
+    "modismo": "enquimbarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "enquimbarse",
+      "output": {
+        "definicion": "Colocar objetos uno sobre otro sin orden o estructura."
+      }
+    }
+  },
+  {
+    "modismo": "escachalandrado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "escachalandrado",
+      "output": {
+        "definicion": "En desorden o caos"
+      }
+    }
+  },
+  {
+    "modismo": "escapito",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "escapito",
+      "output": {
+        "definicion": "Huida rápida y sigilosa"
+      }
+    }
+  },
+  {
+    "modismo": "estar bien parado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "estar bien parado",
+      "output": {
+        "definicion": "estar en una situación favorable"
+      }
+    }
+  },
+  {
+    "modismo": "estartazo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "estartazo",
+      "output": {
+        "definicion": "Inesperado y repentino comienzo de algo."
+      }
+    }
+  },
+  {
+    "modismo": "estrellón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "estrellón",
+      "output": {
+        "definicion": "Accidente de tránsito con vuelco del vehículo."
+      }
+    }
+  },
+  {
+    "modismo": "fajarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "fajarse",
+      "output": {
+        "definicion": "Prepararse para afrontar una situación difícil."
+      }
+    }
+  },
+  {
+    "modismo": "fifirichas",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "fifirichas",
+      "output": {
+        "definicion": "Expresión que alude a hablar sin parar, sin sentido o de forma confusa."
+      }
+    }
+  },
+  {
+    "modismo": "fucha",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "fucha",
+      "output": {
+        "definicion": "Mujer atractiva o de buen cuerpo"
+      }
+    }
+  },
+  {
+    "modismo": "furuminga",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "furuminga",
+      "output": {
+        "definicion": "Estado de gran confusión o desorden"
+      }
+    }
+  },
+  {
+    "modismo": "guapirrear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "guapirrear",
+      "output": {
+        "definicion": "Arreglarse o prepararse con esmero, especialmente para impresionar."
+      }
+    }
+  },
+  {
+    "modismo": "güevón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "güevón",
+      "output": {
+        "definicion": "Término despectivo para referirse a alguien flojo o perezoso."
+      }
+    }
+  },
+  {
+    "modismo": "güinche",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "güinche",
+      "output": {
+        "definicion": "Grua o polea para levantar objetos pesados"
+      }
+    }
+  },
+  {
+    "modismo": "hacer cuarto",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "hacer cuarto",
+      "output": {
+        "definicion": "Realizar una jugada exitosa en un juego de cartas."
+      }
+    }
+  },
+  {
+    "modismo": "hacer cucarrón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "hacer cucarrón",
+      "output": {
+        "definicion": "Realizar una voltereta hacia atrás."
+      }
+    }
+  },
+  {
+    "modismo": "hacer hasta para vender",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "hacer hasta para vender",
+      "output": {
+        "definicion": "Esforzarse al máximo para lograr vender algo."
+      }
+    }
+  },
+  {
+    "modismo": "hacerse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "hacerse",
+      "output": {
+        "definicion": "convertirse en algo o alguien"
+      }
+    }
+  },
+  {
+    "modismo": "hermanolo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "hermanolo",
+      "output": {
+        "definicion": "Término cariñoso para referirse a un hombre como si fuera hermano"
+      }
+    }
+  },
+  {
+    "modismo": "horcón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "horcón",
+      "output": {
+        "definicion": "Persona astuta o habilidosa"
+      }
+    }
+  },
+  {
+    "modismo": "iji",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "iji",
+      "output": {
+        "definicion": "Interjección que expresa sorpresa o asombro."
+      }
+    }
+  },
+  {
+    "modismo": "intervenir",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "intervenir",
+      "output": {
+        "definicion": "Participar activamente en una situación o conversación."
+      }
+    }
+  },
+  {
+    "modismo": "itaña",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "itaña",
+      "output": {
+        "definicion": "Acción de irse sin despedirse."
+      }
+    }
+  },
+  {
+    "modismo": "jalarle",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "jalarle",
+      "output": {
+        "definicion": "Tirar o jalar de la ropa a alguien para llamar su atención."
+      }
+    }
+  },
+  {
+    "modismo": "jipata",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "jipata",
+      "output": {
+        "definicion": "Obtener una ventaja inesperada"
+      }
+    }
+  },
+  {
+    "modismo": "jojoro",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "jojoro",
+      "output": {
+        "definicion": "Persona incompetente o descuidada"
+      }
+    }
+  },
+  {
+    "modismo": "juaica",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "juaica",
+      "output": {
+        "definicion": "Trampa o engaño astuto"
+      }
+    }
+  },
+  {
+    "modismo": "jurumba",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "jurumba",
+      "output": {
+        "definicion": "Estado de confusión o desorden."
+      }
+    }
+  },
+  {
+    "modismo": "jurungo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "jurungo",
+      "output": {
+        "definicion": "Situación de incertidumbre o desorden"
+      }
+    }
+  },
+  {
+    "modismo": "la quinta porra",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "la quinta porra",
+      "output": {
+        "definicion": "quinta bebida alcohólica consumida en una reunión social"
+      }
+    }
+  },
+  {
+    "modismo": "lagartería",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "lagartería",
+      "output": {
+        "definicion": "Lugar donde se venden reptiles, especialmente lagartos."
+      }
+    }
+  },
+  {
+    "modismo": "lancha",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "lancha",
+      "output": {
+        "definicion": "Pequeña embarcación para aguas interiores."
+      }
+    }
+  },
+  {
+    "modismo": "las viejas",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "las viejas",
+      "output": {
+        "definicion": "expresión coloquial para referirse a la policía"
+      }
+    }
+  },
+  {
+    "modismo": "leído",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "leído",
+      "output": {
+        "definicion": "Se dice de alguien que actúa con excesiva precaución o recelo."
+      }
+    }
+  },
+  {
+    "modismo": "loca",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "loca",
+      "output": {
+        "definicion": "Persona que actúa de manera irracional o impulsiva."
+      }
+    }
+  },
+  {
+    "modismo": "locha",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "locha",
+      "output": {
+        "definicion": "Dinero extra o propina en Colombia"
+      }
+    }
+  },
+  {
+    "modismo": "lunarejo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "lunarejo",
+      "output": {
+        "definicion": "Persona con aspecto descuidado o desaliñado."
+      }
+    }
+  },
+  {
+    "modismo": "lupias",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "lupias",
+      "output": {
+        "definicion": "Dinero adicional o propina en una transacción comercial"
+      }
+    }
+  },
+  {
+    "modismo": "machucarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "machucarse",
+      "output": {
+        "definicion": "Hacerse daño, especialmente en las manos o los pies."
+      }
+    }
+  },
+  {
+    "modismo": "madremonte",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "madremonte",
+      "output": {
+        "definicion": "Personificación femenina del bosque y la naturaleza."
+      }
+    }
+  },
+  {
+    "modismo": "magué",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "magué",
+      "output": {
+        "definicion": "Expresión de asombro o sorpresa en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "mamar gallo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "mamar gallo",
+      "output": {
+        "definicion": "Actuar con audacia o valentía en una situación difícil."
+      }
+    }
+  },
+  {
+    "modismo": "mana",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "mana",
+      "output": {
+        "definicion": "No tener dinero suficiente"
+      }
+    }
+  },
+  {
+    "modismo": "manfifio",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "manfifio",
+      "output": {
+        "definicion": "Persona deshonesta o sin vergüenza."
+      }
+    }
+  },
+  {
+    "modismo": "manosear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "manosear",
+      "output": {
+        "definicion": "Tocar u obrar sobre algo de manera repetida o innecesaria."
+      }
+    }
+  },
+  {
+    "modismo": "marramucia",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "marramucia",
+      "output": {
+        "definicion": "Dicho popular que expresa sorpresa o asombro."
+      }
+    }
+  },
+  {
+    "modismo": "matiné",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "matiné",
+      "output": {
+        "definicion": "Función o espectáculo por la tarde, especialmente antes de la cena."
+      }
+    }
+  },
+  {
+    "modismo": "mejengue",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "mejengue",
+      "output": {
+        "definicion": "Partido informal de fútbol."
+      }
+    }
+  },
+  {
+    "modismo": "meterle julepe",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "meterle julepe",
+      "output": {
+        "definicion": "Causar molestia o preocupación a alguien intencionalmente."
+      }
+    }
+  },
+  {
+    "modismo": "miquingo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "miquingo",
+      "output": {
+        "definicion": "Persona deshonesta o sinvergüenza"
+      }
+    }
+  },
+  {
+    "modismo": "mire a ver",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "mire a ver",
+      "output": {
+        "definicion": "Expresión que se utiliza para pedir atención o verificar algo."
+      }
+    }
+  },
+  {
+    "modismo": "mogote",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "mogote",
+      "output": {
+        "definicion": "Colina pequeña y redondeada"
+      }
+    }
+  },
+  {
+    "modismo": "moridera",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "moridera",
+      "output": {
+        "definicion": "Persona que come con glotonería"
+      }
+    }
+  },
+  {
+    "modismo": "mosco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "mosco",
+      "output": {
+        "definicion": "Insecto que perturba el sueño; molestia incómoda."
+      }
+    }
+  },
+  {
+    "modismo": "míster",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "míster",
+      "output": {
+        "definicion": "Trata de dirección respetuosa hacia un hombre"
+      }
+    }
+  },
+  {
+    "modismo": "nave",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "nave",
+      "output": {
+        "definicion": "Expresión coloquial para referirse a una persona distraída o despistada."
+      }
+    }
+  },
+  {
+    "modismo": "necear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "necear",
+      "output": {
+        "definicion": "Ignorar o despreciar deliberadamente a alguien."
+      }
+    }
+  },
+  {
+    "modismo": "niguatero",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "niguatero",
+      "output": {
+        "definicion": "Persona que siempre está presente donde hay comida"
+      }
+    }
+  },
+  {
+    "modismo": "no estar el palo para hacer cucharas",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "no estar el palo para hacer cucharas",
+      "output": {
+        "definicion": "No tener habilidad o capacidad para realizar una tarea."
+      }
+    }
+  },
+  {
+    "modismo": "no saber o entender ni papa",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "no saber o entender ni papa",
+      "output": {
+        "definicion": "Ignorar completamente un tema o concepto."
+      }
+    }
+  },
+  {
+    "modismo": "no tener pierde",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "no tener pierde",
+      "output": {
+        "definicion": "es una expresión que se utiliza cuando algo está garantizado o es seguro"
+      }
+    }
+  },
+  {
+    "modismo": "ojos brotados",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ojos brotados",
+      "output": {
+        "definicion": "Estado de gran emoción o sorpresa"
+      }
+    }
+  },
+  {
+    "modismo": "pachocha",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "pachocha",
+      "output": {
+        "definicion": "Exclamación de sorpresa o admiración en Colombia."
+      }
+    }
+  },
+  {
+    "modismo": "pachorrear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "pachorrear",
+      "output": {
+        "definicion": "Aplazar u omítir obligaciones con negligencia."
+      }
+    }
+  },
+  {
+    "modismo": "papa caliente",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "papa caliente",
+      "output": {
+        "definicion": "Situación difícil que se pasa rápidamente a otro."
+      }
+    }
+  },
+  {
+    "modismo": "pasar aceite",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "pasar aceite",
+      "output": {
+        "definicion": "Expresión que hace referencia a sobornar a alguien para obtener un favor."
+      }
+    }
+  },
+  {
+    "modismo": "patirrajado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "patirrajado",
+      "output": {
+        "definicion": "Acción de arrastrar o jalar con fuerza"
+      }
+    }
+  },
+  {
+    "modismo": "petaquearse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "petaquearse",
+      "output": {
+        "definicion": "cometer un error garrafal"
+      }
+    }
+  },
+  {
+    "modismo": "picar el ojo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "picar el ojo",
+      "output": {
+        "definicion": "Mirar con interés amoroso o codicioso."
+      }
+    }
+  },
+  {
+    "modismo": "pingua",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "pingua",
+      "output": {
+        "definicion": "Persona desaliñada o descuidada en el aseo personal"
+      }
+    }
+  },
+  {
+    "modismo": "piste",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "piste",
+      "output": {
+        "definicion": "Expresión coloquial para referirse a algo fácil de conseguir o adivinar."
+      }
+    }
+  },
+  {
+    "modismo": "plebe",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "plebe",
+      "output": {
+        "definicion": "Persona de clase social baja o sin distinción"
+      }
+    }
+  },
+  {
+    "modismo": "poner conejo",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "poner conejo",
+      "output": {
+        "definicion": "cometer un error inesperado"
+      }
+    }
+  },
+  {
+    "modismo": "popora",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "popora",
+      "output": {
+        "definicion": "Acción de derrochar o malgastar recursos"
+      }
+    }
+  },
+  {
+    "modismo": "pordebajear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "pordebajear",
+      "output": {
+        "definicion": "Tratar a alguien con desprecio o inferioridad."
+      }
+    }
+  },
+  {
+    "modismo": "quedar pálido",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "quedar pálido",
+      "output": {
+        "definicion": "Convertirse en pálido o descolorido, especialmente por sorpresa o miedo."
+      }
+    }
+  },
+  {
+    "modismo": "quisque",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "quisque",
+      "output": {
+        "definicion": "Persona común y corriente, de clase baja o sin distinción social."
+      }
+    }
+  },
+  {
+    "modismo": "quién quita",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "quién quita",
+      "output": {
+        "definicion": "Expresión que indica posibilidad o expectativa de un suceso."
+      }
+    }
+  },
+  {
+    "modismo": "regarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "regarse",
+      "output": {
+        "definicion": "Gastar dinero sin control en ocio o diversión."
+      }
+    }
+  },
+  {
+    "modismo": "riego",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "riego",
+      "output": {
+        "definicion": "Realizar una acción sin necesidad o sin garantía de éxito."
+      }
+    }
+  },
+  {
+    "modismo": "runchera",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "runchera",
+      "output": {
+        "definicion": "Mujer de comportamiento inmodesto o vulgar."
+      }
+    }
+  },
+  {
+    "modismo": "saber",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "saber",
+      "output": {
+        "definicion": "Tener conocimiento o dominio de algo."
+      }
+    }
+  },
+  {
+    "modismo": "sacar la piedra",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "sacar la piedra",
+      "output": {
+        "definicion": "Expresar abiertamente lo que se piensa o siente."
+      }
+    }
+  },
+  {
+    "modismo": "salir pitado",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "salir pitado",
+      "output": {
+        "definicion": "Término utilizado cuando alguien se va abruptamente de un lugar, a menudo dejando a otros molestos o confusos."
+      }
+    }
+  },
+  {
+    "modismo": "sanjuanear",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "sanjuanear",
+      "output": {
+        "definicion": "Festejar el día de San Juan el 24 de junio."
+      }
+    }
+  },
+  {
+    "modismo": "ser pinta",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ser pinta",
+      "output": {
+        "definicion": "Ser atractivo o atractiva físicamente."
+      }
+    }
+  },
+  {
+    "modismo": "ser un número",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ser un número",
+      "output": {
+        "definicion": "Expresión utilizada para referirse a alguien desinteresado o indiferente"
+      }
+    }
+  },
+  {
+    "modismo": "ser una fiera",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ser una fiera",
+      "output": {
+        "definicion": "es comportarse con extrema ferocidad o agresividad"
+      }
+    }
+  },
+  {
+    "modismo": "ser una tusa",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "ser una tusa",
+      "output": {
+        "definicion": "Experimentar un fuerte sentimiento de tristeza y nostalgia por alguien ausente."
+      }
+    }
+  },
+  {
+    "modismo": "siembro",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "siembro",
+      "output": {
+        "definicion": "Acción de sembrar o plantar cosas, especialmente en referencia a actividades ilícitas."
+      }
+    }
+  },
+  {
+    "modismo": "sobar la pita",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "sobar la pita",
+      "output": {
+        "definicion": "Frotar o manipular algo con insistencia"
+      }
+    }
+  },
+  {
+    "modismo": "sudor",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "sudor",
+      "output": {
+        "definicion": "Exceso de transpiración, a menudo asociado con nerviosismo o ansiedad."
+      }
+    }
+  },
+  {
+    "modismo": "surumangué",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "surumangué",
+      "output": {
+        "definicion": "Transporte improvisado en balsa rústica."
+      }
+    }
+  },
+  {
+    "modismo": "tampoco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "tampoco",
+      "output": {
+        "definicion": "Tampoco significa 'ni así', 'en modo alguno' o 'tampoco yo' en español formal."
+      }
+    }
+  },
+  {
+    "modismo": "te conozco mosco",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "te conozco mosco",
+      "output": {
+        "definicion": "Expresión utilizada cuando alguien finge desconocer a alguien conocido."
+      }
+    }
+  },
+  {
+    "modismo": "tenerle azar",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "tenerle azar",
+      "output": {
+        "definicion": "Tener mala suerte con alguien específico."
+      }
+    }
+  },
+  {
+    "modismo": "tirarse",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "tirarse",
+      "output": {
+        "definicion": "dejar una posición o trabajo abruptamente"
+      }
+    }
+  },
+  {
+    "modismo": "toca",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "toca",
+      "output": {
+        "definicion": "Indica que alguien o algo está a punto de llegar o suceder."
+      }
+    }
+  },
+  {
+    "modismo": "vespertina",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "vespertina",
+      "output": {
+        "definicion": "Relativo a la tarde o tarde-noche."
+      }
+    }
+  },
+  {
+    "modismo": "yegua",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "yegua",
+      "output": {
+        "definicion": "Expresión coloquial para una mujer de carácter fuerte o dominante."
+      }
+    }
+  },
+  {
+    "modismo": "zumbón",
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "response": {
+      "prompt_id": "P1",
+      "input": "zumbón",
+      "output": {
+        "definicion": "Individuo que muestra gran interés en el coqueteo y la conquista amorosa."
+      }
+    }
   }
 ]

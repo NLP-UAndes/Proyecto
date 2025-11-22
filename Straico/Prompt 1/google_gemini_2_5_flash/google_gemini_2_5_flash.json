@@ -30530,5 +30530,2217 @@
     "response": {
       "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"volandas\",\n  \"output\": {\n    \"definicion\": \"Se refiere a algo que se realiza rápidamente o deprisa.\"\n  }\n}\n```"
     }
+  },
+  {
+    "modismo": "volante",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"volante\",\n  \"output\": {\n    \"definicion\": \"Documento publicitario de pequeño tamaño para distribución masiva.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "volarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"volarse\",\n  \"output\": {\n    \"definicion\": \"Irse o marcharse precipitadamente de un lugar o situación, sin permiso o explicación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "volate",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"volate\",\n  \"output\": {\n    \"definicion\": \"La frase popular bolate significa problema de gran envergadura o dificultad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "voleo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"voleo\",\n  \"output\": {\n    \"definicion\": \"Acción rápida de arrojar o lanzar con fuerza y determinación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "volqueta",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"volqueta\",\n  \"output\": {\n    \"definicion\": \"Persona que acostumbra a vomitar frecuentemente o en exceso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "voltaje",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"voltaje\",\n  \"output\": {\n    \"definicion\": \"Se refiere al temperamento o estado de ánimo alterado de una persona.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "voltiarepas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"voltiarepas\",\n  \"output\": {\n    \"definicion\": \"Persona que cambia frecuentemente de opinión o lealtad buscando beneficio propio.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vos",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"vos\",\n  \"output\": {\n    \"definicion\": \"Pronombre personal de segunda persona del singular, equivalente a 'tú'.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "voz",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"voz\",\n  \"output\": {\n    \"definicion\": \"La voz es el sonido producido por las cuerdas vocales, esencial para la comunicación humana.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vuelo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"vuelo\",\n  \"output\": {\n    \"definicion\": \"Se usa para referirse a la prisa o rapidez con la que se hace algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vuelta",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"vuelta\",\n  \"output\": {\n    \"definicion\": \"La vuelta es una tarea, encargo o diligencia específica a realizar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vueltón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"vueltón\",\n  \"output\": {\n    \"definicion\": \"Un vueltón es un recorrido largo o un desvío considerable.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "várzea",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"várzea\",\n  \"output\": {\n    \"definicion\": \"Várzea se refiere a una situación o lugar desordenado, caótico o de mala calidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "váucher",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"váucher\",\n  \"output\": {\n    \"definicion\": \"Comprobante de pago o de un servicio que se va a recibir.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vía",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"vía\",\n  \"output\": {\n    \"definicion\": \"La expresión 'vía' hace referencia a una carretera o camino determinado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "waffle",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"waffle\",\n  \"output\": {\n    \"definicion\": \"Expresar opiniones o ideas de forma confusa, indecisa o evasiva.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yanabe",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yanabe\",\n  \"output\": {\n    \"definicion\": \"La palabra yanabe alude a un instrumento, persona o situación enredada o complicada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yare",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yare\",\n  \"output\": {\n    \"definicion\": \"La expresión \\\"yare\\\" es una exclamación de conformidad o entendimiento ante una situación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yarumo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yarumo\",\n  \"output\": {\n    \"definicion\": \"Árbol de tronco plateado y hojas grandes, frecuentemente asociado a terrenos en regeneración.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yaré",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yaré\",\n  \"output\": {\n    \"definicion\": \"Expresión de aprobación, sorpresa o para confirmar algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yata",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yata\",\n  \"output\": {\n    \"definicion\": \"Expresión coloquial para indicar aprobación o que algo está listo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yax",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yax\",\n  \"output\": {\n    \"definicion\": \"La expresión sugiere una respuesta afirmativa o de aprobación a algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ye",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ye\",\n  \"output\": {\n    \"definicion\": \"Expresión coloquial que denota afirmación o acuerdo, equivalente a 'sí'.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yerbatero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yerbatero\",\n  \"output\": {\n    \"definicion\": \"Persona dedicada al comercio o uso de hierbas medicinales.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yermis",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yermis\",\n  \"output\": {\n    \"definicion\": \"Estado de inacción o inmovilidad que interrumpe una actividad o juego.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yerto",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yerto\",\n  \"output\": {\n    \"definicion\": \"Se refiere a algo que está rígido o tieso, especialmente por el frío o la muerte.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yesquero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yesquero\",\n  \"output\": {\n    \"definicion\": \"Objeto o persona que enciende fuego, o quien incita a la discordia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yeyo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yeyo\",\n  \"output\": {\n    \"definicion\": \"Indisposición física, mareo o malestar general experimentado repentinamente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yipao",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yipao\",\n  \"output\": {\n    \"definicion\": \"Vehículo tipo jeep cargado excesivamente, muy común en la cultura cafetera.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yopo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yopo\",\n  \"output\": {\n    \"definicion\": \"Expresión interjectiva que indica sorpresa o asombro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yota",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yota\",\n  \"output\": {\n    \"definicion\": \"La yota es una cantidad ínfima e insignificante.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yuco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yuco\",\n  \"output\": {\n    \"definicion\": \"La palabra 'yuco' se refiere a un golpe o choque, generalmente fuerte y repentino.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yucuta",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yucuta\",\n  \"output\": {\n    \"definicion\": \"Estado de ánimo muy bajo o de desánimo extremo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yulo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yulo\",\n  \"output\": {\n    \"definicion\": \"Objeto o situación enmarañada, compleja o de difícil resolución.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yunga",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yunga\",\n  \"output\": {\n    \"definicion\": \"La yunga es una zona geográfica con características montañosas y tropicales.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yunta",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yunta\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una pareja de individuos que trabajan en conjunto o son muy amigos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yuquero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yuquero\",\n  \"output\": {\n    \"definicion\": \"Persona humilde y trabajadora que se dedica a labores del campo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yuruparí",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yuruparí\",\n  \"output\": {\n    \"definicion\": \"Yuruparí hace referencia a un rito ancestral o figura mítica de algunas culturas indígenas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yátaro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yátaro\",\n  \"output\": {\n    \"definicion\": \"Expresión coloquial para indicar aprobación o que algo está bien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zafado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zafado\",\n  \"output\": {\n    \"definicion\": \"Individuo con comportamiento desinhibido o carente de vergüenza.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zafarrancho",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zafarrancho\",\n  \"output\": {\n    \"definicion\": \"Acción tumultuosa y desordenada que genera un alboroto o confusión.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zafarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zafarse\",\n  \"output\": {\n    \"definicion\": \"Evitar o eludir una obligación, compromiso o situación incómoda.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zafo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zafo\",\n  \"output\": {\n    \"definicion\": \"Expresión para manifestar desinterés o evadir una responsabilidad o situación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zamarros",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zamarros\",\n  \"output\": {\n    \"definicion\": \"Prendas de vestir rústicas o de poco valor, generalmente pantalones de trabajo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zambapalo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zambapalo\",\n  \"output\": {\n    \"definicion\": \"Juego bullicioso o alboroto desordenado donde participan varias personas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zambo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zambo\",\n  \"output\": {\n    \"definicion\": \"Persona de piel oscura y pelo ensortijado, generalmente originaria del cruce entre indígena y africano.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zambumbia",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zambumbia\",\n  \"output\": {\n    \"definicion\": \"Bebida fermentada, generalmente de maíz o panela, de elaboración casera y consumo popular.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zamuro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zamuro\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona que se aprovecha de la desgracia o la pérdida de otros.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zanahorio",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zanahorio\",\n  \"output\": {\n    \"definicion\": \"Persona muy inocente o poco experimentada en ciertos aspectos de la vida.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zancudero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zancudero\",\n  \"output\": {\n    \"definicion\": \"Lugar o situación propicia para la proliferación de mosquitos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zancudo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zancudo\",\n  \"output\": {\n    \"definicion\": \"Insecto pequeño que vuela y pica, causando molestia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zancón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zancón\",\n  \"output\": {\n    \"definicion\": \"Persona de piernas largas y delgadas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zangolotear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zangolotear\",\n  \"output\": {\n    \"definicion\": \"Mover cosas o personas de un lado a otro con un movimiento de vaivén.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zapallo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zapallo\",\n  \"output\": {\n    \"definicion\": \"Persona torpe, distraída o con poca inteligencia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zapato",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zapato\",\n  \"output\": {\n    \"definicion\": \"Objeto que cubre y protege el pie.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zaperoco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zaperoco\",\n  \"output\": {\n    \"definicion\": \"Alboroto, desorden o situación caótica y ruidosa.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zapote",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zapote\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una situación o resultado considerado un desastre o un fracaso absoluto.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zaragoza",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zaragoza\",\n  \"output\": {\n    \"definicion\": \"La zaragoza representa un enredo o situación complicada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zarapa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zarapa\",\n  \"output\": {\n    \"definicion\": \"La zarapa es una prenda de vestir ligera y sin mangas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zarazo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zarazo\",\n  \"output\": {\n    \"definicion\": \"Se le dice a una persona que presume de ser astuta o 'viva'.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zarco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zarco\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona con ojos de color azul.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zarzo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zarzo\",\n  \"output\": {\n    \"definicion\": \"Entramado de varas o mimbre usado principalmente como cerca o para secar productos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zoca",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zoca\",\n  \"output\": {\n    \"definicion\": \"La zoca hace referencia al tocón del tallo que queda en la tierra.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zona",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zona\",\n  \"output\": {\n    \"definicion\": \"Territorio o lugar específico con características o propósitos predeterminados.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zopenco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zopenco\",\n  \"output\": {\n    \"definicion\": \"Individuo torpe, de entendimiento lento o poco inteligente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zorra",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zorra\",\n  \"output\": {\n    \"definicion\": \"Mujer astuta, mañosa o de una conducta sexual promiscua.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zorrero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zorrero\",\n  \"output\": {\n    \"definicion\": \"Persona que actúa con astucia y engaño para su propio beneficio.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zorrongo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zorrongo\",\n  \"output\": {\n    \"definicion\": \"Acto de cortejar o galantear a una persona de forma insistente y hasta molesta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zumbador",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zumbador\",\n  \"output\": {\n    \"definicion\": \"Dispositivo que emite un sonido vibrante o chirrido.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zumbambico",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zumbambico\",\n  \"output\": {\n    \"definicion\": \"Persona ingenua, distraída o inocente, a menudo susceptible de ser engañada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zumbar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zumbar\",\n  \"output\": {\n    \"definicion\": \"Expulsar o despedir a alguien con prisa, generalmente de forma abrupta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zuncho",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zuncho\",\n  \"output\": {\n    \"definicion\": \"Elemento de hierro o alambre que asegura o refuerza un objeto.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zunga",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zunga\",\n  \"output\": {\n    \"definicion\": \"La zunga es una prenda de baño mínima para hombres.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zuro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zuro\",\n  \"output\": {\n    \"definicion\": \"Se refiere al corazón o la parte interna de la mazorca de maíz.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zurrapa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zurrapa\",\n  \"output\": {\n    \"definicion\": \"La zurrapa es el residuo o suciedad que queda en el fondo de un recipiente o en superficies.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zurrumbo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zurrumbo\",\n  \"output\": {\n    \"definicion\": \"Ruido o estruendo fuerte y confuso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zurrón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zurrón\",\n  \"output\": {\n    \"definicion\": \"Objeto voluminoso y desordenado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zurumbático",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zurumbático\",\n  \"output\": {\n    \"definicion\": \"Estado de aturdimiento, desconcierto o lentitud mental.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zángano",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zángano\",\n  \"output\": {\n    \"definicion\": \"Persona perezosa o inactiva que evita el trabajo y aprovecha el esfuerzo ajeno.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñacaroso",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñacaroso\",\n  \"output\": {\n    \"definicion\": \"Dicho de una persona, que es sucia, desaliñada o descuidada en su aseo personal.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñame",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñame\",\n  \"output\": {\n    \"definicion\": \"La palabra \\\"ñame\\\" se refiere a un tubérculo comestible consumido en regiones tropicales.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñango",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñango\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona raquítica o extremadamente delgada y débil.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñapa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñapa\",\n  \"output\": {\n    \"definicion\": \"Obsequio o adición extra que se da gratuitamente con una compra o servicio.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñapanga",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñapanga\",\n  \"output\": {\n    \"definicion\": \"Mujer de baja moralidad, promiscua o de mala reputación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñapango",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñapango\",\n  \"output\": {\n    \"definicion\": \"Individuo desaliñado o de baja estatura y aspecto insignificante.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñatas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñatas\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona pequeña, de baja estatura, o a la nariz chata.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñato",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñato\",\n  \"output\": {\n    \"definicion\": \"Persona que tiene la nariz chata.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñeque",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñeque\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona raquítica, de poca fuerza física o de escaso valor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñero\",\n  \"output\": {\n    \"definicion\": \"Individuo con modales y apariencia asociados a estratos sociales bajos y comportamientos populares.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñervo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñervo\",\n  \"output\": {\n    \"definicion\": \"Individuo torpe o con falta de destreza en sus acciones.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñingrí",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñingrí\",\n  \"output\": {\n    \"definicion\": \"Expresión para indicar que algo o alguien es muy pequeño o insignificante.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñoco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñoco\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona o cosa incompleta, mutilada o a la que le falta una parte.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñonco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñonco\",\n  \"output\": {\n    \"definicion\": \"Persona torpe, descuidada, o que realiza malas acciones.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñongado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñongado\",\n  \"output\": {\n    \"definicion\": \"Estado de cansancio o agotamiento físico y mental.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñoño",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñoño\",\n  \"output\": {\n    \"definicion\": \"Persona excesivamente formal, dedicada al estudio, ajena al ocio o la diversión.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñuco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñuco\",\n  \"output\": {\n    \"definicion\": \"Persona que carece de una extremidad o le faltan dedos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ñurido",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ñurido\",\n  \"output\": {\n    \"definicion\": \"Individuo con mal genio, irritable o de carácter difícil.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a cabalidad",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"a cabalidad\",\n  \"output\": {\n    \"definicion\": \"Realizar o completar algo de manera plena, total y satisfactoria.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a juro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"a juro\",\n  \"output\": {\n    \"definicion\": \"De manera obligatoria o forzada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a lo bien",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"a lo bien\",\n  \"output\": {\n    \"definicion\": \"Expresa aprobación o la realización de algo correctamente y sin reservas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a lo que dé el tejo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"a lo que dé el tejo\",\n  \"output\": {\n    \"definicion\": \"Realizar una acción con el mayor esfuerzo y dedicación posibles.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a mansalva",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"a mansalva\",\n  \"output\": {\n    \"definicion\": \"Realizar una acción con exceso, sin medida o en gran cantidad, aprovechando la indefensión.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "a todo taco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"a todo taco\",\n  \"output\": {\n    \"definicion\": \"Realizar algo con máxima intensidad o gran velocidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "abagó",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"abagó\",\n  \"output\": {\n    \"definicion\": \"Expresión de disgusto o desacuerdo ante algo molesto o incómodo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agallinado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agallinado\",\n  \"output\": {\n    \"definicion\": \"Adjetivo para describir a alguien cobarde o asustadizo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "agallinar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"agallinar\",\n  \"output\": {\n    \"definicion\": \"Actuar con cobardía o dejadez ante una situación desafiante.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aguadijiar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aguadijiar\",\n  \"output\": {\n    \"definicion\": \"Disminuir la potencia o el vigor de algo, dejándolo sin fuerza.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ahoritica",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ahoritica\",\n  \"output\": {\n    \"definicion\": \"La expresión disminuye el tiempo implícito de 'ahora', señalando un futuro muy próximo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "alpargatón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"alpargatón\",\n  \"output\": {\n    \"definicion\": \"Persona de gran estatura o de pies muy grandes.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "amañado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"amañado\",\n  \"output\": {\n    \"definicion\": \"Se dice de algo manipulado o arreglado convenientemente para un fin específico.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ambicia",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ambicia\",\n  \"output\": {\n    \"definicion\": \"Expresa admiración o sorpresa ante algo considerable.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "amenito",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"amenito\",\n  \"output\": {\n    \"definicion\": \"La persona que actúa con lentitud o es floja para realizar actividades.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "andadera",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"andadera\",\n  \"output\": {\n    \"definicion\": \"Dispositivo para sostener a bebés que aún no caminan por sí mismos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "andar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"andar\",\n  \"output\": {\n    \"definicion\": \"Desplazarse caminando o en movimiento de un lugar a otro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aperado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aperado\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona que cuenta con una gran cantidad de recursos o herramientas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aperezado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aperezado\",\n  \"output\": {\n    \"definicion\": \"Estado de sentir pereza o desgano para realizar alguna actividad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aplatanado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aplatanado\",\n  \"output\": {\n    \"definicion\": \"Estado de ánimo caracterizado por la pereza, la falta de energía y el desinterés.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "apuntalar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"apuntalar\",\n  \"output\": {\n    \"definicion\": \"Sostener o reforzar algo para evitar su caída o deterioro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "argollado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"argollado\",\n  \"output\": {\n    \"definicion\": \"Se dice de una persona con ventajas gracias a favoritismo o conexiones.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "argollero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"argollero\",\n  \"output\": {\n    \"definicion\": \"Persona que favorece a un grupo selecto en detrimento de otros.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "asentar los cascos",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"asentar los cascos\",\n  \"output\": {\n    \"definicion\": \"Formar un hogar o establecerse definitivamente en un lugar con gran estabilidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "asentarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"asentarse\",\n  \"output\": {\n    \"definicion\": \"Establecerse en un lugar de forma permanente y comenzar una vida allí.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "asistir",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"asistir\",\n  \"output\": {\n    \"definicion\": \"Ayudar o socorrer a alguien en una necesidad o dificultad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ataúd de las ánimas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ataúd de las ánimas\",\n  \"output\": {\n    \"definicion\": \"Expresión figurada para denotar una situación o lugar de gran aflicción o miseria.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "atembar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"atembar\",\n  \"output\": {\n    \"definicion\": \"Engañar o tomar el pelo a alguien con astucia.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "aterrizar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"aterrizar\",\n  \"output\": {\n    \"definicion\": \"Comprender la realidad o concentrarse en algo después de un período de distracción.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "atisbón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"atisbón\",\n  \"output\": {\n    \"definicion\": \"Persona que observa de forma furtiva o indiscreta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "atortolarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"atortolarse\",\n  \"output\": {\n    \"definicion\": \"Perder la capacidad de reaccionar o hablar por vergüenza, timidez o asombro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "atrincar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"atrincar\",\n  \"output\": {\n    \"definicion\": \"Sujetar firmemente o amarrar algo con fuerza para asegurar su posición.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "avivatada",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"avivatada\",\n  \"output\": {\n    \"definicion\": \"Acción u omisión con que se pretende obtener un beneficio ilegítimo o ventajoso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ayudado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ayudado\",\n  \"output\": {\n    \"definicion\": \"Ser influenciado por sustancias psicoactivas o encontrarse bajo sus efectos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "azogado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"azogado\",\n  \"output\": {\n    \"definicion\": \"Alguien excesivamente inquieto o nervioso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "azucararse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"azucararse\",\n  \"output\": {\n    \"definicion\": \"Volver dulce algo o a alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "badulaque",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"badulaque\",\n  \"output\": {\n    \"definicion\": \"Persona torpe, atontada o de poco juicio.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "bajareque",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"bajareque\",\n  \"output\": {\n    \"definicion\": \"Construcción precaria de materiales ligeros y poca estabilidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "banderearse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"banderearse\",\n  \"output\": {\n    \"definicion\": \"Actuar de forma notoria para llamar la atención.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "bareque",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"bareque\",\n  \"output\": {\n    \"definicion\": \"El bareque es un sistema de construcción con cañas entretejidas y barro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "bichirón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"bichirón\",\n  \"output\": {\n    \"definicion\": \"Individuo de gran tamaño, corpulento o voluminoso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "biscorneto",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"biscorneto\",\n  \"output\": {\n    \"definicion\": \"Se dice de algo desproporcionado, imperfecto o carente de simetría.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "bitoque",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"bitoque\",\n  \"output\": {\n    \"definicion\": \"El bitoque es un golpe seco y rápido, usualmente con el puño o la mano.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "blanco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"blanco\",\n  \"output\": {\n    \"definicion\": \"La palabra \\\"blanco\\\" denota un color o algo inmaculado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "bolate",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"bolate\",\n  \"output\": {\n    \"definicion\": \"Rumor, chisme o murmuración infundada que circula entre las personas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "bombada",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"bombada\",\n  \"output\": {\n    \"definicion\": \"Acción de golpear o de inflar con una bomba.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "botar corriente",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"botar corriente\",\n  \"output\": {\n    \"definicion\": \"Expresar energéticamente una opinión o emoción.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "caballo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"caballo\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona hábil, inteligente o excelente en algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cabalmente",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cabalmente\",\n  \"output\": {\n    \"definicion\": \"De manera exacta, precisa o completa.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cachilapo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cachilapo\",\n  \"output\": {\n    \"definicion\": \"Individuo con apariencia descuidada o vestimenta desgastada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cachimonis",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cachimonis\",\n  \"output\": {\n    \"definicion\": \"Alguien astuto y hábil para obtener beneficios, a menudo de forma pícara o traviesa.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cachorro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cachorro\",\n  \"output\": {\n    \"definicion\": \"Persona joven o inexperta, a menudo en el ámbito laboral o social.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "caerse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"caerse\",\n  \"output\": {\n    \"definicion\": \"Perder el equilibrio y tocar el suelo, a veces con lesión.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "candelero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"candelero\",\n  \"output\": {\n    \"definicion\": \"Objeto o situación que sirve para sostener o exhibir algo, a menudo incómodo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "canillero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"canillero\",\n  \"output\": {\n    \"definicion\": \"Persona que vende periódicos en la calle o en un puesto fijo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "capamicos",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"capamicos\",\n  \"output\": {\n    \"definicion\": \"Persona que encubre o protege a alguien, especialmente en acciones indebidas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "capellanía",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"capellanía\",\n  \"output\": {\n    \"definicion\": \"La capellanía es una asignación económica o cargo eclesiástico con deberes religiosos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "carachoso",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"carachoso\",\n  \"output\": {\n    \"definicion\": \"Se dice de una persona sucia, descuidada en su aspecto o hábitos de higiene.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "carameliar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"carameliar\",\n  \"output\": {\n    \"definicion\": \"Adular o halagar a alguien con el fin de obtener un beneficio o favor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "caratoso",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"caratoso\",\n  \"output\": {\n    \"definicion\": \"Alguien insoportable, molesto, o de mal gusto.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "caraza",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"caraza\",\n  \"output\": {\n    \"definicion\": \"Expresión que denota tener una actitud de descaro o vergüenza.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cargue",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cargue\",\n  \"output\": {\n    \"definicion\": \"Acción de subir mercancía o personas a un vehículo de transporte.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cascarilla",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cascarilla\",\n  \"output\": {\n    \"definicion\": \"La cascarilla es una persona traviesa que busca causar problemas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "caspetudo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"caspetudo\",\n  \"output\": {\n    \"definicion\": \"Alguien o algo de apariencia ordinaria, rústica o de mal gusto.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "centaviar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"centaviar\",\n  \"output\": {\n    \"definicion\": \"Realizar una contribución económica pequeña y simbólica en un evento o colecta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chanchiro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chanchiro\",\n  \"output\": {\n    \"definicion\": \"Persona mezquina o tramposa en sus acciones.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chanfa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chanfa\",\n  \"output\": {\n    \"definicion\": \"La chanfa se refiere a una oportunidad o trabajo transitorio de corta duración.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chipola",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chipola\",\n  \"output\": {\n    \"definicion\": \"La chipola hace referencia a una mujer que es considerada inmadura o trivial.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chirringo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chirringo\",\n  \"output\": {\n    \"definicion\": \"Chirringo designa algo pequeño, o de escaso tamaño y relevancia, considerado insignificante.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chisgua",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chisgua\",\n  \"output\": {\n    \"definicion\": \"Chisgua se refiere a un ave pequeña o a una cantidad mínima de algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chispeadura",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chispeadura\",\n  \"output\": {\n    \"definicion\": \"Acción o efecto de encender algo de manera rápida e intensa, generando chispa.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chispear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chispear\",\n  \"output\": {\n    \"definicion\": \"Expresar o lanzar indirectas o comentarios agudos e ingeniosos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chorrearse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chorrearse\",\n  \"output\": {\n    \"definicion\": \"Entregar algo o divulgar información íntima e inadecuada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chuchingo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chuchingo\",\n  \"output\": {\n    \"definicion\": \"Prenda interior masculina ceñida, similar a un calzoncillo o suspensor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chulla",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chulla\",\n  \"output\": {\n    \"definicion\": \"Chulla se refiere a algo que está solo, incompleto o a la mitad, sin su par.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chumba",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chumba\",\n  \"output\": {\n    \"definicion\": \"La chumba es una reunión improvisada y festiva, a menudo con música y licor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chunchoso",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chunchoso\",\n  \"output\": {\n    \"definicion\": \"Persona o cosa difícil de manejar debido a su tamaño, peso o complejidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chusmero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chusmero\",\n  \"output\": {\n    \"definicion\": \"Persona entrometida o propensa a divulgar chismes y secretos ajenos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chéchere",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chéchere\",\n  \"output\": {\n    \"definicion\": \"Objeto viejo, inútil o de poco valor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "chúpame las cáscaras",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"chúpame las cáscaras\",\n  \"output\": {\n    \"definicion\": \"Expresión despectiva que denota incredulidad o desprecio ante un planteamiento ajeno.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cocha",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cocha\",\n  \"output\": {\n    \"definicion\": \"La expresión se refiere a la ropa sucia o en desorden.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "conejero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"conejero\",\n  \"output\": {\n    \"definicion\": \"Persona que se dedica al contrabando de pequeñas cantidades de mercancía.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cosca",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cosca\",\n  \"output\": {\n    \"definicion\": \"Grupo de personas con fines o intereses comunes, a menudo ilícitos o secretos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cositero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cositero\",\n  \"output\": {\n    \"definicion\": \"Persona que maneja con destreza diversas cosas o situaciones.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "costaleo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"costaleo\",\n  \"output\": {\n    \"definicion\": \"El costaleo es la acción de cargar objetos pesados o bultos repetitivamente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "coyabra",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"coyabra\",\n  \"output\": {\n    \"definicion\": \"La coyabra es un tipo de sombrero de ala pequeña o visera en desuso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "crem",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"crem\",\n  \"output\": {\n    \"definicion\": \"Expresión para indicar que algo es excelente, de muy buena calidad o superior.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cuadrado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cuadrado\",\n  \"output\": {\n    \"definicion\": \"Persona inflexible, terca o de mentalidad cerrada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cucarrearse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cucarrearse\",\n  \"output\": {\n    \"definicion\": \"Adelantarse de forma astuta o inesperada aprovechando una oportunidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cucharearse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cucharearse\",\n  \"output\": {\n    \"definicion\": \"Acercarse cariñosamente a otra persona, generalmente para dormir.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cuco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cuco\",\n  \"output\": {\n    \"definicion\": \"Expresión para manifestar asombro o admiración por algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cuido",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cuido\",\n  \"output\": {\n    \"definicion\": \"Acción que se lleva a cabo para proteger o vigilar a alguien o algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cunga",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cunga\",\n  \"output\": {\n    \"definicion\": \"La cunga es una protuberancia o joroba en la espalda.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "cuítiva",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"cuítiva\",\n  \"output\": {\n    \"definicion\": \"Persona mezquina, codiciosa o que guarda las cosas con excesivo celo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "célebre",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"célebre\",\n  \"output\": {\n    \"definicion\": \"Alude a algo famoso o ampliamente conocido.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "decolaje",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"decolaje\",\n  \"output\": {\n    \"definicion\": \"Acción de despegar una aeronave del suelo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "deje",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"deje\",\n  \"output\": {\n    \"definicion\": \"Expresión coloquial para indicar permiso, aceptación o que algo suceda.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "demónchiros",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"demónchiros\",\n  \"output\": {\n    \"definicion\": \"Demónchiros se usa para expresar asombro, sorpresa o desaprobación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "derechura",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"derechura\",\n  \"output\": {\n    \"definicion\": \"Expresión que denota ir directamente a un lugar o asunto sin desvíos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "desabrochado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"desabrochado\",\n  \"output\": {\n    \"definicion\": \"Persona inactiva o con falta de energía en su actuar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "desafortunadamente",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"desafortunadamente\",\n  \"output\": {\n    \"definicion\": \"Indica que algo ocurre de manera lamentable o con un resultado adverso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "desarrancharse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"desarrancharse\",\n  \"output\": {\n    \"definicion\": \"Abandonar un lugar, una relación o una situación a la que se estaba habituado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "descuerada",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"descuerada\",\n  \"output\": {\n    \"definicion\": \"Persona humillada o criticada severamente, especialmente en público.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "desgonzado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"desgonzado\",\n  \"output\": {\n    \"definicion\": \"Estado de flacidez o debilidad corporal, perdiendo la postura habitual.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "deshuevarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"deshuevarse\",\n  \"output\": {\n    \"definicion\": \"Esforzarse intensamente empleando una gran cantidad de energía y determinación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "despepado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"despepado\",\n  \"output\": {\n    \"definicion\": \"Persona muy enamorada o con gran ilusión por algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "dolor de cabeza",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"dolor de cabeza\",\n  \"output\": {\n    \"definicion\": \"Situación o persona que genera problemas o preocupaciones constantes.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "dígame",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"dígame\",\n  \"output\": {\n    \"definicion\": \"Expresión utilizada para invitar al interlocutor a hablar o exponer su inquietud.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "echar clavija",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"echar clavija\",\n  \"output\": {\n    \"definicion\": \"Realizar una acción con determinación o insistencia para lograr un objetivo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "echar ojo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"echar ojo\",\n  \"output\": {\n    \"definicion\": \"Inspeccionar o revisar algo con atención y detenimiento.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "el algo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"el algo\",\n  \"output\": {\n    \"definicion\": \"La expresión es imprecisa, pero puede aludir a una cualidad o característica notable.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "embarrarla",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"embarrarla\",\n  \"output\": {\n    \"definicion\": \"Cometer un error grave o estropear una situación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "embarruntar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"embarruntar\",\n  \"output\": {\n    \"definicion\": \"Hacer que algo se ensucie con barro, lodo o alguna sustancia viscosa.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "empandorgarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"empandorgarse\",\n  \"output\": {\n    \"definicion\": \"Comer o beber en exceso hasta sentirse muy lleno o indispuesto.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "emparamado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"emparamado\",\n  \"output\": {\n    \"definicion\": \"Estado de humedad extrema o congelación debido a la exposición a baja temperatura.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "en chaquess de",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"en chaquess de\",\n  \"output\": {\n    \"definicion\": \"Indica que se está en una situación de peligro inminente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "enfuertar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"enfuertar\",\n  \"output\": {\n    \"definicion\": \"La acción de fortalecer o dar vigor a algo o alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "engerido",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"engerido\",\n  \"output\": {\n    \"definicion\": \"Alguien que está congelado o con mucho frío debido a las bajas temperaturas.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "engomado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"engomado\",\n  \"output\": {\n    \"definicion\": \"Estado de euforia o entusiasmo intenso por algo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "enquimbarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"enquimbarse\",\n  \"output\": {\n    \"definicion\": \"Participar o involucrarse en algo de manera activa y comprometida.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "escachalandrado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"escachalandrado\",\n  \"output\": {\n    \"definicion\": \"Dicho de una persona desaliñada o en estado de desorden.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "escapito",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"escapito\",\n  \"output\": {\n    \"definicion\": \"Escape rápido y disimulado de una situación o lugar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "estar bien parado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"estar bien parado\",\n  \"output\": {\n    \"definicion\": \"Disfrutar de una buena posición social, económica o laboral.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "estartazo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"estartazo\",\n  \"output\": {\n    \"definicion\": \"Un estartazo es un golpe o impacto fuerte y repentino.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "estrellón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"estrellón\",\n  \"output\": {\n    \"definicion\": \"Un estrellón es un golpe o choque violento y aparatoso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fajarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"fajarse\",\n  \"output\": {\n    \"definicion\": \"Trabajar diligentemente o esforzarse intensamente en una tarea o actividad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fifirichas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"fifirichas\",\n  \"output\": {\n    \"definicion\": \"Adornos pequeños, objetos de poco valor o cosas insignificantes.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fucha",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"fucha\",\n  \"output\": {\n    \"definicion\": \"La fucha es un nombre coloquial para la suerte o la fortuna.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "furuminga",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"furuminga\",\n  \"output\": {\n    \"definicion\": \"Furuminga se refiere a la acción de molestar, hostigar o importunar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "guapirrear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"guapirrear\",\n  \"output\": {\n    \"definicion\": \"Entonar cantos o coplas de forma improvisada, a menudo en un contexto festivo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "güevón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"güevón\",\n  \"output\": {\n    \"definicion\": \"Persona perezosa o poco inteligente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "güinche",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"güinche\",\n  \"output\": {\n    \"definicion\": \"Herramienta elevadora con cable enrollable, usada para cargar objetos pesados.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacer cuarto",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"hacer cuarto\",\n  \"output\": {\n    \"definicion\": \"Preparar un espacio físico para recibir un nuevo huésped o para un uso específico y ordenado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacer cucarrón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"hacer cucarrón\",\n  \"output\": {\n    \"definicion\": \"Hacer cucarrón es actuar con sigilo para evitar ser visto o detectado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacer hasta para vender",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"hacer hasta para vender\",\n  \"output\": {\n    \"definicion\": \"Producir algo en grandes cantidades, en exceso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacerse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"hacerse\",\n  \"output\": {\n    \"definicion\": \"Fingir una condición o estado para obtener un beneficio o evitar una obligación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hermanolo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"hermanolo\",\n  \"output\": {\n    \"definicion\": \"Forma cariñosa y cercana de referirse a un amigo, como si fuera un hermano.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "horcón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"horcón\",\n  \"output\": {\n    \"definicion\": \"Un horcón es una persona o cosa que sostiene o sirve de apoyo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "iji",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"iji\",\n  \"output\": {\n    \"definicion\": \"Expresión de afirmación o asentimiento informal.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "intervenir",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"intervenir\",\n  \"output\": {\n    \"definicion\": \"Participar en un asunto o situación que involucra a otros.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "itaña",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"itaña\",\n  \"output\": {\n    \"definicion\": \"La palabra 'itaña' es un colombianismo que se refiere a un juego tradicional entre niños.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jalarle",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"jalarle\",\n  \"output\": {\n    \"definicion\": \"Implica apoyar, acompañar o seguir a alguien en una actividad o decisión.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jipata",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"jipata\",\n  \"output\": {\n    \"definicion\": \"Estado de embriaguez o borrachera.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jojoro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"jojoro\",\n  \"output\": {\n    \"definicion\": \"Estado de euforia o entusiasmo, generalmente causado por un logro o experiencia placentera.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "juaica",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"juaica\",\n  \"output\": {\n    \"definicion\": \"La juaica es una canasta de palma para recolectar café.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jurumba",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"jurumba\",\n  \"output\": {\n    \"definicion\": \"La jurumba es una bebida alcohólica, generalmente de mala calidad o casera.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jurungo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"jurungo\",\n  \"output\": {\n    \"definicion\": \"Objeto o cosa en desuso, deteriorada o de escaso valor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "la quinta porra",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"la quinta porra\",\n  \"output\": {\n    \"definicion\": \"Indica un lugar muy lejano y de difícil acceso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lagartería",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"lagartería\",\n  \"output\": {\n    \"definicion\": \"Grupo de personas astutas y oportunistas que explotan a otros para beneficio propio.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lancha",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"lancha\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona rápida al hablar o de entendimiento ágil.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "las viejas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"las viejas\",\n  \"output\": {\n    \"definicion\": \"Grupo de mujeres mayores.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "leído",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"leído\",\n  \"output\": {\n    \"definicion\": \"Persona informada, culta y con amplio conocimiento adquirido mediante la lectura.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "loca",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"loca\",\n  \"output\": {\n    \"definicion\": \"Se refiere a una persona en un estado de euforia o entusiasmo exacerbado.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "locha",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"locha\",\n  \"output\": {\n    \"definicion\": \"Estado de pereza, desgano o falta de actividad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lunarejo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"lunarejo\",\n  \"output\": {\n    \"definicion\": \"Persona o animal con manchas, similar a lunares, en su piel o pelaje.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lupias",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"lupias\",\n  \"output\": {\n    \"definicion\": \"Expresión coloquial para denominar los ojos de una persona.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "machucarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"machucarse\",\n  \"output\": {\n    \"definicion\": \"Sufrir una contusión o golpe que provoca dolor e hinchazón.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "madremonte",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"madremonte\",\n  \"output\": {\n    \"definicion\": \"Espíritu guardián mítico de la naturaleza, protector de bosques y animales.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "magué",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"magué\",\n  \"output\": {\n    \"definicion\": \"La palabra \\\"magué\\\" se refiere coloquialmente a una bebida alcohólica fermentada de agave.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mamar gallo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"mamar gallo\",\n  \"output\": {\n    \"definicion\": \"Burlarse o tomar el pelo a alguien con intención juguetona.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mana",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"mana\",\n  \"output\": {\n    \"definicion\": \"La expresión 'mana' es una forma coloquial y afectuosa de referirse a una mujer.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "manfifio",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"manfifio\",\n  \"output\": {\n    \"definicion\": \"Persona muy alta y delgada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "manosear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"manosear\",\n  \"output\": {\n    \"definicion\": \"Tocar repetida e indebidamente a una persona, o manipular excesivamente un objeto.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "marramucia",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"marramucia\",\n  \"output\": {\n    \"definicion\": \"La marramucia es una trampa o artimaña empleada con astucia para engañar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "matiné",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"matiné\",\n  \"output\": {\n    \"definicion\": \"Función o espectáculo que se celebra durante la mañana o primera hora de la tarde.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mejengue",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"mejengue\",\n  \"output\": {\n    \"definicion\": \"Mezcla de elementos diversos y desordenados, resultando en confusión o barullo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "meterle julepe",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"meterle julepe\",\n  \"output\": {\n    \"definicion\": \"Aplicar un impulso o aceleración vigorosa a algo o alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "miquingo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"miquingo\",\n  \"output\": {\n    \"definicion\": \"Objeto o cosa en general, a menudo de poca importancia o valor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mire a ver",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"mire a ver\",\n  \"output\": {\n    \"definicion\": \"Expresión que sugiere revisar o considerar una acción o situación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mogote",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"mogote\",\n  \"output\": {\n    \"definicion\": \"La palabra ‘mogote’ se refiere a una cumbre o elevación de terreno de forma cónica.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "moridera",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"moridera\",\n  \"output\": {\n    \"definicion\": \"Estado de angustia incontrolable que causa una preocupación exagerada.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mosco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"mosco\",\n  \"output\": {\n    \"definicion\": \"Persona molesta, insistente o fastidiosa.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "míster",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"míster\",\n  \"output\": {\n    \"definicion\": \"Forma cariñosa o respetuosa de referirse a un hombre, especialmente a un extranjero.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "nave",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"nave\",\n  \"output\": {\n    \"definicion\": \"Vehículo grande o lujoso, especialmente de transporte terrestre.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "necear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"necear\",\n  \"output\": {\n    \"definicion\": \"Actuar o persistir en caprichos o comportamientos irrazonables.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "niguatero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"niguatero\",\n  \"output\": {\n    \"definicion\": \"Persona excesivamente quejumbrosa o que exagera sus dolencias.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no estar el palo para hacer cucharas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"no estar el palo para hacer cucharas\",\n  \"output\": {\n    \"definicion\": \"La situación actual carece de las condiciones o recursos adecuados para un propósito específico.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no saber o entender ni papa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"no saber o entender ni papa\",\n  \"output\": {\n    \"definicion\": \"Indica el desconocimiento total sobre un tema o asunto específico.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no tener pierde",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"no tener pierde\",\n  \"output\": {\n    \"definicion\": \"Indica que algo es completamente seguro o exitoso, sin posibilidad de fracaso.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ojos brotados",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ojos brotados\",\n  \"output\": {\n    \"definicion\": \"Estado de malestar en la vista, generalmente por enfermedad o cansancio extremo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pachocha",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"pachocha\",\n  \"output\": {\n    \"definicion\": \"Expresión coloquial para referirse a la holgazanería o pereza excesiva.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pachorrear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"pachorrear\",\n  \"output\": {\n    \"definicion\": \"Actuar con lentitud o desgano, prolongando una actividad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "papa caliente",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"papa caliente\",\n  \"output\": {\n    \"definicion\": \"Problema o situación incómoda que nadie quiere asumir o resolver.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pasar aceite",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"pasar aceite\",\n  \"output\": {\n    \"definicion\": \"Experimentar un momento de gran dificultad o apuro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "patirrajado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"patirrajado\",\n  \"output\": {\n    \"definicion\": \"Alguien descalzo o con los pies desprotegidos, especialmente en un contexto rural.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "petaquearse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"petaquearse\",\n  \"output\": {\n    \"definicion\": \"Experimentar gran cansancio o agotamiento físico, llegando a colapsar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "picar el ojo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"picar el ojo\",\n  \"output\": {\n    \"definicion\": \"Hacer un guiño para comunicarle algo a otra persona de forma cómplice o discreta.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pingua",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"pingua\",\n  \"output\": {\n    \"definicion\": \"La expresión designa algo de baja calidad, poca importancia o escaso valor.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "piste",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"piste\",\n  \"output\": {\n    \"definicion\": \"La expresión sugiere tomar una decisión y realizar una acción de manera definitiva.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "plebe",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"plebe\",\n  \"output\": {\n    \"definicion\": \"Grupo de personas de bajo nivel social o económico.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "poner conejo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"poner conejo\",\n  \"output\": {\n    \"definicion\": \"Dejar plantado a alguien en una cita o encuentro.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "popora",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"popora\",\n  \"output\": {\n    \"definicion\": \"La popora es un recipiente tradicional indígena, usado para almacenar pequeños objetos valiosos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pordebajear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"pordebajear\",\n  \"output\": {\n    \"definicion\": \"Minimizar o denigrar a alguien, usualmente con comentarios despectivos.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "quedar pálido",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"quedar pálido\",\n  \"output\": {\n    \"definicion\": \"Experimentar una gran sorpresa o impactarse fuertemente.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "quisque",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"quisque\",\n  \"output\": {\n    \"definicion\": \"Se refiere a cada individuo o a cada quien en particular.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "quién quita",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"quién quita\",\n  \"output\": {\n    \"definicion\": \"Expresión que sugiere la posibilidad de que algo inesperado o favorable pueda ocurrir.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "regarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"regarse\",\n  \"output\": {\n    \"definicion\": \"Dispersarse o descontrolarse una situación, conversación o grupo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "riego",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"riego\",\n  \"output\": {\n    \"definicion\": \"Problema, lío o situación conflictiva que causa incomodidad o preocupación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "runchera",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"runchera\",\n  \"output\": {\n    \"definicion\": \"Estado de malestar causado por la necesidad de defecar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "saber",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"saber\",\n  \"output\": {\n    \"definicion\": \"Tener conocimiento o información sobre un tema específico.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sacar la piedra",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"sacar la piedra\",\n  \"output\": {\n    \"definicion\": \"Generar enojo o irritación en una persona.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "salir pitado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"salir pitado\",\n  \"output\": {\n    \"definicion\": \"Indica salir rápidamente de un lugar, con mucha agilidad.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sanjuanear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"sanjuanear\",\n  \"output\": {\n    \"definicion\": \"Disfrutar de festividades, especialmente durante periodos prolongados o con ánimo jovial y celebración.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser pinta",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ser pinta\",\n  \"output\": {\n    \"definicion\": \"Alude a alguien de apariencia atractiva o elegante.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser un número",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ser un número\",\n  \"output\": {\n    \"definicion\": \"Ser un espectáculo o una persona llamativa por su forma de actuar.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser una fiera",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ser una fiera\",\n  \"output\": {\n    \"definicion\": \"Ser muy hábil o sobresaliente en una actividad específica.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser una tusa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"ser una tusa\",\n  \"output\": {\n    \"definicion\": \"Experimentar un intenso dolor emocional, generalmente por una ruptura amorosa.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "siembro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"siembro\",\n  \"output\": {\n    \"definicion\": \"Acción de plantar semillas para su posterior crecimiento.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sobar la pita",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"sobar la pita\",\n  \"output\": {\n    \"definicion\": \"Intentar conseguir algo de alguien de forma insistente y aduladora.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sudor",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"sudor\",\n  \"output\": {\n    \"definicion\": \"Secreción glandular cutánea ante esfuerzo físico o calor, o indicio de arduo trabajo.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "surumangué",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"surumangué\",\n  \"output\": {\n    \"definicion\": \"Estado de desorientación o confusión mental, a menudo asociado a resaca o malestar físico.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tampoco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"tampoco\",\n  \"output\": {\n    \"definicion\": \"Expresión para denotar un énfasis en la negación.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "te conozco mosco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"te conozco mosco\",\n  \"output\": {\n    \"definicion\": \"Expresión que denota saber las verdaderas intenciones de alguien.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tenerle azar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"tenerle azar\",\n  \"output\": {\n    \"definicion\": \"Experimentar aversión o molestia hacia una persona o situación específica.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tirarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"tirarse\",\n  \"output\": {\n    \"definicion\": \"La acción de lanzarse o arrojarse.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "toca",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"toca\",\n  \"output\": {\n    \"definicion\": \"Expresa la obligación o la necesidad de realizar una acción.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vespertina",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"vespertina\",\n  \"output\": {\n    \"definicion\": \"Actividad o evento que se desarrolla en el horario de la tarde o al atardecer.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yegua",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"yegua\",\n  \"output\": {\n    \"definicion\": \"La expresión se refiere a una mujer de fuerte carácter o temperamento, a menudo dominante.\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zumbón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P1\",\n  \"input\": \"zumbón\",\n  \"output\": {\n    \"definicion\": \"Indica que alguien es extremadamente bromista o proclive a la burla pesada y jocosa.\"\n  }\n}\n```"
+    }
   }
 ]

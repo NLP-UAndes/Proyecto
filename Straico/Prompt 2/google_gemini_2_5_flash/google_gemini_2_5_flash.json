@@ -31649,5 +31649,817 @@
     "response": {
       "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"descuerada\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
     }
+  },
+  {
+    "modismo": "desgonzado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"desgonzado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "deshuevarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"deshuevarse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "despepado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"despepado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "dolor de cabeza",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"dolor de cabeza\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "dígame",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"dígame\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "echar clavija",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"echar clavija\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "echar ojo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"echar ojo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "el algo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"el algo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "embarrarla",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"embarrarla\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "embarruntar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"embarruntar\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "empandorgarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"empandorgarse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "emparamado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"emparamado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "en chaquess de",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"en chaquess de\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "enfuertar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"enfuertar\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "engerido",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"engerido\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "engomado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"engomado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "enquimbarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"enquimbarse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "escachalandrado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"escachalandrado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "escapito",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"escapito\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "estar bien parado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"estar bien parado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "estartazo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"estartazo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "estrellón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"estrellón\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fajarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"fajarse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fifirichas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"fifirichas\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "fucha",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"fucha\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "furuminga",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"furuminga\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "guapirrear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"guapirrear\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "güevón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"güevón\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "güinche",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"güinche\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacer cuarto",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"hacer cuarto\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacer cucarrón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"hacer cucarrón\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacer hasta para vender",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"hacer hasta para vender\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hacerse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"hacerse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "hermanolo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"hermanolo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "horcón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"horcón\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "iji",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"iji\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "intervenir",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"intervenir\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "itaña",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"itaña\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jalarle",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"jalarle\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jipata",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"jipata\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jojoro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"jojoro\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "juaica",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"juaica\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jurumba",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"jurumba\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "jurungo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"jurungo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "la quinta porra",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"la quinta porra\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lagartería",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"lagartería\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lancha",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"lancha\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "las viejas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"las viejas\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "leído",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"leído\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "loca",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"loca\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "locha",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"locha\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lunarejo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"lunarejo\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "lupias",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"lupias\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "machucarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"machucarse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "madremonte",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"madremonte\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "magué",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"magué\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mamar gallo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"mamar gallo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mana",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"mana\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "manfifio",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"manfifio\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "manosear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"manosear\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "marramucia",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"marramucia\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "matiné",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"matiné\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mejengue",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"mejengue\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "meterle julepe",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"meterle julepe\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "miquingo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"miquingo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mire a ver",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"mire a ver\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mogote",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"mogote\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "moridera",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"moridera\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "mosco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"mosco\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "míster",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"míster\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "nave",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"nave\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "necear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"necear\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "niguatero",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"niguatero\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no estar el palo para hacer cucharas",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"no estar el palo para hacer cucharas\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no saber o entender ni papa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"no saber o entender ni papa\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "no tener pierde",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"no tener pierde\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ojos brotados",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ojos brotados\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pachocha",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"pachocha\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pachorrear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"pachorrear\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "papa caliente",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"papa caliente\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pasar aceite",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"pasar aceite\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "patirrajado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"patirrajado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "petaquearse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"petaquearse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "picar el ojo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"picar el ojo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pingua",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"pingua\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "piste",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"piste\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "plebe",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"plebe\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "poner conejo",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"poner conejo\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "popora",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"popora\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "pordebajear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"pordebajear\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "quedar pálido",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"quedar pálido\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "quisque",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"quisque\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "quién quita",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"quién quita\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "regarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"regarse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "riego",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"riego\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "runchera",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"runchera\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "saber",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"saber\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sacar la piedra",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"sacar la piedra\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "salir pitado",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"salir pitado\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sanjuanear",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"sanjuanear\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser pinta",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ser pinta\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser un número",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ser un número\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser una fiera",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ser una fiera\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "ser una tusa",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"ser una tusa\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "siembro",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"siembro\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sobar la pita",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"sobar la pita\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "sudor",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"sudor\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "surumangué",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"surumangué\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tampoco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"tampoco\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "te conozco mosco",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"te conozco mosco\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tenerle azar",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"tenerle azar\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "tirarse",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"tirarse\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "toca",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"toca\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "vespertina",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"vespertina\",\n  \"output\": {\n    \"es_modismo\": \"No\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "yegua",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"yegua\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
+  },
+  {
+    "modismo": "zumbón",
+    "model": "google/gemini-2.5-flash",
+    "response": {
+      "raw_response": "```json\n{\n  \"prompt_id\": \"P2\",\n  \"input\": \"zumbón\",\n  \"output\": {\n    \"es_modismo\": \"Sí\"\n  }\n}\n```"
+    }
   }
 ]
